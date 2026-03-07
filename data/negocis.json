@@ -78,7 +78,7 @@
     "destacat": true
   },
   {
-    "id": "escola-desque-la-molina",
+    "id": "escola-esqui-la-molina",
     "nom": "Escola d'Esquí La Molina",
     "categoria": "activitats",
     "poble": "Das",
@@ -91,16 +91,68 @@
     "destacat": true
   },
   {
-    "id": "arquitectura-pirineu",
-    "nom": "Arquitectura Pirineu",
+    "id": "pirineu-evasio",
+    "nom": "Pirineu Evasió",
     "categoria": "serveis",
-    "poble": "Alp",
-    "descripcio": "Estudi especialitzat en rehabilitació de masies i cases de pedra del Pirineu. Projectes de nova planta integrats al paisatge. Tramitació de llicències a tots els municipis de la comarca.",
-    "telefon": "972 89 67 23",
-    "web": "arquitecturapirineu.com",
-    "valoracio": 4.5,
-    "ressenyes": 34,
-    "tags": ["Rehabilitació", "Obra nova", "Pirineu"],
+    "poble": "Puigcerdà",
+    "descripcio": "Agència de viatges de referència a la Cerdanya des de fa dècades. Especialistes en viatges organitzats, creuers, circuits internacionals i luna de miel. L'equip local coneix de primera mà les necessitats dels cerdans que volen descobrir el món.",
+    "telefon": "972 88 22 88",
+    "web": "pirineuevasio.avasa.com",
+    "valoracio": 4.7,
+    "ressenyes": 89,
+    "tags": ["Viatges", "Creuers", "Circuits", "Agència local"],
+    "destacat": true
+  },
+  {
+    "id": "biocalor",
+    "nom": "Biocalor",
+    "categoria": "serveis",
+    "poble": "Puigcerdà",
+    "descripcio": "Especialistes en calefacció amb biomassa i estufes de llenya d'alta eficiència per a cases del Pirineu. Distribuïdors oficials de Jøtul, Hargassner, Rika i Poujoulat. Assessorament, instal·lació i manteniment.",
+    "telefon": "972 882 159",
+    "web": "biocalor.cat",
+    "valoracio": 4.8,
+    "ressenyes": 54,
+    "tags": ["Biomassa", "Estufes", "Calefacció", "Instal·lació"],
+    "destacat": false
+  },
+  {
+    "id": "taxi-cereta",
+    "nom": "Taxi Ceretà",
+    "categoria": "serveis",
+    "poble": "Puigcerdà",
+    "descripcio": "El taxi de referència a la Cerdanya. Vehicles de 4 i 8 places per a transfers a aeroports, ports i estació AVE. Rutes turístiques per la comarca, servei nocturn i transport de grups. Disponibles tots els dies de l'any.",
+    "telefon": "620 516 512",
+    "web": "",
+    "valoracio": 4.9,
+    "ressenyes": 127,
+    "tags": ["Taxi", "Transfers", "Aeroport", "Grups", "Nocturn"],
+    "destacat": true
+  },
+  {
+    "id": "granvall-serveis-immobiliaris",
+    "nom": "GranVall Serveis Immobiliaris",
+    "categoria": "serveis",
+    "poble": "Puigcerdà",
+    "descripcio": "Immobiliària especialitzada en el mercat de la Cerdanya i el Pirineu. Venda i lloguer de pisos, cases, locals i terrenys a ambdues bandes de la frontera. Obra nova al centre de Puigcerdà des de 275.000€.",
+    "telefon": "972 881 800",
+    "web": "granvall.com",
+    "valoracio": 4.6,
+    "ressenyes": 73,
+    "tags": ["Immobiliària", "Obra nova", "Lloguer", "Transfronterer"],
+    "destacat": true
+  },
+  {
+    "id": "finques-moixero-cerdanya",
+    "nom": "Finques Moixeró Cerdanya",
+    "categoria": "serveis",
+    "poble": "Puigcerdà",
+    "descripcio": "Agents immobiliaris experts en el mercat de la Cerdanya amb seu al centre de Puigcerdà. Compravenda i valoració gratuïta d'habitatges, àtics, cases unifamiliars i terrenys. Registre oficial d'agents immobiliaris de Catalunya.",
+    "telefon": "972 094 749",
+    "web": "finquesmoixero.com",
+    "valoracio": 4.7,
+    "ressenyes": 41,
+    "tags": ["Immobiliària", "Valoració gratuïta", "Compravenda", "Cerdanya"],
     "destacat": false
   }
 ]
