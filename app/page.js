@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getNegocis, getNoticies } from '../lib/sheets';
+import { getNegocis, getNoticies, getGuies } from '../lib/sheets';
 
 const C = {
   black: '#0a0a0a',
@@ -39,6 +39,7 @@ export default async function HomePage() {
   const altresNoticies = noticies.slice(1, 4);
   const mesLlegit = noticies.slice(0, 4);
   const negocisDestacats = (await getNegocis()).filter(n => n.destacat).slice(0, 5);
+  const guies = (await getGuies()).filter(g => g.estat === 'publicat').slice(0, 5);
 
   return (
     <div>
@@ -250,6 +251,54 @@ export default async function HomePage() {
           </div>
         </div>
       </div>
+
+
+      {/* GUIES */}
+      {guies.length > 0 && (
+        <div style={{ borderBottom: `1px solid ${C.black}`, paddingBottom: '48px', marginBottom: '0' }}>
+          <div style={{
+            display: 'flex', alignItems: 'center', gap: '20px',
+            padding: '28px 0 20px', borderBottom: `2px solid ${C.black}`, marginBottom: '28px',
+          }}>
+            <span style={{ fontFamily: C.serif, fontSize: '13px', fontWeight: 700, letterSpacing: '0.15em', textTransform: 'uppercase' }}>Guies de la comarca</span>
+            <div style={{ flex: 1, height: '1px', background: C.warmGray }} />
+            <Link href="/guies" style={{ fontFamily: C.sans, fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: C.midGray, textDecoration: 'none', borderBottom: `1px solid ${C.midGray}`, paddingBottom: '2px' }}>Veure totes →</Link>
+          </div>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0' }}>
+            {/* Guia destacada */}
+            <div style={{ paddingRight: '40px', borderRight: `1px solid ${C.black}` }}>
+              <Link href={`/guies/${guies[0].slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <div style={{ cursor: 'pointer' }}>
+                  <div style={{ fontFamily: C.sans, fontSize: '9px', fontWeight: 500, letterSpacing: '0.2em', textTransform: 'uppercase', color: C.accent, marginBottom: '12px' }}>Guia destacada</div>
+                  <div style={{ aspectRatio: '16/9', background: 'linear-gradient(135deg, #d4cfc5 0%, #b8b2a5 50%, #9a9489 100%)', marginBottom: '20px', display: 'flex', alignItems: 'flex-end', padding: '12px' }}>
+                    <span style={{ fontFamily: C.sans, fontSize: '10px', color: 'rgba(255,255,255,0.7)', letterSpacing: '0.05em' }}>La Cerdanya · Foto: Arxiu Top Cerdanya</span>
+                  </div>
+                  <h3 style={{ fontFamily: C.serif, fontSize: '28px', fontWeight: 700, lineHeight: 1.15, marginBottom: '12px', color: C.black }}>{guies[0].titol}</h3>
+                  <p style={{ fontFamily: C.bodySerif, fontSize: '14px', fontWeight: 300, lineHeight: 1.6, color: '#5a5550', marginBottom: '16px' }}>{guies[0].meta_description}</p>
+                  <span style={{ fontFamily: C.sans, fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: C.accent, borderBottom: `1px solid ${C.accent}`, paddingBottom: '2px' }}>Llegir la guia →</span>
+                </div>
+              </Link>
+            </div>
+            {/* Guies secundàries */}
+            <div style={{ paddingLeft: '40px' }}>
+              {guies.slice(1, 5).map((g, i) => (
+                <Link key={g.slug} href={`/guies/${g.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+                  <div style={{
+                    display: 'grid', gridTemplateColumns: '40px 1fr', gap: '16px',
+                    padding: '16px 0', borderBottom: i < 3 ? `1px solid ${C.warmGray}` : 'none', cursor: 'pointer',
+                  }}>
+                    <div style={{ fontFamily: C.serif, fontSize: '32px', fontWeight: 900, color: C.warmGray, lineHeight: 1 }}>{i+1}</div>
+                    <div>
+                      <div style={{ fontFamily: C.sans, fontSize: '9px', fontWeight: 500, letterSpacing: '0.15em', textTransform: 'uppercase', color: C.accent, marginBottom: '4px' }}>Guia</div>
+                      <div style={{ fontFamily: C.serif, fontSize: '16px', fontWeight: 700, lineHeight: 1.2, color: C.black }}>{g.titol}</div>
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Anunci */}
       <div style={{
