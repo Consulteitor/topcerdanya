@@ -5,7 +5,7 @@ import Link from 'next/link'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import negocisData from '@/data/negocis.json'
-import { CATEGORIES, POBLES } from '@/lib/negocis'
+import { CATEGORIES, POBLES } from '@/lib/sheets'
 
 function DirectoriContingut() {
   const searchParams = useSearchParams()

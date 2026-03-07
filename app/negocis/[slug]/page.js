@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
-import { getNegociBySlug, getNegocis } from '@/lib/negocis'
+import { getNegociBySlug, getNegocis } from '@/lib/sheets'
 
 export const dynamic = 'force-static'
 
