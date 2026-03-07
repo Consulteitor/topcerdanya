@@ -29,8 +29,8 @@ export const metadata = {
   description: 'Totes les notícies de La Cerdanya: territori, economia, cultura, esports i molt més.',
 };
 
-export default function NoticiesPage() {
-  const noticies = getNoticies();
+export default async function NoticiesPage() {
+  const noticies = await getNoticies();
   const hero = noticies[0];
   const resta = noticies.slice(1);
 

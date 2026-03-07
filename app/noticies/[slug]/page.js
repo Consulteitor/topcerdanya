@@ -4,13 +4,13 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
-  const noticies = getNoticies();
+  const noticies = await getNoticies();
   return noticies.map(n => ({ slug: n.id }));
 }
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const noticia = getNoticiaBySlug(slug);
+  const noticia = await getNoticiaBySlug(slug);
   if (!noticia) return {};
   return {
     title: `${noticia.titol} | Top Cerdanya`,
@@ -49,10 +49,10 @@ const CAT_COLORS = {
 
 export default async function NoticiaPage({ params }) {
   const { slug } = await params;
-  const noticia = getNoticiaBySlug(slug);
+  const noticia = await getNoticiaBySlug(slug);
   if (!noticia) notFound();
 
-  const altresNoticies = getNoticiesRecents(6).filter(n => n.id !== slug).slice(0, 4);
+  const altresNoticies = (await getNoticiesRecents(6)).filter(n => n.id !== slug).slice(0, 4);
   const catColor = CAT_COLORS[noticia.cat] || C.accent;
 
   const paragraphs = noticia.cos.split('\n\n').filter(Boolean);

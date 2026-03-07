@@ -8,14 +8,14 @@ export const dynamic = 'force-static'
 
 // Genera les URLs estàtiques per a cada negoci (molt important per SEO)
 export async function generateStaticParams() {
-  const negocis = getNegocis()
+  const negocis = await getNegocis()
   return negocis.map(n => ({ slug: n.id }))
 }
 
 // Genera els metadades SEO per a cada negoci
 export async function generateMetadata({ params }) {
   const { slug } = await params
-  const negoci = getNegociBySlug(slug)
+  const negoci = await getNegociBySlug(slug)
   if (!negoci) return {}
   return {
     title: `${negoci.nom} — ${negoci.poble} | Top Cerdanya`,
@@ -25,7 +25,7 @@ export async function generateMetadata({ params }) {
 
 export default async function FitxaNegoci({ params }) {
   const { slug } = await params
-  const n = getNegociBySlug(slug)
+  const n = await getNegociBySlug(slug)
   if (!n) notFound()
 
   return (
@@ -52,7 +52,7 @@ export default async function FitxaNegoci({ params }) {
             {n.nom}
           </h1>
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px', fontFamily: 'var(--sans)', fontSize: '11px', color: 'var(--mid-gray)' }}>
-            <span style={{ color: '#d4a847', fontSize: '14px', letterSpacing: '2px' }}>{'★'.repeat(Math.floor(n.valoracio))}</span>
+            <span style={{ color: '#d4a847', fontSize: '14px', letterSpacing: '2px' }}>{"★".repeat(Math.min(5, Math.max(0, Math.floor(Number(n.valoracio) || 0))))}</span>
             <strong style={{ color: 'var(--black)', fontWeight: 500 }}>{n.valoracio}</strong>
             <span>·</span>
             <span>{n.ressenyes} ressenyes</span>
@@ -76,7 +76,7 @@ export default async function FitxaNegoci({ params }) {
 
             {/* Tags */}
             <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', marginBottom: '40px' }}>
-              {n.tags.map(t => (
+              {(Array.isArray(n.tags) ? n.tags : (n.tags || "").split(",")).map(t => (
                 <span key={t} style={{ fontFamily: 'var(--sans)', fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', border: '1px solid var(--black)', padding: '5px 12px' }}>{t}</span>
               ))}
             </div>
