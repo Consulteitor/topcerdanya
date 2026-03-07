@@ -1,6 +1,5 @@
 import Link from 'next/link';
-import { getNegocis, getNegocisDestacats } from '../lib/negocis';
-import { getNoticies, getNoticiesRecents } from '../lib/noticies';
+import { getNegocis, getNoticies } from '../lib/sheets';
 
 const C = {
   black: '#0a0a0a',
@@ -34,12 +33,12 @@ const GRADS = [
   'linear-gradient(135deg,#d4cfc5 0%,#9a9489 100%)',
 ];
 
-export default function HomePage() {
-  const noticies = getNoticiesRecents(6);
+export default async function HomePage() {
+  const noticies = (await getNoticies()).slice(0, 6);
   const heroNoticia = noticies[0];
   const altresNoticies = noticies.slice(1, 4);
   const mesLlegit = noticies.slice(0, 4);
-  const negocisDestacats = getNegocisDestacats().slice(0, 5);
+  const negocisDestacats = (await getNegocis()).filter(n => n.destacat).slice(0, 5);
 
   return (
     <div>
