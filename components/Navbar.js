@@ -10,6 +10,7 @@ const NAV_LINKS = [
   { label: 'Gastronomia', href: '/directori?cat=gastronomia' },
   { label: 'Esports', href: '/directori?cat=activitats' },
   { label: 'Cultura', href: '/directori?cat=cultura' },
+  { label: 'Guies', href: '/guies' },
   { label: 'Directori', href: '/directori' },
 ]
 
