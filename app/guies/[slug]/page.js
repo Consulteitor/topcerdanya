@@ -48,6 +48,7 @@ export default async function GuiaPage({ params }) {
     <div style={{ background: C.white, minHeight: "100vh", fontFamily: "'Source Serif 4', Georgia, serif" }}>
       <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "48px 40px" }}>
 
+        {/* Breadcrumb */}
         <div style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "11px", color: C.midGray, letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: "32px", display: "flex", gap: "8px", alignItems: "center" }}>
           <Link href="/" style={{ color: C.midGray, textDecoration: "none" }}>Inici</Link>
           <span>·</span>
@@ -56,6 +57,18 @@ export default async function GuiaPage({ params }) {
           <span style={{ color: C.black }}>{guia.titol}</span>
         </div>
 
+        {/* Imatge destacada */}
+        {guia.imatge && (
+          <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "40px" }}>
+            <img
+              src={guia.imatge}
+              alt={guia.titol}
+              style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+            />
+          </div>
+        )}
+
+        {/* Capçalera */}
         <div style={{ borderBottom: `3px solid ${C.black}`, paddingBottom: "32px", marginBottom: "48px" }}>
           <h1 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(32px, 4vw, 56px)", fontWeight: 900, lineHeight: 1.05, letterSpacing: "-0.02em", marginBottom: "20px", color: C.black }}>
             {guia.titol}
