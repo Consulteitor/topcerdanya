@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getGuies } from "@/lib/sheets";
 
-// CSS hover injectat com a style tag global
 const hoverStyle = `
   .guia-card:hover { background: #f5f3ee !important; }
   .guia-card:hover h2 { color: #c8423a; }
@@ -36,7 +35,6 @@ export default async function GuiesPage() {
       }}
     >
       <style dangerouslySetInnerHTML={{ __html: hoverStyle }} />
-      {/* Capçalera secció */}
       <div
         style={{
           display: "flex",
@@ -72,7 +70,6 @@ export default async function GuiesPage() {
         </span>
       </div>
 
-      {/* Intro */}
       <p
         style={{
           fontFamily: "'Source Serif 4', Georgia, serif",
@@ -90,14 +87,7 @@ export default async function GuiesPage() {
       </p>
 
       {guies.length === 0 ? (
-        <p
-          style={{
-            fontFamily: "'Source Serif 4', Georgia, serif",
-            fontStyle: "italic",
-            color: C.midGray,
-            fontSize: "17px",
-          }}
-        >
+        <p style={{ fontStyle: "italic", color: C.midGray, fontSize: "17px" }}>
           No hi ha guies publicades encara.
         </p>
       ) : (
@@ -118,84 +108,89 @@ export default async function GuiesPage() {
               <article
                 className="guia-card"
                 style={{
-                  padding: "28px 24px",
-                  borderRight:
-                    i % 3 !== 2 ? `1px solid ${C.warmGray}` : "none",
+                  borderRight: i % 3 !== 2 ? `1px solid ${C.warmGray}` : "none",
                   borderBottom: `1px solid ${C.warmGray}`,
                   cursor: "pointer",
                   transition: "background 0.15s",
+                  overflow: "hidden",
                 }}
               >
-                {/* Badge categoria si en té */}
-                {guia.categoria && (
-                  <div
-                    style={{
-                      fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
-                      fontSize: "9px",
-                      fontWeight: 500,
-                      letterSpacing: "0.18em",
-                      textTransform: "uppercase",
-                      color: C.accent,
-                      marginBottom: "10px",
-                    }}
-                  >
-                    {guia.categoria}
+                {guia.imatge && (
+                  <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden" }}>
+                    <img
+                      src={guia.imatge}
+                      alt={guia.titol}
+                      style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+                    />
                   </div>
                 )}
-
-                <h2
-                  style={{
-                    fontFamily: "'Playfair Display', Georgia, serif",
-                    fontSize: "22px",
-                    fontWeight: 700,
-                    lineHeight: 1.15,
-                    marginBottom: "12px",
-                    color: C.black,
-                    transition: "color 0.15s",
-                  }}
-                >
-                  {guia.titol}
-                </h2>
-
-                {guia.meta_description && (
-                  <p
+                <div style={{ padding: "28px 24px" }}>
+                  {guia.categoria && (
+                    <div
+                      style={{
+                        fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
+                        fontSize: "9px",
+                        fontWeight: 500,
+                        letterSpacing: "0.18em",
+                        textTransform: "uppercase",
+                        color: C.accent,
+                        marginBottom: "10px",
+                      }}
+                    >
+                      {guia.categoria}
+                    </div>
+                  )}
+                  <h2
                     style={{
-                      fontFamily: "'Source Serif 4', Georgia, serif",
-                      fontSize: "13px",
-                      fontWeight: 300,
-                      lineHeight: 1.6,
-                      color: "#5a5550",
-                      marginBottom: "16px",
-                      display: "-webkit-box",
-                      WebkitLineClamp: 3,
-                      WebkitBoxOrient: "vertical",
-                      overflow: "hidden",
+                      fontFamily: "'Playfair Display', Georgia, serif",
+                      fontSize: "22px",
+                      fontWeight: 700,
+                      lineHeight: 1.15,
+                      marginBottom: "12px",
+                      color: C.black,
+                      transition: "color 0.15s",
                     }}
                   >
-                    {guia.meta_description}
-                  </p>
-                )}
-
-                <span
-                  style={{
-                    fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
-                    fontSize: "10px",
-                    letterSpacing: "0.1em",
-                    textTransform: "uppercase",
-                    color: C.accent,
-                    borderBottom: `1px solid ${C.accent}`,
-                    paddingBottom: "2px",
-                  }}
-                >
-                  Llegir la guia →
-                </span>
+                    {guia.titol}
+                  </h2>
+                  {guia.meta_description && (
+                    <p
+                      style={{
+                        fontFamily: "'Source Serif 4', Georgia, serif",
+                        fontSize: "13px",
+                        fontWeight: 300,
+                        lineHeight: 1.6,
+                        color: "#5a5550",
+                        marginBottom: "16px",
+                        display: "-webkit-box",
+                        WebkitLineClamp: 3,
+                        WebkitBoxOrient: "vertical",
+                        overflow: "hidden",
+                      }}
+                    >
+                      {guia.meta_description}
+                    </p>
+                  )}
+                  <span
+                    style={{
+                      fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
+                      fontSize: "10px",
+                      letterSpacing: "0.1em",
+                      textTransform: "uppercase",
+                      color: C.accent,
+                      borderBottom: `1px solid ${C.accent}`,
+                      paddingBottom: "2px",
+                    }}
+                  >
+                    Llegir la guia →
+                  </span>
+                </div>
               </article>
             </Link>
           ))}
         </div>
       )}
 
-      {/* Peu de pàgina secció */}
       <div
         style={{
           borderTop: `1px solid ${C.warmGray}`,
