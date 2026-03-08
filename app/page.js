@@ -270,9 +270,11 @@ export default async function HomePage() {
               <Link href={`/guies/${guies[0].slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div style={{ cursor: 'pointer' }}>
                   <div style={{ fontFamily: C.sans, fontSize: '9px', fontWeight: 500, letterSpacing: '0.2em', textTransform: 'uppercase', color: C.accent, marginBottom: '12px' }}>Guia destacada</div>
-                  <div style={{ aspectRatio: '16/9', background: 'linear-gradient(135deg, #d4cfc5 0%, #b8b2a5 50%, #9a9489 100%)', marginBottom: '20px', display: 'flex', alignItems: 'flex-end', padding: '12px' }}>
-                    <span style={{ fontFamily: C.sans, fontSize: '10px', color: 'rgba(255,255,255,0.7)', letterSpacing: '0.05em' }}>La Cerdanya · Foto: Arxiu Top Cerdanya</span>
-                  </div>
+                  {guies[0].imatge && (
+                    <div style={{ width: '100%', aspectRatio: '16/9', overflow: 'hidden', marginBottom: '20px' }}>
+                      <img src={guies[0].imatge} alt={guies[0].titol} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                    </div>
+                  )}
                   <h3 style={{ fontFamily: C.serif, fontSize: '28px', fontWeight: 700, lineHeight: 1.15, marginBottom: '12px', color: C.black }}>{guies[0].titol}</h3>
                   <p style={{ fontFamily: C.bodySerif, fontSize: '14px', fontWeight: 300, lineHeight: 1.6, color: '#5a5550', marginBottom: '16px' }}>{guies[0].meta_description}</p>
                   <span style={{ fontFamily: C.sans, fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: C.accent, borderBottom: `1px solid ${C.accent}`, paddingBottom: '2px' }}>Llegir la guia →</span>
