@@ -28,6 +28,16 @@ async function getAgenda() {
   }
 }
 
+function formatHora(horaStr) {
+  if (!horaStr) return null;
+  // El Sheets de vegades converteix "19:30" en "1899-12-30T19:30:00.000Z"
+  if (typeof horaStr === 'string' && horaStr.includes('T')) {
+    const d = new Date(horaStr);
+    return `${d.getUTCHours().toString().padStart(2, '0')}:${d.getUTCMinutes().toString().padStart(2, '0')}`;
+  }
+  return horaStr;
+}
+
 function parseData(dateStr) {
   // Suporta "2026-03-15" o "15/03/2026"
   if (!dateStr) return null;
@@ -221,7 +231,7 @@ export default async function AgendaPage({ searchParams }) {
                           </div>
                           <div style={{ fontFamily: C.serif, fontSize: '18px', fontWeight: 700, lineHeight: 1.2, marginBottom: '6px' }}>{ev.titol}</div>
                           <div style={{ fontFamily: C.sans, fontSize: '11px', color: C.midGray, marginBottom: ev.descripcio ? '6px' : 0 }}>
-                            📍 {ev.lloc}{ev.hora ? ` · ${ev.hora}` : ''}
+                            📍 {ev.lloc}{ev.hora ? ` · ${formatHora(ev.hora)}` : ''}
                           </div>
                           {ev.descripcio && (
                             <div style={{ fontFamily: C.bodySerif, fontSize: '14px', color: '#4a4740', lineHeight: 1.6 }}>{ev.descripcio}</div>
@@ -294,7 +304,7 @@ export default async function AgendaPage({ searchParams }) {
                       <div>
                         <span style={{ fontFamily: C.sans, fontSize: '9px', fontWeight: 500, letterSpacing: '0.15em', textTransform: 'uppercase', color: C.white, background: CATS_COLOR[ev.categoria] || C.black, padding: '2px 8px', marginBottom: '6px', display: 'inline-block' }}>{ev.categoria}</span>
                         <div style={{ fontFamily: C.serif, fontSize: '16px', fontWeight: 700, lineHeight: 1.2, marginBottom: '4px' }}>{ev.titol}</div>
-                        <div style={{ fontFamily: C.sans, fontSize: '11px', color: C.midGray }}>📍 {ev.lloc}{ev.hora ? ` · ${ev.hora}` : ''}</div>
+                        <div style={{ fontFamily: C.sans, fontSize: '11px', color: C.midGray }}>📍 {ev.lloc}{ev.hora ? ` · ${formatHora(ev.hora)}` : ''}</div>
                       </div>
                     </div>
                   ))}
