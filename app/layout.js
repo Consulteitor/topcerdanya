@@ -1,4 +1,5 @@
 import './globals.css'
+import { GoogleAnalytics } from '@next/third-parties/google'
 import Navbar from '../components/Navbar'
 
 export const metadata = {
