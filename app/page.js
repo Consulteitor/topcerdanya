@@ -154,7 +154,7 @@ export default async function HomePage() {
       </div>
 
       <div style={{
-        display: 'grid', className="noticies-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(3,1fr)',
+        className="noticies-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(3,1fr)',
         gap: '32px', paddingBottom: '48px', borderBottom: `1px solid ${C.black}`,
       }}>
         {altresNoticies.map((n, i) => (
@@ -183,7 +183,7 @@ export default async function HomePage() {
       </div>
 
       {/* AGENDA + DIRECTORI */}
-      <div style={{ display: 'grid', className="agenda-dir-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 0, paddingBottom: '48px' }}>
+      <div style={{ className="agenda-dir-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 0, paddingBottom: '48px' }}>
         {/* Agenda */}
         <div style={{ paddingRight: '40px', borderRight: `1px solid ${C.black}` }}>
           <div style={{
@@ -264,7 +264,7 @@ export default async function HomePage() {
             <div style={{ flex: 1, height: '1px', background: C.warmGray }} />
             <Link href="/guies" style={{ fontFamily: C.sans, fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: C.midGray, textDecoration: 'none', borderBottom: `1px solid ${C.midGray}`, paddingBottom: '2px' }}>Veure totes →</Link>
           </div>
-          <div style={{ display: 'grid', className="guies-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0' }}>
+          <div style={{ className="guies-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0' }}>
             {/* Guia destacada */}
             <div style={{ paddingRight: '40px', borderRight: `1px solid ${C.black}` }}>
               <Link href={`/guies/${guies[0].slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
