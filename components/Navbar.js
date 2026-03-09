@@ -12,6 +12,7 @@ const NAV_LINKS = [
   { label: 'Cultura', href: '/directori?cat=cultura' },
   { label: 'Guies', href: '/guies' },
   { label: 'Directori', href: '/directori' },
+  { label: 'Immobiliaria', href: '/inmobiliaria' },
 ]
 
 export default function Navbar() {
