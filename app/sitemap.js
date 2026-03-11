@@ -6,14 +6,18 @@ export default function sitemap() {
   const dir = path.join(process.cwd(), "content/guies");
   const files = fs.readdirSync(dir);
 
-  const pages = files.map((file) =>
-    file.replace(".md", "")
-  );
+  const urls = files.map((file) => {
 
-  const urls = pages.map((slug) => ({
-    url: `https://topcerdanya.com/guies/${slug}`,
-    lastModified: new Date(),
-  }));
+    const filePath = path.join(dir, file);
+    const stats = fs.statSync(filePath);
+
+    const slug = file.replace(".md", "");
+
+    return {
+      url: `https://topcerdanya.com/guies/${slug}`,
+      lastModified: stats.mtime,
+    };
+  });
 
   urls.push({
     url: "https://topcerdanya.com",
