@@ -5,7 +5,7 @@ import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
   const noticies = await getNoticies();
-  return noticies.map(n => ({ slug: n.id }));
+  return noticies.map(n => ({ slug: String(n.id) }));
 }
 
 export async function generateMetadata({ params }) {
