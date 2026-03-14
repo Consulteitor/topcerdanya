@@ -4,155 +4,2321 @@
     "nom": "El Caliu de Ger",
     "categoria": "gastronomia",
     "poble": "Ger",
-    "descripcio": "Cuina de mercat que canvia setmanalment seguint el producte local. La llonza de porc amb ceps del bosc és el plat que tothom ve a buscar. Carta de vins centrada en el Penedès i el Priorat.",
+    "descripcio": "Cuina de mercat que canvia setmanalment seguint el producte local. La llonza de porc amb ceps del bosc és el plat que tothom ve a buscar.",
     "telefon": "972 14 01 23",
     "web": "elcaliuger.cat",
     "valoracio": 4.8,
     "ressenyes": 203,
-    "tags": ["Cuina catalana", "Producte local", "Carn"],
-    "destacat": true
+    "tags": [
+      "Cuina catalana",
+      "Producte local",
+      "Carn"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "can-borrell",
     "nom": "Can Borrell",
     "categoria": "allotjament",
     "poble": "Meranges",
-    "descripcio": "Casa rural del segle XVIII restaurada amb materials originals. Sis habitacions amb llar de foc i vistes a la vall. El millor esmorzar de la comarca, amb pa de pagès i embotits propis.",
+    "descripcio": "Casa rural del segle XVIII restaurada amb materials originals. Sis habitacions amb llar de foc i vistes a la vall.",
     "telefon": "972 88 00 33",
     "web": "canborrell.com",
     "valoracio": 4.9,
     "ressenyes": 178,
-    "tags": ["Casa rural", "Romàntic", "Adults"],
-    "destacat": true
+    "tags": [
+      "Casa rural",
+      "Romàntic",
+      "Adults"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "cerdanya-aventura",
     "nom": "Cerdanya Aventura",
     "categoria": "activitats",
     "poble": "Puigcerdà",
-    "descripcio": "Rutes guiades de senderisme, escalada i BTT per tot el massís del Cadí-Moixeró. Guies titulats amb 15 anys d'experiència al territori. Activitats per a famílies i grups d'empresa.",
+    "descripcio": "Rutes guiades de senderisme, escalada i BTT per tot el massís del Cadí-Moixeró. Guies titulats amb 15 anys d'experiència.",
     "telefon": "617 34 56 78",
     "web": "cerdanyaaventura.com",
     "valoracio": 4.7,
     "ressenyes": 142,
-    "tags": ["Senderisme", "Escalada", "BTT", "Familiar"],
-    "destacat": true
+    "tags": [
+      "Senderisme",
+      "Escalada",
+      "BTT",
+      "Familiar"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "formatgeria-la-closa",
     "nom": "Formatgeria La Closa",
     "categoria": "comerc",
     "poble": "Talltendre",
-    "descripcio": "Formatgeria artesana de llet crua de vaca i ovella de la finca pròpia. Visites guiades dissabtes al matí. Venda directa i enviament a tota Catalunya.",
+    "descripcio": "Formatgeria artesana de llet crua de vaca i ovella de la finca pròpia. Visites guiades dissabtes al matí.",
     "telefon": "972 89 12 12",
     "web": "laclosa.cat",
     "valoracio": 4.9,
     "ressenyes": 89,
-    "tags": ["Artesà", "Visites", "Venda directa"],
-    "destacat": false
+    "tags": [
+      "Artesà",
+      "Visites",
+      "Venda directa"
+    ],
+    "destacat": false,
+    "imatge": ""
   },
   {
     "id": "el-fogony-de-fontanals",
     "nom": "El Fogony de Fontanals",
     "categoria": "gastronomia",
     "poble": "Fontanals",
-    "descripcio": "Premi al millor restaurant de muntanya de Catalunya 2025. Cuina d'autor amb arrels cerdenyes i tècnica contemporània. Menú degustació de 9 passos que canvia cada temporada.",
+    "descripcio": "Premi al millor restaurant de muntanya de Catalunya 2025. Cuina d'autor amb arrels cerdenyes i tècnica contemporània.",
     "telefon": "972 14 07 56",
     "web": "elfogony.com",
     "valoracio": 4.9,
     "ressenyes": 312,
-    "tags": ["Alta cuina", "Menú degustació", "Premi nacional"],
-    "destacat": true
+    "tags": [
+      "Alta cuina",
+      "Menú degustació",
+      "Premi nacional"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "hotel-mas-tapiol",
     "nom": "Hotel Mas Tapiol",
     "categoria": "allotjament",
     "poble": "Bolvir",
-    "descripcio": "Hotel de 4 estrelles en una masia del segle XVII. Spa amb piscina coberta i vistes al Puigmal. Gastronomia pròpia amb producte de la comarca.",
+    "descripcio": "Hotel de 4 estrelles en una masia del segle XVII. Spa amb piscina coberta i vistes al Puigmal.",
     "telefon": "972 89 44 00",
     "web": "mastapiol.com",
-    "valoracio": 4.6,
+    "valoracio": 4.7,
     "ressenyes": 445,
-    "tags": ["4 estrelles", "Spa", "Gastronomia"],
-    "destacat": true
+    "tags": [
+      "4 estrelles",
+      "Spa",
+      "Gastronomia"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "escola-esqui-la-molina",
     "nom": "Escola d'Esquí La Molina",
     "categoria": "activitats",
     "poble": "Das",
-    "descripcio": "Escola oficial amb instructors federats. Classes individuals i en grup per a tots els nivells, des de principiants absoluts fins a competidors. Programa especial per a nens de 3 a 10 anys.",
+    "descripcio": "Escola oficial amb instructors federats. Classes individuals i en grup per a tots els nivells.",
     "telefon": "972 89 20 31",
     "web": "esquelamolina.cat",
     "valoracio": 4.8,
     "ressenyes": 567,
-    "tags": ["Esquí", "Snowboard", "Nens", "Tots els nivells"],
-    "destacat": true
+    "tags": [
+      "Esquí",
+      "Snowboard",
+      "Nens",
+      "Tots els nivells"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "pirineu-evasio",
     "nom": "Pirineu Evasió",
     "categoria": "serveis",
     "poble": "Puigcerdà",
-    "descripcio": "Agència de viatges de referència a la Cerdanya des de fa dècades. Especialistes en viatges organitzats, creuers, circuits internacionals i luna de miel. L'equip local coneix de primera mà les necessitats dels cerdans que volen descobrir el món.",
+    "descripcio": "Agència de viatges de referència a la Cerdanya. Especialistes en viatges organitzats, creuers i circuits internacionals.",
     "telefon": "972 88 22 88",
     "web": "pirineuevasio.avasa.com",
     "valoracio": 4.7,
     "ressenyes": 89,
-    "tags": ["Viatges", "Creuers", "Circuits", "Agència local"],
-    "destacat": true
+    "tags": [
+      "Viatges",
+      "Creuers",
+      "Circuits",
+      "Agència local"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "biocalor",
     "nom": "Biocalor",
     "categoria": "serveis",
     "poble": "Puigcerdà",
-    "descripcio": "Especialistes en calefacció amb biomassa i estufes de llenya d'alta eficiència per a cases del Pirineu. Distribuïdors oficials de Jøtul, Hargassner, Rika i Poujoulat. Assessorament, instal·lació i manteniment.",
+    "descripcio": "Especialistes en calefacció amb biomassa i estufes d'alta eficiència per a cases del Pirineu.",
     "telefon": "972 882 159",
     "web": "biocalor.cat",
     "valoracio": 4.8,
     "ressenyes": 54,
-    "tags": ["Biomassa", "Estufes", "Calefacció", "Instal·lació"],
-    "destacat": false
+    "tags": [
+      "Biomassa",
+      "Estufes",
+      "Calefacció"
+    ],
+    "destacat": false,
+    "imatge": ""
   },
   {
     "id": "taxi-cereta",
     "nom": "Taxi Ceretà",
     "categoria": "serveis",
     "poble": "Puigcerdà",
-    "descripcio": "El taxi de referència a la Cerdanya. Vehicles de 4 i 8 places per a transfers a aeroports, ports i estació AVE. Rutes turístiques per la comarca, servei nocturn i transport de grups. Disponibles tots els dies de l'any.",
+    "descripcio": "El taxi de referència a la Cerdanya. Vehicles de 4 i 8 places per a transfers a aeroports i rutes turístiques.",
     "telefon": "620 516 512",
     "web": "",
     "valoracio": 4.9,
     "ressenyes": 127,
-    "tags": ["Taxi", "Transfers", "Aeroport", "Grups", "Nocturn"],
-    "destacat": true
+    "tags": [
+      "Taxi",
+      "Transfers",
+      "Aeroport",
+      "Grups"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "granvall-serveis-immobiliaris",
     "nom": "GranVall Serveis Immobiliaris",
     "categoria": "serveis",
     "poble": "Puigcerdà",
-    "descripcio": "Immobiliària especialitzada en el mercat de la Cerdanya i el Pirineu. Venda i lloguer de pisos, cases, locals i terrenys a ambdues bandes de la frontera. Obra nova al centre de Puigcerdà des de 275.000€.",
+    "descripcio": "Immobiliària especialitzada en el mercat de la Cerdanya. Venda i lloguer a ambdues bandes de la frontera.",
     "telefon": "972 881 800",
     "web": "granvall.com",
-    "valoracio": 4.6,
+    "valoracio": 4.7,
     "ressenyes": 73,
-    "tags": ["Immobiliària", "Obra nova", "Lloguer", "Transfronterer"],
-    "destacat": true
+    "tags": [
+      "Immobiliària",
+      "Obra nova",
+      "Lloguer"
+    ],
+    "destacat": true,
+    "imatge": ""
   },
   {
     "id": "finques-moixero-cerdanya",
     "nom": "Finques Moixeró Cerdanya",
     "categoria": "serveis",
     "poble": "Puigcerdà",
-    "descripcio": "Agents immobiliaris experts en el mercat de la Cerdanya amb seu al centre de Puigcerdà. Compravenda i valoració gratuïta d'habitatges, àtics, cases unifamiliars i terrenys. Registre oficial d'agents immobiliaris de Catalunya.",
+    "descripcio": "Agents immobiliaris experts en el mercat de la Cerdanya. Compravenda i valoració gratuïta d'habitatges.",
     "telefon": "972 094 749",
     "web": "finquesmoixero.com",
     "valoracio": 4.7,
     "ressenyes": 41,
-    "tags": ["Immobiliària", "Valoració gratuïta", "Compravenda", "Cerdanya"],
-    "destacat": false
+    "tags": [
+      "Immobiliària",
+      "Valoració gratuïta",
+      "Compravenda"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-puigcerda",
+    "nom": "Hotel Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Hotel informal amb habitacions senzilles, restaurant, bar i esmorzar.",
+    "telefon": "972 88 21 81",
+    "web": "www.hotelpuigcerda.cat",
+    "valoracio": 3.8,
+    "ressenyes": 543,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "tap-de-suro",
+    "nom": "Tap de Suro",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "678 65 59 28",
+    "web": "",
+    "valoracio": 4.4,
+    "ressenyes": 465,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bake-cake-cafeteria-puigcerda",
+    "nom": "Bake & Cake - Cafeteria - Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 88 23 81",
+    "web": "www.facebook.com",
+    "valoracio": 4.1,
+    "ressenyes": 460,
+    "tags": [
+      "Cafeteria",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bar-restaurant-carmen-puigcerda",
+    "nom": "BAR - RESTAURANT CARMEN - Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Convivial brasserie serving Spanish steak & seafood dishes, including paella, plus wine & cocktails.",
+    "telefon": "972 88 03 86",
+    "web": "",
+    "valoracio": 4.3,
+    "ressenyes": 361,
+    "tags": [
+      "Cafeteria",
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "innsbruck",
+    "nom": "Innsbruck",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 88 07 76",
+    "web": "es-es.facebook.com",
+    "valoracio": 4.4,
+    "ressenyes": 488,
+    "tags": [
+      "Per emportar",
+      "Cafeteria",
+      "Bar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pizza-roma-cerdanya",
+    "nom": "Pizza Roma Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 88 23 34",
+    "web": "www.nesso.es",
+    "valoracio": 4.4,
+    "ressenyes": 196,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "oliu-degustacio",
+    "nom": "Oliu Degustació",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Experiència molt satisfactòria\".",
+    "telefon": "616 07 22 36",
+    "web": "",
+    "valoracio": 4.5,
+    "ressenyes": 217,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pans-company",
+    "nom": "Pans & Company",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "972 88 04 84",
+    "web": "www.pansandcompany.com",
+    "valoracio": 3.7,
+    "ressenyes": 736,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cava-taverna",
+    "nom": "La Cava Taverna",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "972 11 19 84",
+    "web": "lacavagastronomic.wixsite.com",
+    "valoracio": 4.6,
+    "ressenyes": 702,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-kennedy",
+    "nom": "Restaurant Kennedy",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 88 11 91",
+    "web": "www.instagram.com",
+    "valoracio": 4.2,
+    "ressenyes": 1698,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "fabian-pizzeria-puigcerda",
+    "nom": "Fabian Pizzeria Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "972 88 03 10",
+    "web": "arxius.reclam.cat",
+    "valoracio": 4.6,
+    "ressenyes": 1164,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "lesperit-de-vi",
+    "nom": "L'Esperit de Vi",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "606 35 49 01",
+    "web": "",
+    "valoracio": 4.4,
+    "ressenyes": 146,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-del-prado-restaurant",
+    "nom": "Hotel Del Prado Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 88 04 00",
+    "web": "www.hoteldelprado.cat",
+    "valoracio": 4.0,
+    "ressenyes": 278,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-la-fogaina",
+    "nom": "Restaurant La Fogaina",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Hem pogut entrar amb la gossa i els que portem gos ho agraïm  \".",
+    "telefon": "972 88 21 81",
+    "web": "hotelpuigcerda.cat",
+    "valoracio": 4.1,
+    "ressenyes": 231,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-borda-del-cereta",
+    "nom": "La Borda del Ceretà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Ha superat totes les nostres expectatives!!! ✨ Ens ha encantat tot, el foie poêlé amb Múrgules i el canaló de pollastre \".",
+    "telefon": "972 28 30 65",
+    "web": "labordadelcereta.com",
+    "valoracio": 4.7,
+    "ressenyes": 1780,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "muuu-restaurant",
+    "nom": "Muuu Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Un lloc entranyable per compartir un dia especial com un aniversari\".",
+    "telefon": "689 97 38 68",
+    "web": "muuu-restaurant.localo.site",
+    "valoracio": 3.8,
+    "ressenyes": 488,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-pirineus",
+    "nom": "Càmping Pirineus",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"El nostre càmping favorit a la Cerdanya\".",
+    "telefon": "972 88 10 62",
+    "web": "www.stel.es",
+    "valoracio": 4.5,
+    "ressenyes": 595,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-o-meigallo",
+    "nom": "Restaurant O Meigallo",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 14 00 14",
+    "web": "www.omeigallo.com",
+    "valoracio": 4.1,
+    "ressenyes": 433,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-tapanyam",
+    "nom": "Restaurant TapaNyam",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu econòmic.",
+    "telefon": "972 88 23 60",
+    "web": "",
+    "valoracio": 4.5,
+    "ressenyes": 1826,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizza-stick-pizzeria-puigcerda-cerdanya",
+    "nom": "Pizza Stick - Pizzeria Puigcerdà (Cerdanya)",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 88 00 88",
+    "web": "pizzastick.es",
+    "valoracio": 4.1,
+    "ressenyes": 975,
+    "tags": [
+      "Entrega a domicili",
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-pizzeria-del-reg",
+    "nom": "Restaurant-pizzeria del Reg",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu econòmic.",
+    "telefon": "972 90 94 75",
+    "web": "",
+    "valoracio": 4.5,
+    "ressenyes": 600,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-pati-de-la-tieta",
+    "nom": "El pati de La tieta",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 88 01 56",
+    "web": "elpatiodelatieta.com",
+    "valoracio": 4.1,
+    "ressenyes": 1056,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-539-plats-forts",
+    "nom": "Restaurant 539, Plats Forts",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Quan vas a un restaurant amb moltes expectatives i\".",
+    "telefon": "647 59 28 39",
+    "web": "",
+    "valoracio": 4.9,
+    "ressenyes": 335,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "per-llepar-sen-els-dits",
+    "nom": "Per llepar-se'n els dits",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"El menjar és cassola i el ambient és fantàstic\".",
+    "telefon": "972 88 34 61",
+    "web": "",
+    "valoracio": 4.7,
+    "ressenyes": 24,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-llesca-bar-restaurant-puigcerda",
+    "nom": "LA LLESCA - BAR - RESTAURANT - PUIGCERDÀ",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant modest on se serveixen entrepans i plats senzills i tradicionals de cuina catalana i mediterrània.",
+    "telefon": "972 88 00 44",
+    "web": "",
+    "valoracio": 4.4,
+    "ressenyes": 352,
+    "tags": [
+      "Per emportar",
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-lola",
+    "nom": "La Lola",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Cuina exquisida i una benvinguda molt càlida\".",
+    "telefon": "972 78 12 67",
+    "web": "",
+    "valoracio": 4.3,
+    "ressenyes": 10,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "xivarri-puigcerda",
+    "nom": "XIVARRI PUIGCERDÀ",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Hamburgueses boníssimes, hem tastat dues i repetiríem sense dubtar-ho\".",
+    "telefon": "695 60 21 02",
+    "web": "www.instagram.com",
+    "valoracio": 4.6,
+    "ressenyes": 43,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-buen-sazon",
+    "nom": "El Buen Sazón",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Sorprenentment amable i acollidor\".",
+    "telefon": "686 06 83 33",
+    "web": "",
+    "valoracio": 3.6,
+    "ressenyes": 47,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cerdanya-kebab",
+    "nom": "Cerdanya Kebab",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"El menjar no és dels millors kebab pero és acceptable\".",
+    "telefon": "972 88 26 93",
+    "web": "",
+    "valoracio": 3.7,
+    "ressenyes": 223,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "indalo",
+    "nom": "Indalo",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Small plates & wine presented in a cozy space with an unpretentious, neighborhood vibe.",
+    "telefon": "972 64 94 28",
+    "web": "instagram.com",
+    "valoracio": 4.4,
+    "ressenyes": 263,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-la-pizzeria-emma",
+    "nom": "Restaurant la Pizzeria Emma",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 14 12 75",
+    "web": "",
+    "valoracio": 4.3,
+    "ressenyes": 669,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cafeteria-i-creperia-cerdanya",
+    "nom": "Cafeteria i Creperia Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 3.5,
+    "ressenyes": 542,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-antojo-vip",
+    "nom": "El Antojo V.I.P.",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"L'hamburguessa la vaig disfrutar molt! El servei fantàstic: erem 4 adults i 5 nens petits; ens van acollir sense problem\".",
+    "telefon": "645 83 05 86",
+    "web": "",
+    "valoracio": 3.5,
+    "ressenyes": 64,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "last-cerdanya",
+    "nom": "L´Ast Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"No haviem tastat mai els seus pollastres i l'altre dia en vam comprar\".",
+    "telefon": "972 14 13 00",
+    "web": "",
+    "valoracio": 4.1,
+    "ressenyes": 117,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bar-restaurante-buen-rollo",
+    "nom": "Bar restaurante buen rollo!",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona.",
+    "telefon": "685 41 52 80",
+    "web": "",
+    "valoracio": 4.7,
+    "ressenyes": 25,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "tierra-del-fuego",
+    "nom": "Tierra del Fuego",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Si t’agrada la bona carn, aquest lloc és imprescindible\".",
+    "telefon": "699 75 74 31",
+    "web": "tierradelfuego.es",
+    "valoracio": 4.7,
+    "ressenyes": 246,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-graner-de-puigcerda",
+    "nom": "El graner de Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Ens ha agradat molt el restaurant, excel•lent! El tracte del personal va ser magnífic i el menjar boníssim\".",
+    "telefon": "609 62 31 87",
+    "web": "",
+    "valoracio": 4.4,
+    "ressenyes": 495,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-origen",
+    "nom": "Restaurant Origen",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Un dels pocs restaurants oberts en dilluns a Puigcerdà\".",
+    "telefon": "972 14 08 25",
+    "web": "",
+    "valoracio": 4.6,
+    "ressenyes": 208,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "tiracanyes-puigcerda",
+    "nom": "Tiracanyes Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Vam anar ahir Dissabte per primera vegada\".",
+    "telefon": "651 80 07 42",
+    "web": "www.tiracanyespuigcerda.com",
+    "valoracio": 4.7,
+    "ressenyes": 128,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "granja-cafeteria-la-llaminera",
+    "nom": "Granja Cafetería La Llaminera",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. preu moderat.",
+    "telefon": "",
+    "web": "www.instagram.com",
+    "valoracio": 3.8,
+    "ressenyes": 260,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "lomitos-puigcerda",
+    "nom": "Lomito's Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Una safata paisa súper bona per compartir ia molt bon preu, uns 20€ amb dues begudes\".",
+    "telefon": "642 47 20 71",
+    "web": "",
+    "valoracio": 4.5,
+    "ressenyes": 48,
+    "tags": [
+      "Restaurant",
+      "Bar"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-placeta",
+    "nom": "La Placeta",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Lloc petit però molt acollidor\".",
+    "telefon": "648 77 27 65",
+    "web": "",
+    "valoracio": 4.9,
+    "ressenyes": 37,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "una-puigcerda-bar-restaurant",
+    "nom": "UNA Puigcerdà Bar Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "972 51 87 85",
+    "web": "www.g.page",
+    "valoracio": 3.6,
+    "ressenyes": 872,
+    "tags": [
+      "Restaurant",
+      "Cafeteria",
+      "Bar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "good-food-puigcerda",
+    "nom": "Good Food Puigcerdà",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"He tastat les croquetes i les mandonguilles, que em van encantar\".",
+    "telefon": "872 07 34 20",
+    "web": "www.instagram.com",
+    "valoracio": 4.4,
+    "ressenyes": 79,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-pope",
+    "nom": "Can Pope",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona.",
+    "telefon": "652 79 61 89",
+    "web": "",
+    "valoracio": 4.8,
+    "ressenyes": 116,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-bodeguita",
+    "nom": "La Bodeguita",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Plats combinats del país molt complerts i també cuina boliviana\".",
+    "telefon": "872 26 37 86",
+    "web": "",
+    "valoracio": 4.2,
+    "ressenyes": 96,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "amore-fati-pizza",
+    "nom": "AMORE FATI PIZZA",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "872 04 77 96",
+    "web": "www.instagram.com",
+    "valoracio": 4.7,
+    "ressenyes": 526,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-pampa",
+    "nom": "La Pampa",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "972 11 43 90",
+    "web": "",
+    "valoracio": 4.7,
+    "ressenyes": 810,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "cal-quico-fonda-braseria",
+    "nom": "Cal Quico Fonda Braseria",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "872 04 80 55",
+    "web": "calquicobraseria.com",
+    "valoracio": 4.5,
+    "ressenyes": 790,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "ca-la-mati",
+    "nom": "Ca la Mati",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Un restaurant acollidor al centre de Puigcerdà on es gaudeix de cuina mediterrània ben elaborada i de qualitat\".",
+    "telefon": "640 88 33 18",
+    "web": "",
+    "valoracio": 4.7,
+    "ressenyes": 189,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant",
+    "nom": "Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 3.7,
+    "ressenyes": 128,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "braseria-clapes",
+    "nom": "Braseria Clapés",
+    "categoria": "gastronomia",
+    "poble": "Puigcerdà",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Un equip fantàstic, bon menjar i bona relació qualitat preu\".",
+    "telefon": "638 33 97 94",
+    "web": "",
+    "valoracio": 4.1,
+    "ressenyes": 83,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-tasca-de-bellver",
+    "nom": "La Tasca de Bellver",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Cadena de restaurants informals on se serveixen tapes espanyoles, paelles i postres.",
+    "telefon": "973 51 11 86",
+    "web": "",
+    "valoracio": 3.6,
+    "ressenyes": 1673,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pizza-stick-bellver-pizzeria-cerdanya",
+    "nom": "Pizza Stick Bellver - Pizzeria Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "973 51 03 77",
+    "web": "pizzastick.es",
+    "valoracio": 4.0,
+    "ressenyes": 563,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-restaurant-bellavista",
+    "nom": "Hotel Restaurant Bellavista",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Hotel tranquil del 1932 amb restaurant, un bar cafeteria i piscines descobertes estacionals.",
+    "telefon": "973 51 00 00",
+    "web": "www.bellavistabellver.cat",
+    "valoracio": 4.2,
+    "ressenyes": 1322,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-calma-de-bellver",
+    "nom": "La Calma de Bellver",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Hostal informal en una casa de pedra amb habitacions acollidores, bar, menjador i terrassa.",
+    "telefon": "646 22 40 51",
+    "web": "www.lacalma.com",
+    "valoracio": 4.1,
+    "ressenyes": 362,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-grau-de-los",
+    "nom": "Restaurant Grau de L'Os",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "973 51 07 84",
+    "web": "graudelos.com",
+    "valoracio": 4.8,
+    "ressenyes": 378,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-ca-la-nuria-bellver",
+    "nom": "Restaurant Ca la Núria. Bellver",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "973 51 09 38",
+    "web": "www.instagram.com",
+    "valoracio": 4.5,
+    "ressenyes": 1010,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "snack-bar-restaurant",
+    "nom": "Snack Bar Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "973 29 28 13",
+    "web": "",
+    "valoracio": 4.2,
+    "ressenyes": 471,
+    "tags": [
+      "Restaurant",
+      "Cafeteria",
+      "Bar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pizzeria-sant-roc",
+    "nom": "Pizzeria Sant Roc",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "973 51 10 80",
+    "web": "pizzeriasantroc.myrestoo.net",
+    "valoracio": 4.5,
+    "ressenyes": 1645,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-el-punt",
+    "nom": "Restaurant El Punt",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Les croquetas INCREIBLES, les de gambes i les de bolets\".",
+    "telefon": "633 88 72 41",
+    "web": "",
+    "valoracio": 4.7,
+    "ressenyes": 346,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "skitx-ca-la-tomasa",
+    "nom": "Skitx - Ca La Tomasa",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Super contentes!!!! Un gran descobriment d’aquest estiu, quin gust sopar aqui 🥰\".",
+    "telefon": "973 51 07 41",
+    "web": "",
+    "valoracio": 4.3,
+    "ressenyes": 72,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-camins-de-tallo",
+    "nom": "Restaurant Camins de Talló",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Una experiència gastronomica diferent a la Cerdanya, molt bona atenció, ambient familiar i uns plats exquisits i de diss\".",
+    "telefon": "973 93 25 55",
+    "web": "www.caminsdetallo.com",
+    "valoracio": 4.8,
+    "ressenyes": 226,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-jou-vell",
+    "nom": "Restaurant Jou Vell",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "973 51 10 51",
+    "web": "",
+    "valoracio": 4.2,
+    "ressenyes": 730,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "de-vici",
+    "nom": "De Vici",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "619 98 81 84",
+    "web": "",
+    "valoracio": 4.2,
+    "ressenyes": 358,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "sant-josep",
+    "nom": "Sant Josep",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "973 51 04 29",
+    "web": "",
+    "valoracio": 4.4,
+    "ressenyes": 526,
+    "tags": [
+      "Restaurant",
+      "Bar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-tapeo",
+    "nom": "El Tapeo",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"La veritat, una descoberta, unes croquetes de pernil boníssimes, molt be de preu, bona relació  qualitat preu\".",
+    "telefon": "640 92 93 13",
+    "web": "",
+    "valoracio": 4.3,
+    "ressenyes": 19,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "valley-mountain-bar",
+    "nom": "Valley Mountain Bar",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Ha estat una experiència molt agradable\".",
+    "telefon": "666 84 24 16",
+    "web": "",
+    "valoracio": 5.0,
+    "ressenyes": 111,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-fonda-biayna",
+    "nom": "Restaurant Fonda Biayna",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Hem passat un molt bon cap de setmana a la Cerdanya amb estada a la Fonda Biayna\".",
+    "telefon": "973 51 04 75",
+    "web": "fondabiayna.com",
+    "valoracio": 4.5,
+    "ressenyes": 176,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "lingla-restaurant",
+    "nom": "L'Ingla Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Molt bon restaurant i molt bona relació qualitat-preu\".",
+    "telefon": "611 59 48 13",
+    "web": "",
+    "valoracio": 4.8,
+    "ressenyes": 160,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "cal-benito",
+    "nom": "Cal Benito",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Hi hem menjat unes braves excel·lents\".",
+    "telefon": "873 49 66 01",
+    "web": "www.instagram.com",
+    "valoracio": 4.7,
+    "ressenyes": 102,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "braseria-cal-blanch",
+    "nom": "Braseria Cal Blanch",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Totes les tapes molt bones i bon ambient\".",
+    "telefon": "973 51 02 08",
+    "web": "",
+    "valoracio": 4.6,
+    "ressenyes": 29,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "bar-restaurant-el-canto",
+    "nom": "Bar restaurant El Cantó",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "973 51 10 24",
+    "web": "",
+    "valoracio": 4.4,
+    "ressenyes": 399,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "creperia-minimon",
+    "nom": "Creperia Minimon",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "973 51 10 93",
+    "web": "www.creperiaminimon.com",
+    "valoracio": 4.3,
+    "ressenyes": 421,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-flor-de-neu",
+    "nom": "Restaurant Flor de Neu",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "621 28 12 09",
+    "web": "",
+    "valoracio": 4.2,
+    "ressenyes": 560,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-noga-taverna",
+    "nom": "LA NOGA TAVERNA",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Un local molt acollidor, encantador i molt ben decorat, una parella meravellosa ho porta i dir que el menjar estava bo s\".",
+    "telefon": "689 38 82 33",
+    "web": "",
+    "valoracio": 4.9,
+    "ressenyes": 85,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "terra-ferma",
+    "nom": "terra FERMA",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Hem parat a dinar al Terra Ferma de camí a Aigüestortes i ha estat un encert\".",
+    "telefon": "722 57 27 00",
+    "web": "www.terrafermabellver.com",
+    "valoracio": 4.6,
+    "ressenyes": 105,
+    "tags": [
+      "Restaurant",
+      "Cafeteria",
+      "Bar"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-torino-pizzeria",
+    "nom": "Restaurant Torino Pizzeria",
+    "categoria": "gastronomia",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Vam anar a sopar amb uns amics i realment les bones espectatives es van cumplir de grat!! El menjar boníssim, racions mé\".",
+    "telefon": "602 60 77 97",
+    "web": "www.aparthotelbellver.com",
+    "valoracio": 4.6,
+    "ressenyes": 103,
+    "tags": [
+      "Restaurant",
+      "Per emportar"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-fonda-merce",
+    "nom": "Hotel Fonda Mercè",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: Ha estat una experiència brutal!!",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "esquirol",
+    "nom": "Esquirol",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Hotel boutique amb mobiliari de fusta, restaurant de cuina catalana, piscina d'hidromassatge i sauna.",
+    "telefon": "972 89 63 03",
+    "web": "www.hotelesquirol.com",
+    "valoracio": 3.6,
+    "ressenyes": 1944,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-cofa",
+    "nom": "Restaurant Cal Cofa",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "617 33 17 07",
+    "web": "www.calcofa.com",
+    "valoracio": 4.6,
+    "ressenyes": 4365,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "cal-rita-porta",
+    "nom": "Cal Rita Porta",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "644 31 81 54",
+    "web": "ritaporta.com",
+    "valoracio": 4.5,
+    "ressenyes": 1926,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-bambola-de-llivia",
+    "nom": "La bambola de Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Està ben bé al costat de l'ajuntament i l'església\".",
+    "telefon": "920 22 61 42",
+    "web": "labamboladellivia.wordpress.com",
+    "valoracio": 4.1,
+    "ressenyes": 239,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-can-ventura",
+    "nom": "Restaurant Can Ventura",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. cuina de qualitat superior.",
+    "telefon": "972 89 61 78",
+    "web": "canventura.com",
+    "valoracio": 4.6,
+    "ressenyes": 1419,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-serendipia-by-la-caleche",
+    "nom": "Restaurant Serendipia by La Calèche",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. cuina de qualitat superior.",
+    "telefon": "972 60 41 82",
+    "web": "restaurantserendipia.cat",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 651,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizzes-nacho",
+    "nom": "Pizzes Nacho",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu econòmic.",
+    "telefon": "972 89 64 67",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 713,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "food-troc",
+    "nom": "Food Troc",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 338,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-jardi",
+    "nom": "El Jardí",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Un bar de tapes molt animat al centre de Llívia\".",
+    "telefon": "667 52 76 02",
+    "web": "",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 624,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-frison-pizzeria-restaurant",
+    "nom": "El Frisón Pizzeria Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona.",
+    "telefon": "674 44 65 53",
+    "web": "www.instagram.com",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 199,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-raco-de-llivia",
+    "nom": "EL RACÓ DE LLÍVIA",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Tot molt bó, única cosa a retreure és el servei\".",
+    "telefon": "649 30 06 27",
+    "web": "",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 162,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "celestin-llivia",
+    "nom": "Célestin Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 231,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mes-que-beure",
+    "nom": "Més Que Beure",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Personal molt amable, bona primera matèria i ben elaborada\".",
+    "telefon": "692 96 20 36",
+    "web": "www.menusmart.dev",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 376,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "lo-vintage-llivia-llesqueria-bocateria",
+    "nom": "Lo Vintage Llivia-Llesqueria-Bocatería",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Un restaurant que mai falla\".",
+    "telefon": "622 61 00 35",
+    "web": "lovintagerestaurant.com",
+    "valoracio": 5.0,
+    "ressenyes": 11,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-terrasseta-de-lo-vintage",
+    "nom": "La terrasseta de \"Lo Vintage\"",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: Parada obligatòria!",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-bon-gust",
+    "nom": "El Bon Gust",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 14 60 90",
+    "web": "www.cerdanyainteractiva.com",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 159,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-raval-13",
+    "nom": "Restaurant Raval 13",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Molt bon servei, adaptant-se a la llengua del client i informats quan preguntàvem sobre la tipologia de vi\".",
+    "telefon": "972 97 04 13",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 375,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-tasqueta",
+    "nom": "La Tasqueta",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Un reconet al mig se la cerdanya, amb un menjar boníssim! Us recomano anar amb colla i demanar les tapes\".",
+    "telefon": "667 04 66 67",
+    "web": "",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 170,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-trumfes",
+    "nom": "Restaurant Trumfes",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "972 14 60 31",
+    "web": "www.restaurantrumfes.com",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 1167,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "colmado-llivia-cerdanya",
+    "nom": "COLMADO LLIVIA - CERDANYA",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Vam passar per a comprar el seu paté en croute i altres elaboracions exquisites de l'Albert Boronat\".",
+    "telefon": "972 97 35 40",
+    "web": "www.elcolmado.es",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 10,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bar-restaurant-el-tupi",
+    "nom": "Bar Restaurant El Tupi",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 89 65 24",
+    "web": "bareltupi.es",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 610,
+    "tags": [
+      "Restaurant",
+      "Bar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "papa-pizza",
+    "nom": "Papa Pizza",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Molt bona pizza amb pasta fina dos dies de fermentació, molta qualitat de producte i molts tipus per triar, dos mides de\".",
+    "telefon": "695 85 54 00",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 160,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-ferrador",
+    "nom": "El Ferrador",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Només vam utilitzar lo servei de cafeteria\".",
+    "telefon": "",
+    "web": "",
+    "valoracio": 4.0,
+    "ressenyes": 28,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bistrot-de-llivia",
+    "nom": "Bistrot de Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "667 02 37 29",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 793,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-segre-de-llivia",
+    "nom": "El Segre de Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Menjar molt bo, el tracte de tot el personal i sobretot de la mestresa Mari Excelent!👌\".",
+    "telefon": "872 01 08 53",
+    "web": "www.instagram.com",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 248,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-can-ryu",
+    "nom": "Restaurant Can Ryu",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Magnífica experiència, és com sopar en un restaurant autèntic del Japó\".",
+    "telefon": "",
+    "web": "www.instagram.com",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 199,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "kanz-restaurant",
+    "nom": "Kanz Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Vam anar a fer un menú de migdia a base de plat combinat i va resultar tot un encert\".",
+    "telefon": "972 07 68 86",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 43,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizzeria-lavet",
+    "nom": "Pizzería L'Avet",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Personal molt amable! Super ràpids i prioritzant els nens! Perfecte! Pizzes primetes i super bones, casolanes i al forn \".",
+    "telefon": "972 51 98 80",
+    "web": "",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 397,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "unic-parc",
+    "nom": "Unic Parc",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 19 29 34",
+    "web": "www.unicparc.com",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 303,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-xalet-del-golf",
+    "nom": "Hotel Xalet del Golf",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Hotel tipus xalet de luxe amb estances refinades, un restaurant elegant i un camp de golf de 18 forats.",
+    "telefon": "972 88 43 20",
+    "web": "www.chaletdelgolf.com",
+    "valoracio": 4.0,
+    "ressenyes": 423,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-torre-del-remei",
+    "nom": "Hotel Torre del Remei",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Hotel elegant situat en una mansió de 1910 amb un restaurant sofisticat, jardins i piscina descoberta.",
+    "telefon": "972 09 93 00",
+    "web": "hoteltorredelremei.com",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 482,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "aerodrom-de-la-cerdanya",
+    "nom": "Aeròdrom de la Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Das",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Restaurant recentment inaugurat, tant l’espai, com els profesionals i com no, el menjar espectacular!! El steack tartar \".",
+    "telefon": "677 29 88 61",
+    "web": "",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 183,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizza-stick",
+    "nom": "Pizza Stick",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "972 14 44 10",
+    "web": "pizzastick.es",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 713,
+    "tags": [
+      "Entrega a domicili",
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-la-solana",
+    "nom": "Restaurant La Solana",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "972 89 52 70",
+    "web": "restaurantlasolana.shop",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 1022,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jet-bistrot-de-muntanya",
+    "nom": "Cal Jet - Bistrot de muntanya",
+    "categoria": "gastronomia",
+    "poble": "Ger",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "666 60 14 07",
+    "web": "www.caljet.cat",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 701,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "fontanals-green-restaurant",
+    "nom": "Fontanals Green Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Menú migdia a 20€ molt correcte anb primer / segon / postre / vi i aigua\".",
+    "telefon": "621 21 64 03",
+    "web": "",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 72,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mooma-cerdanya",
+    "nom": "Mooma Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Das",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Ens el van recomanar i ens ha agradat molt\".",
+    "telefon": "872 58 02 99",
+    "web": "www.moomacerdanya.cat",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 752,
+    "tags": [
+      "Restaurant",
+      "Bar"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-torru",
+    "nom": "Restaurant Cal Torru",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Hemos venido un grupo de 10 amigos y hemos estado genial! Un restaurante súper acogedor y agradable, con un servicio 10/\".",
+    "telefon": "605 97 63 93",
+    "web": "www.caltorru.cat",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 233,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-lisard",
+    "nom": "Restaurant l'Isard",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "650 51 20 79",
+    "web": "app.tableo.com",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 391,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "381-bolvir",
+    "nom": "381 Bolvir",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Local agradable al centre del poble , amb terrasa a la plaça Major, ideal per passar una bona nit d’ estiu a la fresca\".",
+    "telefon": "620 71 50 48",
+    "web": "",
+    "valoracio": 1788472800000.0,
+    "ressenyes": 19,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "fonda-dels-pics-restaurant",
+    "nom": "Fonda dels Pics - Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"El restaurant és molt acollidor i càlid, amb un ambient tranquil i agradable\".",
+    "telefon": "653 03 55 61",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 189,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-rito-argentino",
+    "nom": "El Rito Argentino",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Avui farà dos anys que vam poder celebrar el nostre casament al RITO ARGENTINO, probablament, un dels dies més feliços d\".",
+    "telefon": "653 64 21 48",
+    "web": "",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 56,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-les-heures-den-didac",
+    "nom": "Restaurant Les Heures d'en Dídac",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"ESPECTACULAR dinar!! Día més q perfecte, hem dinat al menjador del pis superior (molt més elegant i agradable q el d PB)\".",
+    "telefon": "972 89 50 69",
+    "web": "www.lesheuresdendidac.com",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 741,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "terra-de-pics",
+    "nom": "Terra de Pics",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "613 42 23 57",
+    "web": "terradepics.com",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 467,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-pons",
+    "nom": "Restaurant Cal Pons",
+    "categoria": "gastronomia",
+    "poble": "Ger",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "686 91 95 04",
+    "web": "",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 274,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-celler-dall-restaurant",
+    "nom": "El Celler D'All Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "633 62 91 74",
+    "web": "www.gotadegust.com",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 496,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-nou-felipet-restaurant",
+    "nom": "El Nou Felipet // Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Hem tingut una experiència fantàstica! El tracte del personal ha sigut super amable i proper, et fan sentir com a casa d\".",
+    "telefon": "621 20 59 70",
+    "web": "www.elnoufelipet.com",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 46,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "tr1910-restaurant-torre-del-remei",
+    "nom": "TR1910 Restaurant Torre del Remei",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Excel·lent servei, bon producte i un entorn únic i singular, en un edifici cuidat al detall i que ja és una joia de la n\".",
+    "telefon": "972 09 93 00",
+    "web": "",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 38,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-padri",
+    "nom": "Restaurant Cal Padrí",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. preu moderat.",
+    "telefon": "617 28 27 22",
+    "web": "restaurantcalpadri.com",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 1072,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-xalet-del-golf-restaurant",
+    "nom": "El Xalet del Golf Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Ens ha sorprès molt positivament, sobretot tenint en compte algunes ressenyes passades\".",
+    "telefon": "972 88 43 20",
+    "web": "www.chaletdelgolf.com",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 57,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
   }
 ]
