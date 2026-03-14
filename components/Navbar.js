@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { usePathname, useRouter } from 'next/navigation'
 
@@ -16,12 +16,68 @@ const NAV_LINKS = [
   { label: 'Immobiliaria', href: '/inmobiliaria' },
 ]
 
+// Puigcerdà: lat 42.4317, lon 1.9317
+const LAT = 42.4317
+const LON = 1.9317
+
+function formatData(d) {
+  const dies = ['Diumenge', 'Dilluns', 'Dimarts', 'Dimecres', 'Dijous', 'Divendres', 'Dissabte']
+  const mesos = ['de gener', 'de febrer', 'de març', "d'abril", 'de maig', 'de juny',
+                 'de juliol', "d'agost", 'de setembre', "d'octubre", 'de novembre', 'de desembre']
+  return `${dies[d.getDay()]}, ${d.getDate()} ${mesos[d.getMonth()]} ${d.getFullYear()}`
+}
+
+function formatEdicio(d) {
+  const mesos = ['gener', 'febrer', 'març', 'abril', 'maig', 'juny',
+                 'juliol', 'agost', 'setembre', 'octubre', 'novembre', 'desembre']
+  return `Edició del ${d.getDate()} de ${mesos[d.getMonth()]} de ${d.getFullYear()}`
+}
+
+// WMO weather codes → descripció curta en català
+function descTemps(codi, isDay) {
+  if (codi === 0) return isDay ? 'Cel clar' : 'Nit clara'
+  if (codi <= 2) return 'Poc ennuvolat'
+  if (codi === 3) return 'Cobert'
+  if (codi <= 49) return 'Boira'
+  if (codi <= 59) return 'Pluja feble'
+  if (codi <= 69) return 'Pluja'
+  if (codi <= 79) return 'Neu'
+  if (codi <= 84) return 'Xàfecs'
+  if (codi <= 99) return 'Tempesta'
+  return 'Variable'
+}
+
 export default function Navbar() {
   const pathname = usePathname()
   const router = useRouter()
   const [showCerca, setShowCerca] = useState(false)
   const [cerca, setCerca] = useState('')
   const [menuObert, setMenuObert] = useState(false)
+  const [dataStr, setDataStr] = useState('')
+  const [edicioStr, setEdicioStr] = useState('')
+  const [temps, setTemps] = useState('')
+
+  useEffect(() => {
+    const ara = new Date()
+    setDataStr(formatData(ara))
+    setEdicioStr(formatEdicio(ara))
+
+    // Open-Meteo: gratuït, sense API key, molt fiable
+    fetch(
+      `https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}` +
+      `&current=temperature_2m,weathercode,is_day&timezone=Europe%2FMadrid`
+    )
+      .then(r => r.json())
+      .then(d => {
+        const temp = Math.round(d.current.temperature_2m)
+        const codi = d.current.weathercode
+        const isDay = d.current.is_day === 1
+        const desc = descTemps(codi, isDay)
+        const signe = temp > 0 ? '+' : ''
+        setTemps(`${signe}${temp}° Puigcerdà · ${desc}`)
+      })
+      .catch(() => setTemps(''))
+  }, [])
 
   return (
     <>
@@ -33,7 +89,7 @@ export default function Navbar() {
         </div>
       </div>
       <div className="topbar" style={{ borderBottom: '1px solid var(--black)', padding: '8px 40px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontFamily: 'var(--sans)', fontSize: '11px', color: 'var(--mid-gray)', letterSpacing: '0.08em', textTransform: 'uppercase' }}>
-        <span>Dilluns, 9 de març de 2026</span>
+        <span>{dataStr}</span>
         <div className="topbar-links" style={{ display: 'flex', gap: '24px' }}>
           {['Newsletter', 'Publicitat', 'Contacte', 'Afegir negoci'].map(l => (
             <a key={l} href="#" style={{ color: 'var(--mid-gray)' }}>{l}</a>
@@ -82,8 +138,8 @@ export default function Navbar() {
         </div>
       )}
       <div className="date-strip" style={{ padding: '10px 40px', borderBottom: '1px solid var(--warm-gray)', fontFamily: 'var(--sans)', fontSize: '11px', color: 'var(--mid-gray)', letterSpacing: '0.05em', display: 'flex', justifyContent: 'space-between' }}>
-        <span>Edició del 9 de març de 2026</span>
-        <span className="date-strip-temps">Temps: −2° Puigcerdà · Neu fresca a La Molina · Sol a la vall</span>
+        <span>{edicioStr}</span>
+        {temps && <span className="date-strip-temps">Temps: {temps}</span>}
       </div>
     </>
   )
