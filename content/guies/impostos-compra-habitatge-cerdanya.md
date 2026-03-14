@@ -223,3 +223,12 @@ Per entendre tot el procés de compra, consulta la [guia completa per comprar ca
 
 *Darrera actualització: 2026. Els tipus impositius i les tarifes arancelàries poden canviar. Verifica sempre amb un gestor o assessor fiscal la situació vigent en el moment de la teva operació.*
 
+
+---
+
+## Mercat per municipi
+
+→ [Comprar a Puigcerdà](/pobles/puigcerda/immobiliaria)
+→ [Comprar a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Comprar a Llívia](/pobles/llivia/immobiliaria)
+→ [Comprar a Alp](/pobles/alp/immobiliaria)

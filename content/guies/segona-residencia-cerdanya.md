@@ -177,3 +177,12 @@ Per a informació sobre preus actuals i on comprar, consulta la [guia de preus d
 
 *Darrera actualització: 2026. La normativa fiscal pot variar. Consulta un assessor fiscal per a la teva situació específica.*
 
+
+---
+
+## Municipis per a una segona residència
+
+→ [Puigcerdà: màxima comoditat i serveis](/pobles/puigcerda/immobiliaria)
+→ [Bellver de Cerdanya: autenticitat i preus raonables](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Llívia: singularitat i tranquil·litat](/pobles/llivia/immobiliaria)
+→ [Alp: proximitat a les pistes d'esquí](/pobles/alp/immobiliaria)

@@ -194,3 +194,14 @@ L'Agència de l'Habitatge de Catalunya té línies d'ajuts per a compra d'habita
 
 *Darrera actualització: 2026. Tota la informació sobre preus és orientativa i pot variar. Per a assessorament personalitzat, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria/agencies).*
 
+
+---
+
+## Els pobles de la comarca
+
+Cada municipi té el seu mercat i el seu caràcter. Consulta les guies específiques:
+
+→ [Puigcerdà: la capital de comarca](/pobles/puigcerda) · [Immobiliària a Puigcerdà](/pobles/puigcerda/immobiliaria)
+→ [Bellver de Cerdanya: autèntic i assequible](/pobles/bellver-de-cerdanya) · [Immobiliària a Bellver](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Llívia: l'enclavament espanyol](/pobles/llivia) · [Immobiliària a Llívia](/pobles/llivia/immobiliaria)
+→ [Alp: a peu de les pistes](/pobles/alp) · [Immobiliària a Alp](/pobles/alp/immobiliaria)

@@ -128,3 +128,11 @@ A la Cerdanya, els projectes solen tenir terminis d'entrega de 18–30 mesos des
 
 *Darrera actualització: 2026. L'oferta d'obra nova canvia contínuament. Per a informació actualitzada sobre promocions actives, contacta amb una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o consulta les alertes dels principals portals immobiliaris.*
 
+
+---
+
+## Mercat per municipi
+
+→ [Obra nova i mercat a Puigcerdà](/pobles/puigcerda/immobiliaria)
+→ [Mercat a Alp: La Molina i Masella](/pobles/alp/immobiliaria)
+→ [Mercat a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)

@@ -185,3 +185,12 @@ El passeig del llac de Puigcerdà i el camí Bolvir–Puigcerdà són aptes per 
 Les millors rutes per a famílies a la Cerdanya no són les més llargues ni les més espectaculars: són les que els nens acaben contents i els adults amb ganes de tornar. El llac de Malniu per als nens que ja caminen bé, l'Arborètum o la Bollosa per als més petits, el llac de Puigcerdà per als que comencen.
 
 Tria la ruta adequada per a l'edat, surt d'hora, porta snacks i roba de recanvi. Amb aquest esquema, el senderisme familiar a la Cerdanya rarament decepciona.
+
+---
+
+## Rutes per municipi
+
+→ [Rutes des de Puigcerdà: el llac i els camins de la plana](/pobles/puigcerda/rutes)
+→ [Rutes des de Bellver de Cerdanya: el Cadí i la ribera del Segre](/pobles/bellver-de-cerdanya/rutes)
+→ [Rutes des de Llívia: cap al Puigpedrós i la Cerdanya francesa](/pobles/llivia/rutes)
+→ [Rutes des d'Alp: el Puigmal i el circ de La Molina](/pobles/alp/rutes)

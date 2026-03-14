@@ -173,3 +173,12 @@ Sí. Llívia és un dels llocs més singulars de tot el Pirineu i rarament decep
 Dos dies a la Cerdanya, ben organitzats, donen per veure el millor de la comarca: Puigcerdà, el llac, Llívia, una ruta de muntanya i un o dos pobles amb caràcter. El secret és senzill: allotja't al centre, surt d'hora, reserva els dinars i no intentis fer-ho tot.
 
 La Cerdanya no és un lloc per córrer. És un lloc per tornar-hi.
+
+---
+
+## Guies completes dels pobles de l'itinerari
+
+→ [Puigcerdà: el llac, el nucli i el mercat dels divendres](/pobles/puigcerda)
+→ [Llívia: l'enclavament i la Farmàcia Esteva](/pobles/llivia)
+→ [Bellver de Cerdanya: nucli medieval i Santa Maria de Talló](/pobles/bellver-de-cerdanya)
+→ [Alp: La Molina, Masella i Das](/pobles/alp)

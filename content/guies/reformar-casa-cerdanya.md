@@ -148,3 +148,11 @@ Per a la guia de compra amb necessitat de reforma, consulta [comprar casa a la C
 
 *Darrera actualització: 2026. Costos orientatius. Demana sempre pressupost a empreses locals per obtenir una estimació actualitzada.*
 
+
+---
+
+## Mercat i habitatge per municipi
+
+→ [Cases al nucli medieval de Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Cases al nucli de Llívia: protecció patrimonial](/pobles/llivia/immobiliaria)
+→ [Mercat de Puigcerdà](/pobles/puigcerda/immobiliaria)

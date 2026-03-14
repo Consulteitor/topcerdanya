@@ -164,3 +164,12 @@ Depèn del que digui el contracte. En general, el lloguer de temporada és molt 
 
 *Darrera actualització: 2026. Els preus indicats son orientatius i poden variar. Per veure [propietats en lloguer de temporada disponibles](/inmobiliaria/lloguers) a la Cerdanya, consulta el nostre directori.*
 
+
+---
+
+## Per municipi
+
+→ [Llogar a Puigcerdà: la capital](/pobles/puigcerda/allotjament)
+→ [Llogar a Alp: a peu de les pistes](/pobles/alp/allotjament)
+→ [Llogar a Bellver de Cerdanya: tranquil·litat](/pobles/bellver-de-cerdanya/allotjament)
+→ [Llogar a Llívia: l'enclavament únic](/pobles/llivia/allotjament)

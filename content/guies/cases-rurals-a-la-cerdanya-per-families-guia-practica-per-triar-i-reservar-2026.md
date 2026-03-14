@@ -156,3 +156,12 @@ Una bona casa rural canvia completament l'experiència d'un cap de setmana famil
 Tria la zona en funció dels plans que faràs, reserva amb temps i llegeix les ressenyes recents. Amb aquest criteri, les cases rurals de la Cerdanya rarament decepcionen.
 
 Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026) per organitzar tota l'escapada familiar.
+
+---
+
+## Cases rurals per municipi
+
+→ [Allotjament a Puigcerdà: opcions per a famílies](/pobles/puigcerda/allotjament)
+→ [Allotjament a Bellver de Cerdanya: terme municipal i nuclis](/pobles/bellver-de-cerdanya/allotjament)
+→ [Allotjament a Llívia: nucli medieval](/pobles/llivia/allotjament)
+→ [Allotjament a Alp: La Molina i Masella](/pobles/alp/allotjament)

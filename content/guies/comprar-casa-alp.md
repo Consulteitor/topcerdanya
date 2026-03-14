@@ -151,3 +151,13 @@ Per a l'oferta de propietats disponibles, consulta el [directori de propietats](
 
 *Darrera actualització: 2026. Preus orientatius. El mercat d'Alp és molt sensible als cicles de neu: verifica l'estat de les temporades recents amb agents locals.*
 
+
+---
+
+## Guies relacionades
+
+→ [Guia completa d'Alp: La Molina, Masella i Das](/pobles/alp)
+→ [Immobiliària a Alp: preus per zona 2026](/pobles/alp/immobiliaria)
+→ [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
+→ [Comprar casa a Bellver de Cerdanya](/guies/comprar-casa-bellver-cerdanya)
+→ [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

@@ -157,3 +157,12 @@ Consulta amb l'ajuntament del municipi o amb una gestoria local per calcular l'i
 
 *Darrera actualització: 2026. Per a assessorament personalitzat, consulta una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o un gestor fiscal especialitzat en immobiliari.*
 
+
+---
+
+## Mercat per municipi
+
+→ [Vendre a Puigcerdà: el mercat més actiu](/pobles/puigcerda/immobiliaria)
+→ [Vendre a Alp: demanda d'hivern alta](/pobles/alp/immobiliaria)
+→ [Vendre a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Vendre a Llívia: mercat petit](/pobles/llivia/immobiliaria)

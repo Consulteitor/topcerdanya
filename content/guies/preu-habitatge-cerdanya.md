@@ -185,3 +185,12 @@ No hi ha indicadors clars que apuntin a una correcció significativa. La demanda
 
 *Darrera actualització: 2026. Dades orientatives basades en el mercat actual. Per a valoracions concretes, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria/agencies) o revisa les propietats en venda al nostre [directori de propietats](/inmobiliaria/propietats).*
 
+
+---
+
+## Preus per municipi
+
+→ [Mercat immobiliari de Puigcerdà: el més car de la comarca](/pobles/puigcerda/immobiliaria)
+→ [Mercat immobiliari de Bellver: entre un 25% i un 45% més barat](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Mercat immobiliari de Llívia: escàs i peculiar](/pobles/llivia/immobiliaria)
+→ [Mercat immobiliari d'Alp: la prima de les pistes](/pobles/alp/immobiliaria)

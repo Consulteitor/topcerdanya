@@ -155,3 +155,12 @@ Per veure l'oferta de [lloguers d'estiu disponibles a la Cerdanya](/inmobiliaria
 
 *Darrera actualització: 2026. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
 
+
+---
+
+## Per municipi
+
+→ [On dormir a Puigcerdà a l'estiu](/pobles/puigcerda/allotjament)
+→ [On dormir a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/allotjament)
+→ [On dormir a Llívia](/pobles/llivia/allotjament)
+→ [On dormir a Alp a l'estiu](/pobles/alp/allotjament)

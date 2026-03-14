@@ -138,3 +138,12 @@ Per veure les propietats disponibles a la venda, consulta el nostre [directori d
 
 *Darrera actualització: 2026. El mercat i les agències canvien contínuament. Verifica les dades de contacte i l'activitat actual de cada agència a través de les seves webs o els portals immobiliaris.*
 
+
+---
+
+## Guies immobiliàries per municipi
+
+→ [Immobiliària a Puigcerdà](/pobles/puigcerda/immobiliaria)
+→ [Immobiliària a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Immobiliària a Llívia](/pobles/llivia/immobiliaria)
+→ [Immobiliària a Alp](/pobles/alp/immobiliaria)

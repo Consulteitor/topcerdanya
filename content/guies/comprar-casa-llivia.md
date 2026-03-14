@@ -135,3 +135,13 @@ Per a una comparativa de preus amb tota la comarca, consulta la [guia de preus d
 
 *Darrera actualització: 2026. L'oferta a Llívia és escassa i canvia sovint. Contacta directament amb [immobiliàries de la Cerdanya](/inmobiliaria/agencies) que cobreixi el municipi.*
 
+
+---
+
+## Guies relacionades
+
+→ [Guia completa de Llívia: l'enclavament espanyol dins França](/pobles/llivia)
+→ [Immobiliària a Llívia: preus i mercat 2026](/pobles/llivia/immobiliaria)
+→ [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
+→ [Comprar casa a Bellver de Cerdanya](/guies/comprar-casa-bellver-cerdanya)
+→ [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

@@ -148,3 +148,12 @@ Al directori de Top Cerdanya trobaràs restaurants, allotjaments i activitats se
 La millor manera de gaudir la Cerdanya és triar pocs plans, però ben triats. La comarca premia la lentitud: qui la fa de pressa se'n va amb una llista de llocs visitats; qui s'hi queda amb calma se'n va amb una experiència.
 
 Dos o tres dies, una base ben ubicada, un àpat de referència reservat amb antelació i un pla principal per jornada. Amb això, la Cerdanya funciona molt bé en qualsevol estació.
+
+---
+
+## Guies per municipi
+
+→ [Què fer a Puigcerdà: el llac, el nucli i les excursions](/pobles/puigcerda/que-fer)
+→ [Què fer a Bellver de Cerdanya: medieval i tranquil](/pobles/bellver-de-cerdanya/que-fer)
+→ [Què fer a Llívia: la farmàcia, el castell i la frontera](/pobles/llivia/que-fer)
+→ [Què fer a Alp: esquí, senderisme i Das](/pobles/alp/que-fer)

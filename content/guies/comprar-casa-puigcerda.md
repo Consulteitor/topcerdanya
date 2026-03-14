@@ -144,3 +144,15 @@ Per veure propietats disponibles a Puigcerdà, consulta el nostre [directori de 
 
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual.*
 
+
+---
+
+## Guies relacionades
+
+Si estàs pensant en comprar a la Cerdanya, consulta també les guies dels pobles veïns i les opcions generals de la comarca:
+
+→ [Guia completa de Puigcerdà: viure, visitar i comprar](/pobles/puigcerda)
+→ [Comprar casa a Bellver de Cerdanya: alternativa autèntica](/guies/comprar-casa-bellver-cerdanya)
+→ [Comprar casa a Llívia: l'enclavament únic](/guies/comprar-casa-llivia)
+→ [Comprar casa a Alp: a peu de les pistes](/guies/comprar-casa-alp)
+→ [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

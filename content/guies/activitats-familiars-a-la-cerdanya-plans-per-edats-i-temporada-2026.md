@@ -234,3 +234,12 @@ En temporada alta (agost i caps de setmana d'hivern), sí, i amb antelació. En 
 La Cerdanya té activitats familiars per a totes les edats i totes les estacions. La clau és no intentar fer-ho tot: tria l'activitat adequada per a l'edat dels nens, surt d'hora i reserva el que cal. Amb aquesta lògica, la comarca rarament decepciona.
 
 Un pla fort per jornada, una base ben ubicada i un bon dinar reservat. Amb això, la Cerdanya amb nens funciona molt bé en qualsevol estació.
+
+---
+
+## Per municipi
+
+→ [Puigcerdà amb nens](/pobles/puigcerda/amb-nens)
+→ [Alp amb nens: esquí i activitats de muntanya](/pobles/alp/amb-nens)
+→ [Bellver de Cerdanya amb nens](/pobles/bellver-de-cerdanya/amb-nens)
+→ [Llívia amb nens: museu i trajecte per França](/pobles/llivia/amb-nens)

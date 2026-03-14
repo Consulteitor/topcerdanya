@@ -176,3 +176,12 @@ Per veure l'oferta de [lloguers de temporada disponibles a la Cerdanya](/inmobil
 
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual, subjectes a variació.*
 
+
+---
+
+## Els pobles amb més demanda de lloguer d'hivern
+
+→ [Alp: La Molina i Masella, el mercat d'hivern més actiu](/pobles/alp)
+→ [Puigcerdà: la capital amb l'oferta més àmplia](/pobles/puigcerda)
+→ [Bellver de Cerdanya: tranquil·litat i preus inferiors](/pobles/bellver-de-cerdanya)
+→ [Llívia: l'enclavament amb accés a les pistes franceses](/pobles/llivia)

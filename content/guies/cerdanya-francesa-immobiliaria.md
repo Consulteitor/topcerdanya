@@ -115,3 +115,12 @@ Per a informació comparativa sobre el mercat de tota la Cerdanya, consulta la [
 
 *Darrera actualització: 2026. La normativa francesa és complexa. Per a una compra a França, és imprescindible comptar amb un notaire local i un assessor fiscal especialitzat en fiscalitat hispano-francesa.*
 
+
+---
+
+## La Cerdanya espanyola: guies per municipi
+
+→ [Puigcerdà: la capital de la Cerdanya espanyola](/pobles/puigcerda)
+→ [Llívia: l'enclavament espanyol dins França](/pobles/llivia)
+→ [Bellver de Cerdanya: la Baixa Cerdanya](/pobles/bellver-de-cerdanya)
+→ [Alp: La Molina i les pistes](/pobles/alp)

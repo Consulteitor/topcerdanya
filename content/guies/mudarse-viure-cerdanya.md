@@ -127,3 +127,12 @@ Per a informació sobre propietats disponibles, consulta el [directori de propie
 
 *Darrera actualització: 2026.*
 
+
+---
+
+## Guies de vida als pobles
+
+→ [Viure a Puigcerdà: la capital amb tots els serveis](/pobles/puigcerda)
+→ [Viure a Bellver de Cerdanya: vida de comarca real](/pobles/bellver-de-cerdanya)
+→ [Viure a Llívia: l'enclavament únic](/pobles/llivia)
+→ [Viure a Alp: Das, La Molina i Masella](/pobles/alp)

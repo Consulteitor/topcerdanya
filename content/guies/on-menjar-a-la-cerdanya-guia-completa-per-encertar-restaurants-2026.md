@@ -141,3 +141,12 @@ El trinxat de qualitat es troba en restaurants de cuina de muntanya de tota la c
 Menjar bé a la Cerdanya és fàcil si t'anticipes una mica. El producte local és excel·lent —carns, formatges, embotits, verdures de secà—, i hi ha restaurants que en treuen molt bon rendiment.
 
 La clau és combinar bé el restaurant amb el tipus de dia: un menú sòlid en un bar de fonda si vas de ruta, una taula reservada en un lloc de cuina de mercat si l'àpat és el pla principal. Amb aquesta lògica, l'experiència gastronòmica de la Cerdanya rarament decepciona.
+
+---
+
+## Restaurants per municipi
+
+→ [On menjar a Puigcerdà: la capital gastronòmica](/pobles/puigcerda/restaurants)
+→ [On menjar a Bellver de Cerdanya: cuina de comarca real](/pobles/bellver-de-cerdanya/restaurants)
+→ [On menjar a Llívia: la influència de la frontera](/pobles/llivia/restaurants)
+→ [On menjar a Alp: del peu de pistes al poble de Das](/pobles/alp/restaurants)

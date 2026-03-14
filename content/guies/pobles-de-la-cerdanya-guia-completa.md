@@ -155,3 +155,12 @@ Puigcerdà és accessible en tren des de Barcelona (FGC línia R3). Des de Puigc
 Visitar els pobles de la Cerdanya és molt més gratificant quan prioritzes qualitat de visita en lloc de quantitat. Cada nucli té la seva personalitat: Puigcerdà per als serveis i l'ambient, Llívia per la singularitat, Bellver per l'estètica medieval, Meranges per la muntanya, Bolvir per la calma a prop de tot.
 
 Tria dos o tres pobles, combina'ls bé, deixa temps per dinar sense presses i guarda sempre marge per improvisar. Amb aquest ritme, la Cerdanya sorprèn.
+
+---
+
+## Guies completes per poble
+
+→ [Puigcerdà: la capital de la Cerdanya](/pobles/puigcerda)
+→ [Bellver de Cerdanya: capital de la Baixa Cerdanya](/pobles/bellver-de-cerdanya)
+→ [Llívia: l'enclavament espanyol dins França](/pobles/llivia)
+→ [Alp: La Molina, Masella i Das](/pobles/alp)

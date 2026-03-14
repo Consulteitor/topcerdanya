@@ -173,3 +173,12 @@ Per aprofundir en els preus del mercat, consulta la nostra [anàlisi de preus de
 
 *Darrera actualització: 2026. La informació sobre rendibilitats és orientativa i no constitueix assessorament financer. Consulta sempre un professional abans de prendre decisions d'inversió.*
 
+
+---
+
+## Inversió per municipi
+
+→ [Alp: el mercat de lloguer d'hivern més actiu](/pobles/alp/immobiliaria)
+→ [Puigcerdà: demanda tot l'any, preus alts](/pobles/puigcerda/immobiliaria)
+→ [Bellver de Cerdanya: entrada més assequible](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Llívia: mercat petit i singular](/pobles/llivia/immobiliaria)

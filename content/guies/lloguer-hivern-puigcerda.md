@@ -173,3 +173,12 @@ Per a una visió comparativa de tot el mercat de lloguer d'hivern de la Cerdanya
 
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual de Puigcerdà.*
 
+
+---
+
+## Més sobre Puigcerdà i la comarca
+
+→ [Guia completa de Puigcerdà: viure, visitar i comprar](/pobles/puigcerda)
+→ [On dormir a Puigcerdà: hotels i cases rurals](/pobles/puigcerda/allotjament)
+→ [Lloguer d'hivern a tota la Cerdanya](/guies/lloguer-hivern-cerdanya)
+→ [Alp i La Molina: llogar a peu de pistes](/pobles/alp)

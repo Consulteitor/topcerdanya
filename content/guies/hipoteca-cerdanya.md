@@ -151,3 +151,12 @@ Per a càlcul complet d'impostos i despeses de compra, consulta la [guia d'impos
 
 *Darrera actualització: 2026. Les condicions hipotecàries varien contínuament. Consulta diverses entitats i una corredoria hipotecaria per obtenir les millors condicions actuals.*
 
+
+---
+
+## Mercat per municipi
+
+→ [Preus a Puigcerdà](/pobles/puigcerda/immobiliaria)
+→ [Preus a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Preus a Llívia](/pobles/llivia/immobiliaria)
+→ [Preus a Alp](/pobles/alp/immobiliaria)

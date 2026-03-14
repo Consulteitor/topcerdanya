@@ -146,3 +146,11 @@ Per a una visió de conjunt sobre la inversió immobiliaria a la Cerdanya, consu
 
 *Darrera actualització: 2026. La normativa sobre HUT evoluciona. Consulta sempre les fonts oficials i un professional especialitzat per a la teva situació concreta.*
 
+
+---
+
+## Per municipi
+
+→ [Llogar a Puigcerdà: mercat i regulació](/pobles/puigcerda/immobiliaria)
+→ [Llogar a Alp: alta demanda d'hivern](/pobles/alp/immobiliaria)
+→ [Llogar a Llívia](/pobles/llivia/immobiliaria)

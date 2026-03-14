@@ -166,3 +166,12 @@ Perfectament. Puigcerdà té tots els serveis necessaris (farmàcia, supermercat
 El millor allotjament per a una família a la Cerdanya és el que té cuina equipada, espai exterior segur, habitació familiar real i una ubicació propera a les activitats que voleu fer. Amb aquests quatre criteris, l'elecció es simplifica molt.
 
 Reserva amb antelació a l'estiu i als caps de setmana de neu, llegeix les fitxes completes i confirma els detalls importants per escrit. Amb un bon allotjament com a base, la Cerdanya amb nens és un dels destins familiars més fàcils i gratificants de Catalunya.
+
+---
+
+## Per municipi
+
+→ [On dormir a Puigcerdà amb nens: prop del llac](/pobles/puigcerda/allotjament)
+→ [On dormir a Alp amb nens: a prop de les pistes](/pobles/alp/allotjament)
+→ [On dormir a Bellver de Cerdanya amb nens](/pobles/bellver-de-cerdanya/allotjament)
+→ [On dormir a Llívia amb nens](/pobles/llivia/allotjament)

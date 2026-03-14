@@ -135,3 +135,13 @@ Per a una visió comparativa del mercat, consulta la [guia de preus d'habitatge 
 
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual de Bellver de Cerdanya.*
 
+
+---
+
+## Guies relacionades
+
+→ [Guia completa de Bellver de Cerdanya: viure i visitar](/pobles/bellver-de-cerdanya)
+→ [Immobiliària a Bellver: preus i mercat 2026](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
+→ [Comprar casa a Llívia](/guies/comprar-casa-llivia)
+→ [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

@@ -131,3 +131,12 @@ Sí, els refugis del Cadí-Moixeró admeten famílies. Cal valorar l'edat dels n
 L'allotjament perfecte per a senderisme a la Cerdanya és el que et permet sortir als camins sense desplaçament innecessari. Si vens per Malniu, dorm a Meranges. Si vens pel Cadí, dorm al sud. Si vens a fer rutes de vall o amb nens, Bolvir és el punt d'equilibri ideal: bona oferta, bones rutes properes i fàcil accés a tota la comarca.
 
 Reserva amb antelació a l'estiu i revisa la política de cancel·lació. La Cerdanya recompensa qui planifica sense ser rígid.
+
+---
+
+## Bases per a excursionistes per municipi
+
+→ [Bellver de Cerdanya: porta d'entrada al Cadí nord](/pobles/bellver-de-cerdanya/allotjament)
+→ [Alp: base per al Puigmal i les rutes d'alta muntanya](/pobles/alp/allotjament)
+→ [Puigcerdà: la base amb més serveis](/pobles/puigcerda/allotjament)
+→ [Llívia: base per a les rutes vers el Puigpedrós](/pobles/llivia/allotjament)

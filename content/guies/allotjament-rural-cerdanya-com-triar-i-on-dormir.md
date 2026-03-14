@@ -140,3 +140,12 @@ L'allotjament rural a la Cerdanya és un dels punts forts de la comarca. L'ofert
 La clau és triar en funció del que faràs, no en funció del preu. Un allotjament ben ubicat, amb calefacció adequada i una política de cancel·lació clara val molt més que una opció barata que no encaixa amb el ritme que busques. Reserva amb antelació en temporada alta i guarda sempre marge per a la meteorologia.
 
 Al directori de Top Cerdanya trobaràs una selecció d'allotjaments rurals de la comarca amb informació de contacte directe i valoracions.
+
+---
+
+## Per municipi
+
+→ [On dormir a Puigcerdà: hotels, cases rurals i apartaments](/pobles/puigcerda/allotjament)
+→ [On dormir a Bellver de Cerdanya: nucli i terme](/pobles/bellver-de-cerdanya/allotjament)
+→ [On dormir a Llívia: nucli medieval](/pobles/llivia/allotjament)
+→ [On dormir a Alp: La Molina i Masella](/pobles/alp/allotjament)

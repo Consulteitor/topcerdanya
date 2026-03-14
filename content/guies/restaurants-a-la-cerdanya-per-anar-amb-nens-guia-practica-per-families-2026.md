@@ -116,3 +116,12 @@ El trinxat (patata i col amb cansalada) és el plat més icònic i sol agradar a
 Menjar bé amb nens a la Cerdanya no és difícil si t'anticipes. La comarca té molt bona oferta familiar, des de restaurants de cuina de mercat amb terrassa fins a fondes de poble que fa anys que serveixen famílies senceres. La clau és reservar, arribar aviat i adaptar el format de dinar al ritme del dia.
 
 Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026) per organitzar tota l'escapada familiar.
+
+---
+
+## Restaurants amb nens per municipi
+
+→ [Restaurants a Puigcerdà: la zona del llac i el nucli](/pobles/puigcerda/restaurants)
+→ [Restaurants a Alp: dinar prop de les pistes](/pobles/alp/restaurants)
+→ [Restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
+→ [Restaurants a Llívia: la plaça Major](/pobles/llivia/restaurants)

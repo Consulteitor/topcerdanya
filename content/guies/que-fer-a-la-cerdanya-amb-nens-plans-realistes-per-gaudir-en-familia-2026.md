@@ -148,3 +148,12 @@ Pràcticament sí. El tren de FGC arriba fins a Puigcerdà (línia R3 des de Bar
 La Cerdanya és una destinació excel·lent per a famílies amb nens, en qualsevol estació. La clau és no sobrecarregar el dia: un pla principal, un bon dinar i temps lliure. Amb nens, la comarca recompensa la lentitud tant com ho fa amb els adults.
 
 Tria la base d'allotjament en funció dels plans, reserva el restaurant amb antelació i surt d'hora. Amb aquest ritme, la Cerdanya amb nens funciona molt bé.
+
+---
+
+## Plans amb nens per municipi
+
+→ [Puigcerdà amb nens: el llac i les activitats d'estiu](/pobles/puigcerda/amb-nens)
+→ [Alp amb nens: esquí a La Molina i el tren](/pobles/alp/amb-nens)
+→ [Bellver de Cerdanya amb nens: el castell i Santa Maria de Talló](/pobles/bellver-de-cerdanya/amb-nens)
+→ [Llívia amb nens: la Farmàcia Esteva i el trajecte per França](/pobles/llivia/amb-nens)

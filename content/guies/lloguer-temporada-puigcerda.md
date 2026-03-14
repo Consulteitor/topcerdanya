@@ -159,3 +159,11 @@ Per veure l'oferta de [lloguers disponibles a la Cerdanya](/inmobiliaria/lloguer
 
 *Darrera actualització: 2026. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
 
+
+---
+
+## Més sobre Puigcerdà i la comarca
+
+→ [Guia completa de Puigcerdà](/pobles/puigcerda)
+→ [On dormir a Puigcerdà](/pobles/puigcerda/allotjament)
+→ [Lloguer de temporada a tota la Cerdanya](/guies/lloguer-temporada-cerdanya)
