@@ -1500,20 +1500,6 @@
     "imatge": ""
   },
   {
-    "id": "hotel-fonda-merce",
-    "nom": "Hotel Fonda Mercè",
-    "categoria": "gastronomia",
-    "poble": "Llívia",
-    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: Ha estat una experiència brutal!!",
-    "telefon": "",
-    "web": "",
-    "valoracio": 0.0,
-    "ressenyes": 0,
-    "tags": [],
-    "destacat": false,
-    "imatge": ""
-  },
-  {
     "id": "esquirol",
     "nom": "Esquirol",
     "categoria": "gastronomia",
@@ -1737,20 +1723,6 @@
       "Restaurant"
     ],
     "destacat": true,
-    "imatge": ""
-  },
-  {
-    "id": "la-terrasseta-de-lo-vintage",
-    "nom": "La terrasseta de \"Lo Vintage\"",
-    "categoria": "gastronomia",
-    "poble": "Llívia",
-    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: Parada obligatòria!",
-    "telefon": "",
-    "web": "",
-    "valoracio": 0.0,
-    "ressenyes": 0,
-    "tags": [],
-    "destacat": false,
     "imatge": ""
   },
   {

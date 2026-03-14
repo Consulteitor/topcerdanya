@@ -69,7 +69,7 @@ function DirectoriContingut() {
             <h3 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: '20px', fontWeight: 700, lineHeight: 1.15, marginBottom: '10px' }}>{n.nom}</h3>
             <p style={{ fontFamily: "'Source Serif 4', Georgia, serif", fontSize: '13px', fontWeight: 300, lineHeight: 1.6, color: '#5a5550', marginBottom: '14px', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{n.descripcio}</p>
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-              <span style={{ color: '#d4a847', fontSize: '11px' }}>{'★'.repeat(Math.floor(n.valoracio))}</span>
+              <span style={{ color: '#d4a847', fontSize: '11px' }}>{'★'.repeat(Math.floor(n.valoracio || 0))}</span>
               <span style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', color: '#9a9489' }}>{n.valoracio} · {n.ressenyes} ressenyes</span>
             </div>
           </Link>
