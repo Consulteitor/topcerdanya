@@ -3,7 +3,6 @@
 export const metadata = {
   title: 'Immobiliària a la Cerdanya: comprar, llogar i invertir (2026)',
   description: 'Tot sobre el mercat immobiliari de la Cerdanya: guies per comprar o llogar, preus per municipi, agències locals de confiança i propietats destacades.',
-,
   openGraph: {
     title: "Immobiliària a la Cerdanya",
     description: "Guies del mercat immobiliari de la Cerdanya: comprar casa, llogar, preus i tot el que cal saber per invertir o viure a la comarca.",

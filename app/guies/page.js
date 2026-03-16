@@ -4,7 +4,6 @@ import { getGuies } from "@/lib/sheets";
 export const metadata = {
   title: "Guies de la Cerdanya | Top Cerdanya",
   description: "Guies pràctiques per descobrir la Cerdanya: què fer, on menjar, on dormir, rutes, pobles i molt més. Contingut actualitzat i recomanacions concretes.",
-,
   openGraph: {
     title: "Guies de la Cerdanya | Top Cerdanya",
     description: "Guies pràctiques per descobrir la Cerdanya: què fer, on menjar, on dormir, rutes, pobles i molt més. Contingut actualitzat i recomanacions concretes.",
