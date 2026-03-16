@@ -4,6 +4,22 @@ import { useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import negocisData from '@/data/negocis.json'
 
+export const metadata = {
+  title: "Directori de la Cerdanya | Top Cerdanya",
+  description: "Restaurants, allotjaments, activitats i serveis de la Cerdanya. El directori més complet de la comarca.",
+  openGraph: {
+    title: "Directori de la Cerdanya",
+    description: "Restaurants, allotjaments, activitats i serveis de la Cerdanya. El directori més complet de la comarca.",
+    url: "https://topcerdanya.com/directori",
+    siteName: "Top Cerdanya",
+    locale: "ca_ES",
+    type: "website",
+  },
+  alternates: { canonical: "https://topcerdanya.com/directori" },
+};
+
+
+
 const CATEGORIES = [
   { id: 'gastronomia', label: 'Gastronomia' },
   { id: 'allotjament', label: 'Allotjament' },

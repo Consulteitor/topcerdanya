@@ -4,7 +4,17 @@ import { getGuies } from "@/lib/sheets";
 export const metadata = {
   title: "Guies de la Cerdanya | Top Cerdanya",
   description: "Guies pràctiques per descobrir la Cerdanya: què fer, on menjar, on dormir, rutes, pobles i molt més. Contingut actualitzat i recomanacions concretes.",
-};
+,
+  openGraph: {
+    title: "Guies de la Cerdanya | Top Cerdanya",
+    description: "Guies pràctiques per descobrir la Cerdanya: què fer, on menjar, on dormir, rutes, pobles i molt més. Contingut actualitzat i recomanacions concretes.",
+    url: "https://topcerdanya.com/guies",
+    siteName: "Top Cerdanya",
+    locale: "ca_ES",
+    type: "website",
+  },
+  alternates: { canonical: "https://topcerdanya.com/guies" },
+};;
 
 const C = {
   black: "#0a0a0a",

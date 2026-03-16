@@ -27,6 +27,16 @@ const GRADS = [
 export const metadata = {
   title: 'Notícies de La Cerdanya | Top Cerdanya',
   description: 'Totes les notícies de La Cerdanya: territori, economia, cultura, esports i molt més.',
+,
+  openGraph: {
+    title: "Notícies de la Cerdanya",
+    description: "Les últimes notícies de la Cerdanya: actualitat local, cultura, esports i territori.",
+    url: "https://topcerdanya.com/noticies",
+    siteName: "Top Cerdanya",
+    locale: "ca_ES",
+    type: "website",
+  },
+  alternates: { canonical: "https://topcerdanya.com/noticies" },
 };
 
 export default async function NoticiesPage() {

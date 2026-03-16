@@ -4,6 +4,15 @@ import { getPobles } from "@/lib/sheets";
 export const metadata = {
   title: "Pobles de la Cerdanya | Top Cerdanya",
   description: "Guies completes dels pobles de la Cerdanya: Puigcerdà, Bellver, Llívia, Alp, Das i molts més. Tot el que cal saber per visitar, viure i descobrir cada municipi.",
+  openGraph: {
+    title: "Pobles de la Cerdanya",
+    description: "Guies completes dels pobles de la Cerdanya: Puigcerdà, Bellver, Llívia, Alp i molts més.",
+    url: "https://topcerdanya.com/pobles",
+    siteName: "Top Cerdanya",
+    locale: "ca_ES",
+    type: "website",
+  },
+  alternates: { canonical: "https://topcerdanya.com/pobles" },
 };
 
 const C = {
