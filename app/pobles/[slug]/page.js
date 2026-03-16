@@ -11,11 +11,6 @@ export async function generateStaticParams() {
 }
 
 
-const markdownComponents = {
-  h1: ({children}) => <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(22px,3vw,30px)", fontWeight: 800, lineHeight: 1.15, marginBottom: "12px", marginTop: "32px" }}>{children}</h2>,
-  h2: ({children}) => <h3 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(18px,2.5vw,24px)", fontWeight: 700, lineHeight: 1.2, marginBottom: "10px", marginTop: "28px" }}>{children}</h3>,
-  h3: ({children}) => <h4 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(16px,2vw,20px)", fontWeight: 700, lineHeight: 1.2, marginBottom: "8px", marginTop: "24px" }}>{children}</h4>,
-};
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -220,7 +215,7 @@ export default async function PoblaPage({ params }) {
           {/* ARTICLE */}
           <div className="article-body" style={{ minWidth: 0 }}>
             {contingut ? (
-              <ReactMarkdown components={markdownComponents}>{contingut}</ReactMarkdown>
+              <ReactMarkdown>{contingut}</ReactMarkdown>
             ) : (
               <p style={{ fontStyle: "italic", color: C.midGray, fontSize: "17px" }}>
                 Afegeix el fitxer <code>content/pobles/{slug}.md</code> al projecte.

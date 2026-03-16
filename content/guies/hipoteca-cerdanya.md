@@ -1,5 +1,3 @@
-# Hipoteca per comprar a la Cerdanya: guia de finançament (2026)
-
 **Slug:** `hipoteca-cerdanya`
 **Meta description:** Guia completa sobre hipoteques per comprar casa a la Cerdanya el 2026: habitatge habitual vs. segona residència, quant finançen els bancs, tipus fix vs. variable, i com preparar la sol·licitud.
 

@@ -1,5 +1,3 @@
-# Impostos i despeses en comprar un habitatge a la Cerdanya: el càlcul complet (2026)
-
 **Slug:** `impostos-compra-habitatge-cerdanya`
 **Meta description:** Quants impostos i despeses has de pagar en comprar una casa a la Cerdanya el 2026? Càlcul complet d'ITP, IVA, AJD, notaria, registre i gestoria, amb exemples reals per trams de preu.
 

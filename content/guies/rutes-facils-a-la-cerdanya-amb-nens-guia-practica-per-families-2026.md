@@ -1,5 +1,3 @@
-# Rutes fàcils a la Cerdanya amb nens: guia pràctica per a famílies (2026)
-
 **Slug:** `rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026`
 **Meta description:** Les millors rutes fàcils a la Cerdanya per fer amb nens: distàncies, desnivell, edat recomanada i consells pràctics per a cada itinerari. Guia actualitzada 2026.
 

@@ -1,5 +1,3 @@
-# Obra nova a la Cerdanya: promocions, preus i per on buscar (2026)
-
 **Slug:** `obra-nova-cerdanya`
 **Meta description:** Guia sobre l'obra nova a la Cerdanya el 2026: escassetat del mercat, preus reals, promocions actives, avantatges i riscos de comprar sobre plànol als Pirineus.
 

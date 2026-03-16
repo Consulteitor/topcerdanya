@@ -1,5 +1,3 @@
-# Allotjaments prop de rutes a la Cerdanya: on dormir si vens a caminar (2026)
-
 **Slug:** `allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026`
 **Meta description:** On allotjar-se a la Cerdanya si vens a fer senderisme o rutes de muntanya: cases rurals, hotels i refugis propers als millors itineraris de la comarca. Guia 2026.
 

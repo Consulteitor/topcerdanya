@@ -1,5 +1,3 @@
-# Lloguer d'hivern a Puigcerdà: preus, zones i com no arribar tard (2026)
-
 **Slug:** `lloguer-hivern-puigcerda`
 **Meta description:** Guia per trobar lloguer d'hivern a Puigcerdà el 2026: preus reals per zona, quan buscar, equipament imprescindible, consells de contracte i comparativa amb Alp i La Molina.
 

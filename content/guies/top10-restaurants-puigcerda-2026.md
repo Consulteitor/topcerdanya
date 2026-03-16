@@ -1,5 +1,3 @@
-# Els 10 millors restaurants de Puigcerdà segons Google · Edició març 2026
-
 Puigcerdà és la capital de la Cerdanya i el municipi amb més oferta de restauració de tota la comarca. Això té dues cares: per un costat, pots trobar de tot; per l'altre, entre tanta oferta és fàcil acabar en un lloc que viu de la ubicació i no de la cuina. Aquesta llista filtra el soroll: només els restaurants que Google Maps valora amb un 4,7 o més, amb el volum de ressenyes suficient per considerar el resultat fiable.
 
 El rànquing s'ordena per nota i, dins de la mateixa nota, per nombre de ressenyes —el millor indicador de consistència al llarg del temps.

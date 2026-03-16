@@ -1,5 +1,3 @@
-# Invertir en immobiliària a la Cerdanya: rendibilitat, riscos i estratègies (2026)
-
 **Slug:** `invertir-cerdanya`
 **Meta description:** Guia completa per invertir en immobiliària a la Cerdanya el 2026: rendibilitat real del lloguer turístic, tipus de propietats amb millor retorn, riscos i estratègies per maximitzar la inversió.
 

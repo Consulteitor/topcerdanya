@@ -1,5 +1,3 @@
-# Què veure a la Cerdanya en 2 dies: itinerari pràctic (2026)
-
 **Slug:** `que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026`
 **Meta description:** Itinerari per a 2 dies a la Cerdanya: el millor de la comarca sense improvisar. Llívia, Puigcerdà, rutes, restaurants i on dormir. Guia pràctica 2026.
 

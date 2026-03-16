@@ -1,5 +1,3 @@
-# Segona residència a la Cerdanya: tot el que has de saber abans de comprar (2026)
-
 **Slug:** `segona-residencia-cerdanya`
 **Meta description:** Guia completa sobre la segona residència a la Cerdanya el 2026: impostos, despeses recurrents, lloguer ocasional, normativa, pros i contres, i per quines zones apostar.
 

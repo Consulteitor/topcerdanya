@@ -1,5 +1,3 @@
-# Activitats familiars a la Cerdanya: plans per edats i temporada (2026)
-
 **Slug:** `activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026`
 **Meta description:** Guia d'activitats familiars a la Cerdanya: plans per edats (0–3, 3–6, 6–10, 10+), per estació i per temps. Amb consells pràctics per no improvisar. Actualitzada 2026.
 

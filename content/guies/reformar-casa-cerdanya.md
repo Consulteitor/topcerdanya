@@ -1,5 +1,3 @@
-# Reformar casa a la Cerdanya: guia pràctica, costos i com evitar sorpreses (2026)
-
 **Slug:** `reformar-casa-cerdanya`
 **Meta description:** Guia pràctica per reformar casa a la Cerdanya el 2026: costos reals per tipologia de reforma, llicències necessàries, empreses locals, terminis, i com gestionar una obra des de Barcelona.
 

@@ -1,5 +1,3 @@
-# Comprar casa a Llívia: l'enclavament espanyol enmig de França (2026)
-
 **Slug:** `comprar-casa-llivia`
 **Meta description:** Guia per comprar casa a Llívia el 2026: per què és un mercat immobiliari únic, preus, avantatges fiscals i pràctics, tipologies disponibles i tot el que has de saber de l'enclavament espanyol.
 

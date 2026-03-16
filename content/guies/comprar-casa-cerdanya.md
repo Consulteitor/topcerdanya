@@ -1,5 +1,3 @@
-# Comprar casa a la Cerdanya: guia completa per no cometre errors (2026)
-
 **Slug:** `comprar-casa-cerdanya`
 **Meta description:** Guia completa per comprar casa a la Cerdanya el 2026: preus per municipi, tipus de propietats, impostos, consells legals i les millors zones. Tot el que necessites saber abans de signar.
 

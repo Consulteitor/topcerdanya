@@ -1,5 +1,3 @@
-# On dormir a la Cerdanya amb nens: guia per a famílies (2026)
-
 **Slug:** `on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026`
 **Meta description:** On allotjar-se a la Cerdanya amb nens: cases rurals per a famílies, hotels amb piscina i els millors pobles on tenir la base. Guia pràctica 2026.
 

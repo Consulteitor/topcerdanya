@@ -1,5 +1,3 @@
-# Comprar casa a la Cerdanya francesa: oportunitat i tot el que has de saber (2026)
-
 **Slug:** `cerdanya-francesa-immobiliaria`
 **Meta description:** Guia per comprar casa a la Cerdanya francesa el 2026: Saillagouse, Font-Romeu, Angoustrine, preus, normativa francesa, fiscalitat i per què és una alternativa interessant a la Cerdanya espanyola.
 

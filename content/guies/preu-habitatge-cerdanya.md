@@ -1,5 +1,3 @@
-# Preu de l'habitatge a la Cerdanya: anàlisi per municipi i tipus de propietat (2026)
-
 **Slug:** `preu-habitatge-cerdanya`
 **Meta description:** Anàlisi completa del preu de l'habitatge a la Cerdanya el 2026: preu per m² per municipi, evolució dels preus, comparativa per tipus de propietat i tendències del mercat immobiliari.
 

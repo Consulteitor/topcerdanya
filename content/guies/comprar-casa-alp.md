@@ -1,5 +1,3 @@
-# Comprar casa a Alp: el municipi de les pistes de la Cerdanya (2026)
-
 **Slug:** `comprar-casa-alp`
 **Meta description:** Guia per comprar casa a Alp el 2026: el municipi que inclou La Molina i Masella, preus per zona, proximitat a les pistes, mercat immobiliari, i tot el que has de saber sobre Alp i les seves urbanitzacions.
 

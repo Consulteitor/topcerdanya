@@ -1,5 +1,3 @@
-# Comprar casa a Puigcerdà: guia per al mercat immobiliari de la capital de la Cerdanya (2026)
-
 **Slug:** `comprar-casa-puigcerda`
 **Meta description:** Guia completa per comprar casa a Puigcerdà el 2026: preus per zona, tipologies, barris, avantatges i inconvenients de la capital de la Cerdanya, i per on buscar.
 

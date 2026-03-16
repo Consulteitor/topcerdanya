@@ -1,5 +1,3 @@
-# Comprar casa a Bellver de Cerdanya: la capital de la Baixa Cerdanya (2026)
-
 **Slug:** `comprar-casa-bellver-cerdanya`
 **Meta description:** Guia per comprar casa a Bellver de Cerdanya el 2026: preus, zones, tipologies, avantatges sobre Puigcerdà, i tot el que necessites saber sobre el mercat immobiliari de la capital de la Baixa Cerdanya.
 

@@ -1,5 +1,3 @@
-# Lloguer d'hivern a la Cerdanya: guia completa per trobar casa per esquiar (2026)
-
 **Slug:** `lloguer-hivern-cerdanya`
 **Meta description:** Guia completa per trobar lloguer d'hivern a la Cerdanya el 2026: preus per zona, quan buscar, La Molina vs Masella, Puigcerdà, consells per al contracte i les millors zones per a famílies.
 

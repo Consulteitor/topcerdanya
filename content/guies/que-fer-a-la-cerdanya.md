@@ -1,5 +1,3 @@
-# Què fer a la Cerdanya: la guia completa per tot l'any (2026)
-
 La Cerdanya no és un destí de cap de setmana. És una comarca que canvia completament segons quan hi vas: no té res a veure esquiar a La Molina el febrer amb passejar pels camps de Bolvir un diumenge de setembre, ni el mercat de Puigcerdà ple de gent a l'agost amb el nucli de Bellver en silenci un dilluns de novembre. La mateixa plana, quatre estacions molt diferents.
 
 Aquesta guia ordena el que pots fer a la Cerdanya per tipus d'activitat i per temporada. No és una llista de postals. És el que realment val la pena, amb el context suficient per saber si t'interessa o no.

@@ -1,5 +1,3 @@
-# Lloguer de temporada a la Cerdanya: guia completa per trobar (o posar) una casa (2026)
-
 **Slug:** `lloguer-temporada-cerdanya`
 **Meta description:** Tot sobre el lloguer de temporada a la Cerdanya el 2026: preus per zona i temporada, consells per trobar casa, diferències entre hivern i estiu, i com posar la teva propietat en lloguer.
 

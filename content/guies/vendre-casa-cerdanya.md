@@ -1,5 +1,3 @@
-# Vendre casa a la Cerdanya: guia completa per vendre bé i al millor preu (2026)
-
 **Slug:** `vendre-casa-cerdanya`
 **Meta description:** Guia completa per vendre casa a la Cerdanya el 2026: preparació, preu de sortida, impostos del venedor, quan vendre, com triar immobiliaria i com negociar sense deixar diners sobre la taula.
 

@@ -1,5 +1,3 @@
-# Lloguer d'estiu a la Cerdanya: guia per trobar casa i gaudir dels Pirineus (2026)
-
 **Slug:** `lloguer-estiu-cerdanya`
 **Meta description:** Guia per trobar lloguer d'estiu a la Cerdanya el 2026: preus per zona, quan reservar, les millors zones per a famílies, consells per al contracte i activitats d'estiu als Pirineus.
 

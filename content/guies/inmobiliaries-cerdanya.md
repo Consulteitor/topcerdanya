@@ -1,5 +1,3 @@
-# Immobiliàries a la Cerdanya: guia per triar el millor agent immobiliari (2026)
-
 **Slug:** `inmobiliaries-cerdanya`
 **Meta description:** Guia per triar la millor immobiliaria a la Cerdanya el 2026: com funcionen les agències locals, comissions, diferències entre agències, i consells per no cometres errors costosos.
 

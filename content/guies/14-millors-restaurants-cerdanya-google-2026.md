@@ -1,5 +1,3 @@
-# Els 14 millors restaurants de la Cerdanya segons Google · Edició març 2026
-
 Hi ha moltes maneres de fer una llista de restaurants. La nostra és simple: agafem les valoracions de Google Maps —la plataforma amb més ressenyes reals de la comarca— i filtrem els establiments que han aconseguit mantenir un 4,8 o més sobre 5. No és una llista de "el millor trinxat" ni de "el chef més creatiu". És una llista dels llocs on la gent repeteix, recomana i porta els seus convidats de fora.
 
 Cal dir que no tots els 5 sobre 5 pesen igual: amb 11 ressenyes, una nota perfecta és prometedora però no té el mateix aval que 378 o 651 valoracions. Llegiu el context de cada cas.

@@ -1,5 +1,3 @@
-# Lloguer de temporada a Puigcerdà: preus, zones i on buscar (2026)
-
 **Slug:** `lloguer-temporada-puigcerda`
 **Meta description:** Guia completa per trobar lloguer de temporada a Puigcerdà el 2026: preus per zona, hivern i estiu, quan buscar, consells per al contracte i les millors zones per a famílies i parelles.
 

@@ -1,5 +1,3 @@
-# Llicència turística a la Cerdanya: com obtenir-la, requisits i situació actual (2026)
-
 **Slug:** `llicencia-turistica-cerdanya`
 **Meta description:** Tot sobre la llicència turística a la Cerdanya el 2026: requisits, tràmits, municipis amb moratòria, diferència entre HUT i apartament turístic, i com afecta el Decret llei 3/2023.
 
