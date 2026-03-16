@@ -91,9 +91,8 @@ export default function Navbar() {
       <div className="topbar" style={{ borderBottom: '1px solid var(--black)', padding: '8px 40px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontFamily: 'var(--sans)', fontSize: '11px', color: 'var(--mid-gray)', letterSpacing: '0.08em', textTransform: 'uppercase' }}>
         <span>{dataStr}</span>
         <div className="topbar-links" style={{ display: 'flex', gap: '24px' }}>
-          {['Newsletter', 'Publicitat', 'Contacte', 'Afegir negoci'].map(l => (
-            <a key={l} href="#" style={{ color: 'var(--mid-gray)' }}>{l}</a>
-          ))}
+          <a href="/badge" style={{ color: 'var(--mid-gray)', fontFamily: 'var(--sans)', fontSize: '10px', letterSpacing: '0.12em', textTransform: 'uppercase', textDecoration: 'none' }}>Badge</a>
+          <a href="/afegir-negoci" style={{ color: 'var(--mid-gray)', fontFamily: 'var(--sans)', fontSize: '10px', letterSpacing: '0.12em', textTransform: 'uppercase', textDecoration: 'none' }}>Afegir negoci</a>
         </div>
       </div>
       <header className="masthead" style={{ borderBottom: '3px solid var(--black)', padding: '24px 40px 20px', textAlign: 'center' }}>

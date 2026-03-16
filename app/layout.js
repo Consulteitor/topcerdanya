@@ -17,6 +17,8 @@ export default function RootLayout({ children }) {
           <span>© 2026 Top Cerdanya · Tots els drets reservats · Fet amb amor al Pirineu</span>
         </div>
         <div style={{ borderTop: '1px solid #e8e4dc', marginTop: '20px', paddingTop: '16px', display: 'flex', gap: '24px', flexWrap: 'wrap' }}>
+          <Link href="/badge" style={{ color: '#9a9489', textDecoration: 'none' }}>Badge</Link>
+          <a href="mailto:info@topcerdanya.com" style={{ color: '#9a9489', textDecoration: 'none' }}>Contacte</a>
           <Link href="/avis-legal" style={{ color: '#9a9489', textDecoration: 'none' }}>Avís legal</Link>
           <Link href="/politica-de-privacitat" style={{ color: '#9a9489', textDecoration: 'none' }}>Política de privacitat</Link>
           <Link href="/politica-de-cookies" style={{ color: '#9a9489', textDecoration: 'none' }}>Política de cookies</Link>
