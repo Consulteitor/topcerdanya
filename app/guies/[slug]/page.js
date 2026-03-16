@@ -14,9 +14,25 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const guia = await getGuiaBySlug(slug);
   if (!guia) return { title: "Guia no trobada | Top Cerdanya" };
+
+  const titol = guia.titol || slug;
+  const desc = guia.meta_description || `Guia completa sobre ${titol} a la Cerdanya. Informació pràctica i actualitzada 2026.`;
+
   return {
-    title: `${guia.titol} | Top Cerdanya`,
-    description: guia.meta_description || "",
+    title: `${titol} | Top Cerdanya`,
+    description: desc,
+    openGraph: {
+      title: titol,
+      description: desc,
+      url: `https://topcerdanya.com/guies/${slug}`,
+      siteName: "Top Cerdanya",
+      locale: "ca_ES",
+      type: "article",
+      ...(guia.imatge ? { images: [{ url: guia.imatge, width: 1200, height: 630, alt: titol }] } : {}),
+    },
+    alternates: {
+      canonical: `https://topcerdanya.com/guies/${slug}`,
+    },
   };
 }
 

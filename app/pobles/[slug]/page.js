@@ -14,9 +14,25 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const pobla = await getPoblaBySlug(slug);
   if (!pobla) return { title: "Poble no trobat | Top Cerdanya" };
+
+  const titol = pobla.titol || slug;
+  const desc = pobla.meta_description || `Guia completa de ${titol}: què fer, on menjar, on dormir, rutes i immobiliària. Tot el que cal saber sobre ${titol} a la Cerdanya.`;
+
   return {
-    title: `${pobla.titol} | Top Cerdanya`,
-    description: pobla.meta_description || "",
+    title: `${titol} — Guia completa 2026 | Top Cerdanya`,
+    description: desc,
+    openGraph: {
+      title: `${titol} — Guia completa 2026`,
+      description: desc,
+      url: `https://topcerdanya.com/pobles/${slug}`,
+      siteName: "Top Cerdanya",
+      locale: "ca_ES",
+      type: "article",
+      ...(pobla.imatge ? { images: [{ url: pobla.imatge, width: 1200, height: 630, alt: titol }] } : {}),
+    },
+    alternates: {
+      canonical: `https://topcerdanya.com/pobles/${slug}`,
+    },
   };
 }
 

@@ -31,9 +31,24 @@ export async function generateMetadata({ params }) {
   const pobla = await getPoblaBySlug(slug);
   const info = SUBTEMES[subtema];
   if (!pobla || !info) return { title: "Pàgina no trobada | Top Cerdanya" };
+
+  const titol = `${info.titol} a ${pobla.titol}`;
+  const desc = `${info.desc} a ${pobla.titol}, la Cerdanya. Guia pràctica i actualitzada 2026 amb recomanacions concretes.`;
+
   return {
-    title: `${info.titol} a ${pobla.titol} | Top Cerdanya`,
-    description: `${info.desc} a ${pobla.titol}. Guia actualitzada 2026.`,
+    title: `${titol} — Guia 2026 | Top Cerdanya`,
+    description: desc,
+    openGraph: {
+      title: titol,
+      description: desc,
+      url: `https://topcerdanya.com/pobles/${slug}/${subtema}`,
+      siteName: "Top Cerdanya",
+      locale: "ca_ES",
+      type: "article",
+    },
+    alternates: {
+      canonical: `https://topcerdanya.com/pobles/${slug}/${subtema}`,
+    },
   };
 }
 
