@@ -10,6 +10,13 @@ export async function generateStaticParams() {
   return guies.map((g) => ({ slug: g.slug || String(g.id) }));
 }
 
+
+const markdownComponents = {
+  h1: ({children}) => <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(22px,3vw,30px)", fontWeight: 800, lineHeight: 1.15, marginBottom: "12px", marginTop: "32px" }}>{children}</h2>,
+  h2: ({children}) => <h3 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(18px,2.5vw,24px)", fontWeight: 700, lineHeight: 1.2, marginBottom: "10px", marginTop: "28px" }}>{children}</h3>,
+  h3: ({children}) => <h4 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: "clamp(16px,2vw,20px)", fontWeight: 700, lineHeight: 1.2, marginBottom: "8px", marginTop: "24px" }}>{children}</h4>,
+};
+
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const guia = await getGuiaBySlug(slug);
@@ -99,7 +106,7 @@ export default async function GuiaPage({ params }) {
         <div style={{ display: "grid", gridTemplateColumns: "1fr 280px", gap: "56px", alignItems: "start" }}>
           <div className="article-body">
             {contingut ? (
-              <ReactMarkdown>{contingut}</ReactMarkdown>
+              <ReactMarkdown components={markdownComponents}>{contingut}</ReactMarkdown>
             ) : (
               <p style={{ fontStyle: "italic", color: C.midGray, fontSize: "17px" }}>
                 Afegeix el fitxer <code>content/guies/{slug}.md</code> al projecte.
