@@ -98,7 +98,7 @@ export default async function GuiaPage({ params }) {
           )}
         </div>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 280px", gap: "56px", alignItems: "start" }}>
+        <div className="guia-layout" style={{ display: "grid", gridTemplateColumns: "1fr 280px", gap: "56px", alignItems: "start" }}>
           <div className="article-body">
             {contingut ? (
               <ReactMarkdown>{contingut}</ReactMarkdown>
@@ -120,11 +120,11 @@ export default async function GuiaPage({ params }) {
                 Veure el directori →
               </Link>
             </div>
-            <div style={{ border: `1px solid ${C.warmGray}`, padding: "20px", background: "#f5f3ee" }}>
-              <div style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "10px", fontWeight: 500, letterSpacing: "0.2em", textTransform: "uppercase", borderBottom: `1px solid ${C.warmGray}`, paddingBottom: "12px", marginBottom: "14px" }}>Newsletter</div>
-              <p style={{ fontFamily: "'Source Serif 4', Georgia, serif", fontSize: "13px", fontWeight: 300, color: "#5a5550", lineHeight: 1.5, marginBottom: "14px" }}>Notícies i guies de la Cerdanya, cada setmana.</p>
-              <Link href="/#newsletter" style={{ display: "block", background: C.accent, color: C.white, padding: "12px", textAlign: "center", fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "10px", fontWeight: 500, letterSpacing: "0.15em", textTransform: "uppercase", textDecoration: "none" }}>
-                Subscriure's →
+            <div style={{ border: `1px solid ${C.black}`, padding: "20px", background: C.black }}>
+              <div style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "10px", fontWeight: 500, letterSpacing: "0.2em", textTransform: "uppercase", borderBottom: "1px solid rgba(255,255,255,0.15)", paddingBottom: "12px", marginBottom: "16px", color: C.white }}>Ets un negoci?</div>
+              <p style={{ fontFamily: "'Source Serif 4', Georgia, serif", fontSize: "13px", fontWeight: 300, color: "rgba(255,255,255,0.6)", lineHeight: 1.5, marginBottom: "14px" }}>Apareix a Top Cerdanya i posa el badge al teu web.</p>
+              <Link href="/badge" style={{ display: "block", background: C.accent, color: C.white, padding: "12px", textAlign: "center", fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "10px", fontWeight: 500, letterSpacing: "0.15em", textTransform: "uppercase", textDecoration: "none" }}>
+                Aconseguir el badge →
               </Link>
             </div>
           </aside>

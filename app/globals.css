@@ -222,6 +222,9 @@ body { overflow-x: hidden; }
   .home-agenda-col { border-right: none !important; padding-right: 0 !important; border-bottom: 1px solid var(--black); padding-bottom: 24px; margin-bottom: 24px; }
   .home-dir-col { padding-left: 0 !important; }
 
+  /* ── GUIA LAYOUT ── */
+  .guia-layout { grid-template-columns: 1fr !important; gap: 32px !important; }
+
   /* ── ARTICLE ── */
   .article-body { font-size: 16px !important; }
 
