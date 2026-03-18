@@ -3,15 +3,14 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
-      // 404s del WordPress antic → pàgines equivalents al Next.js
       {
         source: "/restaurants-destacats",
-        destination: "/guies/on-menjar-cerdanya",
+        destination: "/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
         permanent: true,
       },
       {
         source: "/restaurants-destacats/",
-        destination: "/guies/on-menjar-cerdanya",
+        destination: "/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
         permanent: true,
       },
       {
@@ -86,12 +85,12 @@ const nextConfig: NextConfig = {
       },
       {
         source: "/2022/12/02/que-hacer-en-la-cerdanya",
-        destination: "/guies/que-fer-cerdanya",
+        destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
         permanent: true,
       },
       {
         source: "/2022/12/02/que-hacer-en-la-cerdanya/",
-        destination: "/guies/que-fer-cerdanya",
+        destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
         permanent: true,
       },
     ];
