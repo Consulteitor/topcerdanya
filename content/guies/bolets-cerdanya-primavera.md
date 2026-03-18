@@ -1,7 +1,5 @@
 # Bolets de primavera a la Cerdanya: marçots, múrgoles, moixernons i carreretes (2026)
 
-**Slug:** `bolets-cerdanya-primavera`
-**Meta description:** Guia pràctica de bolets de primavera a la Cerdanya: marçots, múrgoles, moixernons i carreretes. Quan surten, on trobar-los, com identificar-los i com cuinar-los de forma segura. 2026.
 
 ---
 

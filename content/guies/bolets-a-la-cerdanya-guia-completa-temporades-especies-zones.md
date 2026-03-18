@@ -1,7 +1,5 @@
 # Bolets a la Cerdanya: guia completa per temporades, espècies i zones (2026)
 
-**Slug:** `bolets-a-la-cerdanya-guia-completa-temporades-especies-zones`
-**Meta description:** Guia completa per anar a buscar bolets a la Cerdanya: espècies per temporada, zones del Cadí-Moixeró, normativa vigent i consells pràctics per recollir amb seguretat. Actualitzada 2026.
 
 ---
 
