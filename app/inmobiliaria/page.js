@@ -20,7 +20,8 @@ async function getGuiesImmobiliaria() {
       'https://script.google.com/macros/s/AKfycbwoPQmck8k0aDPQ6ijOY0NRFzZ4TI77kd48eZQUR8Izigl-YHnXW1f_zazAhxEBMAhwzQ/exec?sheet=Guies',
       { next: { revalidate: 3600 } }
     );
-    const data = await res.json();
+    const json = await res.json();
+    const data = Array.isArray(json) ? json : (json.data || []);
     // Filtrar guies immobiliàries (IDs 1601+)
     return data.filter(g => g.id >= 1601 && g.slug && g.titol);
   } catch (e) {

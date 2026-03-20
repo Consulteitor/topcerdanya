@@ -22,7 +22,7 @@ async function getAgenda() {
     const res = await fetch(`${SHEETS_URL}?sheet=Agenda`, { next: { revalidate: 3600 } });
     const data = await res.json();
     if (data.error) return [];
-    return data;
+    return Array.isArray(data) ? data : (data.data || []);
   } catch {
     return [];
   }
