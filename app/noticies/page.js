@@ -73,11 +73,7 @@ export default async function NoticiesPage() {
                   gridTemplateColumns: '1fr auto',
                   gap: '16px',
                   alignItems: 'center',
-                  transition: 'background 0.15s',
-                }}
-                  onMouseEnter={e => e.currentTarget.style.background = C.warmGray}
-                  onMouseLeave={e => e.currentTarget.style.background = C.white}
-                >
+                }}>
                   <div>
                     {/* Categoria + font */}
                     <div style={{ display: 'flex', gap: '8px', alignItems: 'center', marginBottom: '8px' }}>
