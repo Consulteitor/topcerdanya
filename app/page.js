@@ -265,22 +265,22 @@ export default async function HomePage() {
             gap: '2px', background: C.black,
           }}>
             {noticies.map((n, i) => (
-              <Link key={n.id} href={`/noticies/${n.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+              <a key={n.id} href={n.url} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div style={{ background: C.white, padding: '20px', height: '100%' }}>
                   <div style={{
                     fontFamily: C.sans, fontSize: '9px', fontWeight: 600,
                     letterSpacing: '0.18em', textTransform: 'uppercase',
-                    color: CAT_COLORS[n.cat] || C.accent, marginBottom: '8px',
-                  }}>{n.cat}</div>
+                    color: CAT_COLORS[n.categoria] || C.accent, marginBottom: '8px',
+                  }}>{n.categoria}</div>
                   <div style={{
                     fontFamily: C.serif, fontSize: 'clamp(15px,2vw,18px)', fontWeight: 700,
                     lineHeight: 1.2, color: C.black, marginBottom: '8px',
                   }}>{n.titol}</div>
                   <div style={{ fontFamily: C.sans, fontSize: '10px', color: C.midGray }}>
-                    {n.data} · {n.min} min
+                    {n.data} · {n.font} ↗
                   </div>
                 </div>
-              </Link>
+              </a>
             ))}
           </div>
         </section>

@@ -1,135 +1,130 @@
 import Link from 'next/link';
-import { getNoticies } from '../../lib/noticies';
+import { getNoticies } from '../../lib/sheets';
+
+export const metadata = {
+  title: 'Notícies de la Cerdanya | Top Cerdanya',
+  description: 'Totes les notícies de la Cerdanya. Actualitat local, cultura, esports, turisme i societat de la comarca.',
+};
 
 const C = {
   black: '#0a0a0a', white: '#faf9f6', warmGray: '#e8e4dc',
   midGray: '#9a9489', accent: '#c8423a',
   serif: "'Playfair Display', Georgia, serif",
-  bodySerif: "'Source Serif 4', Georgia, serif",
   sans: "'IBM Plex Sans', Helvetica, sans-serif",
 };
 
 const CAT_COLORS = {
   'Salut': '#2d6a4f', 'Mobilitat': '#1d3557', 'Economia': '#6b4226',
   'Patrimoni': '#5c4a1e', 'Joves': '#7b2d8b', 'Esports': '#c8423a',
-  'Cultura': '#2c3e50', 'Natura': '#2d6a4f', 'Territori': '#8b4513',
+  'Cultura': '#2c3e50', 'Natura': '#2d6a4f', 'Local': '#1d3557',
+  'Turisme': '#6b4226', 'Educació': '#7b2d8b', 'Gastronomia': '#8b4513',
 };
 
-const GRADS = [
-  'linear-gradient(135deg,#d4cfc5 0%,#9a9489 100%)',
-  'linear-gradient(135deg,#b5c4b1 0%,#8fa889 100%)',
-  'linear-gradient(135deg,#c4b8a8 0%,#a89880 100%)',
-  'linear-gradient(135deg,#b0bec5 0%,#78909c 100%)',
-  'linear-gradient(135deg,#c8d8c4 0%,#8aab84 100%)',
-  'linear-gradient(135deg,#d0c0a8 0%,#a08060 100%)',
-];
-
-export const metadata = {
-  title: 'Notícies de La Cerdanya | Top Cerdanya',
-  description: 'Totes les notícies de La Cerdanya: territori, economia, cultura, esports i molt més.',
-  openGraph: {
-    title: "Notícies de la Cerdanya",
-    description: "Les últimes notícies de la Cerdanya: actualitat local, cultura, esports i territori.",
-    url: "https://topcerdanya.com/noticies",
-    siteName: "Top Cerdanya",
-    locale: "ca_ES",
-    type: "website",
-  },
-  alternates: { canonical: "https://topcerdanya.com/noticies" },
+const FONT_BADGE = {
+  'Regió7':  { bg: '#1d3557', text: '#fff' },
+  'Pànxing': { bg: '#2d6a4f', text: '#fff' },
 };
 
 export default async function NoticiesPage() {
   const noticies = await getNoticies();
-  const hero = noticies[0];
-  const resta = noticies.slice(1);
 
   return (
-    <div>
-      {/* Capçalera secció */}
+    <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 clamp(16px,4vw,40px)' }}>
+
+      {/* Capçalera */}
       <div style={{
-        display: 'flex', alignItems: 'center', gap: '20px',
-        padding: '28px 0 20px', borderBottom: `2px solid ${C.black}`, marginBottom: '40px',
+        padding: '40px 0 24px',
+        borderBottom: `3px solid ${C.black}`,
+        marginBottom: '40px',
       }}>
-        <span style={{
-          fontFamily: C.serif, fontSize: '13px', fontWeight: 700,
-          letterSpacing: '0.15em', textTransform: 'uppercase',
-        }}>Notícies</span>
-        <div style={{ flex: 1, height: '1px', background: C.warmGray }} />
-        <span style={{ fontFamily: C.sans, fontSize: '10px', color: C.midGray, letterSpacing: '0.1em' }}>
-          {noticies.length} articles
-        </span>
+        <Link href="/" style={{
+          fontFamily: C.sans, fontSize: '10px', letterSpacing: '0.15em',
+          textTransform: 'uppercase', color: C.midGray, textDecoration: 'none',
+          display: 'inline-block', marginBottom: '16px',
+        }}>← Inici</Link>
+        <h1 style={{
+          fontFamily: C.serif, fontSize: 'clamp(32px,5vw,52px)',
+          fontWeight: 900, lineHeight: 1, margin: '0 0 8px',
+        }}>Notícies</h1>
+        <p style={{
+          fontFamily: C.sans, fontSize: '13px', color: C.midGray, margin: 0,
+        }}>Actualitat de la Cerdanya · Región7 i Pànxing</p>
       </div>
 
-      {/* Notícia destacada */}
-      {hero && (
-        <Link href={`/noticies/${hero.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-          <div style={{
-            display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '40px',
-            paddingBottom: '40px', borderBottom: `1px solid ${C.black}`, marginBottom: '40px',
-            cursor: 'pointer',
-          }}>
-            <div style={{
-              aspectRatio: '4/3',
-              background: GRADS[0],
-            }} />
-            <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-              <div style={{
-                fontFamily: C.sans, fontSize: '9px', fontWeight: 600,
-                letterSpacing: '0.2em', textTransform: 'uppercase',
-                color: CAT_COLORS[hero.cat] || C.accent, marginBottom: '12px',
-              }}>{hero.cat}</div>
-              <h2 style={{
-                fontFamily: C.serif, fontSize: 'clamp(24px, 3vw, 40px)', fontWeight: 900,
-                lineHeight: 1.05, letterSpacing: '-0.02em', marginBottom: '16px',
-              }}>{hero.titol}</h2>
-              <p style={{
-                fontFamily: C.bodySerif, fontSize: '16px', fontWeight: 300,
-                lineHeight: 1.6, color: '#5a5550', marginBottom: '16px',
-              }}>{hero.resum}</p>
-              <div style={{ fontFamily: C.sans, fontSize: '11px', color: C.midGray }}>
-                {hero.autor} · {hero.data} · {hero.min} min lectura
-              </div>
-            </div>
-          </div>
-        </Link>
+      {/* Llista */}
+      {noticies.length === 0 ? (
+        <p style={{ fontFamily: C.sans, color: C.midGray }}>Cap notícia disponible ara mateix.</p>
+      ) : (
+        <div style={{ display: 'grid', gap: '2px', background: C.black, marginBottom: '60px' }}>
+          {noticies.map((n) => {
+            const fontStyle = FONT_BADGE[n.font] || { bg: C.midGray, text: '#fff' };
+            return (
+              <a
+                key={n.id}
+                href={n.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit' }}
+              >
+                <div style={{
+                  background: C.white,
+                  padding: 'clamp(16px,2vw,24px) clamp(20px,3vw,32px)',
+                  display: 'grid',
+                  gridTemplateColumns: '1fr auto',
+                  gap: '16px',
+                  alignItems: 'center',
+                  transition: 'background 0.15s',
+                }}
+                  onMouseEnter={e => e.currentTarget.style.background = C.warmGray}
+                  onMouseLeave={e => e.currentTarget.style.background = C.white}
+                >
+                  <div>
+                    {/* Categoria + font */}
+                    <div style={{ display: 'flex', gap: '8px', alignItems: 'center', marginBottom: '8px' }}>
+                      <span style={{
+                        fontFamily: C.sans, fontSize: '9px', fontWeight: 600,
+                        letterSpacing: '0.18em', textTransform: 'uppercase',
+                        color: CAT_COLORS[n.categoria] || C.accent,
+                      }}>{n.categoria}</span>
+                      <span style={{ color: C.warmGray }}>·</span>
+                      <span style={{
+                        fontFamily: C.sans, fontSize: '9px', fontWeight: 600,
+                        letterSpacing: '0.12em', textTransform: 'uppercase',
+                        background: fontStyle.bg, color: fontStyle.text,
+                        padding: '2px 6px',
+                      }}>{n.font}</span>
+                    </div>
+
+                    {/* Títol */}
+                    <div style={{
+                      fontFamily: C.serif, fontSize: 'clamp(16px,2vw,20px)',
+                      fontWeight: 700, lineHeight: 1.2, color: C.black,
+                      marginBottom: n.resum ? '8px' : '0',
+                    }}>{n.titol}</div>
+
+                    {/* Resum si en té */}
+                    {n.resum && (
+                      <p style={{
+                        fontFamily: C.sans, fontSize: '13px', color: C.midGray,
+                        lineHeight: 1.5, margin: '0',
+                      }}>{n.resum}</p>
+                    )}
+                  </div>
+
+                  {/* Data + fletxa */}
+                  <div style={{ textAlign: 'right', flexShrink: 0 }}>
+                    <div style={{
+                      fontFamily: C.sans, fontSize: '11px', color: C.midGray,
+                      marginBottom: '4px', whiteSpace: 'nowrap',
+                    }}>{n.data}</div>
+                    <div style={{ fontFamily: C.sans, fontSize: '18px', color: C.midGray }}>↗</div>
+                  </div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
       )}
-
-      {/* Grid resta de notícies */}
-      <div style={{
-        display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)',
-        gap: '0', borderTop: `1px solid ${C.warmGray}`,
-      }}>
-        {resta.map((n, i) => (
-          <Link key={n.id} href={`/noticies/${n.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-            <div style={{
-              padding: '28px',
-              borderRight: (i % 3 !== 2) ? `1px solid ${C.warmGray}` : 'none',
-              borderBottom: `1px solid ${C.warmGray}`,
-              cursor: 'pointer',
-            }}>
-              <div style={{ aspectRatio: '3/2', background: GRADS[(i + 1) % GRADS.length], marginBottom: '16px' }} />
-              <div style={{
-                fontFamily: C.sans, fontSize: '9px', fontWeight: 600,
-                letterSpacing: '0.2em', textTransform: 'uppercase',
-                color: CAT_COLORS[n.cat] || C.accent, marginBottom: '8px',
-              }}>{n.cat}</div>
-              <h3 style={{
-                fontFamily: C.serif, fontSize: '20px', fontWeight: 700,
-                lineHeight: 1.15, marginBottom: '10px',
-              }}>{n.titol}</h3>
-              <p style={{
-                fontFamily: C.bodySerif, fontSize: '13px', fontWeight: 300,
-                lineHeight: 1.6, color: '#5a5550', marginBottom: '12px',
-                display: '-webkit-box', WebkitLineClamp: 2,
-                WebkitBoxOrient: 'vertical', overflow: 'hidden',
-              }}>{n.resum}</p>
-              <div style={{ fontFamily: C.sans, fontSize: '10px', color: C.midGray }}>
-                {n.data} · {n.min} min
-              </div>
-            </div>
-          </Link>
-        ))}
-      </div>
     </div>
   );
 }
