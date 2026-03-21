@@ -56,6 +56,24 @@ export default function Navbar() {
   const [dataStr, setDataStr] = useState('')
   const [edicioStr, setEdicioStr] = useState('')
   const [temps, setTemps] = useState('')
+  const [tickerItems, setTickerItems] = useState([
+    "Llac de la Pera: nivell al 78%",
+    "Mercat setmanal a Puigcerdà cada divendres",
+    "Temporada d'esquí oberta fins al 6 d'abril",
+    "Nova ruta homologada al Cadí-Moixeró",
+  ])
+
+  useEffect(() => {
+    fetch('/api/sheets?sheet=Noticies')
+      .then(r => r.json())
+      .then(json => {
+        const items = Array.isArray(json) ? json : (json.data || [])
+        if (items.length > 0) {
+          setTickerItems(items.slice(0, 8).map(n => n.titol))
+        }
+      })
+      .catch(() => {})
+  }, [])
 
   useEffect(() => {
     const ara = new Date()
@@ -83,7 +101,7 @@ export default function Navbar() {
     <>
       <div style={{ background: 'var(--black)', color: 'var(--white)', padding: '10px 0', overflow: 'hidden', whiteSpace: 'nowrap' }}>
         <div style={{ display: 'inline-block', animation: 'ticker 30s linear infinite', fontFamily: 'var(--sans)', fontSize: '11px', letterSpacing: '0.1em', textTransform: 'uppercase' }}>
-          {["Llac de la Pera: nivell al 78%", "Mercat setmanal a Puigcerdà cada divendres", "Temporada d'esquí oberta fins al 6 d'abril", "Nova ruta homologada al Cadí-Moixeró", "Llac de la Pera: nivell al 78%", "Mercat setmanal a Puigcerdà cada divendres", "Temporada d'esquí oberta fins al 6 d'abril", "Nova ruta homologada al Cadí-Moixeró"].map((t, i) => (
+          {[...tickerItems, ...tickerItems].map((t, i) => (
             <span key={i}>{t}<span style={{ margin: '0 24px', color: 'var(--accent)' }}>◆</span></span>
           ))}
         </div>
