@@ -199,3 +199,15 @@ El menú del día entre semana ronda los 14–18 €. Un almuerzo o cena a la ca
 → [Top 10 restaurants de Puigcerdà](/guies/top10-restaurants-puigcerda-2026)
 → [Restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [Restaurants a Llívia](/pobles/llivia/restaurants)
+
+**¿Los restaurantes de la Cerdanya abren en temporada baja?**
+La mayoría de los restaurantes de referencia cierran uno o dos días entre semana en temporada baja (noviembre, principios de diciembre, abril-mayo). Los lunes y martes son los días con más cierres. Si viajas fuera de temporada alta, confirma siempre el horario antes de ir. Los establecimientos de Puigcerdà son más estables todo el año; los de pueblos pequeños tienen más variabilidad.
+
+**¿Dónde comer con niños en la Cerdanya?**
+La Borda del Ceretà en Puigcerdà es la opción más familiar por espacio y ambiente. El Grau de l'Os en Bellver también funciona bien con niños. Evita los restaurantes de menú degustación o carta corta si llevas niños pequeños — no están pensados para esa experiencia. Las fondas y restaurantes de pueblo suelen tener más flexibilidad.
+
+**¿Hay restaurantes con terraza en la Cerdanya?**
+Sí, aunque la temporada de terraza es corta: de junio a septiembre de forma fiable, con algunas semanas más en mayo y octubre si el tiempo acompaña. En invierno, las terrazas calefactadas son habituales en los locales más grandes de Puigcerdà. Pregunta siempre al reservar si la terraza estará disponible.
+
+**¿Cuál es el restaurante más antiguo de la Cerdanya?**
+Varios establecimientos de Puigcerdà y Bellver llevan más de 50 años en activo, muchos de ellos fondas familiares reconvertidas. La Fonda Cerdanya y el Hostal Estació en Puigcerdà son referencias históricas de la comarca. Para historia y gastronomía combinadas, la Farmàcia Esteva de Llívia (museo) y los restaurantes del entorno del casco medieval son la combinación más singular.
