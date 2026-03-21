@@ -164,3 +164,25 @@ Consulta amb l'ajuntament del municipi o amb una gestoria local per calcular l'i
 → [Vendre a Alp: demanda d'hivern alta](/pobles/alp/immobiliaria)
 → [Vendre a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
 → [Vendre a Llívia: mercat petit](/pobles/llivia/immobiliaria)
+
+---
+
+## Preguntes freqüents sobre vendre una casa a la Cerdanya
+
+**Quant val una casa a la Cerdanya?**
+Els preus varien molt per zona i tipologia. A Puigcerdà i rodalies, els pisos oscil·len entre 3.500 i 6.000 €/m² i les cases entre 450.000 i 1.500.000 €. A Bellver de Cerdanya i Llívia els preus son lleugerament inferiors. Les zones de muntanya prop de les pistes (Alp, Das, La Molina) mantenen preus alts per la demanda d'hivern. En qualsevol cas, un taxador o agent immobiliari local és l'única referència fiable per a una propietat concreta.
+
+**Quant triga a vendre's una casa a la Cerdanya?**
+En el mercat actual (2025–2026), les propietats ben preuades i en bon estat es venen en 4 a 12 setmanes. Les propietats que necessiten reforma o estan per sobre del preu de mercat poden trigar de 6 a 18 mesos. L'hivern (temporada d'esquí) i la primavera son els moments amb més demanda.
+
+**Necessito una immobiliària per vendre a la Cerdanya?**
+No és obligatori, però és molt recomanable per a propietats d'alt valor. Les immobiliàries locals coneixen la tipologia del comprador de la comarca (segones residències, inversors, famílies de Barcelona) i disposen de bases de dades de clients actius. La comissió habitual és del 3 al 5% del preu de venda. La venda directa és possible però exigeix temps, disponibilitat i coneixement dels processos legals.
+
+**Quins impostos ha de pagar el venedor a la Cerdanya?**
+El venedor paga: IRPF sobre el guany patrimonial (diferència entre preu de compra i venda, deduïdes millores i despeses), plusvàlua municipal (impost sobre l'increment del valor del sòl, gestionat per l'ajuntament), i possiblement retenció del 3% si el comprador és no resident fiscal a Espanya. La plusvàlua pot oscil·lar entre 2.000 i 15.000 euros depenent del municipi i el temps de tinença.
+
+**Quins documents necessito per vendre una casa?**
+Els principals: escriptura de propietat, nota simple del Registre de la Propietat actualitzada, certificat d'eficiència energètica (obligatori), cèdula d'habitabilitat vigent, rebuts d'IBI i comunitat al dia, i si hi ha hipoteca, certificat de deute pendent. Si la propietat té llicència turística, cal documentar-la.
+
+**Quan és el millor moment per posar a la venda una casa a la Cerdanya?**
+La temporada alta de vendes a la Cerdanya coincideix parcialment amb la temporada turística: finals d'hivern (febrer-març, post-esquí), primavera (abril-juny) i inici de tardor (setembre-octubre). A l'agost hi ha molts visitants però poc moviment de compravenda real. Evita posar a la venda a l'hivern profund si no tens urgència.

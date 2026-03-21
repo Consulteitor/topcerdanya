@@ -154,3 +154,25 @@ Per a la guia de compra amb necessitat de reforma, consulta [comprar casa a la C
 → [Cases al nucli medieval de Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
 → [Cases al nucli de Llívia: protecció patrimonial](/pobles/llivia/immobiliaria)
 → [Mercat de Puigcerdà](/pobles/puigcerda/immobiliaria)
+
+---
+
+## Preguntes freqüents sobre reformar una casa a la Cerdanya
+
+**Quant costa reformar una casa a la Cerdanya?**
+Els costos de reforma a la Cerdanya son més alts que a les grans ciutats, bàsicament per la dificultat d'accés de la mà d'obra i materials. Una reforma integral (cuina, banys, aïllament, instal·lacions) oscil·la entre 800 i 1.400 €/m² per a una casa de construcció estàndard. Una rehabilitació de masia o casa de pedra pot superar els 1.800 €/m² depenent de l'estat de l'estructura.
+
+**Cal llicència d'obres per reformar a la Cerdanya?**
+Depèn del tipus d'intervenció. Les obres menors (canvi de paviment, pintura, revestiments) solen requerir només una comunicació prèvia a l'ajuntament. Les obres majors (modificació d'estructura, ampliació, canvi d'ús) necessiten llicència d'obres amb projecte tècnic visat. Si la casa és en un nucli antic o zona de protecció patrimonial (freqüent a Bellver, Llívia, Puigcerdà), cal consultar la normativa específica del municipi.
+
+**On trobo constructors per reformar a la Cerdanya?**
+La comarca té un nombre limitat d'empreses constructores locals. El recomanable és demanar referències a propietaris de la zona, visitar obres en curs i contactar directament els artesans especialitzats en pedra i fusta tradicional. Demana sempre com a mínim tres pressupostos i comprova que l'empresa té assegurança de responsabilitat civil.
+
+**Quant triga una reforma a la Cerdanya?**
+Els terminis son habitualment més llargs que en zones urbanes, principalment per la dificultat de subministrament de materials i la disponibilitat de la mà d'obra. Una reforma integral d'un pis de 80 m² pot trigar de 4 a 8 mesos. Una rehabilitació de masia, entre 12 i 24 mesos. Preveu sempre un marge addicional del 20–30% sobre el termini acordat.
+
+**Hi ha ajuts per reformar cases a la Cerdanya?**
+Sí. Els fons Next Generation EU per a rehabilitació energètica (aïllament, finestres, calefacció eficient, plaques solars) poden cobrir entre el 40% i el 80% del cost d'algunes intervencions. La condició principal és que sigui habitatge habitual. Tràmits via el Consorci de l'Habitatge de Catalunya o empreses instal·ladores col·laboradores.
+
+**Quines son les reformes més recomanables en una casa de muntanya?**
+Per ordre de retorn i confort: aïllament tèrmic (teulada i façana), substitució de finestres per doble vidre, caldera de biomassa o aerotèrmia, i reforma de banys. La cuina i els acabats son importants però l'envolupant tèrmica és la intervenció amb major impacte en confort i cost energètic a la muntanya.

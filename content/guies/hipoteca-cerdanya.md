@@ -158,3 +158,25 @@ Per a càlcul complet d'impostos i despeses de compra, consulta la [guia d'impos
 → [Preus a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/immobiliaria)
 → [Preus a Llívia](/pobles/llivia/immobiliaria)
 → [Preus a Alp](/pobles/alp/immobiliaria)
+
+---
+
+## Preguntes freqüents sobre hipoteques per a cases a la Cerdanya
+
+**Els bancs financen segones residències a la Cerdanya?**
+Sí, però en condicions més restrictives que per a habitatge habitual. El finançament màxim habitual per a segona residència és del 70% del valor de taxació (versus el 80% per a habitatge habitual). Necessitaràs, per tant, un mínim del 30% del preu de compra en fons propis, més les despeses de compra (ITP 10% a Catalunya, notaria, registre, gestoria): en total, entre el 40 i el 45% del preu de compra.
+
+**Quina hipoteca és millor per a una casa a la Cerdanya: fixa o variable?**
+Depèn del teu perfil i horitzó temporal. Per a una primera residència o propietat que mantindràs molts anys, la hipoteca a tipus fix ofereix seguretat davant de pujades de tipus. Per a una segona residència que podries vendre en 5–10 anys, un tipus variable o mixt pot resultar més econòmic si els tipus baixen. La decisió òptima depèn de la teva situació personal i les condicions que t'ofereixin les entitats.
+
+**Quant haig de tenir estalviat per comprar una casa a la Cerdanya?**
+Per a una casa de 400.000 €: el banc finança un màxim del 70% sobre el valor de taxació (que sovint és inferior al preu). Si la taxació coincideix amb el preu, necessites 120.000 € de fons propis (30%) més uns 44.000 € en despeses de compra (ITP 10% + notaria + registre + gestoria). Total aproximat: **164.000–185.000 €** en fons propis per a una compra de 400.000 €.
+
+**El preu de lloguer de la Cerdanya justifica una inversió hipotecària?**
+Les rendibilitats de lloguer a la Cerdanya son moderades però estables. El lloguer turístic de temporada pot generar entre 15.000 i 35.000 € bruts anuals per a una casa ben ubicada amb llicència. El lloguer anual és significativament inferior. En el mercat actual (preus alts, tipus de finançament del 3–4%), les rendibilitats netes rarament superen el 3–4%. La inversió es justifica principalment per la revalorització del capital a llarg termini.
+
+**Quin termini té una hipoteca de segona residència?**
+El termini habitual per a segona residència és de 20 a 25 anys (versus 30 anys per a habitatge habitual). Alguns bancs limiten el termini a 20 anys per a no residents o per a propietats de luxe. El termini final depèn també de l'edat del titular: molts bancs exigeixen que la hipoteca estigui liquidada abans dels 70–75 anys del titular.
+
+**Convé contractar una corredoria hipotecaria per a una casa a la Cerdanya?**
+Per a propietats d'alt valor (a partir de 300.000 €), una corredoria hipotecaria pot aconseguir condicions significativament millors que una negociació directa amb el banc habitual. Les corredories treballen amb múltiples entitats i coneixen quines son més competitives per a perfils de no residents, estrangers o segones residències. El cost sol ser zero (la corredoria cobra del banc) o una comissió petita sobre el capital.
