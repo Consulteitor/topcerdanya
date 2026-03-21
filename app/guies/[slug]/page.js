@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getGuies, getGuiaBySlug } from "@/lib/sheets";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import fs from "fs";
 import path from "path";
 
@@ -101,7 +102,7 @@ export default async function GuiaPage({ params }) {
         <div className="guia-layout" style={{ display: "grid", gridTemplateColumns: "1fr 280px", gap: "56px", alignItems: "start" }}>
           <div className="article-body">
             {contingut ? (
-              <ReactMarkdown>{contingut}</ReactMarkdown>
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>{contingut}</ReactMarkdown>
             ) : (
               <p style={{ fontStyle: "italic", color: C.midGray, fontSize: "17px" }}>
                 Afegeix el fitxer <code>content/guies/{slug}.md</code> al projecte.
