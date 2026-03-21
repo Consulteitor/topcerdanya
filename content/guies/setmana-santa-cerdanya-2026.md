@@ -135,3 +135,31 @@ Setmana Santa a la Cerdanya és el pont de la transició: l'hivern s'acomiada am
 → [Guia completa de la Cerdanya](/guies/que-fer-a-la-cerdanya)
 → [Plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
 → [La Cerdanya en 2 dies](/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026)
+
+---
+
+## Preguntes freqüents sobre Setmana Santa a la Cerdanya
+
+**Quan és Setmana Santa 2026?**
+Les vacances escolars van del 28 de març al 6 d'abril de 2026. El pont laboral és del Divendres Sant (3 d'abril) al Dilluns de Pasqua (6 d'abril), quatre dies festius seguits.
+
+**Es pot esquiar per Setmana Santa a la Cerdanya?**
+Sí, és l'última oportunitat de la temporada. La Molina i Masella preveuen tancar la temporada al voltant del 6 d'abril, el Dilluns de Pasqua. La neu de primavera és granulada al matí i millora cap al migdia. Convé reservar forfets i allotjament amb antelació.
+
+**Quant triga a arribar a la Cerdanya des de Barcelona per Setmana Santa?**
+En condicions normals, entre una hora i quaranta minuts i dues hores per la C-16. El Divendres Sant (3 d'abril) les cues al túnel del Cadí poden allargar el trajecte entre una i dues hores addicionals. La millor opció és sortir abans de les 9h del matí o després de les 20h. El tren R3 des de Barcelona Sants tarda unes dues hores i mitja i evita completament les retencions.
+
+**On es pot aparcar a Puigcerdà per Setmana Santa?**
+El centre de Puigcerdà és molt difícil en dates festives. La recomanació és aparcar a les zones gratuïtes de la perifèria —zona de l'estació o barris residencials baixos— i accedir al nucli a peu. No intenteu aparcar al centre en cap de setmana festiu.
+
+**Quina roba cal portar a la Cerdanya per Setmana Santa?**
+L'abril a la Cerdanya és imprevisible: pot fer 16°C de dia i glaçar de nit. El paquet bàsic és: roba d'abric (jaqueta de plomes o similar), impermeable lleuger i botes tancades per als passeigs. Si esquieu, equipament d'hivern complet. No us fieu del sol de migdia.
+
+**Hi ha coses a fer a la Cerdanya per Setmana Santa sense esquiar?**
+Moltes. Senderisme per la plana i valls baixes, visita al nucli medieval de Llívia i la Farmàcia Esteva, mercat dominical de Puigcerdà, Granja Molí de Ger per a famílies, ruta romànica fins a Santa Maria de Talló, i passeig al llac de Puigcerdà. La comarca és molt més que les pistes d'esquí.
+
+**Els restaurants de la Cerdanya obren per Setmana Santa?**
+La majoria de restaurants de qualitat obren tots els dies del pont. Cal reservar taula amb antelació, especialment per al dissabte i diumenge de Pasqua. Els restaurants amb terrassa i els que admeten famílies s'omplen primer.
+
+**Quant costa un allotjament a la Cerdanya per Setmana Santa?**
+Els preus en temporada alta de Setmana Santa oscil·len entre 120 i 350 € la nit per a una casa rural de 4-8 places, i entre 90 i 200 € per a habitació doble en hotel. Les cases rurals s'exhaureixen setmanes abans — reserveu amb 3 a 6 setmanes d'antelació com a mínim.
