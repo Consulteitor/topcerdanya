@@ -1500,6 +1500,20 @@
     "imatge": ""
   },
   {
+    "id": "hotel-fonda-merce",
+    "nom": "Hotel Fonda Mercè",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: Ha estat una experiència brutal!!",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
     "id": "esquirol",
     "nom": "Esquirol",
     "categoria": "gastronomia",
@@ -1580,6 +1594,136 @@
     "imatge": ""
   },
   {
+    "id": "restaurant-serendipia-by-la-caleche",
+    "nom": "Restaurant Serendipia by La Calèche",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. cuina de qualitat superior.",
+    "telefon": "972 60 41 82",
+    "web": "restaurantserendipia.cat",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 651,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizzes-nacho",
+    "nom": "Pizzes Nacho",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu econòmic.",
+    "telefon": "972 89 64 67",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 713,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "food-troc",
+    "nom": "Food Troc",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 338,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-jardi",
+    "nom": "El Jardí",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Un bar de tapes molt animat al centre de Llívia\".",
+    "telefon": "667 52 76 02",
+    "web": "",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 624,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-frison-pizzeria-restaurant",
+    "nom": "El Frisón Pizzeria Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona.",
+    "telefon": "674 44 65 53",
+    "web": "www.instagram.com",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 199,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-raco-de-llivia",
+    "nom": "EL RACÓ DE LLÍVIA",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Tot molt bó, única cosa a retreure és el servei\".",
+    "telefon": "649 30 06 27",
+    "web": "",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 162,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "celestin-llivia",
+    "nom": "Célestin Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 231,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mes-que-beure",
+    "nom": "Més Que Beure",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Personal molt amable, bona primera matèria i ben elaborada\".",
+    "telefon": "692 96 20 36",
+    "web": "www.menusmart.dev",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 376,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
     "id": "lo-vintage-llivia-llesqueria-bocateria",
     "nom": "Lo Vintage Llivia-Llesqueria-Bocatería",
     "categoria": "gastronomia",
@@ -1589,6 +1733,135 @@
     "web": "lovintagerestaurant.com",
     "valoracio": 5.0,
     "ressenyes": 11,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-terrasseta-de-lo-vintage",
+    "nom": "La terrasseta de \"Lo Vintage\"",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: Parada obligatòria!",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-bon-gust",
+    "nom": "El Bon Gust",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "972 14 60 90",
+    "web": "www.cerdanyainteractiva.com",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 159,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-raval-13",
+    "nom": "Restaurant Raval 13",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Molt bon servei, adaptant-se a la llengua del client i informats quan preguntàvem sobre la tipologia de vi\".",
+    "telefon": "972 97 04 13",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 375,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "la-tasqueta",
+    "nom": "La Tasqueta",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Un reconet al mig se la cerdanya, amb un menjar boníssim! Us recomano anar amb colla i demanar les tapes\".",
+    "telefon": "667 04 66 67",
+    "web": "",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 170,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-trumfes",
+    "nom": "Restaurant Trumfes",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "972 14 60 31",
+    "web": "www.restaurantrumfes.com",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 1167,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "colmado-llivia-cerdanya",
+    "nom": "COLMADO LLIVIA - CERDANYA",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Vam passar per a comprar el seu paté en croute i altres elaboracions exquisites de l'Albert Boronat\".",
+    "telefon": "972 97 35 40",
+    "web": "www.elcolmado.es",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 10,
+    "tags": [
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bar-restaurant-el-tupi",
+    "nom": "Bar Restaurant El Tupi",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 89 65 24",
+    "web": "bareltupi.es",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 610,
+    "tags": [
+      "Restaurant",
+      "Bar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "papa-pizza",
+    "nom": "Papa Pizza",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Molt bona pizza amb pasta fina dos dies de fermentació, molta qualitat de producte i molts tipus per triar, dos mides de\".",
+    "telefon": "695 85 54 00",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 160,
     "tags": [
       "Restaurant"
     ],
@@ -1612,6 +1885,103 @@
     "imatge": ""
   },
   {
+    "id": "bistrot-de-llivia",
+    "nom": "Bistrot de Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "667 02 37 29",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 793,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-segre-de-llivia",
+    "nom": "El Segre de Llívia",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Menjar molt bo, el tracte de tot el personal i sobretot de la mestresa Mari Excelent!👌\".",
+    "telefon": "872 01 08 53",
+    "web": "www.instagram.com",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 248,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-can-ryu",
+    "nom": "Restaurant Can Ryu",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Magnífica experiència, és com sopar en un restaurant autèntic del Japó\".",
+    "telefon": "",
+    "web": "www.instagram.com",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 199,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "kanz-restaurant",
+    "nom": "Kanz Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Vam anar a fer un menú de migdia a base de plat combinat i va resultar tot un encert\".",
+    "telefon": "972 07 68 86",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 43,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizzeria-lavet",
+    "nom": "Pizzería L'Avet",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Personal molt amable! Super ràpids i prioritzant els nens! Perfecte! Pizzes primetes i super bones, casolanes i al forn \".",
+    "telefon": "972 51 98 80",
+    "web": "",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 397,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "unic-parc",
+    "nom": "Unic Parc",
+    "categoria": "gastronomia",
+    "poble": "Llívia",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "972 19 29 34",
+    "web": "www.unicparc.com",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 303,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
     "id": "hotel-xalet-del-golf",
     "nom": "Hotel Xalet del Golf",
     "categoria": "gastronomia",
@@ -1624,6 +1994,5390 @@
     "tags": [
       "Restaurant"
     ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-torre-del-remei",
+    "nom": "Hotel Torre del Remei",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Hotel elegant situat en una mansió de 1910 amb un restaurant sofisticat, jardins i piscina descoberta.",
+    "telefon": "972 09 93 00",
+    "web": "hoteltorredelremei.com",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 482,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "aerodrom-de-la-cerdanya",
+    "nom": "Aeròdrom de la Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Das",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Restaurant recentment inaugurat, tant l’espai, com els profesionals i com no, el menjar espectacular!! El steack tartar \".",
+    "telefon": "677 29 88 61",
+    "web": "",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 183,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "pizza-stick",
+    "nom": "Pizza Stick",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "972 14 44 10",
+    "web": "pizzastick.es",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 713,
+    "tags": [
+      "Entrega a domicili",
+      "Per emportar",
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-la-solana",
+    "nom": "Restaurant La Solana",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant popular de la zona. preu econòmic.",
+    "telefon": "972 89 52 70",
+    "web": "restaurantlasolana.shop",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 1022,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jet-bistrot-de-muntanya",
+    "nom": "Cal Jet - Bistrot de muntanya",
+    "categoria": "gastronomia",
+    "poble": "Ger",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "666 60 14 07",
+    "web": "www.caljet.cat",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 701,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "fontanals-green-restaurant",
+    "nom": "Fontanals Green Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Menú migdia a 20€ molt correcte anb primer / segon / postre / vi i aigua\".",
+    "telefon": "621 21 64 03",
+    "web": "",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 72,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mooma-cerdanya",
+    "nom": "Mooma Cerdanya",
+    "categoria": "gastronomia",
+    "poble": "Das",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Ens el van recomanar i ens ha agradat molt\".",
+    "telefon": "872 58 02 99",
+    "web": "www.moomacerdanya.cat",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 752,
+    "tags": [
+      "Restaurant",
+      "Bar"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-torru",
+    "nom": "Restaurant Cal Torru",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Hemos venido un grupo de 10 amigos y hemos estado genial! Un restaurante súper acogedor y agradable, con un servicio 10/\".",
+    "telefon": "605 97 63 93",
+    "web": "www.caltorru.cat",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 233,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-lisard",
+    "nom": "Restaurant l'Isard",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "650 51 20 79",
+    "web": "app.tableo.com",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 391,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "381-bolvir",
+    "nom": "381 Bolvir",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Local agradable al centre del poble , amb terrasa a la plaça Major, ideal per passar una bona nit d’ estiu a la fresca\".",
+    "telefon": "620 71 50 48",
+    "web": "",
+    "valoracio": 1788472800000.0,
+    "ressenyes": 19,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "fonda-dels-pics-restaurant",
+    "nom": "Fonda dels Pics - Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"El restaurant és molt acollidor i càlid, amb un ambient tranquil i agradable\".",
+    "telefon": "653 03 55 61",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 189,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "el-rito-argentino",
+    "nom": "El Rito Argentino",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Avui farà dos anys que vam poder celebrar el nostre casament al RITO ARGENTINO, probablament, un dels dies més feliços d\".",
+    "telefon": "653 64 21 48",
+    "web": "",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 56,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-les-heures-den-didac",
+    "nom": "Restaurant Les Heures d'en Dídac",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"ESPECTACULAR dinar!! Día més q perfecte, hem dinat al menjador del pis superior (molt més elegant i agradable q el d PB)\".",
+    "telefon": "972 89 50 69",
+    "web": "www.lesheuresdendidac.com",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 741,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "terra-de-pics",
+    "nom": "Terra de Pics",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Un dels restaurants millor valorats de la zona. preu moderat.",
+    "telefon": "613 42 23 57",
+    "web": "terradepics.com",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 467,
+    "tags": [
+      "Bar",
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-pons",
+    "nom": "Restaurant Cal Pons",
+    "categoria": "gastronomia",
+    "poble": "Ger",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu econòmic.",
+    "telefon": "686 91 95 04",
+    "web": "",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 274,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-celler-dall-restaurant",
+    "nom": "El Celler D'All Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant molt ben valorat pels visitants. preu moderat.",
+    "telefon": "633 62 91 74",
+    "web": "www.gotadegust.com",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 496,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-nou-felipet-restaurant",
+    "nom": "El Nou Felipet // Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Un dels restaurants millor valorats de la zona. Els visitants destaquen: \"Hem tingut una experiència fantàstica! El tracte del personal ha sigut super amable i proper, et fan sentir com a casa d\".",
+    "telefon": "621 20 59 70",
+    "web": "www.elnoufelipet.com",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 46,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": true,
+    "imatge": ""
+  },
+  {
+    "id": "tr1910-restaurant-torre-del-remei",
+    "nom": "TR1910 Restaurant Torre del Remei",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant molt ben valorat pels visitants. Els visitants destaquen: \"Excel·lent servei, bon producte i un entorn únic i singular, en un edifici cuidat al detall i que ja és una joia de la n\".",
+    "telefon": "972 09 93 00",
+    "web": "",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 38,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-cal-padri",
+    "nom": "Restaurant Cal Padrí",
+    "categoria": "gastronomia",
+    "poble": "Alp",
+    "descripcio": "Restaurant popular de la zona. preu moderat.",
+    "telefon": "617 28 27 22",
+    "web": "restaurantcalpadri.com",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 1072,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-xalet-del-golf-restaurant",
+    "nom": "El Xalet del Golf Restaurant",
+    "categoria": "gastronomia",
+    "poble": "Bolvir",
+    "descripcio": "Restaurant popular de la zona. Els visitants destaquen: \"Ens ha sorprès molt positivament, sobretot tenint en compte algunes ressenyes passades\".",
+    "telefon": "972 88 43 20",
+    "web": "www.chaletdelgolf.com",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 57,
+    "tags": [
+      "Restaurant"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-gall-casa-rural-cerdanya",
+    "nom": "CAL GALL casa rural Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Riu de Santa Maria",
+    "descripcio": "Casa rural a 35. valorat amb 5/5 a google.",
+    "telefon": "623 30 86 47",
+    "web": "http://www.calgallrural.com/",
+    "valoracio": 5.0,
+    "ressenyes": 103,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "desconnectar-bellver-de-cerdanya-i",
+    "nom": "Desconnectar Bellver de Cerdanya I",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya. valorat amb 5/5 a google.",
+    "telefon": "608 64 24 35",
+    "web": "http://www.desconnectar.com/",
+    "valoracio": 5.0,
+    "ressenyes": 12,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "villa-age",
+    "nom": "Villa Age",
+    "categoria": "allotjament",
+    "poble": "Age",
+    "descripcio": "Allotjament a 1. valorat amb 5/5 a google.",
+    "telefon": "609 12 31 09",
+    "web": "https://www.booking.com/hotel/es/villa-age-puigcerda.es.html",
+    "valoracio": 5.0,
+    "ressenyes": 9,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-penyes-altes",
+    "nom": "Apartament Penyes Altes",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Apartament a bellver de cerdanya. valorat amb 5/5 a google.",
+    "telefon": "616 77 63 05",
+    "web": "https://www.cancana-natura.com/",
+    "valoracio": 5.0,
+    "ressenyes": 7,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "turisme-rural-ca-laxai",
+    "nom": "Turisme Rural Ca l'Axai",
+    "categoria": "allotjament",
+    "poble": "Pi",
+    "descripcio": "Casa rural a 39. valorat amb 5/5 a google.",
+    "telefon": "633 69 33 38",
+    "web": "",
+    "valoracio": 5.0,
+    "ressenyes": 7,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "gcu-ur",
+    "nom": "GCU Ur",
+    "categoria": "allotjament",
+    "poble": "66760 Ur",
+    "descripcio": "Allotjament a 66760 ur. valorat amb 5/5 a google.",
+    "telefon": "04 68 04 97 11",
+    "web": "https://www.gcu.asso.fr/",
+    "valoracio": 5.0,
+    "ressenyes": 5,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-chalet-de-ger",
+    "nom": "El chalet de Ger",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona. valorat amb 5/5 a google.",
+    "telefon": "667 42 04 10",
+    "web": "http://elchaletdeger.com/",
+    "valoracio": 5.0,
+    "ressenyes": 3,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "palacio-loisirs",
+    "nom": "Palacio Loisirs",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Allotjament a 66340 palau-de-cerdagne. valorat amb 5/5 a google.",
+    "telefon": "04 68 04 49 34",
+    "web": "",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-de-piedra-madera-con-encanto-en-la-cerdanya",
+    "nom": "Casa de piedra madera con encanto en la Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Riu de Santa Maria",
+    "descripcio": "Casa rural a 4. valorat amb 5/5 a google.",
+    "telefon": "600 51 11 29",
+    "web": "http://bellver-de-cerdanya.com.es/",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "torre-de-les-aligues",
+    "nom": "Torre de les Àligues",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya. valorat amb 5/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-de-la-placa",
+    "nom": "Mas de la Plaça",
+    "categoria": "allotjament",
+    "poble": "Sanavastre",
+    "descripcio": "Casa rural a 2. valorat amb 5/5 a google.",
+    "telefon": "693 05 74 15",
+    "web": "https://www.instagram.com/mas_sanavastre/",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-en-bolvir-jardin-y-piscina-2",
+    "nom": "Casa en Bolvir, jardin y piscina",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Casa rural a bolvir. valorat amb 5/5 a google.",
+    "telefon": "",
+    "web": "https://pippas-tip-is.eu/casa-en-bolvir-jardin-y-piscina-spain",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-toni-de-vilallobent",
+    "nom": "Cal Toni de Vilallobent",
+    "categoria": "allotjament",
+    "poble": "Vilallobent",
+    "descripcio": "Casa rural a 1. valorat amb 5/5 a google.",
+    "telefon": "",
+    "web": "https://phoenixs-tip-is.eu/cal-toni-de-vilallobent-spain",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "palau-de-cerdanya-el-palauet",
+    "nom": "Palau de Cerdanya El Palauet",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Allotjament a 66340 palau-de-cerdagne. valorat amb 5/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 5.0,
+    "ressenyes": 1,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-torreta-del-llac-apartaments-boutique",
+    "nom": "La Torreta del Llac | Apartaments Boutique",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà. valorat amb 4.9/5 a google.",
+    "telefon": "696 48 03 51",
+    "web": "https://www.latorretadelllac.com/",
+    "valoracio": 1788472800000.0,
+    "ressenyes": 144,
+    "tags": [
+      "Apartament",
+      "Boutique"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "allotjament-rural-can-cana",
+    "nom": "Allotjament Rural Can Canà",
+    "categoria": "allotjament",
+    "poble": "ag. Bor",
+    "descripcio": "Casa rural a ag. bor. valorat amb 4.9/5 a google.",
+    "telefon": "973 51 07 98",
+    "web": "http://www.cancana-natura.com/",
+    "valoracio": 1788472800000.0,
+    "ressenyes": 130,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "els-4-pics",
+    "nom": "ELS 4 PICS",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.9/5 a google.",
+    "telefon": "679 40 37 57",
+    "web": "http://www.els4pics.com/",
+    "valoracio": 1788472800000.0,
+    "ressenyes": 52,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-xera-puigcerda",
+    "nom": "Cal Xera Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà. valorat amb 4.9/5 a google.",
+    "telefon": "686 00 53 81",
+    "web": "https://www.instagram.com/calxera_puigcerda/",
+    "valoracio": 1788472800000.0,
+    "ressenyes": 16,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-bernat-de-so",
+    "nom": "Hotel Bernat de So",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia. valorat amb 4.8/5 a google.",
+    "telefon": "972 14 62 06",
+    "web": "http://www.hotelbernatdeso.com/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 312,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "intrepid-hotel-rural",
+    "nom": "Intrepid Hotel Rural",
+    "categoria": "allotjament",
+    "poble": "Pi",
+    "descripcio": "Casa rural a 42. valorat amb 4.8/5 a google.",
+    "telefon": "659 71 29 15",
+    "web": "http://www.intrepidhotel.com/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 210,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "set-terres-la-villla-de-llivia",
+    "nom": "Set Terres - La Vil·la de Llívia",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.8/5 a google.",
+    "telefon": "972 89 64 99",
+    "web": "http://setterres.com/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 162,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-mallol",
+    "nom": "Mas Mallol",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà. valorat amb 4.8/5 a google.",
+    "telefon": "972 14 04 18",
+    "web": "http://www.masmallol.cat/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 103,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-meya-allotjaments-rurals",
+    "nom": "Mas Meya Allotjaments Rurals",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona. valorat amb 4.8/5 a google.",
+    "telefon": "972 88 08 47",
+    "web": "http://www.mas.meya.cat/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 48,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-pesolet",
+    "nom": "Cal Pesolet",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya. valorat amb 4.8/5 a google.",
+    "telefon": "659 64 27 94",
+    "web": "http://www.calpesolet.cat/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 33,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-den-cot",
+    "nom": "Mas d'en Cot",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà. valorat amb 4.8/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 22,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-janet-bolvir",
+    "nom": "Cal Janet bolvir",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Casa rural a bolvir. valorat amb 4.8/5 a google.",
+    "telefon": "679 63 00 17",
+    "web": "http://caljanetbolvir.com/",
+    "valoracio": 1785794400000.0,
+    "ressenyes": 5,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "le-mirasol-residence-hoteliere-2etoiles-restaurant",
+    "nom": "Le Mirasol Résidence Hôtelière 2étoiles - Restaurant",
+    "categoria": "allotjament",
+    "poble": "66760 Enveitg",
+    "descripcio": "Allotjament a 66760 enveitg. valorat amb 4.7/5 a google. rang de preus: moderat.",
+    "telefon": "04 68 04 29 25",
+    "web": "http://www.vacances-balneo-cerdagne.com/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 448,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "aparthotel-bellver",
+    "nom": "Aparthotel Bellver",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Apartament a bellver de cerdanya. valorat amb 4.7/5 a google.",
+    "telefon": "973 51 06 27",
+    "web": "http://www.aparthotelbellver.com/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 248,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-ravetllat-hotel",
+    "nom": "Mas Ravetllat Hotel",
+    "categoria": "allotjament",
+    "poble": "Isòvol",
+    "descripcio": "Casa rural a isòvol. valorat amb 4.7/5 a google.",
+    "telefon": "684 45 40 84",
+    "web": "http://www.masravetllat.com/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 150,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-de-colonies-ridolaina",
+    "nom": "Casa de Colònies Ridolaina",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya. valorat amb 4.7/5 a google.",
+    "telefon": "973 29 30 03",
+    "web": "https://ridolaina.com/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 144,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-reus",
+    "nom": "Cal Reus",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Casa rural a ger. valorat amb 4.7/5 a google.",
+    "telefon": "972 89 40 02",
+    "web": "http://calreus.es/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 123,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-turistics-puigcerda",
+    "nom": "Apartaments Turistics Puigcerda",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà. valorat amb 4.7/5 a google.",
+    "telefon": "659 56 28 13",
+    "web": "https://www.apartamentsturisticspuigcerda.com/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 119,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "colonies-cadi-cal-calo-cortariu-casa-per-grups",
+    "nom": "Colònies Cadí - Cal Caló (Cortariu) - Casa per grups",
+    "categoria": "allotjament",
+    "poble": "Colònies Cadí",
+    "descripcio": "Casa rural a colònies cadí. valorat amb 4.7/5 a google.",
+    "telefon": "636 19 51 13",
+    "web": "https://www.coloniescadi.org/",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 30,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-marc-de-pi",
+    "nom": "Can Marc de Pi",
+    "categoria": "allotjament",
+    "poble": "Pi",
+    "descripcio": "Casa rural a 14. valorat amb 4.7/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 21,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-rural-cal-carlo",
+    "nom": "Casa Rural Cal Carló",
+    "categoria": "allotjament",
+    "poble": "Age",
+    "descripcio": "Casa rural a 4. valorat amb 4.7/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 3,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-oseja",
+    "nom": "Camping Oseja",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Càmping a 66340 palau-de-cerdagne. valorat amb 4.7/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1783116000000.0,
+    "ressenyes": 3,
+    "tags": [
+      "Càmping"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-bon-repos-sl",
+    "nom": "Hotel Bon Repòs SL",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya. valorat amb 4.6/5 a google.",
+    "telefon": "973 51 12 43",
+    "web": "http://www.bonreposhotel.com/es/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 573,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "turisme-rural-cal-marrufes",
+    "nom": "Turisme Rural Cal Marrufès",
+    "categoria": "allotjament",
+    "poble": "Age",
+    "descripcio": "Casa rural a 3. valorat amb 4.6/5 a google.",
+    "telefon": "972 14 11 74",
+    "web": "http://www.calmarrufes.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 313,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-jaume",
+    "nom": "Hotel Jaume",
+    "categoria": "allotjament",
+    "poble": "Alp",
+    "descripcio": "Allotjament a alp. valorat amb 4.6/5 a google.",
+    "telefon": "972 89 00 16",
+    "web": "http://www.hoteljaume.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 249,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-frances",
+    "nom": "Cal Francès",
+    "categoria": "allotjament",
+    "poble": "All",
+    "descripcio": "Casa rural a 2. valorat amb 4.6/5 a google.",
+    "telefon": "972 89 40 81",
+    "web": "https://www.calfrances.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 189,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "lescapade-parc-residentiel-de-loisirs",
+    "nom": "L'Escapade, Parc Résidentiel de Loisirs",
+    "categoria": "allotjament",
+    "poble": "Place del Segré",
+    "descripcio": "Allotjament a place del segré. valorat amb 4.6/5 a google.",
+    "telefon": "04 68 30 81 00",
+    "web": "https://lescapade.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 172,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "aparthotel-les-corts",
+    "nom": "Aparthotel Les Corts",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia. valorat amb 4.6/5 a google.",
+    "telefon": "972 14 62 56",
+    "web": "http://www.aparthotellescorts.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 161,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-pascual-turisme-rural-2",
+    "nom": "Cal Pascual – Turisme Rural",
+    "categoria": "allotjament",
+    "poble": "Les Pereres",
+    "descripcio": "Casa rural a 1. valorat amb 4.6/5 a google.",
+    "telefon": "972 88 10 61",
+    "web": "http://calpascualturismerural.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 89,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "les-feixes-llargues",
+    "nom": "Les Feixes Llargues",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir. valorat amb 4.6/5 a google.",
+    "telefon": "639 25 26 19",
+    "web": "https://www.lesfeixesllargues.com/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 50,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-fuguet",
+    "nom": "Cal Fuguet",
+    "categoria": "allotjament",
+    "poble": "Urtx",
+    "descripcio": "Casa rural a 2. valorat amb 4.6/5 a google.",
+    "telefon": "647 95 42 77",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 14,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-rufiandis-cal-jan-la-muralla",
+    "nom": "Cal Rufiandis - Cal Jan La Muralla",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Casa rural a ger. valorat amb 4.6/5 a google.",
+    "telefon": "669 13 75 92",
+    "web": "https://instagram.com/cal_rufiandis?igshid=YmMyMTA2M2Y=",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 11,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-de-la-vanera",
+    "nom": "Mas de la Vanera",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Casa rural a 66340 palau-de-cerdagne. valorat amb 4.6/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 7,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-bernat-apartament",
+    "nom": "Casa Bernat Apartament",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà. valorat amb 4.6/5 a google.",
+    "telefon": "679 40 37 57",
+    "web": "http://casa-bernat-apartament.com.es/",
+    "valoracio": 1780524000000.0,
+    "ressenyes": 5,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-pirineus",
+    "nom": "Càmping Pirineus",
+    "categoria": "allotjament",
+    "poble": "Guils de Cerdanya",
+    "descripcio": "Càmping a guils de cerdanya. valorat amb 4.5/5 a google.",
+    "telefon": "972 88 10 62",
+    "web": "http://www.stel.es/",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 595,
+    "tags": [
+      "Càmping"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-torre-del-remei",
+    "nom": "Hotel Torre del Remei",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir. valorat amb 4.5/5 a google.",
+    "telefon": "972 09 93 00",
+    "web": "https://hoteltorredelremei.com/",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 482,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-fonda-merce",
+    "nom": "Hotel Fonda Mercè",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Hostal a llívia. valorat amb 4.5/5 a google.",
+    "telefon": "972 89 70 01",
+    "web": "https://www.fondamerce.com/fr/index.html",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 308,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "els-torrents",
+    "nom": "Els Torrents",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a 21. valorat amb 4.5/5 a google.",
+    "telefon": "659 43 85 01",
+    "web": "http://www.elstorrents.com/",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 213,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-las-asperas",
+    "nom": "Càmping Las Asperas",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Càmping a 66340 palau-de-cerdagne. valorat amb 4.5/5 a google.",
+    "telefon": "04 68 04 62 08",
+    "web": "http://www.camping-pyrenees-cerdagne.com/",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 138,
+    "tags": [
+      "Càmping"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-cal-martri",
+    "nom": "HOTEL CAL MARTRI",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Casa rural a ger. valorat amb 4.5/5 a google.",
+    "telefon": "636 37 16 83",
+    "web": "http://www.hotelcalmartri.com/",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 120,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "fonda-dels-pics-hostal",
+    "nom": "Fonda dels Pics - Hostal",
+    "categoria": "allotjament",
+    "poble": "Escadarcs",
+    "descripcio": "Hostal a 4. valorat amb 4.5/5 a google.",
+    "telefon": "653 03 55 61",
+    "web": "https://fondadelspics.com/",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 80,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "holiday-center-pep-12-the-vignola",
+    "nom": "Holiday center ; PEP 12 - The Vignola",
+    "categoria": "allotjament",
+    "poble": "66760 Enveitg",
+    "descripcio": "Allotjament a 66760 enveitg. valorat amb 4.5/5 a google.",
+    "telefon": "04 68 04 80 04",
+    "web": "",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 41,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "al-camp-despalougues",
+    "nom": "Al Camp d'Espalougues",
+    "categoria": "allotjament",
+    "poble": "66760 Ur",
+    "descripcio": "Allotjament a 66760 ur. valorat amb 4.5/5 a google.",
+    "telefon": "04 68 04 83 43",
+    "web": "https://mialovestotravel.com/chambres-d-ha-tes-al-camp-d-espalougues-france",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 40,
+    "tags": [
+      "Spa"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "comunitat-blauvert",
+    "nom": "Comunitat Blauvert",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Allotjament a 66340 palau-de-cerdagne. valorat amb 4.5/5 a google.",
+    "telefon": "04 68 04 26 62",
+    "web": "",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 39,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-casa-de-la-cerdanya",
+    "nom": "La Casa de la Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya. valorat amb 4.5/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 1777845600000.0,
+    "ressenyes": 2,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-sant-marc",
+    "nom": "Mas Sant Marc",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà. valorat amb 4.4/5 a google.",
+    "telefon": "972 88 00 07",
+    "web": "http://santmarc.es/",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 589,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-cal-rei-de-tallo",
+    "nom": "Hotel Cal Rei de Talló",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya. valorat amb 4.4/5 a google.",
+    "telefon": "973 93 25 55",
+    "web": "https://www.hotelcalrei.com/",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 322,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-mas-piques",
+    "nom": "Camping Mas Piques",
+    "categoria": "allotjament",
+    "poble": "66760 Bourg-Madame",
+    "descripcio": "Casa rural a 66760 bourg-madame. valorat amb 4.4/5 a google.",
+    "telefon": "04 68 04 62 11",
+    "web": "http://www.campingmaspiques.com/",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 245,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "celisol-cerdagne",
+    "nom": "Celisol Cerdagne",
+    "categoria": "allotjament",
+    "poble": "66760 Bourg-Madame",
+    "descripcio": "Allotjament a 66760 bourg-madame. valorat amb 4.4/5 a google.",
+    "telefon": "04 68 04 53 70",
+    "web": "http://www.hotelcelisolcerdagne.fr/",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 184,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-el-jac",
+    "nom": "Hotel El Jaç",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Allotjament a ger. valorat amb 4.4/5 a google.",
+    "telefon": "972 89 42 91",
+    "web": "http://www.grupturistic.com/",
+    "valoracio": 1775253600000.0,
+    "ressenyes": 144,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "sm-hotel-fontanals-golf",
+    "nom": "SM Hotel Fontanals Golf",
+    "categoria": "allotjament",
+    "poble": "Fontanals",
+    "descripcio": "Allotjament a fontanals. valorat amb 4.3/5 a google.",
+    "telefon": "972 89 18 18",
+    "web": "https://www.hotelfontanals.es/",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 1028,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-fonda-matia",
+    "nom": "Hotel Fonda Matía",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Hostal a bellver de cerdanya. valorat amb 4.3/5 a google.",
+    "telefon": "",
+    "web": "http://www.hotelenlacerdanya.com/",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 566,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-del-llac",
+    "nom": "Hotel del Llac",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.3/5 a google.",
+    "telefon": "972 88 10 00",
+    "web": "http://www.hotellago.com/",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 341,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-pla-del-pi",
+    "nom": "Hotel Pla Del Pi",
+    "categoria": "allotjament",
+    "poble": "Alp",
+    "descripcio": "Allotjament a alp. valorat amb 4.3/5 a google.",
+    "telefon": "972 89 17 03",
+    "web": "http://www.hotelpladelpi.cat/",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 191,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamentos-plaza-de-la-vila",
+    "nom": "Apartamentos Plaza de la Vila",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà. valorat amb 4.3/5 a google.",
+    "telefon": "931 78 00 10",
+    "web": "",
+    "valoracio": 1772578800000.0,
+    "ressenyes": 13,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-restaurant-bellavista",
+    "nom": "Hotel Restaurant Bellavista",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya. valorat amb 4.2/5 a google.",
+    "telefon": "973 51 00 00",
+    "web": "https://www.bellavistabellver.cat/es/index.html",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 1323,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "aero-hotel-cerdanya-ca-leudald",
+    "nom": "Aero Hotel Cerdanya Ca L'eudald",
+    "categoria": "allotjament",
+    "poble": "Alp",
+    "descripcio": "Allotjament a alp. valorat amb 4.2/5 a google.",
+    "telefon": "972 89 00 33",
+    "web": "http://caleudald.com/ce/",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 1156,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-parada-puigcerda",
+    "nom": "Hotel Parada Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.2/5 a google.",
+    "telefon": "972 14 03 00",
+    "web": "http://www.hotelparadapuigcerda.com/",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 996,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-puigcerda-park",
+    "nom": "Hotel Puigcerdà Park",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.2/5 a google.",
+    "telefon": "972 88 07 50",
+    "web": "http://www.hotelparkpuigcerda.com/",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 954,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-villa-paulita",
+    "nom": "Hotel Villa Paulita",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.2/5 a google.",
+    "telefon": "972 88 46 22",
+    "web": "http://www.villapaulitahotel.com/",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 914,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "belvedere",
+    "nom": "Belvedere",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.2/5 a google.",
+    "telefon": "",
+    "web": "http://www.ritabelvedere.com/",
+    "valoracio": 1770159600000.0,
+    "ressenyes": 125,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-del-prado",
+    "nom": "Hotel del Prado",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.1/5 a google.",
+    "telefon": "972 88 04 00",
+    "web": "http://www.hoteldelprado.cat/",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 1153,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "campus-cerdanya",
+    "nom": "Campus Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 4.1/5 a google.",
+    "telefon": "972 88 35 30",
+    "web": "http://www.campus-cerdanya.com/",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 762,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hostal-ruso",
+    "nom": "Hostal Rusó",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Hostal a llívia. valorat amb 4.1/5 a google.",
+    "telefon": "972 14 62 64",
+    "web": "http://www.hostalruso.es/",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 441,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-lenclave",
+    "nom": "Càmping l'Enclave",
+    "categoria": "allotjament",
+    "poble": "2 Els Vinyals",
+    "descripcio": "Càmping a 2 els vinyals. valorat amb 4.1/5 a google.",
+    "telefon": "04 68 04 72 27",
+    "web": "http://www.camping-lenclave.com/",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 368,
+    "tags": [
+      "Càmping"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "aparthotel-spa-cerdanya",
+    "nom": "Aparthotel & Spa Cerdanya",
+    "categoria": "allotjament",
+    "poble": "66760 Bourg-Madame",
+    "descripcio": "Apartament a 66760 bourg-madame. valorat amb 4.1/5 a google.",
+    "telefon": "09 54 29 74 03",
+    "web": "https://aparthotelcerdanya.com/FR/hotel.html",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 274,
+    "tags": [
+      "Apartament",
+      "Spa"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "alberg-anna-maria-janer-llivia",
+    "nom": "Alberg Anna Maria Janer - Llívia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia. valorat amb 4.1/5 a google.",
+    "telefon": "934 10 01 00",
+    "web": "https://www.peretarres.org/cases-colonies-albergs/cases-colonies-albergs-catalunya-balears/cases-colonies-albergs-catalunya/alberg-anna-maria-janer-llivia-girona",
+    "valoracio": 1767481200000.0,
+    "ressenyes": 141,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-stel",
+    "nom": "Càmping Stel",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Càmping a puigcerdà. valorat amb 4/5 a google.",
+    "telefon": "972 88 23 61",
+    "web": "http://www.stel.es/",
+    "valoracio": 4.0,
+    "ressenyes": 755,
+    "tags": [
+      "Càmping"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-xalet-del-golf",
+    "nom": "Hotel Xalet del Golf",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir. valorat amb 4/5 a google.",
+    "telefon": "972 88 43 20",
+    "web": "https://www.chaletdelgolf.com/",
+    "valoracio": 4.0,
+    "ressenyes": 423,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-roca",
+    "nom": "Hotel Roca",
+    "categoria": "allotjament",
+    "poble": "Alp",
+    "descripcio": "Allotjament a alp. valorat amb 4/5 a google.",
+    "telefon": "972 89 00 11",
+    "web": "http://www.hotelrocaalp.com/",
+    "valoracio": 4.0,
+    "ressenyes": 416,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-moixero",
+    "nom": "Hotel Moixeró",
+    "categoria": "allotjament",
+    "poble": "Alp",
+    "descripcio": "Allotjament a alp. valorat amb 4/5 a google.",
+    "telefon": "972 89 02 38",
+    "web": "https://olestay.site/Moixero",
+    "valoracio": 4.0,
+    "ressenyes": 268,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "restaurant-la-fonda",
+    "nom": "Restaurant La Fonda",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Hostal a bellver de cerdanya. valorat amb 3.9/5 a google.",
+    "telefon": "690 72 00 02",
+    "web": "http://www.fondabiayna.com/",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 593,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "camping-bellver",
+    "nom": "Càmping Bellver",
+    "categoria": "allotjament",
+    "poble": "Isòvol",
+    "descripcio": "Càmping a isòvol. valorat amb 3.9/5 a google.",
+    "telefon": "973 51 02 39",
+    "web": "https://www.campingbellver.com/",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 462,
+    "tags": [
+      "Càmping"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-restaurant-du-lac",
+    "nom": "Hôtel Restaurant Du Lac",
+    "categoria": "allotjament",
+    "poble": "66340 Osséja",
+    "descripcio": "Allotjament a 66340 osséja. valorat amb 3.9/5 a google.",
+    "telefon": "06 86 48 29 61",
+    "web": "https://www.facebook.com/hotel.restaurant.du.lac.d.osseja",
+    "valoracio": 1788386400000.0,
+    "ressenyes": 331,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-terminus-puigcerda",
+    "nom": "Hotel Terminus Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 3.8/5 a google.",
+    "telefon": "972 88 02 12",
+    "web": "http://www.hotelterminus.net/",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 718,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-puigcerda",
+    "nom": "Hotel Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 3.8/5 a google.",
+    "telefon": "972 88 21 81",
+    "web": "http://www.hotelpuigcerda.cat/",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 543,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-cal-matia",
+    "nom": "Apartaments Cal Matia",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà. valorat amb 3.8/5 a google.",
+    "telefon": "973 51 00 39",
+    "web": "http://www.fondamatia-lamuga.com/",
+    "valoracio": 1785708000000.0,
+    "ressenyes": 14,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "fonda-cerdanya-puigcerda",
+    "nom": "Fonda Cerdanya Puigcerda",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Hostal a puigcerdà. valorat amb 3.7/5 a google.",
+    "telefon": "638 98 07 80",
+    "web": "https://fonda-cerdanya-puigcerda.guiaporespana.top/",
+    "valoracio": 1783029600000.0,
+    "ressenyes": 95,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-martinez",
+    "nom": "Hotel Martinez",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà. valorat amb 3.5/5 a google.",
+    "telefon": "972 88 02 50",
+    "web": "",
+    "valoracio": 1777759200000.0,
+    "ressenyes": 327,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hostal-estacio",
+    "nom": "Hostal Estació",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Hostal a puigcerdà. valorat amb 3.4/5 a google.",
+    "telefon": "972 88 03 50",
+    "web": "https://hostalestaciopuigcerda.es/",
+    "valoracio": 1775167200000.0,
+    "ressenyes": 255,
+    "tags": [
+      "Hostal"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-de-alquiler",
+    "nom": "Casa de alquiler",
+    "categoria": "allotjament",
+    "poble": "Riu de Cerdanya",
+    "descripcio": "Casa rural a riu de cerdanya. valorat amb 3/5 a google.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 3.0,
+    "ressenyes": 1,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "piso-puigcerda-vistas-y-piscina",
+    "nom": "Piso Puigcerda vistas y piscina",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/piso-puigcerda-vistas-y-piscina.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10497416_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10497416;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "piso-puigcerda-vistas-y-piscina-three-bedroom-apartment",
+    "nom": "Piso Puigcerda vistas y piscina - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d423a1247fa35c641495?dest=bkng&cat=Apartment&lat=42.43063&lng=1.93137&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cozy-apartment-in-the-center-of-puigcerda",
+    "nom": "Cozy apartment in the center of Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6233632d4c4d8d9b9b73073a?dest=bpex&cat=Apartment&lat=42.43285&lng=1.932&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cozy-apartment-in-the-heart-of-downtown",
+    "nom": "Cozy apartment in the heart of downtown.",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D75788447%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "puigcerda-v",
+    "nom": "Puigcerda V",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/puigcerda-v-puigcerda.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11081146_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11081146;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartment-3-rooms-center-pool-fireplace-views-wi-fi",
+    "nom": "Apartment 3 rooms Center, Pool, Fireplace, Views & Wi-Fi",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.holidu.com/d/65428271?ref_source=google_vr&utm_source=google_vr_eb",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-en-puigcerda-ideal-familias-three-bedroom-apartment",
+    "nom": "Apartamento en Puigcerdà ideal familias - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6582e1006c560103cb449db2?dest=bkng&cat=Apartment&lat=42.43051&lng=1.93153&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "piso-puigcerda-con-piscina-y-vistas",
+    "nom": "Piso Puigcerdà con piscina y vistas",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://puigcerdaexperience.com/listing/es/554505",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-mercade",
+    "nom": "Cal Mercadé",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà.",
+    "telefon": "",
+    "web": "http://welcome-guest.com/en/apartamentos-cerdanya/cal-mercade",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-mercade-apartment-with-balcony",
+    "nom": "Cal Mercadé - Apartment with Balcony",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/61ef1068113b0ba9fb95dca7?dest=bkng&cat=House&lat=42.43258&lng=1.93305&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-xera-acollidora-planta-baixa-amb-jardi-privat-i-llar-de-foc-two-bedroom-apartment",
+    "nom": "Cal Xera - Acollidora planta baixa amb jardí privat i llar de foc - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6398d85ac551970d3c732e47?dest=bkng&cat=House&lat=42.43082&lng=1.93317&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-xera-acollidora-planta-baixa-amb-jardi-privat-i-llar-de-foc",
+    "nom": "Cal Xera - Acollidora planta baixa amb jardí privat i llar de foc",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cal-xera-de-puigcerda.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-7550297_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-7550297;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-mirador-del-puigmal",
+    "nom": "Apartamento Mirador Del Puigmal",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-turistics-puigcerda-la-closa",
+    "nom": "Apartaments Turístics Puigcerdà - La Closa",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D1886862%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-turistics-puigcerda-la-closa-one-bedroom-apartment-4-adults",
+    "nom": "Apartaments Turístics Puigcerdà - La Closa - One-Bedroom Apartment (4 Adults)",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5943961b7c00cb0e643b8137?dest=bkng&cat=Apartment&lat=42.431&lng=1.93341&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "precioso-apartamento-4-personas-two-bedroom-apartment",
+    "nom": "Precioso apartamento 4 personas - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6582e1056c560103cb449f14?dest=bkng&cat=House&lat=42.43123&lng=1.93379&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "31-apartamento-cap-del-bosc-three-bedroom-apartment",
+    "nom": "3.1 Apartamento Cap del Bosc - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "forest-head-apartment-puigcerda",
+    "nom": "Forest Head Apartment Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://festival-excursion-dorm.eu/3-1-apartamento-cap-del-bosc-spain",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "puigcerda-carloss-house-como-en-tu-casa-two-bedroom-apartment",
+    "nom": "Puigcerdà Carlos's House, como en tu casa - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/695e92c1ac408a6eb70b28a8?dest=bkng&cat=Apartment&lat=42.43296&lng=1.93316&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-bernat-apartament-one-bedroom-apartment",
+    "nom": "Casa Bernat Apartament - One-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Casa rural a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/63990081c551970d3c770f8d?dest=bkng&cat=Apartment&lat=42.43233&lng=1.92961&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "els-4-pics-two-bedroom-apartment",
+    "nom": "ELS 4 PICS - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/639900acc551970d3c77229e?dest=bkng&cat=House&lat=42.43238&lng=1.92963&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "carlit-apartment-three-bedroom-apartment",
+    "nom": "Carlit Apartment - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/61eee587113b0ba9fb93cd71?dest=bkng&cat=Apartment&lat=42.43015&lng=1.93079&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "maravilloso-atico-en-puigcerda-apartment",
+    "nom": "Maravilloso Atico en Puigcerdà - Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6812403c5250632c5954faf3?dest=bkng&cat=Apartment&lat=42.43243&lng=1.92929&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-en-puigcerda-two-bedroom-apartment",
+    "nom": "Apartamento en Puigcerda - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6398e11dc551970d3c73c31f?dest=bkng&cat=Apartment&lat=42.4313&lng=1.92911&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-en-puigcerda",
+    "nom": "Apartamento en Puigcerda",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/apartamento-en-puigcerda.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-7981789_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-7981789;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-cerdanya-apartment",
+    "nom": "Apartament Cerdanya - Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Apartament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/61ef0e3f113b0ba9fb95511c?dest=bkng&cat=Apartment&lat=42.43046&lng=1.92964&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "design-club-puigcerda-two-bedroom-apartment",
+    "nom": "Design club Puigcerda - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6811ce836178c7268f2ed08c?dest=bkng&cat=House&lat=42.43138&lng=1.92906&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Boutique"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pollastres-ous-casa-conills-la-cerdanya",
+    "nom": "Pollastres Ous Casa Conills la Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "973 51 05 64",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-gall-rural-cerdanya-two-bedroom-apartment",
+    "nom": "CAL GALL rural Cerdanya - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d424a1247fa35c641557?dest=bkng&cat=House&lat=42.36725&lng=1.78847&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "family-house-bellver-de-cerdanya",
+    "nom": "Family House Bellver de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "https://travel.homerez.com/en/book/01683657/property",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Familiar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "charming-stone-and-wood-house-maximum-10-people",
+    "nom": "Charming stone and wood house maximum 10 people",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-5335095",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-vall-bellver-vacation-home",
+    "nom": "Can Vall Bellver - Vacation Home",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-de-piedra-y-madera-vistas-a-montanas-y-prados",
+    "nom": "Casa de piedra y madera vistas a montañas y prados",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://bookonline.pro/property/348251?cod_portal=316&origen_reserva=PORTAL",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-vall-bellver",
+    "nom": "Can Vall Bellver",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.holidaycottagestorent.net/country-houses/can-ball-bellver--c57337",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-de-piedra-y-madera-vistas-a-montanas-y-prados-four-bedroom-house",
+    "nom": "Casa de piedra y madera vistas a montañas y prados - Four-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/594387a57c00cb0e64341b28?dest=bkng&cat=House&lat=42.36835&lng=1.78679&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "rural-house-can-vall-bellver",
+    "nom": "Rural House Can Vall Bellver",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "family-house-bellver-de-cerdanya-four-bedroom-vacation-home",
+    "nom": "Family House Bellver de Cerdanya - Four-Bedroom Vacation Home",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/59438a067c00cb0e64352919?dest=bkng&cat=House&lat=42.36498&lng=1.78456&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Familiar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-bellver",
+    "nom": "Casa Bellver",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "espectacular-apartamento-duplex-bellver-four-bedroom-apartment-with-balcony",
+    "nom": "Espectacular apartamento dúplex Bellver - Four-Bedroom Apartment with Balcony",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Apartament a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "hotel-beli",
+    "nom": "Hotel beli",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "idilico-chalet-en-bellver-de-cerdanya-six-bedroom-house",
+    "nom": "Idílico chalet en Bellver de Cerdanya - Six-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-cal-bertran",
+    "nom": "Apartaments Cal Bertran",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "planta-baja-con-patio-en-bellver-de-la-cerdanya-two-bedroom-apartment",
+    "nom": "Planta baja con patio en Bellver de la Cerdanya - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d465a1247fa35c64372c?dest=bkng&cat=House&lat=42.37027&lng=1.77727&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "torre-de-las-aguilas-bellver-puigcerda-four-bedroom-house",
+    "nom": "Torre de las Águilas, Bellver, Puigcerdá - Four-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/67a232dd5a2dfa15b1830a79?dest=bkng&cat=House&lat=42.36534&lng=1.77834&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-torre-de-les-aligues-villa",
+    "nom": "Casa Torre de les aligues - Villa",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/662646974338d48a8fc8e1d7?dest=bkng&cat=Villa&lat=42.36563&lng=1.77817&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-torre-de-les-aligues",
+    "nom": "Casa Torre de les Àligues",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/casa-torre-de-les-aligues.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11722465_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11722465;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cerdanya-mountain-residences-apartment-with-terrace",
+    "nom": "Cerdanya Mountain Residences - Apartment with Terrace",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bellver-centre-apartment",
+    "nom": "Bellver Centre - Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bonito-atico-en-bellver-de-cerdanya-two-bedroom-apartment",
+    "nom": "Bonito ático en Bellver de Cerdanya - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5c94f3537c00cb0dc08da1c1?dest=bkng&cat=Apartment&lat=42.37051&lng=1.7769&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "atico-con-encanto-en-bellver-de-cerdanya-two-bedroom-apartment",
+    "nom": "Ático con encanto en Bellver de Cerdanya - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5d6c8848c162693e744a0b69?dest=bkng&cat=House&lat=42.36948&lng=1.77666&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "atico-con-encanto-en-bellver-de-cerdanya",
+    "nom": "Ático con encanto en Bellver de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D5034017%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-caseta-de-baltarga",
+    "nom": "La Caseta de Baltarga",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/la-caseta-de-baltarga.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12150161_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12150161;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apt-bellver-de-cerdanya",
+    "nom": "Apt Bellver de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://travel.homerez.com/en/book/67831587/property",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "spacious-apartment-in-bellver-de-cerdanya-mountain-view-150-sqm",
+    "nom": "Spacious Apartment in Bellver de Cerdanya Mountain View 150 sqm",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/holiday-home-carrer-francesc-macia-bellver-de-cerdanya.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-4812296_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-4812296;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Spa"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cerdanya-bellver-2-four-bedrooms-apartment",
+    "nom": "Cerdanya Bellver 2 - Four-Bedrooms Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5caf4733e24da42df0177a23?dest=bkng&cat=Apartment&lat=42.36961&lng=1.77632&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pet-friendly-house-in-cerdanya-for-6-people",
+    "nom": "Pet Friendly House in Cerdanya for 6 People",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-cal-xic-apartment-with-balcony",
+    "nom": "Apartaments Cal Xic - Apartment with Balcony",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/59438c9d7c00cb0e64362f7d?dest=bkng&cat=Apartment&lat=42.36997&lng=1.77542&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "desconnectar-bellver-de-cerdanya-i-2",
+    "nom": "DESCONNECTAR - Bellver de Cerdanya I",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "desconnectar-bellver-de-cerdanya-ii",
+    "nom": "Desconnectar Bellver de Cerdanya II",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "desconnectar-bellver-de-ceerdanya-ii",
+    "nom": "DESCONNECTAR - Bellver de Ceerdanya II",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jan-solana-two-bedroom-apartment",
+    "nom": "CAL JAN - SOLANA - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/648581a67f7e24c1922ca622?dest=bkng&cat=Apartment&lat=42.37248&lng=1.77509&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-sirvent-2-three-bedroom-house",
+    "nom": "Cal Sirvent 2 - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5c912f037c00cb0b541000ff?dest=bkng&cat=House&lat=42.37046&lng=1.77469&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "holiday-home-casa-pepe-baltarga-with-mountain-view-private-terrace-and-wi-fi",
+    "nom": "Holiday Home 'Casa Pepe Baltarga' with Mountain View, Private Terrace and Wi-Fi",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-calma-de-bellver-quadruple-room",
+    "nom": "La Calma de Bellver - Quadruple Room",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/594397677c00cb0e643c2462?dest=bkng&cat=House&lat=42.37054&lng=1.7742&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jan-cadi-two-bedroom-apartment",
+    "nom": "CAL JAN - CADÍ - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bellver-de-cerdagne-chalet-bellver-de-cerdagne",
+    "nom": "Bellver De Cerdagne: Chalet - Bellver de Cerdagne",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-6705896",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pet-friendly-chalet-en-cerdagne-9-personnes",
+    "nom": "Pet Friendly Chalet en Cerdagne 9 Personnes",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cims-apartments-cerdanya-2",
+    "nom": "Cim's Apartments Cerdanya 2",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cims-apartments-cerdanya-2.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11204088_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11204088;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cims-apartments-cerdanya-1-two-bedroom-apartment",
+    "nom": "Cim's Apartments Cerdanya 1 - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/65ca0d6a671b07d23c6bd1bb?dest=bkng&cat=Apartment&lat=42.37001&lng=1.77357&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cims-apartments-cerdanya-1",
+    "nom": "Cim's Apartments Cerdanya 1",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Allotjament a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cims-apartments-cerdanya-1.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11366810_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11366810;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jan-el-monterros",
+    "nom": "Cal Jan - El Monterròs",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cal-jan-el-monterros.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10828469_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10828469;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jan-la-muralla",
+    "nom": "CAL JAN - La Muralla",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cal-jan-la-muralla.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10145153_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10145153;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-jan-la-muralla-two-bedroom-apartment",
+    "nom": "CAL JAN - La Muralla - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bellver de Cerdanya",
+    "descripcio": "Casa rural a bellver de cerdanya.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6485832f7f7e24c1922d2291?dest=bkng&cat=Apartment&lat=42.37072&lng=1.77354&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "residencial-llivia-con-piscina-three-bedroom-apartment",
+    "nom": "Residencial Llívia con piscina - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/654cab9e3011da1e8b771c78?dest=bkng&cat=House&lat=42.4633&lng=1.98047&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "amplio-apartamento-ideal-8-personas-con-piscina",
+    "nom": "Amplio apartamento ideal 8 personas con piscina",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/llivia-iv-llivia.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-8355754_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-8355754;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-en-llivia-ideal-8-personas-con-piscina-four-bedroom-apartment",
+    "nom": "Apartamento en Llívia ideal 8 personas con piscina - Four-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "calquerol-llivia-1-free-parking-pet-friendly",
+    "nom": "CaLQuEROL LLIVIA 1 free parking & pet friendly",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.calquerol.com/listings/464367?googleVR=1&utm_source=google&utm_medium=vacation_rentals",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "calquerol-llivia-3-rent-material-for-ski",
+    "nom": "CaLQuEROL LLIVIA 3, rent material for ski",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.calquerol.com/listings/470585?googleVR=1&utm_source=google&utm_medium=vacation_rentals",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Prop de l'esquí"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "calquerol-llivia-2-premium-with-fireplace-8pax",
+    "nom": "CaLQuEROL LLIVIA 2 premium with fireplace (8pax)",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.calquerol.com/listings/470586?googleVR=1&utm_source=google&utm_medium=vacation_rentals",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "pet-friendly-apartment-in-llivia-catalan-pyrenees",
+    "nom": "Pet Friendly Apartment in Llivia Catalan Pyrenees",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-querol-llivia-1-venta-fortaits-y-alquiler-y-clases-esqui-con-transporte-three-bedroom-apartment",
+    "nom": "CAL QuEROL LlíViA 1 Venta fortaits y alquiler y clases esquí con transporte - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/695e9226ac408a6eb70b1fa3?dest=bkng&cat=Apartment&lat=42.46298&lng=1.98121&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia",
+      "Prop de l'esquí"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-enclau-turismo-rural-cal-rialla",
+    "nom": "Apartament \"Enclau\" Turismo Rural Cal Rialla",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/apartament-cal-rialla.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-6982035_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-6982035;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-enclau-turismo-rural-cal-rialla-three-bedroom-apartment",
+    "nom": "Apartament \"Enclau\" Turismo Rural Cal Rialla - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6398cc4fc551970d3c72694a?dest=bkng&cat=House&lat=42.46402&lng=1.98022&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-el-castell-casa-rural-cal-rialla-apartment",
+    "nom": "Apartament \"El Castell\" Casa Rural Cal Rialla - Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6398cc4ac551970d3c7268c7?dest=bkng&cat=Apartment&lat=42.46406&lng=1.98024&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-el-castell-casa-rural-cal-rialla",
+    "nom": "Apartament \"El Castell\" Casa Rural Cal Rialla",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cal-rialla-ii.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-6980407_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-6980407;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-vilaldach",
+    "nom": "Cal Vilaldach",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://bookonline.pro/property/370620?cod_portal=316&origen_reserva=PORTAL",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "aparthotel-les-corts-studio-with-balcony",
+    "nom": "Aparthotel les Corts - Studio with Balcony",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/594391af7c00cb0e6439674a?dest=bkng&cat=Apartment&lat=42.46373&lng=1.98214&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "esplendida-casa-en-el-centro-de-llivia-con-piscina",
+    "nom": "Espléndida casa en el centro de Llivia con piscina",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/llivia-vlll.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-8275836_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-8275836;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "townhouse-4-rooms-pool-fireplace-wi-fi-pet-friendly",
+    "nom": "Townhouse 4 rooms Pool, Fireplace, Wi-Fi & Pet-Friendly",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "luminoso-y-centrico-estudio-llivia-cerdanya-one-bedroom-apartment",
+    "nom": "Luminoso y Céntrico Estudio, Llívia, Cerdanya - One-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6582dee66c560103cb4457e0?dest=bkng&cat=House&lat=42.46465&lng=1.98165&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "centrico-y-acogedor-estudio-llivia-cerdanya-one-bedroom-apartment",
+    "nom": "Céntrico y Acogedor Estudio, Llívia, Cerdanya. - One-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6582dee66c560103cb4457e5?dest=bkng&cat=Apartment&lat=42.46465&lng=1.98165&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "luminoso-y-centrico-estudio-llivia-cerdanya",
+    "nom": "Luminoso y Céntrico Estudio, Llívia, Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/luminoso-y-centrico-estudio-llivia-cerdanya.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10994173_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10994173;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "centrico-y-acogedor-estudio-llivia-cerdanya",
+    "nom": "Céntrico y Acogedor Estudio, Llívia, Cerdanya.",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/centrico-y-acogedor-estudio-llivia-cerdanya.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10994214_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10994214;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "llivia-piso-centrico-y-muy-luminoso-apartment",
+    "nom": "Llívia - Piso céntrico y muy luminoso - Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6626430b4338d48a8fc7266b?dest=bkng&cat=Apartment&lat=42.46477&lng=1.98162&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "llivia-piso-centrico-y-muy-luminoso",
+    "nom": "Llívia - Piso céntrico y muy luminoso",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/piso-centrico-y-muy-luminoso.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11526674_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11526674;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "llivia-b-apartamento-estudio-en-llivia-one-bedroom-apartment",
+    "nom": "Llivia B - apartamento estudio en Llívia - One-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6811b7876178c7268f2d0599?dest=bkng&cat=Apartment&lat=42.46481&lng=1.98159&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-fontcitrana-casa-de-montana",
+    "nom": "Cal Fontcitrana, casa de montaña",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "https://bookonline.pro/property/377774?cod_portal=316&origen_reserva=PORTAL",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "spectacular-vistas-in-the-heart-of-llivia",
+    "nom": "Spectacular vistas in the heart of Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-5652838",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "spectacular-vistas-in-the-heart-of-llivia-2",
+    "nom": "Spectacular vistas in the heart of Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/65cb84f33e6d928972f8b6eb?dest=bpex&cat=House&lat=42.46224&lng=1.97993&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cabane-du-cerf",
+    "nom": "Cabane Du Cerf",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cabaneducerfllivia.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-8262464_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-8262464;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "llivia-vii",
+    "nom": "LLIVIA VII",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "magnifica-casa-en-el-corazon-de-la-cerdanya",
+    "nom": "Magnífica Casa en el Corazón de la Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-duplex-llivia",
+    "nom": "Apartamento Duplex Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D3620122%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-duplex-llivia-2",
+    "nom": "Apartamento Dúplex Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.zenhotels.com/go/rooms/10176529/?partner_slug=google.affiliate.d21a&utm_medium=cpc-metasearch&utm_source=google_vr",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-duplex-llivia-3",
+    "nom": "Apartamento Dúplex Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/llivia-duplex-exquisito-alta-montana.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-2836839_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-2836839;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-duplex-llivia-vacation-home",
+    "nom": "Apartamento Dúplex Llivia - Vacation Home",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5a84fd747c00cb0e042a2cf8?dest=bkng&cat=House&lat=42.46375&lng=1.98344&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-sol-solet-two-bedroom-apartment-4-adults",
+    "nom": "Apartaments Sol Solet - Two-Bedroom Apartment (4 Adults)",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5943977a7c00cb0e643c2ca2?dest=bkng&cat=Apartment&lat=42.463&lng=1.98342&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-calls",
+    "nom": "Cal Calls",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Casa rural a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cabana-de-llivia-three-bedroom-apartment",
+    "nom": "la cabaña de Llívia - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "ca-la-rosa-2-two-bedroom-apartment",
+    "nom": "Ca la Rosa 2 - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/68119ba66178c7268f2b01e7?dest=bkng&cat=Apartment&lat=42.46245&lng=1.98385&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "ca-la-rosa-two-bedroom-apartment",
+    "nom": "Ca La Rosa - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64861ea77f7e24c19230464d?dest=bkng&cat=Apartment&lat=42.46255&lng=1.98398&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-la-lludriga",
+    "nom": "Apartament la Llúdriga",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "http://welcome-guest.com/en/apartamentos-cerdanya/apartament-la-lludriga",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-la-lludriga-2",
+    "nom": "Apartament la Llúdriga",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Apartament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cabane-du-cerf-2",
+    "nom": "Cabane Du Cerf",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/62de8abbde4e4eebed13ea5c?dest=ago&cat=Vacation+rental+(other)&lat=42.4631&lng=1.98449&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mountain-apartment-llivia",
+    "nom": "Mountain Apartment Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "llivia-ix",
+    "nom": "LLIVIA IX",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cabanita-de-llivia-cerdanya-puigcerda-three-bedroom-apartment",
+    "nom": "La Cabañita de Llívia, Cerdanya, Puigcerdà - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6582dee36c560103cb4457d7?dest=bkng&cat=Apartment&lat=42.46247&lng=1.9853&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cabana-de-llivia-cerdanya-puigcerda",
+    "nom": "La Cabaña de Llívia, Cerdanya, Puigcerdà.",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/la-cabana-de-llivia-cerdanya-puigcerda.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10994108_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10994108;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cabanita-de-llivia-cerdanya-puigcerda",
+    "nom": "La Cabañita de Llívia, Cerdanya, Puigcerdà",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/la-cabanita-de-llivia-cerdanya-puigcerda.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10993981_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10993981;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "vistas-unicas-a-los-pirineos-para-7-8-personas-tensi-home-llivia",
+    "nom": "Vistas Únicas a los Pirineos, para 7-8 personas!! Tensi Home Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "luminoso-atico-en-llivia-con-vistas-unicas-y-jardin-apartment",
+    "nom": "Luminoso ático en Llívia con vistas únicas y jardín - Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5a9d67cf7c00cb0e0cd7e507?dest=bkng&cat=Apartment&lat=42.46728&lng=1.98114&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "6-pax-duplex-with-attic-fireplace-and-balcony",
+    "nom": "6 Pax Duplex with Attic, Fireplace and Balcony",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "llivia-xiv",
+    "nom": "Llivia XIV",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/llivia-xiv.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11748006_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11748006;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "central-apartment-llivia",
+    "nom": "Central Apartment Llivia",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://artretreatabode.eu/llivia-xiv-spain",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "avet-acogedor-alojamiento-en-llivia-three-bedroom-apartment",
+    "nom": "Avet, Acogedor alojamiento en Llívia - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Llívia",
+    "descripcio": "Allotjament a llívia.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/662645824338d48a8fc86ac4?dest=bkng&cat=House&lat=42.46184&lng=1.97646&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-fontanals-de-cerdanya-three-bedroom-house",
+    "nom": "Casa Fontanals de Cerdanya - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-exclusivo-golf-fontanals-de-cerdanya",
+    "nom": "Apartamento Exclusivo Golf Fontanals de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Apartament a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-adosada-con-gran-jardin-en-fontanals-vacation-home",
+    "nom": "Casa adosada con gran jardín en Fontanals - Vacation Home",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-morada-del-golf-superior-chalet",
+    "nom": "La Morada del Golf - Superior Chalet",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d3c3a1247fa35c63ddf8?dest=bkng&cat=Villa&lat=42.39722&lng=1.88208&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "les-feixes-llargues-casa-14-persones-19-supl",
+    "nom": "Les feixes llargues. Casa 14 persones (19 +supl)",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://bookonline.pro/property/400110?cod_portal=316&origen_reserva=PORTAL",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-caseta-mas-soriguera",
+    "nom": "La Caseta Mas Soriguera",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/la-caseta-mas-soriguera.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12405448_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12405448;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "les-feixes-llargues-casa-14-persones-19-supl-seven-bedroom-house",
+    "nom": "Les feixes llargues Casa 14 persones 19 supl - Seven-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/59438f517c00cb0e64378a48?dest=bkng&cat=House&lat=42.4121&lng=1.8725&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "les-feixes-llargues-casa-14-persones-19-supl-2",
+    "nom": "Les feixes llargues. Casa 14 persones (19 +supl)",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-pero-casa-de-montana-chalet",
+    "nom": "Cal Peró Casa de montaña - Chalet",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d09fa1247fa35c62d50a?dest=bkng&cat=Villa&lat=42.3847&lng=1.873&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cabana-de-ger-chalet",
+    "nom": "La cabaña de Ger - Chalet",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5d96c4f0e24da41074d5bc28?dest=bkng&cat=Villa&lat=42.41224&lng=1.85436&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-cabana-de-ger",
+    "nom": "La cabaña de Ger",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/la-cabana-de-ger.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-5575334_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-5575334;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-casita-de-ger-two-bedroom-apartment",
+    "nom": "La Casita de Ger - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/65ca0f5c671b07d23c6c8267?dest=bkng&cat=Apartment&lat=42.41257&lng=1.85472&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-chalet-de-ger-calida-casa-alpina-en-la-cerdanya",
+    "nom": "El Chalet de Ger, cálida casa alpina en la Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/el-chalet-de-ger-calida-casa-alpina-en-la-cerdanya.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-10236104_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-10236104;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "el-chalet-de-ger-calida-casa-alpina-en-la-cerdanya-two-bedroom-chalet",
+    "nom": "El Chalet de Ger, cálida casa alpina en la Cerdanya - Two-Bedroom Chalet",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d061a1247fa35c62bcc4?dest=bkng&cat=Villa&lat=42.41291&lng=1.8551&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-les-voltes-saga",
+    "nom": "Casa Les Voltes Saga",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-3-rooms-pool-fireplace-views-dryer-wi-fi",
+    "nom": "Duplex 3 rooms Pool, Fireplace, Views, Dryer & Wi-Fi",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-bolvir-con-piscina-y-excelentes-vistas-three-bedroom-apartment",
+    "nom": "Duplex Bolvir con piscina y excelentes vistas - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5f087d6fe24da40d20763314?dest=bkng&cat=Apartment&lat=42.41811&lng=1.87851&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-caseta-de-la-devesa",
+    "nom": "La Caseta de la Devesa",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/la-caseta-de-la-devesa.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-6446312_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-6446312;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-daravo",
+    "nom": "Mas d'Aravó",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Casa rural a bolvir.",
+    "telefon": "",
+    "web": "https://www.zenhotels.com/go/rooms/8055721/?partner_slug=google.affiliate.d21a&utm_medium=cpc-metasearch&utm_source=google_vr",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "tpa-apartamento-en-bolvir-para-5-personas-zona-com-y-piscina",
+    "nom": "TPA Apartamento en Bolvir para 5 personas Zona Com. y piscina",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Apartament a bolvir.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "2-bedrooms-appartement-with-balcony-at-alp-8-km-away-from-the-slopes-two-bedroom-apartment",
+    "nom": "2 bedrooms appartement with balcony at Alp 8 km away from the slopes - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Apartament a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5bd5b5d27c00cb067c759992?dest=bkng&cat=House&lat=42.38438&lng=1.89156&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cerdanya-escadarcs-2-two-bedroom-apartment",
+    "nom": "Cerdanya Escadarcs 2 - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5943887d7c00cb0e64347db4?dest=bkng&cat=Apartment&lat=42.38428&lng=1.89154&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "tpa-casa-en-pleta-de-saga-con-piscina-para-68-personas-four-bedroom-house",
+    "nom": "Tpa Casa en Pleta de Saga con piscina para 6/8 personas - Four-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/69494f170c60a53fb7cd607c?dest=nuit&cat=Holiday+village+rental&lat=42.41867&lng=1.86377&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "espaciosa-casa-adosada-en-ger-three-bedroom-house",
+    "nom": "Espaciosa casa adosada en Ger - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5eb4561167a9d10d0426b784?dest=bkng&cat=House&lat=42.40994&lng=1.84714&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Spa"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cabana-con-encanto-en-bolvir-la-cerdanya",
+    "nom": "Cabana con encanto en Bolvir - La Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-rufiandis",
+    "nom": "Cal Rufiandis",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/cal-rufiandis.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-8800327_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-8800327;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-rufiandis-three-bedroom-apartment",
+    "nom": "Cal Rufiandis - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6398f6dac551970d3c75775f?dest=bkng&cat=House&lat=42.40849&lng=1.8455&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "barn-house-with-garden-and-pool",
+    "nom": "barn house with garden and pool",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartment-3-rooms-fireplace-private-garden-cadi-views",
+    "nom": "Apartment 3 rooms Fireplace, Private Garden & Cadí Views",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Allotjament a ger.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-carlina-two-bedroom-apartment",
+    "nom": "Dúplex Carlina - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/648621437f7e24c19231603d?dest=bkng&cat=Apartment&lat=42.42021&lng=1.86394&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-tauler",
+    "nom": "Can Tauler",
+    "categoria": "allotjament",
+    "poble": "El Vilar d'Urtx",
+    "descripcio": "Casa rural a 17538.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/can-tauler.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-7985766_grp-2_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-7985766;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-tauler-five-bedroom-house",
+    "nom": "Can Tauler - Five-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "El Vilar d'Urtx",
+    "descripcio": "Casa rural a 17538.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/62df06c4ba45448493895d90?dest=bkng&cat=House&lat=42.38262&lng=1.89278&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-reus-double-or-twin-room",
+    "nom": "Cal Reus - Double or Twin Room",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Casa rural a ger.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5943977a7c00cb0e643c2c95?dest=bkng&cat=House&lat=42.41063&lng=1.84565&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-elegancia-pleta-de-saga-chalet",
+    "nom": "Casa Elegancia Pleta de Saga - Chalet",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-adosada-ideal-familias-en-ger-pleta-de-saga-three-bedroom-apartment",
+    "nom": "Casa adosada ideal familias en GER-PLETA DE SAGA - Three-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-pareada-en-ger-con-excelentes-vistas",
+    "nom": "Casa pareada en Ger con excelentes vistas",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/65e20cff93553be8f554f03c?dest=ago&cat=Vacation+rental+(other)&lat=42.41263&lng=1.84668&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartment-bolvir-fantasticas-vistas-four-bedroom-apartment",
+    "nom": "Apartment Bolvir Fantásticas Vistas - Four-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/59437f967c00cb0e64309443?dest=bkng&cat=Apartment&lat=42.42072&lng=1.88059&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartment-bolvir-fantasticas-vistas",
+    "nom": "Apartment Bolvir FantÁsticas Vistas",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D2566931%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-cal-josepo-two-bedroom-apartment",
+    "nom": "Dúplex Cal Josepó - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Casa rural a ger.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/62df11c6ba454484938a31fd?dest=bkng&cat=Apartment&lat=42.41197&lng=1.84562&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-cal-josepo",
+    "nom": "Apartament Cal Josepó",
+    "categoria": "allotjament",
+    "poble": "Ger",
+    "descripcio": "Casa rural a ger.",
+    "telefon": "",
+    "web": "http://welcome-guest.com/en/apartamentos-cerdanya/apartament-cal-josepo",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartment-bolvir-cerdanya",
+    "nom": "Apartment Bolvir Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D4040883%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "bolvir-ii-6-pax",
+    "nom": "Bolvir Ii 6 Pax",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Allotjament a bolvir.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-en-bolvir-jardin-y-piscina",
+    "nom": "Casa en Bolvir, jardin y piscina",
+    "categoria": "allotjament",
+    "poble": "Bolvir",
+    "descripcio": "Casa rural a bolvir.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-unifamiliar-en-bolvir",
+    "nom": "Casa unifamiliar en Bolvir",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/casa-unifamiliar-en-bolvir.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-9931424_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-9931424;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Familiar"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-daravo-2",
+    "nom": "Mas d'Aravó",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D1927387%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-daravo-casa-colonos-duplex-apartment",
+    "nom": "Mas d'Aravó - Casa Colonos - Duplex Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "rural-apartment-mas-daravo-for-5-people",
+    "nom": "Rural apartment Mas d'Aravó for 5 people",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-meya-two-bedroom-apartment",
+    "nom": "Mas Meya - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "tpa-casa-en-puigcerda-residencial-con-piscina-padel-tenis-para-8-personas-four-bedroom-house",
+    "nom": "TPA Casa en Puigcerdà Residencial con piscina, padel, tenis para 8 personas - Four-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5cd4e325e24da416c497f90d?dest=bkng&cat=House&lat=42.42479&lng=1.91433&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-ricart-chalet",
+    "nom": "Can Ricart - Chalet",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "chalet-masia-den-cot-with-wi-fi-and-air-conditioning",
+    "nom": "Chalet 'Masia D'en Cot' with Wi-Fi and Air Conditioning",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "puigcerda-iv",
+    "nom": "Puigcerda IV",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-1864503",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-badia",
+    "nom": "Cal badia",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "http://welcome-guest.com/en/apartamentos-cerdanya/cal-badia",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-badia-major-five-bedroom-house",
+    "nom": "Cal Badia Major - Five-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/62df0b85ba454484938979c7?dest=bkng&cat=House&lat=42.40739&lng=1.95329&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-toni-de-vilallobent-three-bedroom-house",
+    "nom": "Cal Toni de Vilallobent - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5d40e751e24da4120caa68f3?dest=bkng&cat=House&lat=42.40806&lng=1.95253&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-pascual-turisme-rural",
+    "nom": "Cal Pascual Turisme Rural",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-3-rooms-7-pax-pool-fireplace-views-wi-fi",
+    "nom": "Duplex 3 rooms 7 Pax, Pool, Fireplace, Views & Wi-Fi",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-a-age-amb-piscina",
+    "nom": "Duplex a Age amb piscina",
+    "categoria": "allotjament",
+    "poble": "Age",
+    "descripcio": "Allotjament a 4.",
+    "telefon": "",
+    "web": "https://pipers-tip-is.eu/duplex-a-age-amb-piscina-spain",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "villa-age-con-chimenea",
+    "nom": "Villa Age con chimenea",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-sans-allotjament-rural",
+    "nom": "Cal Sans - Allotjament Rural",
+    "categoria": "allotjament",
+    "poble": "Age",
+    "descripcio": "Casa rural a 15.",
+    "telefon": "654 95 70 30",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "adosada-en-palau-con-jardin-three-bedroom-house",
+    "nom": "Adosada en Palau con jardín - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64861dc37f7e24c1922fe8b8?dest=bkng&cat=House&lat=42.41631&lng=1.96088&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-marrufes-superior-queen-room",
+    "nom": "Cal Marrufès - Superior Queen Room",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/594393f57c00cb0e643a7435?dest=bkng&cat=House&lat=42.41886&lng=1.94783&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "duplex-a-age-amb-piscina-2",
+    "nom": "Dúplex a Age amb piscina",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "http://welcome-guest.com/en/apartamentos-cerdanya/duplex-a-age-amb-piscina",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-la-font-dage",
+    "nom": "Casa la Font d'Age",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/casa-la-font-d-age.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12115441_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12115441;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-la-font-dage-three-bedroom-house",
+    "nom": "Casa La Font d'Age - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/67a229405a2dfa15b180d7db?dest=bkng&cat=House&lat=42.41893&lng=1.9472&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-del-jordi-i-la-gemma",
+    "nom": "Casa del Jordi i la Gemma",
+    "categoria": "allotjament",
+    "poble": "66340 Palau-de-Cerdagne",
+    "descripcio": "Casa rural a 66340 palau-de-cerdagne.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "house-with-3-bedrooms-in-age-with-wonderful-mountain-view-pool-acces",
+    "nom": "House With 3 Bedrooms in Age, With Wonderful Mountain View, Pool Acces",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D4679812%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "le-petit-manoir-de-palau-villa",
+    "nom": "Le petit manoir de Palau - Villa",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5f087da2e24da40d207664bb?dest=bkng&cat=Villa&lat=42.41582&lng=1.96278&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartaments-turistics-puigcerda-age",
+    "nom": "Apartaments Turistics Puigcerda - Age",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Apartament a girona.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D2483189%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "adosada-en-palau-de-cerdana-three-bedroom-house",
+    "nom": "Adosada en Palau de Cerdaña - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6486224b7f7e24c19231d438?dest=bkng&cat=House&lat=42.41216&lng=1.96796&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-mas-de-la-vanera",
+    "nom": "Cal Más de la Vanera",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Casa rural a frança.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D3730920%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "nice-house-in-the-heart-of-la-cerdanya",
+    "nom": "Nice house in the heart of La Cerdanya",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-loutre-de-palau-holiday-home",
+    "nom": "La Loutre de Palau - Holiday Home",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/654cacbd3011da1e8b775b14?dest=bkng&cat=House&lat=42.41755&lng=1.96223&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-con-jardin-y-piscina-en-el-palacio-de-cerdena",
+    "nom": "Casa con Jardín y Piscina en el Palacio de Cerdeña",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Casa rural a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/67a4b39a064d51dcdc8bb3e4?dest=bpex&cat=House&lat=42.41518&lng=1.96594&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-con-jardin-y-piscina-en-el-palacio-de-cerdena-2",
+    "nom": "Casa con Jardín y Piscina en el Palacio de Cerdeña",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Casa rural a frança.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-5805985",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "palau-de-cerdanya-i-el-palauet-three-bedroom-house",
+    "nom": "PALAU de CERDANYA I El Palauet - Three-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "le-petit-jardin-de-palau",
+    "nom": "Le Petit Jardin de Palau",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://bookonline.pro/property/387598?cod_portal=316&origen_reserva=PORTAL",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "palau-de-cerdanya-i-el-palauet",
+    "nom": "PALAU de CERDANYA I El Palauet",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/fr/palau-de-cerdanya-i-palau-de-cerdagne.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12072389_grp-1_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12072389;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-maison-de-tartas",
+    "nom": "La Maison de Tartas",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/fr/la-maison-de-tartas.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12006891_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12006891;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "lancienne-ferme",
+    "nom": "L'ancienne Ferme",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://reservation.gites-de-france-sud.fr/fiche-66G113204?ORI=GMAPS",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-maison-de-tartas-2",
+    "nom": "La Maison de Tartas",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "http://welcome-guest.com/en/apartamentos-cerdanya/la-maison-de-tartas",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-caseta-de-queixans",
+    "nom": "La Caseta de Queixans",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "beautiful-gite-with-terrace-garden",
+    "nom": "Beautiful gite with terrace & garden",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "l-encant-cereta",
+    "nom": "L encant ceretà",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/fr/cal-cervol-cereta.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-12250703_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-12250703;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "appartement-a-la-montagne-apartment-with-mountain-view",
+    "nom": "Appartement A La Montagne - Apartment with Mountain View",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Apartament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5a84fb247c00cb0e0428c336?dest=bkng&cat=House&lat=42.41828&lng=1.96453&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "calquerol-palau-free-parking-futbol-basket",
+    "nom": "CaLQuEROL Palau, free parking, futbol & basket",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.calquerol.com/listings/464530?googleVR=1&utm_source=google&utm_medium=vacation_rentals",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apto-pirineos-osseja-two-bedroom-apartment",
+    "nom": "Apto Pirineos Osseja - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/6811bd746178c7268f2d81b2?dest=bkng&cat=Apartment&lat=42.41491&lng=1.96912&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartamento-catalonia-two-bedroom-apartment",
+    "nom": "Apartamento Catalonia - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Apartament a frança.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/64c8d05da1247fa35c62bb83?dest=bkng&cat=Apartment&lat=42.41825&lng=1.96512&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "la-loutre-de-palau",
+    "nom": "La Loutre de Palau",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/fr/la-loutre-de-palau-palau-de-cerdagne.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11537852_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11537852;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "chalet-palau",
+    "nom": "Chalet Palau",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "vrbo-property",
+    "nom": "Vrbo Property",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-6015917",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "mas-sant-marc-double-room",
+    "nom": "Mas Sant Marc - Double Room",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Casa rural a girona.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/594393e17c00cb0e643a6a02?dest=bkng&cat=Villa&lat=42.41533&lng=1.93018&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "le-nid-du-lac",
+    "nom": "Le Nid Du Lac",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "townhouse-3-rooms-pool-fireplace-garden-dryer",
+    "nom": "Townhouse 3 rooms Pool, Fireplace, Garden & Dryer",
+    "categoria": "allotjament",
+    "poble": "França",
+    "descripcio": "Allotjament a frança.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cases-puigcerda-villaldach",
+    "nom": "Cases Puigcerdà Villaldach",
+    "categoria": "allotjament",
+    "poble": "Puigcerdà",
+    "descripcio": "Allotjament a puigcerdà.",
+    "telefon": "",
+    "web": "https://pipers-tip-is.eu/cases-puigcerda-villaldach-spain",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cases-puigcerda-villaldach-two-bedroom-house",
+    "nom": "Cases Puigcerdà Villaldach - Two-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Girona",
+    "descripcio": "Allotjament a girona.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "casa-per-grups-cal-calo",
+    "nom": "Casa per grups Cal Calo",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D3527865%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-calo-holiday-home",
+    "nom": "Cal Caló - Holiday Home",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/67a22e4f5a2dfa15b182334d?dest=bkng&cat=House&lat=42.34558&lng=1.75441&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "cal-pesolet-eco-turisme-rural",
+    "nom": "Cal Pesolet Eco Turisme Rural",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "eco-cottage-in-the-pyrenees-close-to-barcelona-and-girona",
+    "nom": "Eco Cottage in the Pyrenees, close to Barcelona and Girona.",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "https://www.us.despegar.com/hotels/h-5307578",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "desconnectar-pi-de-cerdanya",
+    "nom": "DESCONNECTAR - Pi de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "desconnectar-pi-de-cerdanya-vacation-home",
+    "nom": "Desconnectar Pi De Cerdanya - Vacation Home",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Allotjament a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "turisme-rural-ca-laxai-casa-2",
+    "nom": "Turisme Rural Ca l'Axai casa 2",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/ca-l-axai-2.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11004720_grp-0_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11004720;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "turisme-rural-ca-laxai-casa-3-two-bedroom-house",
+    "nom": "Turisme Rural Ca l'Axai casa 3 - Two-Bedroom House",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/654cb1bd3011da1e8b79160e?dest=bkng&cat=House&lat=42.3512&lng=1.76258&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "turisme-rural-ca-laxai-casa-1",
+    "nom": "Turisme Rural Ca l'Axai casa 1",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "https://www.booking.com/hotel/es/turisme-rural-ca-l-axai-casa-1.en.html?aid=2068758;label=seogooglelocal-link-imagesaow-hotel-11166711_grp-3_gendate-20240917;utm_source=seogooglelocal;utm_medium=description;utm_term=hotel-11166711;utm_campaign=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-a-pi-bellver-de-cerdanya-two-bedroom-apartment",
+    "nom": "Apartament a Pi, Bellver de Cerdanya - Two-Bedroom Apartment",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Apartament a lleida.",
+    "telefon": "",
+    "web": "https://www.bluepillow.com/search/5f087cece24da40d2075b486?dest=bkng&cat=Apartment&lat=42.35216&lng=1.76197&language=en",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "apartament-a-pi-bellver-de-cerdanya",
+    "nom": "Apartament a Pi, Bellver de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Apartament a lleida.",
+    "telefon": "",
+    "web": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D1621350%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Apartament"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "can-marc-de-pi-bellver-de-cerdanya",
+    "nom": "Can Marc de Pi, Bellver de Cerdanya",
+    "categoria": "allotjament",
+    "poble": "Lleida",
+    "descripcio": "Casa rural a lleida.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [
+      "Casa rural",
+      "Masia"
+    ],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "barraca-de-lagre",
+    "nom": "Barraca de l'Agre",
+    "categoria": "allotjament",
+    "poble": "25721 Santa Magdalena de Bellver",
+    "descripcio": "Allotjament a 25721 santa magdalena de bellver.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
+    "destacat": false,
+    "imatge": ""
+  },
+  {
+    "id": "els-niuets",
+    "nom": "Els Niuets",
+    "categoria": "allotjament",
+    "poble": "Montellà",
+    "descripcio": "Allotjament a montellà.",
+    "telefon": "",
+    "web": "",
+    "valoracio": 0.0,
+    "ressenyes": 0,
+    "tags": [],
     "destacat": false,
     "imatge": ""
   }
