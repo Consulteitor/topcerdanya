@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
+      // Redirects existents
       {
         source: "/restaurants-destacats",
         destination: "/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
@@ -91,6 +92,65 @@ const nextConfig: NextConfig = {
       {
         source: "/2022/12/02/que-hacer-en-la-cerdanya/",
         destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
+        permanent: true,
+      },
+      // Nous redirects — URLs WordPress del mail de Google
+      {
+        source: "/es",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/es/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/es/consells-practics",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/es/consells-practics/",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/es/rutes-turistiques",
+        destination: "/senderisme/",
+        permanent: true,
+      },
+      {
+        source: "/es/rutes-turistiques/",
+        destination: "/senderisme/",
+        permanent: true,
+      },
+      {
+        source: "/es/category/:path*",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/about",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/about/",
+        destination: "/",
+        permanent: true,
+      },
+      // Paginació de categories WordPress (?cat=X)
+      {
+        source: "/",
+        has: [{ type: "query", key: "cat" }],
+        destination: "/",
+        permanent: true,
+      },
+      // Patró genèric per a qualsevol URL /es/... restant
+      {
+        source: "/es/:path+",
+        destination: "/",
         permanent: true,
       },
     ];
