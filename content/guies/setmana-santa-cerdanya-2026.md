@@ -16,6 +16,123 @@ El consell fonamental: porta sempre una capa extra. L'escalfor de migdia pot eng
 
 ---
 
+---
+
+## Agenda d'actes de Setmana Santa 2026 a la Cerdanya
+
+Setmana Santa a la Cerdanya no és només senderisme i pistes. La comarca té una tradició religiosa i popular pròpia, amb actes que van del Diumenge de Rams al Dilluns de Pasqua. Aquí l'agenda completa dels actes principals, poble per poble i dia per dia.
+
+### Diumenge de Rams — 29 de març
+
+**Puigcerdà · Parròquia de Santa Maria**
+- 8.00h, 10.00h, 12.00h i 20.00h — Missa a la parròquia
+- 12.45h — Benedicció dels Rams
+- 13.00h — Missa d'infants
+
+**Bellver de Cerdanya · Església parroquial**
+- 12.00h — Benedicció dels Rams al portal de l'església
+
+**Llívia · Parròquia**
+- 12.15h i 20.00h — Missa
+
+**Alp · Parròquia**
+- 10.45h i 18.00h — Missa
+
+---
+
+### Dijous Sant — 2 d'abril
+
+**Puigcerdà · Parròquia de Santa Maria**
+- 20.00h — Missa de l'Últim Sopar del Senyor
+- 22.30h — Vetlla de pregària
+
+**Bellver de Cerdanya · Església parroquial**
+- 20.00h — Missa del Dijous Sant (a l'acabar, hora santa)
+
+**Llívia · Parròquia**
+- 20.00h — Missa · 21.30h — Adoració
+
+**Alp · Parròquia**
+- 18.00h — Missa · 21.00h — Adoració
+
+---
+
+### Divendres Sant — 3 d'abril
+
+**Puigcerdà · Parròquia de Santa Maria**
+- 9.00h — Via Crucis a l'església parroquial
+- 19.00h — Celebració de la Paraula
+
+**Puigcerdà · Processó del Sant Enterrament** ⭐ *Patrimoni Festiu de la Generalitat de Catalunya*
+La processó del Sant Enterrament és l'acte més multitudinari de la Setmana Santa a tota la Cerdanya. Organitzada per la Parròquia de Santa Maria, recorre el nucli històric de Puigcerdà amb cinc passos: els Improperis, la Pietat, el Sant Sepulcre, la Dolorosa i el Natzarè. L'acte és reconegut com a Patrimoni Festiu de la Generalitat de Catalunya. *(Hora: pendent de confirmar per l'organització — habitualment a la nit)*
+
+**Bellver de Cerdanya · Via Crucis de les Torxes** ⭐ *Patrimoni Festiu de la Generalitat de Catalunya*
+- 22.00h — Via Crucis de les Torxes. Una processó nocturna amb torxes enceses que recorre els carrers de Bellver. Reconeguda com a Patrimoni Festiu de la Generalitat de Catalunya i un dels actes de Setmana Santa més especials de la comarca. Organitzada per la Parròquia de Bellver de Cerdanya.
+- 18.00h — Celebració litúrgica a l'església parroquial
+
+**Llívia · Parròquia**
+- 9.30h — Via Crucis
+- 20.00h — Celebració
+
+**Alp · Parròquia**
+- 10.30h — Via Crucis
+- 18.00h — Celebració
+
+---
+
+### Dissabte Sant — 4 d'abril
+
+**Puigcerdà · Parròquia de Santa Maria**
+- 22.00h — Vetlla Pasqual
+
+**Bellver de Cerdanya · Església parroquial**
+- 20.30h — Vigília Pasqual
+
+**Llívia · Parròquia**
+- 20.00h — Vigília Pasqual
+
+**Alp · Parròquia**
+- 18.00h — Vigília Pasqual
+
+---
+
+### Diumenge de Pasqua — 5 d'abril
+
+**Puigcerdà · Parròquia de Santa Maria**
+- 8.00h, 10.00h, 12.00h i 20.00h — Missa de Pasqua
+
+**Bellver de Cerdanya · Església parroquial**
+- 12.00h — Missa de Pasqua
+
+**Llívia · Parròquia**
+- 12.15h i 20.00h — Missa de Pasqua
+
+**Alp · Parròquia**
+- 10.45h i 18.00h — Missa de Pasqua
+
+---
+
+### Dilluns de Pasqua — 6 d'abril
+
+**Aplec de Talló (Bellver de Cerdanya)** ⭐ *La festa popular més antiga de la comarca per Pasqua*
+- 11.00h — Missa cantada a l'església de Santa Maria de Talló
+- Caramelles i sardanes al voltant de l'església
+- Tarda — Concentració a la plaça de l'Arbre de Bellver de Cerdanya, amb corrandes en direcció a la Font de Talló. La Coral Font de Talló fa la cantada de caramelles. Ball de seguici en parelles, des dels més petits fins als més grans. La llegenda diu que cal trepitjar els camps de Monterròs perquè sigui un bon any de collita.
+
+L'Aplec de Talló és una de les festes populars més arrelades de la comarca, d'origen pagà vinculat al culte a la natura i la fertilitat que el cristianisme va recollir sota la figura de la Verge. Una tradició que es manté viva i que combina la celebració religiosa amb ball, caramelles i la festa del retorn de la primavera.
+
+**Llívia · Ermita de Sant Guillem**
+- 13.00h — Missa aplec a l'ermita de Sant Guillem
+
+**Puigcerdà · Parròquia de Santa Maria**
+- 9.30h i 20.00h — Missa
+
+---
+
+*Fonts: Bisbat d'Urgell (setmanasanta.bisbaturgell.org), Patrimoni Festiu de la Generalitat de Catalunya, Ajuntament de Bellver de Cerdanya. Els horaris de les processons de Puigcerdà es confirmen poques setmanes abans — consulta l'Ajuntament de Puigcerdà (puigcerda.cat) per a l'horari definitiu.*
+
+---
+
 ## Rutes de senderisme per Setmana Santa
 
 Setmana Santa és potser el millor moment de l'any per fer senderisme de mig nivell a la Cerdanya. Els camins de la plana ja estan secs, les valls altes comencen a obrir-se i la floració dels prats baixos fa les rutes especialment fotogèniques.
