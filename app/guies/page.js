@@ -365,7 +365,7 @@ export default async function GuiesPage() {
   const ESSENCIALS_SLUGS = [
     "que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
     "on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
-    "allotjament-rural-cerdanya-com-triar-i-on-dormir",
+    "alojamiento-cerdanya",
   ];
   const essencials = ESSENCIALS_SLUGS
     .map(s => totes.find(g => (g.slug || g.id) === s))
