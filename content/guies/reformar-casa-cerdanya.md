@@ -144,6 +144,15 @@ Per a la guia de compra amb necessitat de reforma, consulta [comprar casa a la C
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Vendre casa a la Cerdanya](/guies/vendre-casa-cerdanya)
+- [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
+- [Mudar-se a viure a la Cerdanya](/guies/mudarse-viure-cerdanya)
+
 *Darrera actualització: 2026. Costos orientatius. Demana sempre pressupost a empreses locals per obtenir una estimació actualitzada.*
 
 

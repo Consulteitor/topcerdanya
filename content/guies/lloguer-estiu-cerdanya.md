@@ -151,6 +151,15 @@ Per veure l'oferta de [lloguers d'estiu disponibles a la Cerdanya](/inmobiliaria
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer de temporada a Puigcerdà](/guies/lloguer-temporada-puigcerda)
+- [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+
 *Darrera actualització: 2026. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
 
 

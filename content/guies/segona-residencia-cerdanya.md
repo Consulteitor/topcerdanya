@@ -173,6 +173,16 @@ Per a informació sobre preus actuals i on comprar, consulta la [guia de preus d
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+- [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
+- [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
+- [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
+
 *Darrera actualització: 2026. La normativa fiscal pot variar. Consulta un assessor fiscal per a la teva situació específica.*
 
 

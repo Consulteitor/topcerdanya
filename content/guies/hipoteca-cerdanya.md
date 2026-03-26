@@ -147,6 +147,15 @@ Per a càlcul complet d'impostos i despeses de compra, consulta la [guia d'impos
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
+- [Mudar-se a viure a la Cerdanya](/guies/mudarse-viure-cerdanya)
+- [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
+
 *Darrera actualització: 2026. Les condicions hipotecàries varien contínuament. Consulta diverses entitats i una corredoria hipotecaria per obtenir les millors condicions actuals.*
 
 

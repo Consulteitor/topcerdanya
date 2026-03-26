@@ -169,6 +169,14 @@ Per a una visió comparativa de tot el mercat de lloguer d'hivern de la Cerdanya
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
+- [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
+
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual de Puigcerdà.*
 
 

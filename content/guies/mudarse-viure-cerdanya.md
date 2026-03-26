@@ -123,6 +123,16 @@ Per a informació sobre propietats disponibles, consulta el [directori de propie
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
+- [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
+- [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
+- [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
+
 *Darrera actualització: 2026.*
 
 

@@ -124,6 +124,15 @@ A la Cerdanya, els projectes solen tenir terminis d'entrega de 18–30 mesos des
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
+- [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
+- [Impostos i despeses en comprar](/guies/impostos-compra-habitatge-cerdanya)
+
 *Darrera actualització: 2026. L'oferta d'obra nova canvia contínuament. Per a informació actualitzada sobre promocions actives, contacta amb una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o consulta les alertes dels principals portals immobiliaris.*
 
 

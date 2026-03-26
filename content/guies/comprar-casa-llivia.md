@@ -131,6 +131,14 @@ Per a una comparativa de preus amb tota la comarca, consulta la [guia de preus d
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+
 *Darrera actualització: 2026. L'oferta a Llívia és escassa i canvia sovint. Contacta directament amb [immobiliàries de la Cerdanya](/inmobiliaria/agencies) que cobreixi el municipi.*
 
 

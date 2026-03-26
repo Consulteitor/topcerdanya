@@ -142,6 +142,17 @@ Per a una visió de conjunt sobre la inversió immobiliaria a la Cerdanya, consu
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
+- [Lloguer d'hivern a la Cerdanya](/guies/lloguer-hivern-cerdanya)
+- [Lloguer d'estiu a la Cerdanya](/guies/lloguer-estiu-cerdanya)
+- [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
+- [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
+
 *Darrera actualització: 2026. La normativa sobre HUT evoluciona. Consulta sempre les fonts oficials i un professional especialitzat per a la teva situació concreta.*
 
 

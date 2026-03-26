@@ -160,6 +160,17 @@ Depèn del que digui el contracte. En general, el lloguer de temporada és molt 
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer d'hivern a la Cerdanya](/guies/lloguer-hivern-cerdanya)
+- [Lloguer d'estiu a la Cerdanya](/guies/lloguer-estiu-cerdanya)
+- [Lloguer de temporada a Puigcerdà](/guies/lloguer-temporada-puigcerda)
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+- [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
+
 *Darrera actualització: 2026. Els preus indicats son orientatius i poden variar. Per veure [propietats en lloguer de temporada disponibles](/inmobiliaria/lloguers) a la Cerdanya, consulta el nostre directori.*
 
 

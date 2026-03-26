@@ -147,6 +147,13 @@ Per a l'oferta de propietats disponibles, consulta el [directori de propietats](
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+
 *Darrera actualització: 2026. Preus orientatius. El mercat d'Alp és molt sensible als cicles de neu: verifica l'estat de les temporades recents amb agents locals.*
 
 

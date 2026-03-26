@@ -140,6 +140,17 @@ Per veure propietats disponibles a Puigcerdà, consulta el nostre [directori de 
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
+- [Impostos i despeses en comprar](/guies/impostos-compra-habitatge-cerdanya)
+- [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
+- [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
+- [Lloguer de temporada a Puigcerdà](/guies/lloguer-temporada-puigcerda)
+
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual.*
 
 

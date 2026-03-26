@@ -190,6 +190,18 @@ L'Agència de l'Habitatge de Catalunya té línies d'ajuts per a compra d'habita
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
+- [Vendre casa a la Cerdanya](/guies/vendre-casa-cerdanya)
+- [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
+- [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
+- [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
+- [Mudar-se a viure a la Cerdanya](/guies/mudarse-viure-cerdanya)
+
 *Darrera actualització: 2026. Tota la informació sobre preus és orientativa i pot variar. Per a assessorament personalitzat, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria/agencies).*
 
 

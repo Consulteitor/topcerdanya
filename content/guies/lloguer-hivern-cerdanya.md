@@ -172,6 +172,16 @@ Per veure l'oferta de [lloguers de temporada disponibles a la Cerdanya](/inmobil
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer d'estiu a la Cerdanya](/guies/lloguer-estiu-cerdanya)
+- [Lloguer d'hivern a Puigcerdà](/guies/lloguer-hivern-puigcerda)
+- [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
+- [Comprar casa a Alp (prop de les pistes)](/guies/comprar-casa-alp)
+
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual, subjectes a variació.*
 
 

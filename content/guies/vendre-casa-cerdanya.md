@@ -153,6 +153,16 @@ Consulta amb l'ajuntament del municipi o amb una gestoria local per calcular l'i
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Impostos i despeses en comprar](/guies/impostos-compra-habitatge-cerdanya)
+- [Comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya)
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+- [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
+
 *Darrera actualització: 2026. Per a assessorament personalitzat, consulta una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o un gestor fiscal especialitzat en immobiliari.*
 
 

@@ -181,6 +181,19 @@ No hi ha indicadors clars que apuntin a una correcció significativa. La demanda
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Impostos i despeses en comprar](/guies/impostos-compra-habitatge-cerdanya)
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+- [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
+- [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
+- [Comprar casa a Bellver de Cerdanya](/guies/comprar-casa-bellver-cerdanya)
+- [Comprar casa a Alp](/guies/comprar-casa-alp)
+- [Comprar casa a Llívia](/guies/comprar-casa-llivia)
+
 *Darrera actualització: 2026. Dades orientatives basades en el mercat actual. Per a valoracions concretes, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria/agencies) o revisa les propietats en venda al nostre [directori de propietats](/inmobiliaria/propietats).*
 
 

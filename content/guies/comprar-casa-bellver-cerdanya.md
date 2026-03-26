@@ -131,6 +131,15 @@ Per a una visió comparativa del mercat, consulta la [guia de preus d'habitatge 
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
+- [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
+- [Invertir a la Cerdanya](/guies/invertir-cerdanya)
+
 *Darrera actualització: 2026. Preus orientatius basats en el mercat actual de Bellver de Cerdanya.*
 
 

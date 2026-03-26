@@ -169,6 +169,17 @@ Per aprofundir en els preus del mercat, consulta la nostra [anàlisi de preus de
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
+- [Lloguer d'hivern a la Cerdanya](/guies/lloguer-hivern-cerdanya)
+- [Comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya)
+- [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
+- [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
+
 *Darrera actualització: 2026. La informació sobre rendibilitats és orientativa i no constitueix assessorament financer. Consulta sempre un professional abans de prendre decisions d'inversió.*
 
 

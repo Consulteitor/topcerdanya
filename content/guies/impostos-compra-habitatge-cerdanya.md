@@ -219,6 +219,15 @@ Per entendre tot el procés de compra, consulta la [guia completa per comprar ca
 
 ---
 
+
+---
+
+## Vegeu també
+
+- [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
+- [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
+- [Vendre casa a la Cerdanya](/guies/vendre-casa-cerdanya)
+
 *Darrera actualització: 2026. Els tipus impositius i les tarifes arancelàries poden canviar. Verifica sempre amb un gestor o assessor fiscal la situació vigent en el moment de la teva operació.*
 
 
