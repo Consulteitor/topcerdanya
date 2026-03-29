@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { getNegociBySlug, getNegocis } from '@/lib/sheets'
 
-export const dynamic = 'force-static'
+export const dynamic = 'force-dynamic'
 
 export async function generateStaticParams() {
   const negocis = await getNegocis()
