@@ -200,6 +200,22 @@ function FitxaPremium({ n }) {
             </div>
           )}
 
+          {/* Especialitats */}
+          {n.especialitats && (
+            <div style={{ marginBottom: '40px' }}>
+              <div style={{ fontFamily: C.sans, fontSize: '9px', fontWeight: 500, letterSpacing: '0.2em', textTransform: 'uppercase', color: C.midGray, marginBottom: '16px', paddingBottom: '10px', borderBottom: `1px solid ${C.warmGray}` }}>
+                Especialitats de la casa
+              </div>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '0' }}>
+                {n.especialitats.split('·').map((e, i) => (
+                  <div key={i} style={{ fontFamily: C.body, fontSize: '16px', fontWeight: 300, color: C.black, padding: '14px 0', borderBottom: `1px solid ${C.warmGray}`, lineHeight: 1.4 }}>
+                    {e.trim()}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
           {/* Serveis */}
           {serveis.length > 0 && (
             <div style={{ marginBottom: '40px' }}>
