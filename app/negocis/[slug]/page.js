@@ -1,13 +1,8 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { getNegociBySlug, getNegocis } from '@/lib/sheets'
+import { getNegociBySlug } from '@/lib/sheets'
 
 export const dynamic = 'force-dynamic'
-
-export async function generateStaticParams() {
-  const negocis = await getNegocis()
-  return negocis.map(n => ({ slug: n.id }))
-}
 
 export async function generateMetadata({ params }) {
   const { slug } = await params
