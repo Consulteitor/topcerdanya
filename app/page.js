@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { getNegocis, getNoticies, getGuies } from '../lib/sheets';
 
+export const dynamic = 'force-dynamic';
+
 const C = {
   black: '#0a0a0a', white: '#faf9f6', warmGray: '#e8e4dc',
   midGray: '#9a9489', accent: '#c8423a',

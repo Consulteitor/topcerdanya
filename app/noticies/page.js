@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { getNoticies } from '../../lib/sheets';
 
+export const dynamic = 'force-dynamic';
+
 export const metadata = {
   title: 'Notícies de la Cerdanya | Top Cerdanya',
   description: 'Totes les notícies de la Cerdanya. Actualitat local, cultura, esports, turisme i societat de la comarca.',
