@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { getNoticies } from '../../lib/sheets';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 43200; // 12h
 
 export const metadata = {
   title: 'Notícies de la Cerdanya | Top Cerdanya',

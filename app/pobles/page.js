@@ -1,4 +1,6 @@
 import Link from "next/link";
+
+export const revalidate = 86400; // 24h — pobles quasi mai canvien
 import { getPobles } from "@/lib/sheets";
 
 export const metadata = {

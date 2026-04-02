@@ -1,4 +1,7 @@
 import { notFound } from "next/navigation";
+
+export const revalidate = 86400; // 24h
+import Image from "next/image";
 import Link from "next/link";
 import { getPobles, getPoblaBySlug } from "@/lib/sheets";
 import ReactMarkdown from "react-markdown";
@@ -148,11 +151,14 @@ export default async function PoblaPage({ params }) {
       {/* ── IMATGE DESTACADA ── */}
       {pobla.imatge && (
         <div style={{ maxWidth: "1100px", margin: "clamp(24px,4vw,40px) auto 0", padding: "0 clamp(16px,4vw,40px)" }}>
-          <div style={{ width: "100%", aspectRatio: "21/9", overflow: "hidden" }}>
-            <img
+          <div style={{ width: "100%", aspectRatio: "21/9", overflow: "hidden", position: "relative" }}>
+            <Image
               src={pobla.imatge}
               alt={pobla.titol}
-              style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+              fill
+              priority
+              sizes="100vw"
+              style={{ objectFit: "cover" }}
             />
           </div>
         </div>
