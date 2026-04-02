@@ -3,7 +3,14 @@ const API_URL = 'https://script.google.com/macros/s/AKfycbwoPQmck8k0aDPQ6ijOY0NR
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
   const sheet = searchParams.get('sheet') || 'Guies';
-  const res = await fetch(`${API_URL}?sheet=${sheet}`, { redirect: 'follow', cache: 'no-store' });
+  // Cache per sheet: noticies 1h, la resta 6h
+  const ttl = sheet === 'Noticies' || sheet === 'Agenda' ? 3600 : 21600;
+  const res = await fetch(`${API_URL}?sheet=${sheet}`, {
+    redirect: 'follow',
+    next: { revalidate: ttl },
+  });
   const data = await res.json();
-  return Response.json(data, { headers: { 'Cache-Control': 'no-store' } });
+  return Response.json(data, {
+    headers: { 'Cache-Control': `s-maxage=${ttl}, stale-while-revalidate` },
+  });
 }
