@@ -8,7 +8,7 @@ import fs from "fs";
 import path from "path";
 
 // ISR: no generateStaticParams — les pàgines es generen on-demand
-export const revalidate = 3600; // 1h
+export const revalidate = 86400; // 24h — contingut de guia estable
 
 
 export async function generateMetadata({ params }) {
