@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getNegocis, getNoticies, getGuies } from '../lib/sheets';
+import { getNegocis, getNoticies, getGuies, getAgenda } from '../lib/sheets';
 
 export const dynamic = 'force-dynamic';
 
@@ -75,8 +75,8 @@ const seccioHeader = (etiqueta, titol, href, linkText) => (
 );
 
 export default async function HomePage() {
-  const [totsNegocis, totsNoticies, totesGuies] = await Promise.all([
-    getNegocis(), getNoticies(), getGuies(),
+  const [totsNegocis, totsNoticies, totesGuies, agendaItems] = await Promise.all([
+    getNegocis(), getNoticies(), getGuies(), getAgenda(),
   ]);
 
   const noticies = totsNoticies.slice(0, 4);
@@ -297,7 +297,7 @@ export default async function HomePage() {
           {/* AGENDA */}
           <div className="home-agenda-col" style={{ paddingRight: '40px', borderRight: `1px solid ${C.black}` }}>
             {seccioHeader('Esdeveniments', 'Agenda', null, null)}
-            {AGENDA.map((ev, i) => (
+            {agendaItems.slice(0,5).map((ev, i) => (
               <div key={i} style={{
                 display: 'grid', gridTemplateColumns: '52px minmax(0,1fr)',
                 gap: '16px', padding: '14px 0', borderBottom: `1px solid ${C.warmGray}`,
@@ -306,11 +306,11 @@ export default async function HomePage() {
                   background: C.black, color: C.white, padding: '8px 4px',
                   textAlign: 'center', flexShrink: 0,
                 }}>
-                  <div style={{ fontFamily: C.serif, fontSize: '22px', fontWeight: 900, lineHeight: 1 }}>{ev.dia}</div>
-                  <div style={{ fontFamily: C.sans, fontSize: '9px', letterSpacing: '0.1em', textTransform: 'uppercase', opacity: 0.6 }}>{ev.mes}</div>
+                  <div style={{ fontFamily: C.serif, fontSize: '22px', fontWeight: 900, lineHeight: 1 }}>{(ev.data||'').slice(8,10)}</div>
+                  <div style={{ fontFamily: C.sans, fontSize: '9px', letterSpacing: '0.1em', textTransform: 'uppercase', opacity: 0.6 }}>{['','Gen','Feb','Mar','Abr','Mai','Jun','Jul','Ago','Set','Oct','Nov','Des'][(ev.data||'').slice(5,7)|0]}</div>
                 </div>
                 <div>
-                  <div style={{ fontFamily: C.sans, fontSize: '9px', color: C.accent, letterSpacing: '0.15em', textTransform: 'uppercase', marginBottom: '4px' }}>{ev.cat}</div>
+                  <div style={{ fontFamily: C.sans, fontSize: '9px', color: C.accent, letterSpacing: '0.15em', textTransform: 'uppercase', marginBottom: '4px' }}>{ev.categoria}</div>
                   <div style={{ fontFamily: C.serif, fontSize: '15px', fontWeight: 700, lineHeight: 1.2, marginBottom: '4px' }}>{ev.titol}</div>
                   <div style={{ fontFamily: C.sans, fontSize: '10px', color: C.midGray }}>{ev.lloc}</div>
                 </div>
