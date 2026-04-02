@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { getGuies } from "@/lib/sheets";
 
 export const metadata = {
@@ -434,9 +435,11 @@ export default async function GuiesPage() {
                   padding: "clamp(24px,4vw,48px)",
                 }}>
                   {hero.imatge && (
-                    <div style={{ aspectRatio: "16/9", overflow: "hidden" }}>
-                      <img src={hero.imatge} alt={hero.titol}
-                        style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                    <div style={{ aspectRatio: "16/9", overflow: "hidden", position: "relative" }}>
+                      <Image src={hero.imatge} alt={hero.titol}
+                        fill priority
+                        sizes="(max-width: 768px) 100vw, 55vw"
+                        style={{ objectFit: "cover" }} />
                     </div>
                   )}
                   <div>
@@ -505,9 +508,11 @@ export default async function GuiesPage() {
                     style={{ textDecoration: "none", color: "inherit" }}>
                     <div style={{ background: C.white, padding: "clamp(20px,3vw,28px)" }}>
                       {g.imatge && (
-                        <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "14px" }}>
-                          <img src={g.imatge} alt={g.titol}
-                            style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                        <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "14px", position: "relative" }}>
+                          <Image src={g.imatge} alt={g.titol}
+                            fill
+                            sizes="(max-width: 768px) 100vw, 33vw"
+                            style={{ objectFit: "cover" }} />
                         </div>
                       )}
                       <h2 style={{

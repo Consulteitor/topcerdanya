@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { getNegocis, getNoticies, getGuies, getAgenda } from '../lib/sheets';
 
 export const revalidate = 3600; // ISR 1h
@@ -105,9 +106,11 @@ export default async function HomePage() {
             }}>
               {g.imatge && (
                 <Link href={`/guies/${slug}`} style={{ textDecoration: 'none' }}>
-                  <div style={{ aspectRatio: '16/9', overflow: 'hidden' }}>
-                    <img src={g.imatge} alt={g.titol}
-                      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                  <div style={{ aspectRatio: '16/9', overflow: 'hidden', position: 'relative' }}>
+                    <Image src={g.imatge} alt={g.titol}
+                      fill priority
+                      sizes="(max-width: 768px) 100vw, 60vw"
+                      style={{ objectFit: 'cover' }} />
                   </div>
                 </Link>
               )}
@@ -236,9 +239,11 @@ export default async function HomePage() {
                   gap: '16px', alignItems: 'center',
                 }}>
                   {g.imatge && (
-                    <div style={{ width: '100px', height: '70px', overflow: 'hidden', flexShrink: 0 }}>
-                      <img src={g.imatge} alt={g.titol}
-                        style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                    <div style={{ width: '100px', height: '70px', overflow: 'hidden', flexShrink: 0, position: 'relative' }}>
+                      <Image src={g.imatge} alt={g.titol}
+                        fill
+                        sizes="100px"
+                        style={{ objectFit: 'cover' }} />
                     </div>
                   )}
                   <div>
