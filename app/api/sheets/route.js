@@ -4,7 +4,7 @@ export async function GET(request) {
   const { searchParams } = new URL(request.url);
   const sheet = searchParams.get('sheet') || 'Guies';
   // Cache per sheet: noticies 1h, la resta 6h
-  const ttl = sheet === 'Noticies' || sheet === 'Agenda' ? 3600 : 21600;
+  const ttl = sheet === 'Agenda' ? 3600 : 43200; // Agenda 1h, tot la resta 12h
   const res = await fetch(`${API_URL}?sheet=${sheet}`, {
     redirect: 'follow',
     next: { revalidate: ttl },

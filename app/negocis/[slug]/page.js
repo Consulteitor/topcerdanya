@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { getNegociBySlug } from '@/lib/sheets'
 
-export const revalidate = 21600 // 6h — negocis canvien poc
+export const revalidate = 86400 // 24h — negocis quasi mai canvien
 export const dynamicParams = true
 
 export async function generateMetadata({ params }) {
