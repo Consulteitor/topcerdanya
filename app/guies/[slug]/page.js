@@ -1,16 +1,14 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { getGuies, getGuiaBySlug } from "@/lib/sheets";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import fs from "fs";
 import path from "path";
 
-export async function generateStaticParams() {
-  const guies = await getGuies();
-  return guies.map((g) => ({ slug: g.slug || String(g.id) }));
-}
-
+// ISR: no generateStaticParams — les pàgines es generen on-demand
+export const revalidate = 3600; // 1h
 
 
 export async function generateMetadata({ params }) {
@@ -117,11 +115,14 @@ export default async function GuiaPage({ params }) {
 
         {/* Imatge destacada */}
         {guia.imatge && (
-          <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "40px" }}>
-            <img
+          <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "40px", position: "relative" }}>
+            <Image
               src={guia.imatge}
               alt={guia.titol}
-              style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+              fill
+              priority
+              sizes="(max-width: 768px) 100vw, 1100px"
+              style={{ objectFit: "cover" }}
             />
           </div>
         )}
