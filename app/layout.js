@@ -11,9 +11,7 @@ const playfair = Playfair_Display({
 
 const sourceSerif = Source_Serif_4({
   subsets: ['latin'],
-  weight: ['300', '400', '600'],
   style: ['normal', 'italic'],
-  axes: ['opsz'],
   variable: '--font-source-serif',
   display: 'swap',
 })
