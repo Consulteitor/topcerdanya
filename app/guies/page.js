@@ -1,5 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
+
+export const revalidate = 3600; // 1h — apareixen guies noves cada dia
 import { getGuies } from "@/lib/sheets";
 
 export const metadata = {
@@ -67,9 +69,10 @@ function TarjetaPetita({ guia }) {
         cursor: "pointer",
       }}>
         {guia.imatge && (
-          <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "12px" }}>
-            <img src={guia.imatge} alt={guia.titol}
-              style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+          <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "12px", position: "relative" }}>
+            <Image src={guia.imatge} alt={guia.titol}
+              fill sizes="(max-width: 768px) 100vw, 280px"
+              style={{ objectFit: "cover" }} />
           </div>
         )}
         <h3 style={{
@@ -132,10 +135,10 @@ function BlocCategoria({ titol, etiqueta, guies, showDivider = true }) {
         <Link href={`/guies/${slug}`} style={{ textDecoration: "none", color: "inherit" }}>
           <article style={{ cursor: "pointer" }}>
             {destacada.imatge && (
-              <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "20px" }}>
-                <img src={destacada.imatge} alt={destacada.titol}
-                  style={{ width: "100%", height: "100%", objectFit: "cover", display: "block",
-                    transition: "transform 0.3s ease" }} />
+              <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "20px", position: "relative" }}>
+                <Image src={destacada.imatge} alt={destacada.titol}
+                  fill sizes="(max-width: 768px) 100vw, 66vw"
+                  style={{ objectFit: "cover" }} />
               </div>
             )}
             <div style={{
@@ -236,9 +239,10 @@ function BlocTemporades({ hivern, primavera, estiu, tardor }) {
               {dest && (
                 <Link href={`/guies/${slug}`} style={{ textDecoration: "none", color: "inherit" }}>
                   {dest.imatge && (
-                    <div style={{ width: "100%", aspectRatio: "4/3", overflow: "hidden", marginBottom: "12px" }}>
-                      <img src={dest.imatge} alt={dest.titol}
-                        style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                    <div style={{ width: "100%", aspectRatio: "4/3", overflow: "hidden", marginBottom: "12px", position: "relative" }}>
+                      <Image src={dest.imatge} alt={dest.titol}
+                        fill sizes="(max-width: 768px) 100vw, 25vw"
+                        style={{ objectFit: "cover" }} />
                     </div>
                   )}
                   <h3 style={{
