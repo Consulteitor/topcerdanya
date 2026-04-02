@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { getNegocis, getNoticies, getGuies, getAgenda } from '../lib/sheets';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 3600; // ISR 1h
 
 const C = {
   black: '#0a0a0a', white: '#faf9f6', warmGray: '#e8e4dc',

@@ -1,4 +1,30 @@
 import './globals.css'
+import { Playfair_Display, Source_Serif_4, IBM_Plex_Sans } from 'next/font/google'
+
+const playfair = Playfair_Display({
+  subsets: ['latin'],
+  weight: ['400', '700', '900'],
+  style: ['normal', 'italic'],
+  variable: '--font-playfair',
+  display: 'swap',
+})
+
+const sourceSerif = Source_Serif_4({
+  subsets: ['latin'],
+  weight: ['300', '400', '600'],
+  style: ['normal', 'italic'],
+  axes: ['opsz'],
+  variable: '--font-source-serif',
+  display: 'swap',
+})
+
+const ibmPlex = IBM_Plex_Sans({
+  subsets: ['latin'],
+  weight: ['300', '400', '500'],
+  variable: '--font-ibm-plex',
+  display: 'swap',
+})
+
 import Link from 'next/link'
 import Navbar from '../components/Navbar'
 import CookieBanner from '../components/CookieBanner'
@@ -10,7 +36,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="ca">
+    <html lang="ca" className={`${playfair.variable} ${sourceSerif.variable} ${ibmPlex.variable}`}>
       <body><Navbar /><main style={{ maxWidth: '1400px', margin: '0 auto', padding: "0 40px" }} className="main-layout">{children}</main><footer className="site-footer" style={{ borderTop: '3px solid #0a0a0a', padding: '32px 40px', fontFamily: "'IBM Plex Sans', sans-serif", fontSize: '10px', color: '#9a9489', letterSpacing: '0.08em', textTransform: 'uppercase' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '16px' }}>
           <span style={{ fontFamily: "'Playfair Display', serif", fontSize: '28px', fontWeight: 900, color: '#0a0a0a' }}>Top<span style={{ color: '#c8423a' }}>.</span>Cerdanya</span>
