@@ -140,3 +140,15 @@ Que la capital de comarca no domini la gastronomia de la comarca no és una para
 → [On menjar a Puigcerdà](/pobles/puigcerda/restaurants)
 → [On menjar a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [On menjar a Llívia](/pobles/llivia/restaurants)
+
+---
+
+## Els millors restaurants de la Cerdanya: resum pràctic
+
+Si busques els millors restaurants a la Cerdanya en una sola consulta: el Serendipia by La Calèche a Llívia (4,8 · 651 ressenyes) és el resultat més sòlid per volum i nota combinats. Per nota pura, el Restaurant 539 a Puigcerdà (4,9 · 335 ressenyes) i el Valley Mountain Bar a Bellver (5,0 · 111 ressenyes) encapçalen el rànquing. Entre els millors restaurants de la Cerdanya recomanats per locals i visitants repetidors, Bellver i Llívia concentren la major densitat de qualitat per metre quadrat.
+
+---
+
+## ¿Buscas restaurantes en la Cerdanya?
+
+Si llegas desde una búsqueda en castellano: esta guía cubre los **mejores restaurantes de la Cerdanya** según valoraciones reales de Google Maps. Tenemos también una **[guía completa en castellano sobre restaurantes en la Cerdanya](/guies/restaurantes-cerdanya)** con los mejores de Puigcerdà, Bellver, Llívia y alrededores, consejos prácticos y preguntas frecuentes.
