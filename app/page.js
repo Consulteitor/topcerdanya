@@ -321,6 +321,11 @@ export default async function HomePage() {
                 </div>
               </div>
             ))}
+          <div style={{ marginTop: '20px', paddingTop: '16px', borderTop: '1px solid #e8e4dc' }}>
+            <a href='/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany' style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#9a9489', textDecoration: 'none', borderBottom: '1px solid #9a9489', paddingBottom: '2px' }}>
+              Planifica la teva visita → Guia completa de la Cerdanya
+            </a>
+          </div>
           </div>
 
           {/* DIRECTORI */}
