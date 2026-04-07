@@ -3,6 +3,7 @@ Si busques què fer a la Cerdanya, aquesta guia t'ajuda a planificar una escapad
 La comarca s'estén al voltant dels 1.000 metres d'altitud, envoltada del massís del Cadí al sud i la frontera francesa al nord. Puigcerdà n'és la capital, però la vall és molt més que un sol poble: Llívia, Bellver de Cerdanya, Alp, Das, Bolvir, Meranges, Ger, Talltendre i una dotzena més de nuclis, cadascun amb el seu caràcter propi.
 
 El secret per gaudir-la és senzill: pocs plans, ben triats, sense córrer.
+
 ## El millor de la Cerdanya d'un cop d'ull
 
 - **Quan anar:** Hivern per esquí (La Molina i Masella), primavera i tardor per tranquil·litat i preus baixos, estiu per senderisme i el llac de Puigcerdà
@@ -38,10 +39,19 @@ Revisa sempre l'estat de carreteres i la previsió meteorològica abans de sorti
 
 ### Primavera: la Cerdanya sense aglomeracions
 
-La primavera és la gran desconeguda de la comarca. L'afluència és baixa, els preus d'allotjament molt millors, i el paisatge —amb la neu als cims i els prats verds a la vall— és extraordinari.
+La primavera és la gran desconeguda de la comarca — i per això és una de les millors estacions per visitar-la. L'afluència és baixa, els preus d'allotjament molt millors, i el paisatge —amb la neu als cims i els prats verds a la vall— és extraordinari. Els restaurants estan tranquils, aparcar és fàcil i els pobles es viuen d'una manera diferent, sense les presses del turisme massiu.
 
-**Plans que funcionen a la primavera**
-Passejos tranquils per pobles com Bolvir, amb les vistes al Puigmal i a la serralada del Cadí. La ruta del llac de Malniu, accessible des de Meranges, és una de les excursions familiars més gratificants de la comarca quan les condicions ho permeten (comprova nivell de neu). El mercat de la Plaça de Santa Maria de Puigcerdà els divendres és un bon pla de matí combinar amb un dinar al poble.
+**El llac de Malniu des de Meranges**
+Una de les excursions estrella de la comarca quan les condicions ho permeten. Meranges és el poble més alt de la Cerdanya, i des d'allà el camí fins al llac de Malniu és assequible per a famílies. A la primavera, la neu es va retirant progressivament i el llac apareix en un paisatge d'alta muntanya d'una bellesa difícil de trobar a la comarca. Comprova sempre el nivell de neu abans de sortir.
+
+**Pobles sense turistes**
+La primavera és el moment per passejar per Bolvir, Ger, Talltendre o Meranges sense creusar-te amb quasi ningú. Els camins entre pobles de la Baixa Cerdanya estan en bones condicions i els prats comencen a florir. Les vistes al Puigmal des de Bolvir a primera hora del matí, sense boira i amb la neu als cims, estan entre les millors estampes de la comarca.
+
+**Mercat i terrasses a Puigcerdà**
+El mercat dels divendres a la Plaça de Santa Maria és un pla de matí perfecte per combinar amb un dinar de terrassa al sol. A la primavera, els dies assolellats de la Cerdanya —una de les zones amb més hores de sol dels Pirineus catalans— permeten seure a l'exterior amb molt bona temperatura ja des d'abril.
+
+**Senderisme de primavera**
+Les rutes dels fons de vall —al voltant del riu Segre, entre pobles, per camins forestals de menor altitud— estan en el seu millor moment. Els camins no estan ni enfangats per l'hivern ni secs per l'estiu. Per a qui vol una ruta exigent, la pujada al Puigmal (2.913 m) des de Queralbs és accessible des de finals d'abril en anys de poca neu.
 
 El clima pot ser variable. Una jaqueta de capa sempre és necessària, fins i tot en dies assolellats.
 
@@ -60,15 +70,21 @@ El riu Segre a la seva part alta ofereix zones de bany naturals. El parc de la P
 
 A l'estiu, comença les activitats a l'aire lliure d'hora i reserva les hores centrals per descansar o dinar. De les 13h a les 16h, el sol a la vall apreta.
 
-### Tardor: colors, bolets i gastronomia
+### Tardor: colors, bolets i la Cerdanya dels locals
 
-La tardor és la millor estació per a qui vol la Cerdanya tranquil·la i al millor preu. Els boscos de la comarca —alzines, roures, faigs— fan un espectacle de colors que fa justícia a qualsevol foto. I la tardor és temporada de bolets, un dels plans estrella de molta gent de la comarca i de visitants habituals.
+La tardor és la millor estació per a qui vol la Cerdanya de veritat: tranquil·la, barata i sense cues. Els boscos de la comarca —alzines, roures, faigs— fan un espectacle de colors que fa justícia a qualsevol foto. I la tardor és temporada de bolets, un dels plans estrella de molta gent de la comarca i de visitants habituals que tornen any rere any.
 
-**Gastronomia de tardor**
-Les jornades gastronòmiques de tardor amb producte local de temporada (bolets, carns, formatges, oli) es concentren entre octubre i novembre. Segueix les fires i mercats de la comarca per coincidir-hi. La Fira de Sant Andreu de Bellver de Cerdanya és una de les més tradicionals.
+**Bolets a la Cerdanya**
+Octubre és el mes dels bolets a la Cerdanya. Els boscos de les zones altes —sobretot als voltants de Das, Ger, Meranges i la Molina— són els millors llocs per trobar ceps, rossinyols, fredolics i llenegues. No cal ser expert: les fires de tardor de la comarca solen incloure activitats d'identificació de bolets amb guies locals. I si no vols collir-los tu, els restaurants els incorporen a la carta entre octubre i novembre: el cep amb ou ferrat o els rossinyols amb cansalada són plats que no apareixen a cap altra carta de l'any.
 
-**Passejos de tardor**
-La ruta pels pobles de la Baixa Cerdanya —Bellver, Talltendre, Bolvir, Ger, Meranges— és especialment agradable a tardor amb el fullatge daurat. Pocs turistes, camins secs i llum de tarda excepcional.
+**Rutes de tardor**
+La ruta pels pobles de la Baixa Cerdanya —Bellver, Talltendre, Bolvir, Ger, Meranges— és especialment agradable a tardor amb el fullatge daurat. La llum de tarda a octubre a la Cerdanya té una qualitat especial: llarga, càlida i lateral, que fa que els pobles de pedra semblin sortits d'un quadre. Pocs turistes, camins secs i silenci.
+
+**Fires i mercats de tardor**
+Les jornades gastronòmiques de tardor amb producte local de temporada (bolets, carns, formatges, oli) es concentren entre octubre i novembre. La Fira de Sant Andreu de Bellver de Cerdanya és una de les més tradicionals i autèntiques de la comarca. El mercat de productors locals de Puigcerdà és una bona alternativa per portar producte de la comarca cap a casa: embotit, mel, formatge, conserves.
+
+**Preus de temporada baixa**
+La tardor ofereix els millors preus d'allotjament de l'any, amb l'excepció del pont de Tots Sants (1 de novembre) que té una demanda creixent. Si pots evitar caps de setmana de pont, trobaràs cases rurals i hotels a preus molt competitius i en condicions de tranquil·litat total.
 
 ---
 
@@ -116,6 +132,7 @@ A pocs minuts de Puigcerdà, amb vistes excepcionals al Puigmal. El Parador de T
 - No revisar el temps abans de sortir. La meteorologia de muntanya canvia ràpid i pot condicionar plans a l'aire lliure.
 - Deixar reserves de restaurant per a última hora en cap de setmana. A l'estiu i a l'hivern, els millors llocs s'esgoten dies abans.
 - Arribar al llac de Puigcerdà a mig matí en plena temporada i esperar trobar lloc còmodament. Arriba aviat o ves a l'hora de berenar.
+- Menystenir la primavera i la tardor. Són les estacions on la Cerdanya ofereix la millor relació experiència-preu de l'any.
 
 ---
 
@@ -128,7 +145,7 @@ Amb 2 o 3 dies ja pots tenir una bona primera experiència si planifiques bé. E
 Depèn del que busques. Per esquí: desembre-març. Per tranquil·litat i preus baixos: primavera i tardor. Per activitats a l'aire lliure sense fred: juny-setembre, millor entre setmana. L'agost és el mes de màxima afluència.
 
 **Com s'hi arriba des de Barcelona?**
-En cotxe, per l'autopista C-17 fins a Ripoll i després el Túnel del Cadí. Aproximadament 1h 40min si no hi ha trànsit. El tren de rodalies de FGC arriba fins a Puigcerdà des de Barcelona (línia R3, aproximadament 3 hores, amb transbordament a Ripoll).
+En cotxe, per l'autopista C-17 fins a Ripoll i després el Túnel del Cadí. Aproximadament 1h 40min si no hi ha trànsit. El tren de rodalies de FGC arriba fins a Puigcerdà des de Barcelona (línia R3, aproximadament 3 hores, amb transbordament a Ripoll). Nota: la línia R3 té talls parcials fins al gener de 2027 per obres — consulta els horaris actualitzats a l'FGC.
 
 **Cal tenir cotxe a la Cerdanya?**
 Per moure's còmodament entre pobles, sí. El transport públic intercomarcal és limitat. Si et quedes a Puigcerdà i no surts del nucli, pots prescindir-ne, però perdràs molta comarca.
@@ -138,6 +155,21 @@ Sí, i molt. El llac, l'Arborètum de Queixans, les escoles d'esquí, el senderi
 
 **Què fer a la Cerdanya quan plou?**
 Llívia és sempre una bona opció (nucli cobert, museu, farmàcia). Un àpat llarg en un bon restaurant, una visita a una formatgeria artesana o una tarda tranquil·la a l'allotjament amb bones vistes funcionen molt millor que intentar mantenir un pla exterior sota l'aigua.
+
+**Val la pena anar a la Cerdanya a la primavera?**
+Sí, especialment si vols evitar multituds i pagar menys. La primavera ofereix paisatge de neu als cims i verd a la vall, pobles tranquils i restaurants sense esperes. El llac de Malniu des de Meranges és una de les millors excursions de la comarca i a la primavera és quan es fa en les millors condicions de llum i tranquil·litat.
+
+**Quina és la millor època per recollir bolets a la Cerdanya?**
+Octubre és el mes d'or, especialment després d'uns dies de pluja seguits de sol. Les zones de Das, Ger, Meranges i els boscos al voltant de La Molina són els millors llocs. Si no coneixes els bolets, apunta't a una sortida guiada — la comarca organitza activitats de recol·lecció amb experts locals durant la temporada.
+
+**Es pot anar a la Cerdanya sense esquiar a l'hivern?**
+Perfectament. L'hivern sense esquí és una de les millors maneres de viure la comarca: passejar per Puigcerdà i Llívia sense les masses de l'estiu, dinar llarg en un restaurant de la comarca, visitar el mercat de dijous, fer rutes de neu amb raquetes o simplement gaudir de la llum i el fred secs del Pirineu. Els allotjaments rurals a l'hivern fora de temporada d'esquí ofereixen preus molt competitius.
+
+**Hi ha platges a la Cerdanya?**
+No hi ha mar, però el llac de Puigcerdà té platges de gespa i zones de bany que a l'estiu funcionen com a alternativa familiar excel·lent. El riu Segre també té zones de bany naturals a la part alta de la comarca. Algunes cases rurals disposen de piscina exterior.
+
+**Quant costa anar a la Cerdanya?**
+Depèn molt de l'allotjament i l'estació. En temporada alta (hivern i estiu) una casa rural per a 4 persones pot costar entre 150 i 300€ per nit. En temporada baixa (primavera i tardor excepte ponts) els mateixos allotjaments poden baixar un 30-40%. El menú del dia a la comarca es troba entre 14 i 20€. Un cap de setmana complet per a 2 persones amb allotjament, menjar i activitats es pot fer bé entre 300 i 500€.
 
 ---
 
@@ -153,6 +185,7 @@ Al directori de Top Cerdanya trobaràs restaurants, allotjaments i activitats se
 → [Restaurants amb terrassa a la Cerdanya](/guies/restaurants-terrassa-cerdanya)
 → [Allotjament a la Cerdanya amb gos](/guies/on-dormir-cerdanya-amb-gos)
 → [Trinxat de la Cerdanya: el plat de la comarca](/guies/trinxat-de-la-cerdanya)
+→ [Cases rurals per a famílies a la Cerdanya](/guies/cases-rurals-cerdanya-families)
 
 ---
 
