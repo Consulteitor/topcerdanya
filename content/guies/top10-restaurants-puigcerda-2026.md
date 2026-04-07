@@ -1,4 +1,4 @@
-Puigcerdà és la capital de la Cerdanya i el municipi amb més oferta de restauració de tota la comarca. Això té dues cares: per un costat, pots trobar de tot; per l'altre, entre tanta oferta és fàcil acabar en un lloc que viu de la ubicació i no de la cuina. Aquesta llista filtra el soroll: només els restaurants que Google Maps valora amb un 4,7 o més, amb el volum de ressenyes suficient per considerar el resultat fiable. El rànquing s'ordena per nota i, dins de la mateixa nota, per nombre de ressenyes —el millor indicador de consistència al llarg del temps.
+Puigcerdà és la capital de la Cerdanya i el municipi amb més oferta de restauració de tota la comarca. Això té dues cares: per un costat, pots trobar de tot; per l'altre, entre tanta oferta és fàcil acabar en un lloc que viu de la ubicació i no de la cuina. Aquesta llista dels millors restaurants de Puigcerdà filtra el soroll: només els restaurants que Google Maps valora amb un 4,7 o més, amb el volum de ressenyes suficient per considerar el resultat fiable. El rànquing s'ordena per nota i, dins de la mateixa nota, per nombre de ressenyes —el millor indicador de consistència al llarg del temps.
 
 **Si no tens temps de llegir tota la llista:** el #1 és el 539 Plats Forts (4,9 · 335 res.), el més popular és La Borda del Ceretà (4,7 · 1.780 res.), i si vols pizza, Amore Fati sorprèn a tothom. Segueix llegint per saber per a quin pla és millor cadascun.
 
@@ -8,7 +8,7 @@ Un 4,9 amb més de tres-centes ressenyes és el millor resultat de tota la capit
 
 → Puigcerdà · Tel. 647 59 28 39 · [Restaurants a Puigcerdà](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
 
-## 2. La Placeta ★ 4,9 · 37 ressenyes — La millor aposta petita
+## 2. Restaurant La Placeta, Puigcerdà ★ 4,9 · 37 ressenyes — La millor aposta petita
 
 Petit, acollidor i consistent. Quan un restaurant petit manté un 4,9 amb prop de quaranta ressenyes, vol dir que no hi ha cap visita de compromís: la gent va, menja bé i escriu. El nom és exactament el que és: un racó, una escala humana, un lloc sense grans ambicions formals però amb molt de criteri a la cuina. Per a qui busca menjar bé a Puigcerdà sense la pressió d'un restaurant gran en cap de setmana, és una de les opcions més fiables de la capital. Mostra en creixement: si manté el nivell, serà un dels més destacats de la comarca.
 
@@ -34,7 +34,7 @@ Vuit-centes deu ressenyes a un 4,7 confirmen que La Pampa és un dels pilars de 
 
 ## 6. Amore Fati Pizza ★ 4,7 · 526 ressenyes — La sorpresa: la millor pizza de la comarca
 
-Una pizzeria napolitana a Puigcerdà que ha generat un entusiasme desproporcionat per a un establiment del seu format. Les ressenyes parlen de masses de fermentació llarga, ingredients seleccionats i un resultat que no té res a envejar als millors de Catalunya. Cinc-centes vint-i-sis ressenyes a 4,7 confirmen que no és una novetat passatgera. L'atenció al client apareix repetidament com un punt fort: la persona que porta la sala és descrita com especialment atenta i acurada. Per als qui creuen que per menjar una bona pizza cal anar a Nàpols o a Barcelona, l'Amore Fati és una revelació.
+Una pizzeria napolitana a Puigcerdà que ha generat un entusiasme desproporcionat per a un establiment del seu format. Les ressenyes de l'Amore Fati Pizza parlen de masses de fermentació llarga, ingredients seleccionats i un resultat que no té res a envejar als millors de Catalunya. Cinc-centes vint-i-sis ressenyes a 4,7 confirmen que no és una novetat passatgera. L'atenció al client apareix repetidament com un punt fort: la persona que porta la sala és descrita com especialment atenta i acurada. Per als qui creuen que per menjar una bona pizza cal anar a Nàpols o a Barcelona, l'Amore Fati és una revelació.
 
 → Puigcerdà · Tel. 872 04 77 96 · [Restaurants a Puigcerdà](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
 
@@ -44,9 +44,9 @@ Un restaurant d'arrels argentines —el nom no deixa dubtes— que s'ha consolid
 
 → Puigcerdà · Tel. 699 75 74 31 · [tierradelfuego.es](https://tierradelfuego.es) · [Restaurants a Puigcerdà](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
 
-## 8. Tiracanyes Puigcerdà ★ 4,7 · 128 ressenyes — El millor informal del nucli
+## 8. Restaurant Tiracanyes Puigcerdà ★ 4,7 · 128 ressenyes — El millor informal del nucli
 
-El nom és explícit sobre el to del lloc: informal, sense pretensions i directe. El Tiracanyes és un d'aquells bars-restaurants que funcionen bé precisament perquè no intenten ser el que no son. Cent vint-i-vuit ressenyes a 4,7 indica una clientela fidel que valora exactament la proposta que el local ofereix: bona cuina sense complicar-se, ambient relaxat i preu honrat. Per als visitants de Puigcerdà que volen menjar bé sense l'estructura d'un restaurant formal, és una de les opcions més recomanables del nucli.
+El nom és explícit sobre el to del lloc: informal, sense pretensions i directe. El Tiracanyes és un d'aquells bars-restaurants que funcionen bé precisament perquè no intenten ser el que no son. Cent vint-i-vuit ressenyes a 4,7 indica una clientela fidel que valora exactament la proposta que el local ofereix: bona cuina sense complicar-se, ambient relaxat i preu honrat. El menú del Tiracanyes a Puigcerdà és una de les opcions més populars entre setmana, amb una relació qualitat-preu destacada per molts visitants habituals. Per als visitants de Puigcerdà que volen menjar bé sense l'estructura d'un restaurant formal, és una de les opcions més recomanables del nucli.
 
 → Puigcerdà · Tel. 651 80 07 42 · [tiracanyes.es](https://tiracanyes.es) · [Restaurants a Puigcerdà](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
 
@@ -69,3 +69,9 @@ Puigcerdà té prop de vuitanta restaurants actius. Que només deu mantinguin un
 El resultat que més crida l'atenció és el de La Borda del Ceretà: quasi dos mil ressenyes a un 4,7 és un resultat que poques adresses de la Catalunya interior poden igualar. Que no encapçali el rànquing en nota però sí en popularitat diu molt sobre la diferència entre un restaurant de referència turística i un restaurant de referència gastronòmica.
 
 → [Els millors restaurants de tota la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026) · [Guia de restaurants de la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026) · [Què fer a Puigcerdà](https://topcerdanya.com/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026)
+
+---
+
+## ¿Buscas los mejores restaurantes de Puigcerdà?
+
+Si llegas desde una búsqueda en castellano: esta es la guía con los **mejores restaurantes de Puigcerdà** según valoraciones reales de Google Maps. El número 1 es el 539 Plats Forts (4,9 · 335 reseñas), el más popular es La Borda del Ceretà (4,7 · casi 1.800 reseñas). Para una guía completa de restaurantes en toda la Cerdanya en castellano, visita nuestra **[guía de restaurantes de la Cerdanya en castellano](/guies/restaurantes-cerdanya)**.
