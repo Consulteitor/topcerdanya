@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { getGuies, getGuiaBySlug } from "@/lib/sheets";
+import { getGuies, getGuiaBySlug, getAgenda } from "@/lib/sheets";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import fs from "fs";
@@ -13,7 +13,10 @@ export const revalidate = 86400; // 24h — contingut de guia estable
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const guia = await getGuiaBySlug(slug);
+  const [guia, agendaItems] = await Promise.all([
+    getGuiaBySlug(slug),
+    getAgenda(),
+  ]);
   if (!guia) return { title: "Guia no trobada | Top Cerdanya" };
 
   const titol = guia.titol || slug;
@@ -73,9 +76,86 @@ function extractFAQs(markdown) {
   return faqs.slice(0, 10);
 }
 
+
+const MESOS = ['','Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
+const MESOS_CURT = ['','Gen','Feb','Mar','Abr','Mai','Jun','Jul','Ago','Set','Oct','Nov','Des'];
+const CAT_COLORS = {
+  'Mercat': '#6b4226', 'Tradicional': '#c8423a', 'Esports': '#1d3557',
+  'Cultura': '#2c3e50', 'Gastronomia': '#8b4513', 'Natura': '#2d6a4f',
+  'Música': '#5c4a1e', 'Fira': '#7b2d8b',
+};
+
+function AgendaMes({ items }) {
+  const ara = new Date();
+  const mesActual = ara.getMonth() + 1;
+  const anyActual = ara.getFullYear();
+
+  const itemsMes = items.filter(ev => {
+    if (!ev.data) return false;
+    const [y, m] = ev.data.split('-').map(Number);
+    return y === anyActual && m === mesActual;
+  }).slice(0, 5);
+
+  const nomMes = MESOS[mesActual];
+
+  return (
+    <div style={{
+      background: '#f5f0e8', border: '2px solid #0a0a0a',
+      padding: '28px 28px 20px', marginBottom: '40px', marginTop: '8px',
+    }}>
+      <div style={{ display: 'flex', alignItems: 'baseline', gap: '12px', marginBottom: '20px', paddingBottom: '14px', borderBottom: '1px solid #0a0a0a' }}>
+        <span style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: '18px', fontWeight: 900, letterSpacing: '-0.01em', color: '#0a0a0a' }}>
+          Agenda — {nomMes} {anyActual}
+        </span>
+        <span style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '9px', fontWeight: 500, letterSpacing: '0.2em', textTransform: 'uppercase', background: '#c8423a', color: '#faf9f6', padding: '2px 8px' }}>
+          Actualitzat
+        </span>
+      </div>
+      {itemsMes.length === 0 ? (
+        <p style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '13px', color: '#9a9489', fontStyle: 'italic' }}>
+          Properament actualitzarem l'agenda de {nomMes}.
+        </p>
+      ) : (
+        <div>
+          {itemsMes.map((ev, i) => {
+            const dia = (ev.data || '').slice(8, 10);
+            const mesNum = Number((ev.data || '').slice(5, 7));
+            const color = CAT_COLORS[ev.categoria] || '#9a9489';
+            return (
+              <div key={i} style={{
+                display: 'grid', gridTemplateColumns: '48px 1fr',
+                gap: '14px', padding: '12px 0',
+                borderBottom: i < itemsMes.length - 1 ? '1px solid #d4cfc5' : 'none',
+              }}>
+                <div style={{ background: '#0a0a0a', color: '#faf9f6', textAlign: 'center', padding: '6px 4px', alignSelf: 'start' }}>
+                  <div style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: '20px', fontWeight: 900, lineHeight: 1 }}>{dia}</div>
+                  <div style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '9px', letterSpacing: '0.1em', textTransform: 'uppercase', opacity: 0.6 }}>{MESOS_CURT[mesNum]}</div>
+                </div>
+                <div>
+                  <div style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '9px', color, letterSpacing: '0.15em', textTransform: 'uppercase', marginBottom: '3px' }}>{ev.categoria}</div>
+                  <div style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: '15px', fontWeight: 700, lineHeight: 1.2, color: '#0a0a0a', marginBottom: '3px' }}>{ev.titol}</div>
+                  {ev.lloc && <div style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '11px', color: '#9a9489' }}>{ev.lloc}</div>}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      )}
+      <div style={{ marginTop: '16px', textAlign: 'right' }}>
+        <a href="/agenda" style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#9a9489', borderBottom: '1px solid #9a9489', textDecoration: 'none', paddingBottom: '2px' }}>
+          Veure tota l'agenda →
+        </a>
+      </div>
+    </div>
+  );
+}
+
 export default async function GuiaPage({ params }) {
   const { slug } = await params;
-  const guia = await getGuiaBySlug(slug);
+  const [guia, agendaItems] = await Promise.all([
+    getGuiaBySlug(slug),
+    getAgenda(),
+  ]);
   if (!guia) notFound();
 
   const contingut = getContingut(slug);
@@ -141,6 +221,9 @@ export default async function GuiaPage({ params }) {
 
         <div className="guia-layout" style={{ display: "grid", gridTemplateColumns: "1fr 280px", gap: "56px", alignItems: "start" }}>
           <div className="article-body">
+            {slug.startsWith('que-fer-a-la-cerdanya') && (
+              <AgendaMes items={agendaItems} />
+            )}
             {contingut ? (
               <ReactMarkdown remarkPlugins={[remarkGfm]}>{contingut}</ReactMarkdown>
             ) : (

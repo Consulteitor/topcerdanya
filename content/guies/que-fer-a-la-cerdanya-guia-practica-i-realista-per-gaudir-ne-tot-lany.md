@@ -3,6 +3,14 @@ Si busques què fer a la Cerdanya, aquesta guia t'ajuda a planificar una escapad
 La comarca s'estén al voltant dels 1.000 metres d'altitud, envoltada del massís del Cadí al sud i la frontera francesa al nord. Puigcerdà n'és la capital, però la vall és molt més que un sol poble: Llívia, Bellver de Cerdanya, Alp, Das, Bolvir, Meranges, Ger, Talltendre i una dotzena més de nuclis, cadascun amb el seu caràcter propi.
 
 El secret per gaudir-la és senzill: pocs plans, ben triats, sense córrer.
+## El millor de la Cerdanya d'un cop d'ull
+
+- **Quan anar:** Hivern per esquí (La Molina i Masella), primavera i tardor per tranquil·litat i preus baixos, estiu per senderisme i el llac de Puigcerdà
+- **Quants dies:** 2-3 dies és el mínim per una experiència completa; cap de setmana complet és ideal
+- **Base recomanada:** Puigcerdà per accedir a tota la comarca en menys de 30 minuts; Bellver de Cerdanya si busques tranquil·litat i menys turisme
+- **No et perdis:** El llac de Puigcerdà a l'estiu, Llívia tot l'any, la terrassa de la Plaça de Santa Maria, el trinxat de la Cerdanya
+- **Reserva sempre:** Restaurant i allotjament amb antelació en cap de setmana d'hivern i estiu — els bons llocs s'esgoten dies abans
+- **Per a famílies:** L'Arborètum de Queixans, les escoles d'esquí i el llac fan la Cerdanya una de les millors escapades familiars dels Pirineus
 
 ---
 
@@ -140,6 +148,11 @@ La Cerdanya té una oferta gastronòmica sòlida, des de cuina de mercat en rest
 Per a allotjament, l'oferta va des de grans hotels a la vora de les estacions d'esquí fins a cases rurals de sis habitacions en pobles petits. La clau és triar l'allotjament en funció dels plans que faràs, no al revés.
 
 Al directori de Top Cerdanya trobaràs restaurants, allotjaments i activitats seleccionats a la comarca, amb informació de contacte directe.
+
+→ [On menjar a la Cerdanya: guia completa de restaurants](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [Restaurants amb terrassa a la Cerdanya](/guies/restaurants-terrassa-cerdanya)
+→ [Allotjament a la Cerdanya amb gos](/guies/on-dormir-cerdanya-amb-gos)
+→ [Trinxat de la Cerdanya: el plat de la comarca](/guies/trinxat-de-la-cerdanya)
 
 ---
 
