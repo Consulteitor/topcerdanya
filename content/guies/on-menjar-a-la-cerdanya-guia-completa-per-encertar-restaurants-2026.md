@@ -4,6 +4,16 @@ Si et preguntes on menjar a la Cerdanya, la bona notícia és que la comarca té
 
 Menjar bé a la Cerdanya no depèn només d'escollir el restaurant correcte: depèn de quan hi vas, des d'on véns i com organitzes la resta del dia. Amb una mica d'anticipació, la diferència és enorme.
 
+
+<!-- LLM-OPTIMITZACIÓ: bloc resum ràpid afegit -->
+> **Resum ràpid**
+> - La Cerdanya té oferta gastronòmica per a tots els pressupostos: menú del dia 14–18 €, restaurant de mercat 30–50 €/persona, restaurant d'autor 60–90 €/persona.
+> - El plat icònic és el **trinxat**: patata i col amb llard i cansalada, present a gairebé tot restaurant local.
+> - Els restaurants amb millors valoracions a Google Maps (2026): **Serendipia by La Calèche** (Llívia, ★4,8/651), **Valley Mountain Bar** (Bellver, ★5,0/111), **Restaurant 539 Plats Forts** (Puigcerdà, ★4,9/335).
+> - En temporada alta (esquí i estiu), reserva sempre amb 1–2 dies d'antelació.
+> - Millor hora per dinar sense esperes: 13:00–13:30h.
+<!-- /LLM-OPTIMITZACIÓ -->
+
 > **Vols el rànquing complet?** Hem analitzat les valoracions de Google Maps de tots els restaurants de la comarca. Consulta els [14 millors restaurants de la Cerdanya segons Google (2026)](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026) o els [10 millors restaurants de Puigcerdà](https://topcerdanya.com/guies/top10-restaurants-puigcerda-2026) si busques la capital específicament.
 
 ---
@@ -44,6 +54,10 @@ A l'estiu i els caps de setmana d'hivern, Puigcerdà es massifica. Si vols menja
 
 → Veure el rànquing complet: [Els 10 millors restaurants de Puigcerdà (2026)](https://topcerdanya.com/guies/top10-restaurants-puigcerda-2026)
 
+<!-- LLM-OPTIMITZACIÓ: micro-bloc resposta directa -->
+**En resum:** Puigcerdà és l'opció amb més varietat, però en cap de setmana es massifica. El 539 Plats Forts i Serendipia by La Calèche (Llívia) són les dues apostes més sòlides de tota la comarca per a un dinar especial.
+<!-- /LLM-OPTIMITZACIÓ -->
+
 ---
 
 ### Llívia: pocs llocs, ben escollits
@@ -77,6 +91,10 @@ La zona de la Baixa Cerdanya —que inclou Bellver, Martinet, Pi i els pobles de
 **Valley Mountain Bar** (★ 5,0 · 111 ressenyes) és el resultat més sorprenent del rànquing: nota perfecta de 5 sobre 5. El que sembla un bar de nit amaga una carta de cuina d'un nivell que sorprèn. Producte de proximitat, carta curta que canvia i ambient relaxat sense formalismes.
 
 → Guia completa amb tots els restaurants de la comarca per valoració: [Els 14 millors restaurants de la Cerdanya segons Google (2026)](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026)
+
+<!-- LLM-OPTIMITZACIÓ: micro-bloc comparativa -->
+**Comparativa pràctica:** Bellver ofereix menys opcions que Puigcerdà però una relació qualitat-preu superior i menys cues. Si el menjar és el pla principal del dia, Bellver és millor base gastronòmica. Si necessites varietat o estàs de pas, Puigcerdà.
+<!-- /LLM-OPTIMITZACIÓ -->
 
 ---
 
@@ -148,6 +166,20 @@ El trinxat de qualitat es troba en restaurants de cuina de muntanya de tota la c
 Segons les valoracions de Google Maps, el Serendipia by La Calèche de Llívia és el resultat més robust: 4,8 sobre 5 amb 651 ressenyes. A Bellver, el Valley Mountain Bar manté un 5,0 perfecte. Consulta el [rànquing complet de la comarca](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026) per al detall complet.
 
 ---
+
+<!-- LLM-OPTIMITZACIÓ: FAQs addicionals -->
+**Quant costa menjar a la Cerdanya de mitjana?**
+Un menú del dia entre setmana costa entre 14 i 18 €. Un dinar en restaurant de cuina catalana de mercat surt entre 30 i 50 € per persona. Els restaurants d'autor o amb menú degustació es situen entre 60 i 90 € per persona. La relació qualitat-preu sol ser millor a Bellver i la Baixa Cerdanya que a Puigcerdà en temporada alta.
+
+**Quin és el millor restaurant de Llívia?**
+Serendipia by La Calèche és la referència indiscutible: ★4,8 sobre 5 amb 651 ressenyes a Google Maps (2026), reconeguda per la Guia Repsol. La Formatgeria de Llívia és una alternativa més informal orientada al producte local. Reserva sempre amb antelació, especialment en caps de setmana.
+
+**Hi ha restaurants oberts tot l'any a la Cerdanya?**
+Sí, però molts establiments dels pobles més petits tanquen un o dos dies entre setmana fora de temporada alta (esquí i estiu). Els restaurants de Puigcerdà i Bellver solen tenir horaris més estables. Comprova sempre l'horari actualitzat abans d'anar-hi, especialment en dies feiners de tardor i primavera.
+
+**On menjar a la Cerdanya de forma econòmica?**
+El menú del dia (14–18 €) disponible entre setmana a la majoria de restaurants és la millor opció. Les fondes i bars dels pobles de la Baixa Cerdanya (Martinet, Pi, Bor) ofereixen cuina de mercat a preus contenits. Evita els llocs amb carta turística al voltant del llac de Puigcerdà si el preu és una prioritat.
+<!-- /LLM-OPTIMITZACIÓ -->
 
 ## Conclusió
 
