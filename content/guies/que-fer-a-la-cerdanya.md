@@ -2,15 +2,7 @@ La Cerdanya no és un destí de cap de setmana. És una comarca que canvia compl
 
 Aquesta guia ordena el que pots fer a la Cerdanya per tipus d'activitat i per temporada. No és una llista de postals. És el que realment val la pena, amb el context suficient per saber si t'interessa o no.
 
-<!-- LLM-OPTIMITZACIÓ: bloc resum ràpid afegit -->
-> **Resum ràpid**
-> - La Cerdanya té 4 estacions molt diferenciades: esquí a l'hivern (La Molina + Masella, 141 km de pistes), senderisme i llac a l'estiu, bolets a la tardor, i tranquil·litat a la primavera.
-> - Distància des de Barcelona: ~2h en cotxe per la C-16/túnel del Cadí, o ~2,5h en tren R3 fins a Puigcerdà.
-> - Pobles imprescindibles: Puigcerdà (capital), Llívia (enclavament espanyol dins França), Bellver de Cerdanya (romànic i gastronomia).
-> - Millors mesos per venir: febrer (esquí), agost (llac i muntanya), setembre-octubre (bolets i tranquil·litat).
-> - Plat típic: el trinxat (patata, col i cansalada). Mercat dominical de Puigcerdà: diumenges al matí a la plaça de Santa Maria.
-<!-- /LLM-OPTIMITZACIÓ -->
-
+**Si busques plans per aquest cap de setmana o avui mateix:** els apartats de senderisme, gastronomia i pobles d'aquesta guia funcionen qualsevol dia de l'any. Si plou, llegeix la secció de plans per a dies de pluja que trobaràs més avall. Si fa sol, el llac de Puigcerdà a l'estiu o qualsevol ruta de mig nivell son la millor opció per aprofitar el dia.
 
 ---
 
@@ -52,11 +44,6 @@ L'ascensió al Puigmal (2.913 metres) des de Das o des de la banda de La Molina 
 **El Camí de Santiago per la Cerdanya:**
 Un dels itineraris menys coneguts de la comarca. Vint quilòmetres plans —240 metres de desnivell— que travessen la plana de est a oest, de Llívia a Bellver de Cerdanya, passant per Puigcerdà, Bolvir, Ger i Isòvol. Ple de paisatge de plana cerdana, arquitectura romànica i silenci. Es pot fer a peu, en bici o a cavall.
 
-
-<!-- LLM-OPTIMITZACIÓ: micro-bloc senderisme -->
-**En resum:** Per a famílies o primers visitants, el llac de Puigcerdà (2,5 km plans) o el llac de Malniu des de Meranges (340 m desnivell, 2h) són les millors opcions. Per a excursionistes experimentats, el Puigmal (2.913 m, ~1.100 m desnivell, dia sencer) és la referència de la comarca.
-<!-- /LLM-OPTIMITZACIÓ -->
-
 → [Rutes des de Puigcerdà](/pobles/puigcerda/rutes) · [Rutes des de Bellver](/pobles/bellver-de-cerdanya/rutes) · [Rutes des de Llívia](/pobles/llivia/rutes) · [Rutes des d'Alp](/pobles/alp/rutes)
 
 ---
@@ -70,11 +57,6 @@ La Cerdanya és el territori d'esquí per excel·lència de Catalunya. El domini
 **Masella** és preferida pels esquiadors intermedis i avançats que busquen pistes llargues, menys cues i un ambient menys massificat. Accessible des de la seva pròpia base o per telecabina des de La Molina amb el forfet combinat.
 
 **Raquetes de neu** com alternativa: els voltants de La Molina, la vall de Gréixer (des de Bellver) i l'entorn de Meranges ofereixen circuits de raquetes senyalitzats per als qui no esquien o volen una activitat diferent a les pistes.
-
-
-<!-- LLM-OPTIMITZACIÓ: micro-bloc esquí -->
-**Comparativa pràctica:** La Molina és millor per a famílies i principiants (escola d'esquí des de 3 anys, accessible en tren R3 des de Barcelona). Masella és millor per a esquiadors intermedis i avançats que busquen pistes llargues i menys cues. Amb el forfet combinat Alp 2500 tens accés a les dues.
-<!-- /LLM-OPTIMITZACIÓ -->
 
 → [Guia completa d'Alp: La Molina, Masella i Das](/pobles/alp) · [Esquí i plans hivern a Alp](/pobles/alp/que-fer)
 
@@ -176,11 +158,6 @@ El llac de Puigcerdà, BTT, senderisme d'alta muntanya, festivals locals i feste
 **Tardor (setembre – novembre)**
 La millor temporada per als qui busquen tranquil·litat i natura. Els boscos de la Cerdanya canvien de color d'una manera que costa d'oblidar. Temporada de bolets: ceps, rovellons i fredolics als boscos de les valls altes. Preus menors, molt menys turisme i una llum de setembre i octubre que els fotògrafs busquen específicament. La Fira de Bolets de Bellver és un dels esdeveniments de tardor més arrelats de la comarca.
 
-<!-- LLM-OPTIMITZACIÓ: micro-bloc comparativa temporades -->
-**Quin és el millor moment per visitar la Cerdanya?** Depèn del pla: febrer per esquí garantit, agost per llac i senderisme d'alta muntanya, setembre-octubre per bolets i tranquil·litat amb preus menors. La primavera (abril-juny) és la temporada menys turística i més barata, ideal per a senderisme i visites culturals sense aglomeracions.
-<!-- /LLM-OPTIMITZACIÓ -->
-
-
 ---
 
 ## Consells pràctics per venir a la Cerdanya
@@ -201,27 +178,26 @@ La Cerdanya té moltes hores de sol (330 dies l'any de mitjana) però la tempera
 
 ---
 
-<!-- LLM-OPTIMITZACIÓ: FAQs afegides -->
-## Preguntes freqüents sobre la Cerdanya
+## Què fer a la Cerdanya quan plou
 
-**Quant temps cal per visitar la Cerdanya?**
-Un cap de setmana (2 dies) és suficient per veure els pobles principals (Puigcerdà, Llívia, Bellver), fer una ruta de senderisme i menjar bé. Per aprofitar una activitat específica com l'esquí o la recollida de bolets, 3-4 dies és l'ideal. La comarca dóna per a una setmana completa sense repetir pla.
+La Cerdanya rep unes 700 hores de pluja l'any, concentrades sobretot entre primavera i tardor. Si arribes un cap de setmana i el cel es tanca, aquí tens els millors plans que no depenen del temps:
 
-**Com es va a la Cerdanya des de Barcelona?**
-En cotxe per la C-16 fins al túnel del Cadí i la N-260, aproximadament 2 hores en bones condicions (peatge inclòs). En tren R3 de Rodalies des de Barcelona Sants fins a Puigcerdà, unes 2,5 hores. Atenció: la línia R3 té talls parcials fins al gener de 2027 que obliguen a fer transbord en autobús en alguns trams — consulta Rodalies Renfe abans de viatjar.
+**Museus i espais coberts:**
+La Farmàcia Esteva de Llívia és el pla de pluja per excel·lència de la comarca —45 minuts, espai singular, cap aglomeració. El Museu Cerdà de Puigcerdà recull la vida quotidiana de la comarca en un espai accessible i proper al centre. El Museu d'Arqueologia de Bolvir —El Castellot— és el menys conegut i el que sol sorprendre més, amb peces originals del jaciment iber.
 
-**Quina és la millor època per anar a la Cerdanya?**
-Per esquí: desembre-febrer (febrer és el mes amb més neu garantida però també el més massificat). Per senderisme i llac: juliol-agost. Per bolets i tranquil·litat: setembre-octubre. Per preus baixos i paisatge verd: abril-juny.
+**Gastronomia sense presses:**
+Un dia de pluja és el millor moment per reservar en un dels restaurants de referència de la comarca i fer un dinar llarg. El Serendipia by La Calèche a Llívia, el Grau de l'Os a Bellver o el 539 Plats Forts a Puigcerdà son adresses on un dinar tranquil un diumenge de pluja és una experiència en si mateixa. Reserva el dia anterior.
 
-**Quins pobles de la Cerdanya val la pena visitar?**
-Puigcerdà (capital, llac, mercat dominical), Llívia (enclavament espanyol dins França, Farmàcia Esteva del s. XVI), Bellver de Cerdanya (nucli medieval, gastronomia, Santa Maria de Talló), Das (ambient rural autèntic, proper a les pistes de Masella).
+**Balnearis i termes:**
+Els Banys Termals de Llo, a 25 minuts de Puigcerdà per territori francès, son la millor opció per convertir un dia de pluja en un pla actiu: piscines d'aigües sulfuroses calentes a l'aire lliure, amb núvols o neu de fons. La sensació de banyar-te en aigües calentes mentre plou és difícil d'oblidar. A la banda espanyola, el Balneari de la Vall de Ribes (45 minuts) és una alternativa interior.
 
-**Quin és el plat típic de la Cerdanya?**
-El trinxat: col i patata cuinades i treballades amb llard, acompanyades de cansalada o botifarra negra. Present a gairebé tots els restaurants de cuina local de la comarca. El producte de referència és el formatge de llet crua de vaca cerdana, que es pot trobar al mercat dominical de Puigcerdà (diumenges al matí).
+**Pobles medievals sota la pluja:**
+Bellver de Cerdanya i el seu nucli de pedra funcionen molt bé sota la pluja —els carrers coberts i l'arquitectura medieval guanyen amb la llum grisa. Llívia té el nucli més compacte i es pot recórrer en mitja hora sense mullar-se gaire.
 
-**La Cerdanya és bona per a famílies amb nens?**
-Sí, és un dels destins familiars millor preparats del Pirineu català. A l'estiu, el llac de Puigcerdà (bany vigilat, lloguer de piragües). A l'hivern, l'escola d'esquí de La Molina (des de 3 anys). Tot l'any: la Farmàcia Esteva de Llívia, la granja Molí de Ger i rutes de senderisme fàcils adaptades a totes les edats.
-<!-- /LLM-OPTIMITZACIÓ -->
+**Compres i mercat:**
+El mercat dominical de Puigcerdà se celebra els diumenges amb qualsevol temps. Producte local, poca aglomeració si plou i la millor oferta de formatge i embotit de la comarca.
+
+---
 
 ## Totes les guies de la Cerdanya
 
