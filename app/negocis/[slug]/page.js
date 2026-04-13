@@ -12,9 +12,7 @@ export async function generateMetadata({ params }) {
   const isPremium = negoci.premium === true || negoci.premium === 'TRUE'
   return {
     title: `${negoci.nom} — ${negoci.poble} | Top Cerdanya`,
-    description: isPremium && negoci.historia
-      ? negoci.historia
-      : negoci.descripcio,
+    description: negoci.descripcio,
   }
 }
 
