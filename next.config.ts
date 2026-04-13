@@ -112,6 +112,32 @@ const nextConfig: NextConfig = {
         destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
         permanent: true,
       },
+      // Redirects guies any → evergreen
+      {
+        source: '/guies/top10-restaurants-puigcerda-2026',
+        destination: '/guies/restaurants-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/banys-termals-cerdanya-2026',
+        destination: '/guies/banys-termals-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/aguas-termales-cerdanya-2026',
+        destination: '/guies/aguas-termales-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/on-banyar-se-cerdanya-2026',
+        destination: '/guies/on-banyar-se-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/donde-banarse-cerdanya-2026',
+        destination: '/guies/donde-banarse-cerdanya',
+        permanent: true,
+      },
       // Redirects famílies — URLs amb any migrades a evergreen
       {
         source: '/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026',
