@@ -112,6 +112,47 @@ const nextConfig: NextConfig = {
         destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
         permanent: true,
       },
+      // Redirects famílies — URLs amb any migrades a evergreen
+      {
+        source: '/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026',
+        destination: '/guies/que-fer-cerdanya-amb-nens',
+        permanent: true,
+      },
+      {
+        source: '/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026',
+        destination: '/guies/restaurants-cerdanya-amb-nens',
+        permanent: true,
+      },
+      {
+        source: '/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026',
+        destination: '/guies/cases-rurals-cerdanya-families',
+        permanent: true,
+      },
+      {
+        source: '/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026',
+        destination: '/guies/activitats-cerdanya-families',
+        permanent: true,
+      },
+      {
+        source: '/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026',
+        destination: '/guies/rutes-facils-cerdanya-nens',
+        permanent: true,
+      },
+      {
+        source: '/guies/allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026',
+        destination: '/guies/allotjament-senderisme-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026',
+        destination: '/guies/que-veure-cerdanya-2-dies',
+        permanent: true,
+      },
+      {
+        source: '/guies/on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026',
+        destination: '/guies/on-dormir-cerdanya-nens',
+        permanent: true,
+      },
       // Nous redirects — URLs WordPress del mail de Google
       {
         source: "/es",
