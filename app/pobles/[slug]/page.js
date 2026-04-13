@@ -24,7 +24,7 @@ export async function generateMetadata({ params }) {
   const desc = pobla.meta_description || `Guia completa de ${titol}: què fer, on menjar, on dormir, rutes i immobiliària. Tot el que cal saber sobre ${titol} a la Cerdanya.`;
 
   return {
-    title: `${titol} — Guia completa 2026 | Top Cerdanya`,
+    title: `${titol}: què fer, on menjar i on dormir | Top Cerdanya`,
     description: desc,
     openGraph: {
       title: `${titol} — Guia completa 2026`,
