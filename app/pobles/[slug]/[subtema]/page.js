@@ -7,7 +7,7 @@ import path from "path";
 
 const SUBTEMES = {
   "que-fer":      { titol: "Què fer",       desc: "Plans, activitats i experiències" },
-  "restaurants":  { titol: "Restaurants",   desc: "On menjar bé" },
+  "restaurants":  { titol: "Restaurants",   desc: "Els millors restaurants" },
   "allotjament":  { titol: "Dormir",        desc: "On allotjar-se" },
   "immobiliaria": { titol: "Comprar casa",  desc: "Mercat immobiliari" },
   "rutes":        { titol: "Rutes",         desc: "Senderisme i excursions" },
@@ -35,10 +35,10 @@ export async function generateMetadata({ params }) {
   if (!pobla || !info) return { title: "Pàgina no trobada | Top Cerdanya" };
 
   const titol = `${info.titol} a ${pobla.titol}`;
-  const desc = `${info.desc} a ${pobla.titol}, la Cerdanya. Guia pràctica i actualitzada 2026 amb recomanacions concretes.`;
+  const desc = `${info.desc} a ${pobla.titol}, la Cerdanya. Recomanacions concretes, horaris i consells pràctics.`;
 
   return {
-    title: `${titol} — Guia 2026 | Top Cerdanya`,
+    title: `${titol} | Top Cerdanya`,
     description: desc,
     openGraph: {
       title: titol,
