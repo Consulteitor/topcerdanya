@@ -26,6 +26,10 @@ La capital de comarca concentra la major oferta de terrasses de tota la Cerdanya
 
 **Zona del llac:** A l'estiu, els bars i restaurants a la vora del llac artificial de Puigcerdà ofereixen terrasses amb vistes directes a l'aigua i la muntanya. L'ambient és animat i familiar, molt concorregut a partir de les 11h a l'agost. No sempre és el millor menjar de la comarca, però la ubicació i la comoditat logística —els nens surten de l'aigua, tu dines— val molt. Ideal per a un dinar informal d'estiu o un aperitiu de tarda.
 
+**Miyagi** (vora el llac): La caseta de fusta a l'extrem del llac convertida en izakaya japonesa. Terrassa amb vistes directes a l'estany i al parc Schierbeck. L'opció més inesperada i fotogènica de tota la comarca per dinar a l'exterior. Brotxetes, udon, okonomiyaki i ramen a preus populars. Ideal per a un dinar informal d'estiu amb nens o en grup.
+
+**Schierbeck Restaurant** (vora el llac): Cuina catalana de muntanya amb producte local, jardí exterior ampli i vistes a l'estany. Bo per a grups i celebracions. → Web: schierbeckrestaurant.com
+
 **Nucli antic:** Les terrasses dels carrers del centre de Puigcerdà —carrer Major, plaça de l'Ajuntament, plaça de Santa Maria— tenen menys vistes però molt ambient. L'empedrat, les cases de pedra i el ritme de la plaça fan un marc agradable per a un dinar tranquil.
 
 **UNA Restaurant (Plaça dels Herois, 1):** Bar-restaurant de cuina informal al centre de Puigcerdà. Terrassa a la plaça dels Herois, un dels espais més agradables del nucli per a un aperitiu o un dinar de tapes. Cuina de bar ben feta: bravas, croquetes, calamars, frankfurt super complet. Menú del dia de dilluns a dissabte per 16€ (fins a les 15h). Preu: 10-20€. Ideal per a un dinar sense pretensions amb bon ambient de terrassa de plaça. Tel: 972 51 87 85
@@ -43,6 +47,10 @@ Llívia té poques terrasses però de qualitat. La Plaça Major de l'enclavament
 ### Bellver de Cerdanya i la Baixa Cerdanya
 
 La capital de la Baixa Cerdanya té un dels nuclis medievals millor conservats del Pirineu. La Plaça Major porticada és, en dies assolellats de primavera i tardor, un dels millors escenaris per dinar a l'exterior de tota la comarca: espai obert amb porxos, molt bon ambient i cuina de muntanya a la majoria de restaurants del voltant.
+
+**La Noga Taverna:** Terrassa exterior al nucli antic de Bellver. Cuina catalana de proximitat, producte del propi hort. Una de les millors terrasses de poble de la comarca per a un dinar de qualitat sense presses. Reserva imprescindible. → [Fitxa completa](/negocis/la-noga-taverna)
+
+**Ca la Núria:** Terrassa amb vistes espectaculars al Cadí, al Passatge Carlit. Molt bona per a grups i dinars de cap de setmana.
 
 La zona de Bellver, Martinet i els pobles de la Baixa Cerdanya té alguns dels restaurants amb millor relació qualitat-preu de tota la comarca, molts amb terrasses orientades a la vall del Segre. Menys concorreguts que Puigcerdà, especialment a la primavera i la tardor.
 
@@ -97,11 +105,11 @@ Depèn del restaurant. En llocs de qualitat i amb poques taules exteriors, sí. 
 
 ## Guies relacionades
 
-- [On menjar a la Cerdanya: guia completa](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
-- [Cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
-- [Què veure a la Cerdanya en 2 dies](https://topcerdanya.com/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
+- [On menjar a la Cerdanya: guia completa](/guies/restaurants-cerdanya)
+- [Cap de setmana romàntic a la Cerdanya](/guies/cap-de-setmana-romantic-cerdanya)
+- [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
+- [Què veure a la Cerdanya en 2 dies](/guies/que-veure-cerdanya-2-dies)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
 
 ---
 
