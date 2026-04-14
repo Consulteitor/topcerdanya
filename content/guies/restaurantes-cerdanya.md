@@ -66,6 +66,20 @@ La nota perfecta de 5 sobre 5 con 111 reseñas es el resultado más sorprendente
 
 Llívia merece una explicación geográfica antes de hablar de cocina: es un enclave español dentro de territorio francés, a 6 km de Puigcerdà por una carretera neutral de 2 km. El Tratado de los Pirineos de 1659 cedió a Francia las aldeas de la Cerdanya, pero Llívia —que ya tenía rango de villa— quedó como territorio español rodeado de Francia por los cuatro costados. Esa singularidad ha atraído un perfil de restaurante diferente al de Puigcerdà: más tranquilo, más gastronómico, menos masificado.
 
+### Trumfes — el único restaurante de la Cerdanya en la Guía Michelin
+
+El único establecimiento de la comarca reconocido por la Guía Michelin 2025. Pau y Àlex, dos jóvenes cocineros formados en los mejores restaurantes de España, han convertido la trumfa (la patata cerdana, que da nombre al local) en el hilo conductor de una cocina catalana contemporánea con producto de temporada. Arroz de montaña, setas, caza en otoño y un menú degustación desde 55€ sin vino. Carta de vinos con más de 150 referencias.
+
+**Reserva imprescindible.**
+→ Tel. 972 14 60 31 · restaurantrumfes.com
+
+### Can Ventura — la casa de 1791 en la plaza Mayor
+
+Una de las direcciones más consolidadas de toda la comarca: 1.776 reseñas a 4,5 en Google en un pueblo de 1.500 habitantes. El local ocupa una casa de 1791 en la plaza Mayor de Llívia, con tres plantas decoradas con piedra y madera. Raviolis de trufa, canelones de foie y setas, filet de bou a la llosa y la torrija de dónut con helado para el postre. Menú Can Ventura desde 32€.
+
+**Reserva imprescindible el fin de semana.**
+→ Plaza Mayor, Llívia · Tel. 972 89 60 78 · canventura.com
+
 ### Serendipia by La Calèche *(ver arriba — el mejor de la comarca)*
 
 ### Més Que Beure
@@ -180,7 +194,7 @@ Por volumen y nota combinados, el Serendipia by La Calèche en Llívia (4,8 · 6
 Las zonas de referencia son el Carrer Major y los alrededores de la Plaça de Santa Maria. Para el mejor resultado, el Restaurant 539 (4,9) o La Borda del Ceretà si buscas el más popular y con ambiente de borda.
 
 **¿Dónde comer en Bellver de Cerdanya?**
-El Grau de l'Os (4,8 · 378 reseñas) es la opción más sólida. Para tapas y ambiente informal, el Valley Mountain Bar (5,0). Para una noche especial, La Noga Taverna (4,9).
+El Grau de l'Os (4,8 · 378 reseñas) es la opción más sólida. La Noga Taverna (4,9 · cocina propia del huerto) para una noche especial. Ca la Núria (Guía Repsol) con vistas al Cadí para grupos.
 
 **¿Vale la pena ir a Llívia solo para comer?**
 Sí. El Serendipia by La Calèche justifica el desplazamiento por sí solo. Además, Llívia tiene patrimonio propio (la farmacia más antigua de Europa, el casco medieval) que hace la visita completa.
@@ -195,8 +209,8 @@ El menú del día entre semana ronda los 14–18 €. Un almuerzo o cena a la ca
 
 *Guía editorial de Top Cerdanya · Actualizada en 2026*
 
-→ [Guia en català: els millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
-→ [Top 10 restaurants de Puigcerdà](/guies/top10-restaurants-puigcerda-2026)
+→ [Guia en català: els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+→ [Restaurants a Puigcerdà](/pobles/puigcerda/restaurants)
 → [Restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [Restaurants a Llívia](/pobles/llivia/restaurants)
 
