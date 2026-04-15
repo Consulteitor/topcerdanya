@@ -1,5 +1,3 @@
-# Recepta del trinxat de la Cerdanya: la versió tradicional pas a pas
-
 El trinxat de la Cerdanya és un dels plats més senzills de la cuina catalana de muntanya. Tres ingredients principals, una tècnica sense complicacions i un resultat que depèn gairebé tot de la qualitat del producte: una bona col d'hivern tocada pel fred, trumfes farinosetes i cansalada amb greix.
 
 Aquí trobaràs la recepta tradicional, tal com es fa a la comarca, amb tots els detalls que fan la diferència entre un trinxat mediocre i un de bo.
@@ -30,7 +28,7 @@ Pela les trumfes i talla-les en trossos d'uns quatre dits de llarg.
 
 Posa una olla gran amb abundant aigua i una mica de sal. Quan arrenqui el bull, afegeix les trumfes primer — triguen més que la col. Als 15 minuts, afegeix la col trossejada.
 
-Deixa bullir tot junt fins que en clavar una forquilla a una trumfa no faci cap resistència — unes 25-30 minuts en total des que has posat les trumfes. Han de quedar molt cuites, gairebé desfeites. Aquí no cal tenir por de passar-se.
+Deixa bullir tot junt fins que en clavar una forquilla a una trumfa no faci cap resistència — unes 25-30 minuts en total des que has posat les trumfes. Han de quedar molt cuites, gairebé desfeides. Aquí no cal tenir por de passar-se.
 
 ### Pas 3 — Escorre molt bé
 
@@ -101,6 +99,28 @@ El que no és trinxat tradicional: les versions amb foie, tòfona, crema de form
 **La cansalada.** Ha de tenir greix — la cansalada blanca o la viada amb cansalada visible. La cansalada magra no deixa prou greix per amanir la barreja i el resultat és menys saborós. La cansalada ibèrica o curada tampoc és la que toca — és la cansalada fresca de porc, de tota la vida.
 
 **L'oli d'oliva.** Un verge extra de qualitat — fruitat, aromàtic. No cal que sigui el més car del mercat, però sí que sigui verge extra de debò.
+
+---
+
+## Com fer trinxat de la Cerdanya amb Thermomix
+
+La Thermomix simplifica la cocció però requereix atenció en el pas de trinxar — la màquina tendeix a fer-ho massa fi i el trinxat perd la textura rústica que el defineix.
+
+**Ingredients:** els mateixos. 1 kg col d'hivern, 1 kg trumfes, 4 talls de cansalada, oli d'oliva, sal.
+
+**Elaboració:**
+
+**Pas 1 — Bull les trumfes al vapor.** Pela les trumfes i talla-les en trossos. Posa 500 ml d'aigua al vas. Col·loca les trumfes al cistell Varoma i programa **25 min / Varoma / vel 1**.
+
+**Pas 2 — Afegeix la col.** Trosseja la col i afegeix-la al cistell Varoma amb les trumfes. Programa **15 min / Varoma / vel 1** fins que tot quedi molt tou.
+
+**Pas 3 — Escorre molt bé.** Treu el Varoma i deixa reposar les verdures 5 minuts perquè perdin tota la humitat. Aquest pas és igual de crític que en la versió tradicional.
+
+**Pas 4 — Trinxa amb compte.** Posa les verdures escorregudes al vas. Programa **4 seg / vel 3**. Para i comprova la textura: ha de quedar una pasta gruixuda amb trossets visibles, no un puré llis. Si cal, afegeix 2 segons més, però no et passis — és fàcil arruïnar-ho aquí.
+
+**Pas 5 — La paella no s'estalvia.** La Thermomix fa la cocció, però fregir la cansalada i daurar el trinxat a la paella és imprescindible. Segueix els passos 4, 6 i 7 de la recepta tradicional per obtenir la crosta característica.
+
+**Temps total amb Thermomix:** uns 55 minuts. La cocció al vapor és lleugerament més llarga que bullir, però s'estalvia vigilar l'olla.
 
 ---
 
