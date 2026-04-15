@@ -76,6 +76,136 @@ function extractFAQs(markdown) {
   return faqs.slice(0, 10);
 }
 
+const RECIPE_SLUGS = [
+  "recepta-trinxat-de-la-cerdanya",
+  "trinxat-de-la-cerdanya-receta",
+];
+
+function getRecipeSchema(slug, guia) {
+  if (!RECIPE_SLUGS.includes(slug)) return null;
+
+  const isES = slug === "trinxat-de-la-cerdanya-receta";
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": isES ? "Trinxat de la Cerdanya" : "Trinxat de la Cerdanya",
+    "description": guia.meta_description || "Recepta tradicional del trinxat de la Cerdanya pas a pas: col d'hivern, trumfes i cansalada.",
+    "image": guia.imatge ? `https://topcerdanya.com${guia.imatge}` : "https://topcerdanya.com/images/guies/recepta-trinxat-de-la-cerdanya.jpg",
+    "author": {
+      "@type": "Organization",
+      "name": "Top Cerdanya",
+      "url": "https://topcerdanya.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Top Cerdanya",
+      "url": "https://topcerdanya.com"
+    },
+    "datePublished": "2026-03-24",
+    "dateModified": "2026-04-15",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT60M",
+    "recipeYield": isES ? "4 personas" : "4 persones",
+    "recipeCategory": isES ? "Plato principal" : "Plat principal",
+    "recipeCuisine": "Catalana",
+    "keywords": isES
+      ? "trinxat, cerdanya, receta tradicional, col, patatas, panceta"
+      : "trinxat, cerdanya, recepta tradicional, col, trumfes, cansalada, thermomix",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": isES ? "1 porción" : "1 ració"
+    },
+    "recipeIngredient": isES ? [
+      "1 kg de col de invierno",
+      "1 kg de patatas (variedad Kennebec o Red Pontiac)",
+      "4 lonchas de panceta blanca o entreverada",
+      "Aceite de oliva virgen extra",
+      "Sal"
+    ] : [
+      "1 kg de col d'hivern",
+      "1 kg de trumfes (varietat Kennebec, Red Pontiac o Monalisa)",
+      "4 talls de cansalada blanca o viada",
+      "Oli d'oliva verge extra",
+      "Sal"
+    ],
+    "recipeInstructions": isES ? [
+      {
+        "@type": "HowToStep",
+        "name": "Prepara las verduras",
+        "text": "Limpia bien la col eliminando el tronco central y las hojas exteriores. Pela las patatas y córtalas en trozos."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Cuece las verduras",
+        "text": "Pon las patatas en agua hirviendo con sal. A los 15 minutos añade la col. Cuece todo junto 25-30 minutos hasta que las patatas queden muy blandas, casi deshechas."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Escurre bien",
+        "text": "Escurre las verduras en un escurridor al menos 5 minutos. El exceso de humedad impide que el trinxat se dore correctamente."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Fríe la panceta",
+        "text": "Dora las lonchas de panceta en una sartén grande con aceite a fuego medio. Retira la panceta y conserva la grasa en la sartén."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Tritura e integra",
+        "text": "Pon las verduras escurridas en la sartén caliente con la grasa. Aplasta y mezcla con tenedor hasta obtener una pasta homogénea con algunos grumos."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Dora en la sartén",
+        "text": "Aplana la mezcla como una tortilla y dora a fuego medio-alto 3-4 minutos por cada lado hasta obtener costra dorada."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Emplata",
+        "text": "Coloca las lonchas de panceta crujiente encima y acaba con un chorro generoso de aceite de oliva virgen extra."
+      }
+    ] : [
+      {
+        "@type": "HowToStep",
+        "name": "Prepara les verdures",
+        "text": "Neteja la col eliminant el tronc central i les fulles exteriors malmeses. Pela les trumfes i talla-les en trossos."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Bull les verdures",
+        "text": "Posa les trumfes en aigua bullint amb sal. Als 15 minuts afegeix la col. Bull tot junt 25-30 minuts fins que les trumfes quedin molt cuites, gairebé desfeides."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Escorre molt bé",
+        "text": "Escorre les verdures en un escorredor almenys 5 minuts. L'excés d'humitat impedeix que el trinxat dauri correctament."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Fregeix la cansalada",
+        "text": "Daura els talls de cansalada en una paella gran amb oli a foc mig. Retira la cansalada i conserva el greix a la paella."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Trinxa i integra",
+        "text": "Posa les verdures escorregudes a la paella calenta amb el greix. Aixafa i barreja amb forquilla fins a obtenir una pasta homogènia amb algun grumoll visible."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Daura a la paella",
+        "text": "Aplana la barreja com una truita i daura a foc mig-fort 3-4 minuts per cada costat fins a obtenir crosta daurada."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Emplata",
+        "text": "Col·loca les rostes de cansalada cruixents a sobre i acaba amb un raig generós d'oli d'oliva verge extra."
+      }
+    ]
+  };
+}
+
 
 const MESOS = ['','Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
 const MESOS_CURT = ['','Gen','Feb','Mar','Abr','Mai','Jun','Jul','Ago','Set','Oct','Nov','Des'];
@@ -174,12 +304,20 @@ export default async function GuiaPage({ params }) {
     }))
   } : null;
 
+  const recipeSchema = getRecipeSchema(slug, guia);
+
   return (
     <div style={{ background: C.white, minHeight: "100vh", fontFamily: "'Source Serif 4', Georgia, serif" }}>
       {faqSchema && (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      {recipeSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(recipeSchema) }}
         />
       )}
       <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "48px 40px" }}>
