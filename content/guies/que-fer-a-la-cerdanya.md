@@ -202,10 +202,11 @@ El mercat dominical de Puigcerdà se celebra els diumenges amb qualsevol temps. 
 ## Totes les guies de la Cerdanya
 
 → [Guia de pobles de la Cerdanya](/guies/pobles-de-la-cerdanya-guia-completa)
-→ [On menjar a la Cerdanya](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [On menjar a la Cerdanya](/guies/restaurants-cerdanya)
 → [On dormir: allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-→ [Activitats amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
-→ [Cases rurals per a famílies](/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
-→ [La Cerdanya en 2 dies: itinerari pràctic](/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026)
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
+→ [Activitats amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
+→ [Cases rurals per a famílies](/guies/cases-rurals-cerdanya-families)
+→ [La Cerdanya en 2 dies: itinerari pràctic](/guies/que-veure-cerdanya-2-dies)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+→ [El Tren Groc: horaris, preus i tot el que has de saber](/guies/tren-groc-cerdanya)
 → [Comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya)

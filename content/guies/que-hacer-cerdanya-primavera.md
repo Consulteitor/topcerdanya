@@ -144,3 +144,8 @@ La Molina y Masella suelen cerrar entre finales de marzo y Semana Santa, dependi
 
 **¿Puedo hacer rutas de alta montaña en abril?**
 Las rutas de bosque y la llanura: sí. Las rutas que superan los 2.000 metros: comprueba las condiciones previamente. Sin material de invierno, espera a finales de mayo para las rutas altas.
+---
+
+→ [El Tren Groc: horarios, precios y consejos prácticos](/guies/tren-groc-cerdanya)
+→ [Excursiones en la Cerdanya: guía completa por niveles](/guies/excursiones-cerdanya)
+→ [Qué hacer en la Cerdanya en verano](/guies/que-hacer-cerdanya-verano)

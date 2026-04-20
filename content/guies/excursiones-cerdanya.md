@@ -112,6 +112,14 @@ A 45 minutos en coche desde Puigcerdà, cerca de Villefranche-de-Conflent. Un re
 
 ---
 
+## El Tren Groc: la excursión más icónica de la Cerdanya
+
+Si hay una excursión que no puede faltar en ninguna visita a la Cerdanya, es el Tren Groc. El tren turístico con vagones descubiertos que circula entre La Tour de Carol (junto a Puigcerdà) y Villefranche-de-Conflent recorre los Pirineos Orientales a 30 km/h, cruzando viaductos de principios del siglo XX y pasando por la estación de Bolquère — la más alta de Francia, a 1.593 m. El trayecto completo dura unas dos horas.
+
+→ [Guía completa del Tren Groc: horarios, precios y consejos](/guies/tren-groc-cerdanya)
+
+---
+
 ## Rutas de varios días
 
 **GR 11 — Etapa 12 y 13:** Puigcerdà → refugio de Malniu → refugio de l'Illa. La primera etapa tiene 15 km y desnivel moderado; la segunda es exigente (alta dificultad).
