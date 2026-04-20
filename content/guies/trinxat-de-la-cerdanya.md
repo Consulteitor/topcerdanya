@@ -172,8 +172,8 @@ No. O almenys no s'hauria de menjar fred. El trinxat perd tota la seva gràcia q
 
 ## Guies relacionades
 
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
-→ [On menjar a la Cerdanya: guia completa](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [On menjar el millor trinxat a la Cerdanya: guia de restaurants](/guies/on-menjar-trinxat-cerdanya)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 → [Restaurants a Puigcerdà](/pobles/puigcerda/restaurants)
 → [Restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [Restaurants a Llívia](/pobles/llivia/restaurants)
