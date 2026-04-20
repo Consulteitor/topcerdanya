@@ -15,11 +15,30 @@ const SUBTEMES = [
   "amb-nens",
 ];
 
-// Slugs que existeixen com a fitxer .md però NO renderitzen pàgina real (retornen "Guia no trobada")
-// Són els slugs amb prefix numèric antics (1593-xxx, 1594-xxx) que mai es van migrar
+// Slugs exclosos del sitemap:
+// 1) Slugs fantasma amb prefix numèric antic que retornen "Guia no trobada"
+// 2) Slugs amb estat="Redirigit" al Sheets — tenen fitxer .md però redirigeixen
+//    a una altra URL. Incloure'ls al sitemap envia senyals contradictoris a Google.
 const SLUGS_EXCLOSOS = new Set([
+  // Slugs fantasma (prefix numèric)
   "1593-on-dormir-cerdanya-amb-gos",
   "1594-alojamiento-cerdanya-con-perro",
+  // Guies redirigides — cluster restaurants
+  "14-millors-restaurants-cerdanya-google-2026",
+  "on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
+  "restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026",
+  // Guies redirigides — cluster famílies
+  "que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026",
+  "cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026",
+  "rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026",
+  "allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026",
+  "que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026",
+  "on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026",
+  // Guies redirigides — cluster benestar/estiu
+  "banys-termals-cerdanya-2026",
+  "aguas-termales-cerdanya-2026",
+  "on-banyar-se-cerdanya-2026",
+  "donde-banarse-cerdanya-2026",
 ]);
 
 function getMdFiles(dir) {
@@ -68,7 +87,7 @@ export default async function sitemap() {
   );
 
   // ── /guies/[slug] ────────────────────────────────────────────────────────
-  // Exclou slugs fantasma que retornen "Guia no trobada"
+  // Exclou slugs fantasma i slugs amb estat="Redirigit" al Sheets
   getMdFiles(path.join(process.cwd(), "content/guies"))
     .filter(({ slug }) => !SLUGS_EXCLOSOS.has(slug))
     .forEach(({ slug, mtime }) =>
