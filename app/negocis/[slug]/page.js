@@ -9,10 +9,20 @@ export async function generateMetadata({ params }) {
   const { slug } = await params
   const negoci = await getNegociBySlug(slug)
   if (!negoci) return {}
-  const isPremium = negoci.premium === true || negoci.premium === 'TRUE'
+  const url = `https://topcerdanya.com/negocis/${slug}`
   return {
     title: `${negoci.nom} — ${negoci.poble} | Top Cerdanya`,
     description: negoci.descripcio,
+    alternates: { canonical: url },
+    openGraph: {
+      title: `${negoci.nom} — ${negoci.poble} | Top Cerdanya`,
+      description: negoci.descripcio,
+      url,
+      siteName: 'Top Cerdanya',
+      locale: 'ca_ES',
+      type: 'website',
+      ...(negoci.imatge ? { images: [{ url: negoci.imatge, alt: negoci.nom }] } : {}),
+    },
   }
 }
 
@@ -109,8 +119,40 @@ function FitxaPremium({ n }) {
   const serveis = n.serveis ? n.serveis.split('·').map(s => s.trim()).filter(Boolean) : []
   const tags = Array.isArray(n.tags) ? n.tags : (n.tags || '').split(',').map(t => t.trim()).filter(Boolean)
 
+  // Schema JSON-LD Restaurant
+  const schemaOrg = {
+    '@context': 'https://schema.org',
+    '@type': 'Restaurant',
+    name: n.nom,
+    description: n.descripcio,
+    telephone: n.telefon,
+    url: n.web ? `https://${n.web}` : undefined,
+    address: n.adreca ? {
+      '@type': 'PostalAddress',
+      streetAddress: n.adreca,
+      addressLocality: n.poble,
+      addressRegion: 'Catalunya',
+      addressCountry: 'ES',
+    } : undefined,
+    priceRange: n.preu_min && n.preu_max ? `${n.preu_min}–${n.preu_max}€` : undefined,
+    aggregateRating: n.valoracio && n.ressenyes ? {
+      '@type': 'AggregateRating',
+      ratingValue: String(n.valoracio).replace(',', '.'),
+      reviewCount: String(n.ressenyes),
+      bestRating: '5',
+      worstRating: '1',
+    } : undefined,
+    servesCuisine: 'Cuina catalana',
+    currenciesAccepted: 'EUR',
+    image: n.imatge || undefined,
+  }
+
   return (
     <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '24px 0 64px' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrg) }}
+      />
 
       {/* Breadcrumb + badge Premium */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '24px', paddingBottom: '16px', borderBottom: `1px solid ${C.warmGray}` }}>
@@ -259,7 +301,7 @@ function FitxaPremium({ n }) {
 
           <div style={{ marginBottom: '16px', paddingBottom: '16px', borderBottom: `1px solid ${C.warmGray}` }}>
             <div style={{ fontFamily: C.sans, fontSize: '9px', color: C.midGray, letterSpacing: '0.15em', textTransform: 'uppercase', marginBottom: '4px' }}>Adreça</div>
-            <div style={{ fontFamily: C.sans, fontSize: '13px', color: C.black, lineHeight: 1.5 }}>Pujada de Joan Alay, 2<br />Bellver de Cerdanya</div>
+            <div style={{ fontFamily: C.sans, fontSize: '13px', color: C.black, lineHeight: 1.5 }}>{n.adreca ? <>{n.adreca}<br />{n.poble}</> : n.poble}</div>
           </div>
 
           {n.preu_min && n.preu_max && (
