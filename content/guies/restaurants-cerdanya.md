@@ -50,6 +50,8 @@ Llívia concentra, de manera sorprenent per a la seva mida, alguns dels restaura
 
 **La Formatgeria de Llívia** — fondue de ceps, raclette Morbier AOP i carns a la pedra. Ubicada en una antiga fàbrica de formatges fora del nucli, amb vistes al Pirineu. → Pla de Ro, s/n, Gorguja.
 
+**Lo Vintage — Llesqueria i Bocateria** — el lloc més singular de Llívia i potser de tota la Cerdanya. Pa artesà cruixent, ingredients frescos i entrepans que no s'assemblen als de cap altre lloc de la comarca. La carta de compartir inclou clàssics executats amb criteri: ous amb patates i pernil, carpaccio de carxofa, coques de temporada. Ambient jazz, espai acollidor, tracte molt proper i cuina sense gluten. 5,0 estreles a Google. Tanca dilluns, dimarts i dimecres — imprescindible reservar el cap de setmana. → Carrer dels Forns, 15. Tel. 622 61 00 35. [lovintagerestaurant.com](https://www.lovintagerestaurant.com)
+
 → [Guia completa de restaurants a Llívia](/pobles/llivia/restaurants)
 
 ---
