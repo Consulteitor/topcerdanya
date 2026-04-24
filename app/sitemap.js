@@ -5,7 +5,6 @@ const BASE = "https://topcerdanya.com";
 const SHEETS_API =
   "https://script.google.com/macros/s/AKfycbwoPQmck8k0aDPQ6ijOY0NRFzZ4TI77kd48eZQUR8Izigl-YHnXW1f_zazAhxEBMAhwzQ/exec";
 
-// Subtemes de pobles — usem llista explícita per no excloure pobles amb guió (bellver-de-cerdanya)
 const SUBTEMES = [
   "que-fer",
   "restaurants",
@@ -15,26 +14,18 @@ const SUBTEMES = [
   "amb-nens",
 ];
 
-// Slugs exclosos del sitemap:
-// 1) Slugs fantasma amb prefix numèric antic que retornen "Guia no trobada"
-// 2) Slugs amb estat="Redirigit" al Sheets — tenen fitxer .md però redirigeixen
-//    a una altra URL. Incloure'ls al sitemap envia senyals contradictoris a Google.
 const SLUGS_EXCLOSOS = new Set([
-  // Slugs fantasma (prefix numèric)
   "1593-on-dormir-cerdanya-amb-gos",
   "1594-alojamiento-cerdanya-con-perro",
-  // Guies redirigides — cluster restaurants
   "14-millors-restaurants-cerdanya-google-2026",
   "on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
   "restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026",
-  // Guies redirigides — cluster famílies
   "que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026",
   "cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026",
   "rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026",
   "allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026",
   "que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026",
   "on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026",
-  // Guies redirigides — cluster benestar/estiu
   "banys-termals-cerdanya-2026",
   "aguas-termales-cerdanya-2026",
   "on-banyar-se-cerdanya-2026",
@@ -69,11 +60,60 @@ async function getNegocisPublicats() {
   }
 }
 
+// ─── GUIES: lastModified dinàmic + infografia ─────────────────────────────────
+// Llegeix el Sheets i retorna Map slug → { lastModified, infografia, infografia_alt }
+// lastModified usa data_publicacio del Sheets (més fiable que mtime del fitxer)
+// → Google detecta canvis reals i augmenta la freqüència de crawl
+async function getGuiesMeta() {
+  try {
+    const res = await fetch(`${SHEETS_API}?sheet=Guies`, {
+      next: { revalidate: 3600 },
+    });
+    const json = await res.json();
+    const guies = json.data || [];
+    const map = new Map();
+    for (const g of guies) {
+      const slug = g.slug || String(g.id || "");
+      if (!slug) continue;
+
+      // Parsejar data_publicacio del Sheets (format DD/MM/YYYY o YYYY-MM-DD)
+      let lastModified = null;
+      if (g.data_publicacio) {
+        const raw = String(g.data_publicacio).trim();
+        // Suportem DD/MM/YYYY i YYYY-MM-DD
+        if (raw.includes("/")) {
+          const [d, m, y] = raw.split("/");
+          lastModified = new Date(`${y}-${m.padStart(2,"0")}-${d.padStart(2,"0")}`);
+        } else {
+          lastModified = new Date(raw);
+        }
+        // Si la data és invàlida, fem servir null (fallback a mtime)
+        if (isNaN(lastModified)) lastModified = null;
+      }
+
+      map.set(slug, {
+        lastModified,
+        infografia: g.infografia || null,
+        infografia_alt: g.infografia_alt || g.titol || slug,
+      });
+    }
+    return map;
+  } catch {
+    return new Map();
+  }
+}
+// ─────────────────────────────────────────────────────────────────────────────
+
 export default async function sitemap() {
   const now = new Date();
   const urls = [];
 
-  // ── Pàgines estàtiques ───────────────────────────────────────────────────
+  const [negocis, guiesMeta] = await Promise.all([
+    getNegocisPublicats(),
+    getGuiesMeta(),
+  ]);
+
+  // Pàgines estàtiques
   [
     { url: BASE, p: 1.0 },
     { url: `${BASE}/pobles`, p: 0.9 },
@@ -86,21 +126,34 @@ export default async function sitemap() {
     urls.push({ url, lastModified: now, priority: p })
   );
 
-  // ── /guies/[slug] ────────────────────────────────────────────────────────
-  // Exclou slugs fantasma i slugs amb estat="Redirigit" al Sheets
+  // /guies/[slug]
+  // lastModified: data_publicacio del Sheets si existeix, sinó mtime del fitxer
   getMdFiles(path.join(process.cwd(), "content/guies"))
     .filter(({ slug }) => !SLUGS_EXCLOSOS.has(slug))
-    .forEach(({ slug, mtime }) =>
-      urls.push({
-        url: `${BASE}/guies/${slug}`,
-        lastModified: mtime,
-        priority: 0.8,
-      })
-    );
+    .forEach(({ slug, mtime }) => {
+      const meta = guiesMeta.get(slug);
+      const lastModified = meta?.lastModified || mtime;
 
-  // ── /pobles/[slug] + subtemes ────────────────────────────────────────────
-  // FIX: usem endsWith per subtemes en lloc del regex anterior que excloïa
-  // pobles amb guió al nom (bellver-de-cerdanya, etc.)
+      const entry = {
+        url: `${BASE}/guies/${slug}`,
+        lastModified,
+        priority: 0.8,
+      };
+
+      // Infografia → bloc images per a Google Images
+      if (meta?.infografia) {
+        entry.images = [
+          {
+            url: `${BASE}/images/${meta.infografia}`,
+            title: meta.infografia_alt,
+          },
+        ];
+      }
+
+      urls.push(entry);
+    });
+
+  // /pobles/[slug] + subtemes
   getMdFiles(path.join(process.cwd(), "content/pobles"))
     .filter(({ slug }) => !SUBTEMES.some((s) => slug.endsWith(`-${s}`)))
     .forEach(({ slug, mtime }) => {
@@ -126,8 +179,7 @@ export default async function sitemap() {
       });
     });
 
-  // ── /negocis/[slug] ──────────────────────────────────────────────────────
-  const negocis = await getNegocisPublicats();
+  // /negocis/[slug]
   negocis.forEach((n) => {
     urls.push({
       url: `${BASE}/negocis/${n.slug}`,
@@ -136,7 +188,7 @@ export default async function sitemap() {
     });
   });
 
-  // ── /noticies/[id] ───────────────────────────────────────────────────────
+  // /noticies/[id]
   getMdFiles(path.join(process.cwd(), "content/noticies")).forEach(
     ({ slug, mtime }) =>
       urls.push({
