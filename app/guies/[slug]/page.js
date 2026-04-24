@@ -348,7 +348,7 @@ function InfografiaBloc({ guia, slug }) {
             <textarea
               readOnly
               defaultValue={embedCode}
-              onClick={(e) => e.target.select()}
+              
               style={{
                 width: "100%", minHeight: "110px",
                 fontFamily: "monospace", fontSize: "11px",
