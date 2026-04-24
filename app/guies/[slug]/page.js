@@ -89,19 +89,11 @@ function getRecipeSchema(slug, guia) {
   return {
     "@context": "https://schema.org",
     "@type": "Recipe",
-    "name": isES ? "Trinxat de la Cerdanya" : "Trinxat de la Cerdanya",
+    "name": "Trinxat de la Cerdanya",
     "description": guia.meta_description || "Recepta tradicional del trinxat de la Cerdanya pas a pas: col d'hivern, trumfes i cansalada.",
     "image": guia.imatge ? `https://topcerdanya.com${guia.imatge}` : "https://topcerdanya.com/images/guies/recepta-trinxat-de-la-cerdanya.jpg",
-    "author": {
-      "@type": "Organization",
-      "name": "Top Cerdanya",
-      "url": "https://topcerdanya.com"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Top Cerdanya",
-      "url": "https://topcerdanya.com"
-    },
+    "author": { "@type": "Organization", "name": "Top Cerdanya", "url": "https://topcerdanya.com" },
+    "publisher": { "@type": "Organization", "name": "Top Cerdanya", "url": "https://topcerdanya.com" },
     "datePublished": "2026-03-24",
     "dateModified": "2026-04-15",
     "prepTime": "PT15M",
@@ -113,10 +105,7 @@ function getRecipeSchema(slug, guia) {
     "keywords": isES
       ? "trinxat, cerdanya, receta tradicional, col, patatas, panceta"
       : "trinxat, cerdanya, recepta tradicional, col, trumfes, cansalada, thermomix",
-    "nutrition": {
-      "@type": "NutritionInformation",
-      "servingSize": isES ? "1 porción" : "1 ració"
-    },
+    "nutrition": { "@type": "NutritionInformation", "servingSize": isES ? "1 porción" : "1 ració" },
     "recipeIngredient": isES ? [
       "1 kg de col de invierno",
       "1 kg de patatas (variedad Kennebec o Red Pontiac)",
@@ -131,80 +120,72 @@ function getRecipeSchema(slug, guia) {
       "Sal"
     ],
     "recipeInstructions": isES ? [
-      {
-        "@type": "HowToStep",
-        "name": "Prepara las verduras",
-        "text": "Limpia bien la col eliminando el tronco central y las hojas exteriores. Pela las patatas y córtalas en trozos."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Cuece las verduras",
-        "text": "Pon las patatas en agua hirviendo con sal. A los 15 minutos añade la col. Cuece todo junto 25-30 minutos hasta que las patatas queden muy blandas, casi deshechas."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Escurre bien",
-        "text": "Escurre las verduras en un escurridor al menos 5 minutos. El exceso de humedad impide que el trinxat se dore correctamente."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Fríe la panceta",
-        "text": "Dora las lonchas de panceta en una sartén grande con aceite a fuego medio. Retira la panceta y conserva la grasa en la sartén."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Tritura e integra",
-        "text": "Pon las verduras escurridas en la sartén caliente con la grasa. Aplasta y mezcla con tenedor hasta obtener una pasta homogénea con algunos grumos."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Dora en la sartén",
-        "text": "Aplana la mezcla como una tortilla y dora a fuego medio-alto 3-4 minutos por cada lado hasta obtener costra dorada."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Emplata",
-        "text": "Coloca las lonchas de panceta crujiente encima y acaba con un chorro generoso de aceite de oliva virgen extra."
-      }
+      { "@type": "HowToStep", "name": "Prepara las verduras", "text": "Limpia bien la col eliminando el tronco central y las hojas exteriores. Pela las patatas y córtalas en trozos." },
+      { "@type": "HowToStep", "name": "Cuece las verduras", "text": "Pon las patatas en agua hirviendo con sal. A los 15 minutos añade la col. Cuece todo junto 25-30 minutos hasta que las patatas queden muy blandas, casi deshechas." },
+      { "@type": "HowToStep", "name": "Escurre bien", "text": "Escurre las verduras en un escurridor al menos 5 minutos. El exceso de humedad impide que el trinxat se dore correctamente." },
+      { "@type": "HowToStep", "name": "Fríe la panceta", "text": "Dora las lonchas de panceta en una sartén grande con aceite a fuego medio. Retira la panceta y conserva la grasa en la sartén." },
+      { "@type": "HowToStep", "name": "Tritura e integra", "text": "Pon las verduras escurridas en la sartén caliente con la grasa. Aplasta y mezcla con tenedor hasta obtener una pasta homogénea con algunos grumos." },
+      { "@type": "HowToStep", "name": "Dora en la sartén", "text": "Aplana la mezcla como una tortilla y dora a fuego medio-alto 3-4 minutos por cada lado hasta obtener costra dorada." },
+      { "@type": "HowToStep", "name": "Emplata", "text": "Coloca las lonchas de panceta crujiente encima y acaba con un chorro generoso de aceite de oliva virgen extra." }
     ] : [
-      {
-        "@type": "HowToStep",
-        "name": "Prepara les verdures",
-        "text": "Neteja la col eliminant el tronc central i les fulles exteriors malmeses. Pela les trumfes i talla-les en trossos."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Bull les verdures",
-        "text": "Posa les trumfes en aigua bullint amb sal. Als 15 minuts afegeix la col. Bull tot junt 25-30 minuts fins que les trumfes quedin molt cuites, gairebé desfeides."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Escorre molt bé",
-        "text": "Escorre les verdures en un escorredor almenys 5 minuts. L'excés d'humitat impedeix que el trinxat dauri correctament."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Fregeix la cansalada",
-        "text": "Daura els talls de cansalada en una paella gran amb oli a foc mig. Retira la cansalada i conserva el greix a la paella."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Trinxa i integra",
-        "text": "Posa les verdures escorregudes a la paella calenta amb el greix. Aixafa i barreja amb forquilla fins a obtenir una pasta homogènia amb algun grumoll visible."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Daura a la paella",
-        "text": "Aplana la barreja com una truita i daura a foc mig-fort 3-4 minuts per cada costat fins a obtenir crosta daurada."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Emplata",
-        "text": "Col·loca les rostes de cansalada cruixents a sobre i acaba amb un raig generós d'oli d'oliva verge extra."
-      }
+      { "@type": "HowToStep", "name": "Prepara les verdures", "text": "Neteja la col eliminant el tronc central i les fulles exteriors malmeses. Pela les trumfes i talla-les en trossos." },
+      { "@type": "HowToStep", "name": "Bull les verdures", "text": "Posa les trumfes en aigua bullint amb sal. Als 15 minuts afegeix la col. Bull tot junt 25-30 minuts fins que les trumfes quedin molt cuites, gairebé desfeides." },
+      { "@type": "HowToStep", "name": "Escorre molt bé", "text": "Escorre les verdures en un escorredor almenys 5 minuts. L'excés d'humitat impedeix que el trinxat dauri correctament." },
+      { "@type": "HowToStep", "name": "Fregeix la cansalada", "text": "Daura els talls de cansalada en una paella gran amb oli a foc mig. Retira la cansalada i conserva el greix a la paella." },
+      { "@type": "HowToStep", "name": "Trinxa i integra", "text": "Posa les verdures escorregudes a la paella calenta amb el greix. Aixafa i barreja amb forquilla fins a obtenir una pasta homogènia amb algun grumoll visible." },
+      { "@type": "HowToStep", "name": "Daura a la paella", "text": "Aplana la barreja com una truita i daura a foc mig-fort 3-4 minuts per cada costat fins a obtenir crosta daurada." },
+      { "@type": "HowToStep", "name": "Emplata", "text": "Col·loca les rostes de cansalada cruixents a sobre i acaba amb un raig generós d'oli d'oliva verge extra." }
     ]
   };
 }
+
+// ─── SCHEMA ImageObject ───────────────────────────────────────────────────────
+// Generat dinàmicament per cada guia que tingui el camp "infografia" a Sheets.
+// Camps usats: infografia (nom fitxer), infografia_alt (alt text SEO)
+//
+// Beneficis SEO:
+// - license + acquireLicensePage → Google mostra el crèdit a Google Images
+// - representativeOfPage → associa la imatge com a imatge principal de la pàgina
+// - isPartOf → vincula la imatge a la URL canònica de la guia
+// - creator/publisher → estableix topcerdanya.com com a propietari
+function getImageObjectSchema(guia, slug) {
+  if (!guia.infografia) return null;
+
+  const urlAbsoluta = `https://topcerdanya.com/images/${guia.infografia}`;
+  const urlGuia = `https://topcerdanya.com/guies/${slug}`;
+  const altText = guia.infografia_alt || guia.titol;
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "ImageObject",
+    "url": urlAbsoluta,
+    "contentUrl": urlAbsoluta,
+    "name": altText,
+    "description": guia.meta_description || altText,
+    "license": "https://topcerdanya.com",
+    "acquireLicensePage": urlGuia,
+    "creditText": "topcerdanya.com",
+    "copyrightNotice": "© topcerdanya.com",
+    "creator": {
+      "@type": "Organization",
+      "name": "Top Cerdanya",
+      "url": "https://topcerdanya.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Top Cerdanya",
+      "url": "https://topcerdanya.com"
+    },
+    "isPartOf": {
+      "@type": "WebPage",
+      "@id": urlGuia,
+      "url": urlGuia,
+      "name": guia.titol
+    },
+    "representativeOfPage": true
+  };
+}
+// ─────────────────────────────────────────────────────────────────────────────
 
 
 const MESOS = ['','Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
@@ -281,28 +262,32 @@ function AgendaMes({ items }) {
 }
 
 // ─── INFOGRAFIA ───────────────────────────────────────────────────────────────
-// Renderitza la infografia i el bloc d'embed per backlinks.
-// S'activa quan guia.infografia té valor (nom de fitxer, ex: "golf-cerdanya-campos-precios-2026.jpg")
-// guia.infografia_alt  → alt text SEO (opcional, fallback al titol)
-// guia.infografia_posicio → "intro" | "mig" | "final" (no s'usa aquí, s'aplica a la lògica de renderització)
+// Renderitza la infografia + embed per backlinks.
+// S'activa quan guia.infografia té valor al Sheets.
+// Camps: infografia, infografia_alt, infografia_posicio (intro | final)
 
 function InfografiaBloc({ guia, slug }) {
   if (!guia.infografia) return null;
 
-  const nomFitxer = guia.infografia;
-  const urlImatge = `/images/${nomFitxer}`;
-  const urlAbsoluta = `https://topcerdanya.com/images/${nomFitxer}`;
+  const urlImatge = `/images/${guia.infografia}`;
+  const urlAbsoluta = `https://topcerdanya.com/images/${guia.infografia}`;
   const urlGuia = `https://topcerdanya.com/guies/${slug}`;
   const altText = guia.infografia_alt || guia.titol;
 
-  // Codi embed que l'usuari copiarà per obtenir el backlink
-  const embedCode = `<a href="${urlGuia}" target="_blank" rel="noopener">
-  <img src="${urlAbsoluta}" alt="${altText} · topcerdanya.com" width="800" style="max-width:100%;height:auto;">
+  // Codi embed — genera backlink dofollow cap a la guia
+  const embedCode =
+`<a href="${urlGuia}" target="_blank" rel="noopener">
+  <img src="${urlAbsoluta}"
+       alt="${altText} · topcerdanya.com"
+       width="800" style="max-width:100%;height:auto;">
 </a>
-<p style="font-size:12px;color:#666;">Font: <a href="${urlGuia}" target="_blank" rel="noopener">topcerdanya.com</a></p>`;
+<p style="font-size:12px;color:#666;">
+  Font: <a href="${urlGuia}" target="_blank" rel="noopener">topcerdanya.com</a>
+</p>`;
 
   return (
     <div style={{ margin: "40px 0", borderTop: `2px solid ${C.warmGray}`, borderBottom: `2px solid ${C.warmGray}`, padding: "32px 0" }}>
+
       {/* Etiqueta */}
       <div style={{ marginBottom: "14px" }}>
         <span style={{
@@ -315,7 +300,7 @@ function InfografiaBloc({ guia, slug }) {
         </span>
       </div>
 
-      {/* Imatge */}
+      {/* Imatge — width/height explícits per a bon CLS i LCP */}
       <div style={{ width: "100%", position: "relative" }}>
         <Image
           src={urlImatge}
@@ -343,7 +328,7 @@ function InfografiaBloc({ guia, slug }) {
           {altText}
         </p>
 
-        {/* Botó embed — client component via details/summary (no JS necessari) */}
+        {/* details/summary: zero JS, funciona en SSR, accessible */}
         <details style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "11px" }}>
           <summary style={{
             cursor: "pointer", color: C.midGray,
@@ -365,7 +350,7 @@ function InfografiaBloc({ guia, slug }) {
               defaultValue={embedCode}
               onClick={(e) => e.target.select()}
               style={{
-                width: "100%", minHeight: "96px",
+                width: "100%", minHeight: "110px",
                 fontFamily: "monospace", fontSize: "11px",
                 background: C.white, border: `1px solid ${C.midGray}`,
                 padding: "10px", resize: "vertical", boxSizing: "border-box",
@@ -373,7 +358,7 @@ function InfografiaBloc({ guia, slug }) {
               }}
             />
             <p style={{ margin: "8px 0 0", fontSize: "10px", color: C.midGray }}>
-              Fes clic al codi per seleccionar-lo tot.
+              Fes clic al codi per seleccionar-lo tot · La imatge inclou un enllaç a topcerdanya.com
             </p>
           </div>
         </details>
@@ -401,32 +386,49 @@ export default async function GuiaPage({ params }) {
     "mainEntity": faqs.map(f => ({
       "@type": "Question",
       "name": f.question,
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": f.answer
-      }
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
     }))
   } : null;
 
   const recipeSchema = getRecipeSchema(slug, guia);
 
-  // Posició de la infografia: "intro" (abans contingut) | "mig" | "final" (per defecte)
+  // ImageObject schema — només si la guia té infografia al Sheets
+  const imageObjectSchema = getImageObjectSchema(guia, slug);
+
+  // Posició de la infografia dins l'article
   const infoPosicio = guia.infografia_posicio || "intro";
 
   return (
     <div style={{ background: C.white, minHeight: "100vh", fontFamily: "'Source Serif 4', Georgia, serif" }}>
+
+      {/* JSON-LD: FAQPage */}
       {faqSchema && (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       )}
+
+      {/* JSON-LD: Recipe (trinxat) */}
       {recipeSchema && (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(recipeSchema) }}
         />
       )}
+
+      {/* JSON-LD: ImageObject
+          - license + acquireLicensePage → crèdit visible a Google Images
+          - representativeOfPage → imatge principal de la pàgina per a Google
+          - isPartOf → vincula la imatge a la URL canònica
+          - creator/publisher → estableix topcerdanya.com com a propietari */}
+      {imageObjectSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(imageObjectSchema) }}
+        />
+      )}
+
       <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "48px 40px" }}>
 
         {/* Breadcrumb */}
@@ -466,15 +468,18 @@ export default async function GuiaPage({ params }) {
 
         <div className="guia-layout" style={{ display: "grid", gridTemplateColumns: "1fr 280px", gap: "56px", alignItems: "start" }}>
           <div className="article-body">
+
+            {/* Agenda (només pàgines que-fer-a-la-cerdanya) */}
             {slug.startsWith('que-fer-a-la-cerdanya') && (
               <AgendaMes items={agendaItems} />
             )}
 
-            {/* Infografia INTRO — apareix abans del contingut markdown */}
+            {/* Infografia INTRO — just abans del contingut markdown */}
             {guia.infografia && infoPosicio === "intro" && (
               <InfografiaBloc guia={guia} slug={slug} />
             )}
 
+            {/* Contingut markdown */}
             {contingut ? (
               <ReactMarkdown remarkPlugins={[remarkGfm]}>{contingut}</ReactMarkdown>
             ) : (
@@ -483,10 +488,11 @@ export default async function GuiaPage({ params }) {
               </p>
             )}
 
-            {/* Infografia FINAL — apareix al final del contingut markdown */}
+            {/* Infografia FINAL — al final del contingut markdown */}
             {guia.infografia && infoPosicio === "final" && (
               <InfografiaBloc guia={guia} slug={slug} />
             )}
+
           </div>
 
           <aside style={{ position: "sticky", top: "24px" }}>
