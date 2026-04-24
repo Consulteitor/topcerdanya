@@ -60,57 +60,41 @@ async function getNegocisPublicats() {
   }
 }
 
-// ─── GUIES: lastModified dinàmic + infografia ─────────────────────────────────
-// Llegeix el Sheets i retorna Map slug → { lastModified, infografia, infografia_alt }
-// lastModified usa data_publicacio del Sheets (més fiable que mtime del fitxer)
+// lastModified dinàmic des del camp data_publicacio del Sheets
 // → Google detecta canvis reals i augmenta la freqüència de crawl
-async function getGuiesMeta() {
+async function getGuiesLastModified() {
   try {
     const res = await fetch(`${SHEETS_API}?sheet=Guies`, {
       next: { revalidate: 3600 },
     });
     const json = await res.json();
-    const guies = json.data || [];
     const map = new Map();
-    for (const g of guies) {
+    for (const g of json.data || []) {
       const slug = g.slug || String(g.id || "");
-      if (!slug) continue;
-
-      // Parsejar data_publicacio del Sheets (format DD/MM/YYYY o YYYY-MM-DD)
-      let lastModified = null;
-      if (g.data_publicacio) {
-        const raw = String(g.data_publicacio).trim();
-        // Suportem DD/MM/YYYY i YYYY-MM-DD
-        if (raw.includes("/")) {
-          const [d, m, y] = raw.split("/");
-          lastModified = new Date(`${y}-${m.padStart(2,"0")}-${d.padStart(2,"0")}`);
-        } else {
-          lastModified = new Date(raw);
-        }
-        // Si la data és invàlida, fem servir null (fallback a mtime)
-        if (isNaN(lastModified)) lastModified = null;
+      if (!slug || !g.data_publicacio) continue;
+      const raw = String(g.data_publicacio).trim();
+      let date = null;
+      if (raw.includes("/")) {
+        const [d, m, y] = raw.split("/");
+        date = new Date(`${y}-${m.padStart(2,"0")}-${d.padStart(2,"0")}`);
+      } else {
+        date = new Date(raw);
       }
-
-      map.set(slug, {
-        lastModified,
-        infografia: g.infografia || null,
-        infografia_alt: g.infografia_alt || g.titol || slug,
-      });
+      if (!isNaN(date)) map.set(slug, date);
     }
     return map;
   } catch {
     return new Map();
   }
 }
-// ─────────────────────────────────────────────────────────────────────────────
 
 export default async function sitemap() {
   const now = new Date();
   const urls = [];
 
-  const [negocis, guiesMeta] = await Promise.all([
+  const [negocis, lastModMap] = await Promise.all([
     getNegocisPublicats(),
-    getGuiesMeta(),
+    getGuiesLastModified(),
   ]);
 
   // Pàgines estàtiques
@@ -126,31 +110,15 @@ export default async function sitemap() {
     urls.push({ url, lastModified: now, priority: p })
   );
 
-  // /guies/[slug]
-  // lastModified: data_publicacio del Sheets si existeix, sinó mtime del fitxer
+  // /guies/[slug] — lastModified des del Sheets, sense imatges (van a sitemap-images.xml)
   getMdFiles(path.join(process.cwd(), "content/guies"))
     .filter(({ slug }) => !SLUGS_EXCLOSOS.has(slug))
     .forEach(({ slug, mtime }) => {
-      const meta = guiesMeta.get(slug);
-      const lastModified = meta?.lastModified || mtime;
-
-      const entry = {
+      urls.push({
         url: `${BASE}/guies/${slug}`,
-        lastModified,
+        lastModified: lastModMap.get(slug) || mtime,
         priority: 0.8,
-      };
-
-      // Infografia → bloc images per a Google Images
-      if (meta?.infografia) {
-        entry.images = [
-          {
-            url: `${BASE}/images/${meta.infografia}`,
-            title: meta.infografia_alt,
-          },
-        ];
-      }
-
-      urls.push(entry);
+      });
     });
 
   // /pobles/[slug] + subtemes
