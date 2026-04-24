@@ -329,7 +329,7 @@ function InfografiaBloc({ guia, slug }) {
           {altText}
         </p>
 
-        <InfografiaEmbed embedCode={embedCode} />
+        <InfografiaEmbed embedCode={embedCode} urlImatge={urlImatge} altText={altText} />
       </div>
     </div>
   );
