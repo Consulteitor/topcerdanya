@@ -6,6 +6,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import fs from "fs";
 import path from "path";
+import InfografiaEmbed from "@/components/InfografiaEmbed";
 
 // ISR: no generateStaticParams — les pàgines es generen on-demand
 export const revalidate = 86400; // 24h — contingut de guia estable
