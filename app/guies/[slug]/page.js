@@ -329,40 +329,7 @@ function InfografiaBloc({ guia, slug }) {
           {altText}
         </p>
 
-        {/* details/summary: zero JS, funciona en SSR, accessible */}
-        <details style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "11px" }}>
-          <summary style={{
-            cursor: "pointer", color: C.midGray,
-            letterSpacing: "0.1em", textTransform: "uppercase",
-            listStyle: "none", userSelect: "none",
-            borderBottom: `1px solid ${C.midGray}`, paddingBottom: "2px",
-          }}>
-            🔗 Enllaça aquesta infografia
-          </summary>
-          <div style={{
-            marginTop: "12px", padding: "16px",
-            background: C.warmGray, border: `1px solid ${C.black}`,
-          }}>
-            <p style={{ margin: "0 0 8px", fontSize: "11px", color: C.black, fontWeight: 500 }}>
-              Copia i enganxa aquest codi al teu web:
-            </p>
-            <textarea
-              readOnly
-              defaultValue={embedCode}
-              
-              style={{
-                width: "100%", minHeight: "110px",
-                fontFamily: "monospace", fontSize: "11px",
-                background: C.white, border: `1px solid ${C.midGray}`,
-                padding: "10px", resize: "vertical", boxSizing: "border-box",
-                color: C.black, lineHeight: 1.5,
-              }}
-            />
-            <p style={{ margin: "8px 0 0", fontSize: "10px", color: C.midGray }}>
-              Fes clic al codi per seleccionar-lo tot · La imatge inclou un enllaç a topcerdanya.com
-            </p>
-          </div>
-        </details>
+        <InfografiaEmbed embedCode={embedCode} />
       </div>
     </div>
   );
