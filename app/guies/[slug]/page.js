@@ -24,7 +24,7 @@ export async function generateMetadata({ params }) {
   const desc = guia.meta_description || `Guia completa sobre ${titol} a la Cerdanya. Informació pràctica i actualitzada 2026.`;
 
   return {
-    title: `${titol} | Top Cerdanya`,
+    title: titol,
     description: desc,
     openGraph: {
       title: titol,
