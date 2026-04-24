@@ -280,6 +280,110 @@ function AgendaMes({ items }) {
   );
 }
 
+// ─── INFOGRAFIA ───────────────────────────────────────────────────────────────
+// Renderitza la infografia i el bloc d'embed per backlinks.
+// S'activa quan guia.infografia té valor (nom de fitxer, ex: "golf-cerdanya-campos-precios-2026.jpg")
+// guia.infografia_alt  → alt text SEO (opcional, fallback al titol)
+// guia.infografia_posicio → "intro" | "mig" | "final" (no s'usa aquí, s'aplica a la lògica de renderització)
+
+function InfografiaBloc({ guia, slug }) {
+  if (!guia.infografia) return null;
+
+  const nomFitxer = guia.infografia;
+  const urlImatge = `/images/${nomFitxer}`;
+  const urlAbsoluta = `https://topcerdanya.com/images/${nomFitxer}`;
+  const urlGuia = `https://topcerdanya.com/guies/${slug}`;
+  const altText = guia.infografia_alt || guia.titol;
+
+  // Codi embed que l'usuari copiarà per obtenir el backlink
+  const embedCode = `<a href="${urlGuia}" target="_blank" rel="noopener">
+  <img src="${urlAbsoluta}" alt="${altText} · topcerdanya.com" width="800" style="max-width:100%;height:auto;">
+</a>
+<p style="font-size:12px;color:#666;">Font: <a href="${urlGuia}" target="_blank" rel="noopener">topcerdanya.com</a></p>`;
+
+  return (
+    <div style={{ margin: "40px 0", borderTop: `2px solid ${C.warmGray}`, borderBottom: `2px solid ${C.warmGray}`, padding: "32px 0" }}>
+      {/* Etiqueta */}
+      <div style={{ marginBottom: "14px" }}>
+        <span style={{
+          fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
+          fontSize: "9px", fontWeight: 600, letterSpacing: "0.2em",
+          textTransform: "uppercase", color: C.midGray,
+          borderBottom: `1px solid ${C.warmGray}`, paddingBottom: "2px",
+        }}>
+          Infografia · topcerdanya.com
+        </span>
+      </div>
+
+      {/* Imatge */}
+      <div style={{ width: "100%", position: "relative" }}>
+        <Image
+          src={urlImatge}
+          alt={altText}
+          width={1200}
+          height={675}
+          style={{ width: "100%", height: "auto", display: "block" }}
+          sizes="(max-width: 768px) 100vw, 860px"
+        />
+      </div>
+
+      {/* Peu + embed */}
+      <div style={{
+        marginTop: "16px",
+        display: "flex",
+        justifyContent: "space-between",
+        alignItems: "flex-start",
+        gap: "16px",
+        flexWrap: "wrap",
+      }}>
+        <p style={{
+          fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
+          fontSize: "12px", color: C.midGray, fontStyle: "italic", margin: 0,
+        }}>
+          {altText}
+        </p>
+
+        {/* Botó embed — client component via details/summary (no JS necessari) */}
+        <details style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: "11px" }}>
+          <summary style={{
+            cursor: "pointer", color: C.midGray,
+            letterSpacing: "0.1em", textTransform: "uppercase",
+            listStyle: "none", userSelect: "none",
+            borderBottom: `1px solid ${C.midGray}`, paddingBottom: "2px",
+          }}>
+            🔗 Enllaça aquesta infografia
+          </summary>
+          <div style={{
+            marginTop: "12px", padding: "16px",
+            background: C.warmGray, border: `1px solid ${C.black}`,
+          }}>
+            <p style={{ margin: "0 0 8px", fontSize: "11px", color: C.black, fontWeight: 500 }}>
+              Copia i enganxa aquest codi al teu web:
+            </p>
+            <textarea
+              readOnly
+              defaultValue={embedCode}
+              onClick={(e) => e.target.select()}
+              style={{
+                width: "100%", minHeight: "96px",
+                fontFamily: "monospace", fontSize: "11px",
+                background: C.white, border: `1px solid ${C.midGray}`,
+                padding: "10px", resize: "vertical", boxSizing: "border-box",
+                color: C.black, lineHeight: 1.5,
+              }}
+            />
+            <p style={{ margin: "8px 0 0", fontSize: "10px", color: C.midGray }}>
+              Fes clic al codi per seleccionar-lo tot.
+            </p>
+          </div>
+        </details>
+      </div>
+    </div>
+  );
+}
+// ─────────────────────────────────────────────────────────────────────────────
+
+
 export default async function GuiaPage({ params }) {
   const { slug } = await params;
   const [guia, agendaItems] = await Promise.all([
@@ -305,6 +409,9 @@ export default async function GuiaPage({ params }) {
   } : null;
 
   const recipeSchema = getRecipeSchema(slug, guia);
+
+  // Posició de la infografia: "intro" (abans contingut) | "mig" | "final" (per defecte)
+  const infoPosicio = guia.infografia_posicio || "intro";
 
   return (
     <div style={{ background: C.white, minHeight: "100vh", fontFamily: "'Source Serif 4', Georgia, serif" }}>
@@ -362,12 +469,23 @@ export default async function GuiaPage({ params }) {
             {slug.startsWith('que-fer-a-la-cerdanya') && (
               <AgendaMes items={agendaItems} />
             )}
+
+            {/* Infografia INTRO — apareix abans del contingut markdown */}
+            {guia.infografia && infoPosicio === "intro" && (
+              <InfografiaBloc guia={guia} slug={slug} />
+            )}
+
             {contingut ? (
               <ReactMarkdown remarkPlugins={[remarkGfm]}>{contingut}</ReactMarkdown>
             ) : (
               <p style={{ fontStyle: "italic", color: C.midGray, fontSize: "17px" }}>
                 Afegeix el fitxer <code>content/guies/{slug}.md</code> al projecte.
               </p>
+            )}
+
+            {/* Infografia FINAL — apareix al final del contingut markdown */}
+            {guia.infografia && infoPosicio === "final" && (
+              <InfografiaBloc guia={guia} slug={slug} />
             )}
           </div>
 
