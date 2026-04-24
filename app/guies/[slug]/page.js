@@ -301,19 +301,7 @@ function InfografiaBloc({ guia, slug }) {
         </span>
       </div>
 
-      {/* Imatge — width/height explícits per a bon CLS i LCP */}
-      <div style={{ width: "100%", position: "relative" }}>
-        <Image
-          src={urlImatge}
-          alt={altText}
-          width={1200}
-          height={675}
-          style={{ width: "100%", height: "auto", display: "block" }}
-          sizes="(max-width: 768px) 100vw, 860px"
-        />
-      </div>
-
-      {/* Peu + embed */}
+      {/* Peu + embed — imatge renderitzada pel InfografiaEmbed */
       <div style={{
         marginTop: "16px",
         display: "flex",
