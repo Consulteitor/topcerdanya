@@ -4,6 +4,39 @@ import { getNegocis, getNoticies, getGuies, getAgenda } from '../lib/sheets';
 
 export const revalidate = 3600; // ISR 1h
 
+// ─── METADATA HOME ────────────────────────────────────────────────────────────
+export async function generateMetadata() {
+  return {
+    title: 'Top Cerdanya — El directori i guies de La Cerdanya',
+    description: 'Directori de negocis locals, restaurants, allotjaments i activitats a La Cerdanya. Guies de viatge, agenda cultural i mercat immobiliari als Pirineus Catalans.',
+    alternates: {
+      canonical: 'https://topcerdanya.com',
+    },
+    openGraph: {
+      title: 'Top Cerdanya — El directori i guies de La Cerdanya',
+      description: 'Directori de negocis locals, restaurants, allotjaments i activitats a La Cerdanya. Guies de viatge, agenda i immobiliària als Pirineus Catalans.',
+      url: 'https://topcerdanya.com',
+      siteName: 'Top Cerdanya',
+      locale: 'ca_ES',
+      type: 'website',
+      images: [
+        {
+          url: 'https://topcerdanya.com/images/og-topcerdanya.jpg',
+          width: 1200,
+          height: 630,
+          alt: 'Top Cerdanya — Directori i guies de la Cerdanya',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: 'Top Cerdanya — El directori i guies de La Cerdanya',
+      description: 'Directori de negocis, restaurants, allotjaments, guies i agenda de la Cerdanya.',
+      images: ['https://topcerdanya.com/images/og-topcerdanya.jpg'],
+    },
+  }
+}
+
 const C = {
   black: '#0a0a0a', white: '#faf9f6', warmGray: '#e8e4dc',
   midGray: '#9a9489', accent: '#c8423a',
@@ -33,7 +66,6 @@ const POBLES = [
   { label: 'Alp', sub: 'Les pistes', href: '/pobles/alp' },
 ];
 
-// Assigna guies als slots de la home per posicio_home
 function assignarSlots(guies) {
   const slots = { hero: null, home1: null, home2: null, home3: null, home4: null };
   const resta = [];
@@ -45,7 +77,6 @@ function assignarSlots(guies) {
       resta.push(g);
     }
   }
-  // Fallbacks: si algun slot buit, omple amb les primeres amb imatge
   const ambImatge = resta.filter(g => g.imatge);
   let fi = 0;
   if (!slots.hero) slots.hero = ambImatge[fi++] || resta[0] || null;
@@ -182,7 +213,6 @@ export default async function HomePage() {
       <section style={{ paddingTop: '40px', paddingBottom: '40px', borderBottom: `1px solid ${C.black}` }}>
         {seccioHeader('Contingut editorial', 'Guies de la Cerdanya', '/guies', 'Veure totes les guies')}
 
-        {/* Destacada home1 + home2 */}
         <div className="home-guies-dest" style={{
           display: 'grid', gridTemplateColumns: 'minmax(0,1fr) minmax(0,1fr)',
           gap: '2px', background: C.black, marginBottom: '2px',
@@ -224,7 +254,6 @@ export default async function HomePage() {
           })}
         </div>
 
-        {/* home3 + home4 — format horitzontal compacte */}
         <div className="home-guies-grid" style={{
           display: 'grid', gridTemplateColumns: 'minmax(0,1fr) minmax(0,1fr)',
           gap: '2px', background: C.black,
@@ -321,11 +350,11 @@ export default async function HomePage() {
                 </div>
               </div>
             ))}
-          <div style={{ marginTop: '20px', paddingTop: '16px', borderTop: '1px solid #e8e4dc' }}>
-            <a href='/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany' style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#9a9489', textDecoration: 'none', borderBottom: '1px solid #9a9489', paddingBottom: '2px' }}>
-              Planifica la teva visita → Guia completa de la Cerdanya
-            </a>
-          </div>
+            <div style={{ marginTop: '20px', paddingTop: '16px', borderTop: '1px solid #e8e4dc' }}>
+              <a href='/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany' style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#9a9489', textDecoration: 'none', borderBottom: '1px solid #9a9489', paddingBottom: '2px' }}>
+                Planifica la teva visita → Guia completa de la Cerdanya
+              </a>
+            </div>
           </div>
 
           {/* DIRECTORI */}

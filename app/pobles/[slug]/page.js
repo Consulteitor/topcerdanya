@@ -13,8 +13,6 @@ export async function generateStaticParams() {
   return pobles.map((p) => ({ slug: p.slug || String(p.id) }));
 }
 
-
-
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const pobla = await getPoblaBySlug(slug);
@@ -22,10 +20,14 @@ export async function generateMetadata({ params }) {
 
   const titol = pobla.titol || slug;
   const desc = pobla.meta_description || `Guia completa de ${titol}: què fer, on menjar, on dormir, rutes i immobiliària. Tot el que cal saber sobre ${titol} a la Cerdanya.`;
+  const imatgeUrl = pobla.imatge || 'https://topcerdanya.com/images/og-topcerdanya.jpg';
 
   return {
     title: pobla.titol_seo ? `${pobla.titol_seo} | Top Cerdanya` : `${titol} | Top Cerdanya`,
     description: desc,
+    alternates: {
+      canonical: `https://topcerdanya.com/pobles/${slug}`,
+    },
     openGraph: {
       title: `${titol} — Guia completa 2026`,
       description: desc,
@@ -33,12 +35,88 @@ export async function generateMetadata({ params }) {
       siteName: "Top Cerdanya",
       locale: "ca_ES",
       type: "article",
-      ...(pobla.imatge ? { images: [{ url: pobla.imatge, width: 1200, height: 630, alt: titol }] } : {}),
+      images: [
+        {
+          url: imatgeUrl,
+          width: 1200,
+          height: 630,
+          alt: `${titol} — Top Cerdanya`,
+        },
+      ],
     },
-    alternates: {
-      canonical: `https://topcerdanya.com/pobles/${slug}`,
+    // ─── TWITTER CARD CORREGIT ────────────────────────────────────────────────
+    // summary_large_image mostra la imatge gran quan es comparteix a X/Twitter,
+    // LinkedIn, WhatsApp i altres xarxes socials.
+    twitter: {
+      card: 'summary_large_image',
+      title: `${titol} — Guia completa 2026`,
+      description: desc,
+      images: [imatgeUrl],
+    },
+    robots: {
+      index: true,
+      follow: true,
     },
   };
+}
+
+// ─── PLACE SCHEMA ─────────────────────────────────────────────────────────────
+// Indica a Google que aquesta pàgina representa un lloc geogràfic real.
+// Ajuda als rich results locals i al Knowledge Panel.
+// Coordenades aproximades per a cada poble — afegir les reals si les tens al Sheets.
+const COORDENADES = {
+  'puigcerda':          { lat: 42.4317, lng: 1.9267 },
+  'bellver-de-cerdanya':{ lat: 42.3750, lng: 1.7936 },
+  'llivia':             { lat: 42.4608, lng: 1.9806 },
+  'alp':                { lat: 42.4014, lng: 1.8767 },
+  'bolvir':             { lat: 42.4333, lng: 1.9000 },
+  'meranges':           { lat: 42.4583, lng: 1.8167 },
+  'das':                { lat: 42.4458, lng: 1.8542 },
+  'ger':                { lat: 42.4347, lng: 1.8764 },
+  'fontanals-de-cerdanya': { lat: 42.4181, lng: 1.8936 },
+  'isovol':             { lat: 42.3944, lng: 1.8347 },
+  'vilallobent':        { lat: 42.4153, lng: 1.9428 },
+  'guils-de-cerdanya':  { lat: 42.4500, lng: 1.9167 },
+  'lledia':             { lat: 42.3667, lng: 1.8000 },
+  'prullans':           { lat: 42.3583, lng: 1.7667 },
+}
+
+function getPlaceSchema(pobla, slug) {
+  const coords = COORDENADES[slug]
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'City',
+    '@id': `https://topcerdanya.com/pobles/${slug}`,
+    name: pobla.titol,
+    description: pobla.meta_description || `${pobla.titol} és un municipi de la Cerdanya, als Pirineus Catalans.`,
+    url: `https://topcerdanya.com/pobles/${slug}`,
+    ...(pobla.imatge ? { image: pobla.imatge } : {}),
+    ...(coords ? {
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: coords.lat,
+        longitude: coords.lng,
+      }
+    } : {}),
+    containedInPlace: {
+      '@type': 'AdministrativeArea',
+      name: 'Cerdanya',
+      containedInPlace: {
+        '@type': 'AdministrativeArea',
+        name: 'Catalunya',
+        containedInPlace: {
+          '@type': 'Country',
+          name: 'Espanya',
+        },
+      },
+    },
+    touristType: [
+      'Senderistes',
+      'Famílies',
+      'Esquiadors',
+      'Ciclistes',
+    ],
+  }
 }
 
 function getContingut(slug) {
@@ -73,9 +151,16 @@ export default async function PoblaPage({ params }) {
   if (!pobla) notFound();
 
   const contingut = getContingut(slug);
+  const placeSchema = getPlaceSchema(pobla, slug);
 
   return (
     <div style={{ background: C.white, minHeight: "100vh", fontFamily: "'Source Serif 4', Georgia, serif", overflowX: "hidden" }}>
+
+      {/* JSON-LD: Place/City schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(placeSchema) }}
+      />
 
       {/* ── HERO ── */}
       <div style={{ background: C.black, color: C.white, padding: "clamp(32px,5vw,56px) clamp(20px,5vw,40px) clamp(40px,6vw,64px)" }}>
@@ -231,7 +316,6 @@ export default async function PoblaPage({ params }) {
 
           {/* SIDEBAR */}
           <aside style={{ minWidth: 0, position: "sticky", top: "24px" }}>
-
             <div style={{ border: `1px solid ${C.black}`, padding: "20px", marginBottom: "20px" }}>
               <div style={{
                 fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
