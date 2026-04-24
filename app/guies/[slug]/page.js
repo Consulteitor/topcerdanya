@@ -24,7 +24,7 @@ export async function generateMetadata({ params }) {
   const desc = guia.meta_description || `Guia completa sobre ${titol} a la Cerdanya. Informació pràctica i actualitzada 2026.`;
 
   return {
-    title: titol,
+    title: `${titol} | Top Cerdanya`,
     description: desc,
     openGraph: {
       title: titol,
@@ -263,9 +263,9 @@ function AgendaMes({ items }) {
 }
 
 // ─── INFOGRAFIA ───────────────────────────────────────────────────────────────
-// Renderitza la infografia + embed per backlinks.
-// S'activa quan guia.infografia té valor al Sheets.
-// Camps: infografia, infografia_alt, infografia_posicio (intro | final)
+// Renderitza la infografia + lightbox + embed per backlinks.
+// InfografiaEmbed és un Client Component que gestiona tota la interactivitat.
+// Camps Sheets: infografia, infografia_alt, infografia_posicio (intro | final)
 
 function InfografiaBloc({ guia, slug }) {
   if (!guia.infografia) return null;
@@ -275,7 +275,6 @@ function InfografiaBloc({ guia, slug }) {
   const urlGuia = `https://topcerdanya.com/guies/${slug}`;
   const altText = guia.infografia_alt || guia.titol;
 
-  // Codi embed — genera backlink dofollow cap a la guia
   const embedCode =
 `<a href="${urlGuia}" target="_blank" rel="noopener">
   <img src="${urlAbsoluta}"
@@ -301,24 +300,12 @@ function InfografiaBloc({ guia, slug }) {
         </span>
       </div>
 
-      {/* Peu + embed — imatge renderitzada pel InfografiaEmbed */
-      <div style={{
-        marginTop: "16px",
-        display: "flex",
-        justifyContent: "space-between",
-        alignItems: "flex-start",
-        gap: "16px",
-        flexWrap: "wrap",
-      }}>
-        <p style={{
-          fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
-          fontSize: "12px", color: C.midGray, fontStyle: "italic", margin: 0,
-        }}>
-          {altText}
-        </p>
-
-        <InfografiaEmbed embedCode={embedCode} urlImatge={urlImatge} altText={altText} />
-      </div>
+      {/* InfografiaEmbed gestiona: imatge, lightbox, peu i botó d'embed */}
+      <InfografiaEmbed
+        embedCode={embedCode}
+        urlImatge={urlImatge}
+        altText={altText}
+      />
     </div>
   );
 }
