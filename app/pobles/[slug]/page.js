@@ -23,7 +23,7 @@ export async function generateMetadata({ params }) {
   const imatgeUrl = pobla.imatge || 'https://topcerdanya.com/images/og-topcerdanya.jpg';
 
   return {
-    title: pobla.titol_seo ? `${pobla.titol_seo} | Top Cerdanya` : `${titol} | Top Cerdanya`,
+    title: pobla.titol_seo ? pobla.titol_seo : titol,
     description: desc,
     alternates: {
       canonical: `https://topcerdanya.com/pobles/${slug}`,
