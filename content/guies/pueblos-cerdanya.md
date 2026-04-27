@@ -47,6 +47,8 @@ El pueblo más alto de la comarca, a 1.520 metros, al pie de la sierra del Moixe
 
 **Para quién:** para quien quiere un pueblo auténtico, poco turístico, y punto de partida para rutas de naturaleza. Combinado con Bellver hace una ruta de día muy completa.
 
+→ [Guía completa de Bellver de Cerdanya: que fer, restaurants i nucli medieval](/pobles/bellver-de-cerdanya)
+
 ### Bolvir — el más tranquilo cerca de Puigcerdà
 A 4 km de Puigcerdà, Bolvir ofrece una combinación poco habitual: la proximidad a la capital y la tranquilidad de pueblo pequeño. La Torre del Remei — palacete modernista de 1910 proyectado por un discípulo de Gaudí — es hoy uno de los hoteles y restaurantes de referencia de la comarca.
 
