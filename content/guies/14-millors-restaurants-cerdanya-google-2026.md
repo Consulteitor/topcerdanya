@@ -136,7 +136,7 @@ El que sorprèn d'aquesta llista no és cap restaurant en particular: és la dis
 
 Que la capital de comarca no domini la gastronomia de la comarca no és una paradoxa. És la conseqüència lògica de l'escala: en restaurants petits i manejables, la qualitat és més fàcil de mantenir. I a la Cerdanya, els millors restaurants solen tenir menys de quaranta coberts.
 
-→ [Guia completa de restaurants de la Cerdanya](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [Guia completa de restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 → [On menjar a Puigcerdà](/pobles/puigcerda/restaurants)
 → [On menjar a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [On menjar a Llívia](/pobles/llivia/restaurants)

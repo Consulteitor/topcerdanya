@@ -30,7 +30,7 @@ La ruta de Bellver de Cerdanya fins a Santa Maria de Talló combina paisatge i p
 
 El llac de Malniu des de Meranges és la referència del maig: 8 km, 3h 30 min, 340 m de desnivell. Un llac glacial a 1.870 metres que al mes de maig comença a descongelar-se i manté encara el caràcter alpí de principis de temporada. Cal portar botes de muntanya i roba de recanvi —la temperatura al llac pot ser 8–10 graus inferior a la de la plana.
 
-→ [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+→ [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
 
 ---
 
@@ -54,7 +54,7 @@ El maig és una data excel·lent per venir amb nens. Sense la massificació de l
 
 **Llac de Puigcerdà** — pedals, barca i passeig. Al maig trobes places sense esperar, cosa que a l'agost és impensable.
 
-→ [Activitats familiars a la Cerdanya](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
+→ [Activitats familiars a la Cerdanya](/guies/activitats-cerdanya-families)
 
 ---
 
@@ -70,17 +70,15 @@ Els restaurants de la Cerdanya obren amb normalitat al maig i és temporada acti
 
 **La Noga Taverna (Bellver)** — local petit amb nota molt alta. Reserva imprescindible fins i tot al maig.
 
-→ [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 
 ---
 
 ## El pont de l'1 de maig
 
-El cap de setmana de l'1 de maig de 2026 cau en divendres, cosa que dona tres dies seguits sense agafar cap dia lliure. És el moment de major afluència del mes i les cases rurals s'esgoten amb setmanes d'antelació.
+El cap de setmana de l'1 de maig sol caure en un pont de tres o quatre dies. És el moment de major afluència del mes i les cases rurals s'esgoten amb setmanes d'antelació. Si planifiques venir pel pont, reserva allotjament i restaurants amb 3–4 setmanes d'antelació. El divendres 1 de maig al vespre és el pitjor moment per circular per la C-16: surt de Barcelona abans de les 9h o espera fins després de les 20h.
 
-Si planifiques venir pel pont, reserva allotjament i restaurants amb 3–4 setmanes d'antelació. El divendres 1 de maig al vespre és el pitjor moment per circular per la C-16: surt de Barcelona abans de les 9h o espera fins després de les 20h.
-
-→ [Guia completa del pont de l'1 de maig a la Cerdanya 2026](https://topcerdanya.com/guies/pont-de-maig-cerdanya-2026)
+→ [Guia completa del pont de l'1 de maig a la Cerdanya](/guies/pont-de-maig-cerdanya-2026)
 
 ---
 
@@ -117,10 +115,10 @@ El tren R3 de FGC connecta Barcelona amb Puigcerdà en 1h 50 min. Des de Puigcer
 
 ## Guies relacionades
 
-- [Pont de l'1 de maig a la Cerdanya 2026: plans, rutes i consells](https://topcerdanya.com/guies/pont-de-maig-cerdanya-2026)
-- [Què fer a la Cerdanya: guia general](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
-- [Activitats familiars a la Cerdanya](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
-- [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
+- [Pont de l'1 de maig a la Cerdanya: plans, rutes i consells](/guies/pont-de-maig-cerdanya-2026)
+- [Què fer a la Cerdanya: guia general](/guies/que-fer-a-la-cerdanya)
+- [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
+- [Activitats familiars a la Cerdanya](/guies/activitats-cerdanya-families)
+- [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+- [Allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)

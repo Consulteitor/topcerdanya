@@ -23,7 +23,7 @@ Reformar a la Cerdanya no és com reformar a Barcelona o a qualsevol altra gran 
 
 ---
 
-## Tipus de reforma i costos orientatius (2026)
+## Tipus de reforma i costos orientatius
 
 Els costos que presentem son **orientatius i basats en el mercat de la Cerdanya**, que és notablement superior al cost de reformar a Barcelona o a comarques no turístiques.
 

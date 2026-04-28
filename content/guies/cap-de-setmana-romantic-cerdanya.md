@@ -48,7 +48,7 @@ A 25 km al nord de Puigcerdà, al Conflent, els Banys de Sant Tomàs ocupen un a
 
 Els banys termals de Llívia van obrir el 2023 i són els més grans de Catalunya. Quatre piscines exteriors a 32-38°C i sauna, a preus molt assequibles (~6€/persona). La millor opció si esteu allotjats a la Baixa Cerdanya i voleu una tarda d'aigües calentes sense creuar la frontera.
 
-Per a informació completa de preus, horaris i comparativa dels quatre enclavaments, consulta la nostra [guia completa dels banys termals de la Cerdanya](https://topcerdanya.com/guies/banys-termals-cerdanya-2026).
+Per a informació completa de preus, horaris i comparativa dels quatre enclavaments, consulta la nostra [guia completa dels banys termals de la Cerdanya](https://topcerdanya.com/guies/banys-termals-cerdanya).
 
 **El pla perfecte:** banys a la tarda (15:00-18:00h) → dutxa a l'allotjament → sopar de nivell reservat prèviament.
 
@@ -74,7 +74,7 @@ Dues de les opcions més ben valorades de la comarca per a sopars de parella. Da
 
 No és la opció per al sopar, però per a un dinar de dissabte és difícil de superar: formatges artesans, embotits i producte local en un espai que funciona alhora com a restaurant i botiga. Combina perfectament amb una tarda als banys de Llívia o una visita al nucli medieval.
 
-Per a més opcions i recomanacions per zona, consulta la nostra [guia completa de restaurants a la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026).
+Per a més opcions i recomanacions per zona, consulta la nostra [guia completa de restaurants a la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya).
 
 ---
 
@@ -138,12 +138,12 @@ Visita guiada on es veu el procés complet de fer formatge des de la llet crua. 
 
 ## Guies relacionades
 
-- [Banys termals a la Cerdanya: guia completa 2026](https://topcerdanya.com/guies/banys-termals-cerdanya-2026)
+- [Banys termals a la Cerdanya: guia completa](https://topcerdanya.com/guies/banys-termals-cerdanya)
 - [Restaurants amb terrassa a la Cerdanya](https://topcerdanya.com/guies/restaurants-terrassa-cerdanya)
 - [Rutes de senderisme de primavera a la Cerdanya](https://topcerdanya.com/guies/rutes-senderisme-primavera-cerdanya)
-- [On menjar a la Cerdanya: guia completa](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+- [On menjar a la Cerdanya: guia completa](https://topcerdanya.com/guies/restaurants-cerdanya)
 - [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Què veure a la Cerdanya en 2 dies](https://topcerdanya.com/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026)
+- [Què veure a la Cerdanya en 2 dies](https://topcerdanya.com/guies/que-veure-cerdanya-2-dies)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 
 ---

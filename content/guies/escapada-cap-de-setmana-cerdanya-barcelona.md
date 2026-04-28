@@ -44,7 +44,7 @@ La Cerdanya és un dels destins familiars més complets del Pirineu. Funciona pe
 
 Per a famílies, la prioritat és: jardí exterior tancat, cuina equipada i ubicació pràctica. La zona de Puigcerdà i Alp és la més convenient si voleu tenir serveis a prop. Bellver és bona opció per a famílies que busquen calma i accés a rutes fàcils de la Baixa Cerdanya.
 
-→ [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+→ [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
 
 **Plans recomanats**
 
@@ -56,7 +56,7 @@ Per a famílies, la prioritat és: jardí exterior tancat, cuina equipada i ubic
 
 Cotxe gairebé sempre. Amb nens petits, el cotxe és imprescindible per la flexibilitat d'horaris i la capacitat de portar tot l'equipament. Sortiu de Barcelona abans de les 9h el divendres o el dissabte al matí per evitar les cues.
 
-→ [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
 
 ---
 
@@ -115,7 +115,7 @@ Perfectament. Molts allotjaments accepten estades de dos nits i la comarca dona 
 - [Cap de setmana a la Cerdanya: itinerari pràctic de 2 dies](https://topcerdanya.com/guies/cap-de-setmana-cerdanya-itinerari)
 - [La Cerdanya en 2 dies: itinerari complet](https://topcerdanya.com/guies/que-veure-cerdanya-2-dies)
 - [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
-- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
-- [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
+- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
+- [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)

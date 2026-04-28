@@ -47,8 +47,8 @@ A 25 km al norte de Puigcerdà, en el municipio de Fontpedrós (Conflent), los B
 
 La ventaja de Sant Tomàs frente a los demás es que ofrece **dos modalidades de acceso:** solo las piscinas exteriores (muy asequible), o el complejo completo con el espacio de bienestar interior. Muchos visitantes pasan toda la jornada solo con el formato exterior. El anfiteatro de piedra que rodea las piscinas es en sí mismo un motivo para venir.
 
-**Precio 2026 solo piscinas exteriores:** 9€ adultos · 7,50€ niños (gratis menores de 4 años)
-**Precio 2026 completo (piscinas + spa):** 18€ adultos
+**Precio solo piscinas exteriores:** 9€ adultos · 7,50€ niños (gratis menores de 4 años)
+**Precio completo (piscinas + spa):** 18€ adultos
 **Horario:** 10h a 19:40h (hasta 20:40h julio-agosto y Navidad)
 **Cierre:** 1 de mayo y dos semanas en junio y noviembre
 **Web:** bains-saint-thomas.fr
@@ -68,7 +68,7 @@ Su apertura fue técnicamente compleja: el agua del subsuelo de Llívia brota a 
 
 ---
 
-## Tabla comparativa 2026
+## Tabla comparativa
 
 | Baños | Precio adulto | Ambiente | Ideal para |
 |---|---|---|---|
@@ -109,6 +109,6 @@ Sí, todos abren en invierno. Es precisamente la mejor época. Todos hacen cierr
 
 ## Guías relacionadas
 
-- [Dónde bañarse en la Cerdanya: piscinas y lugares naturales](https://topcerdanya.com/guies/donde-banarse-cerdanya-2026)
+- [Dónde bañarse en la Cerdanya: piscinas y lugares naturales](https://topcerdanya.com/guies/donde-banarse-cerdanya)
 - [Qué hacer en la Cerdanya: guía completa](https://topcerdanya.com/guies/que-hacer-cerdanya)
 - [Los mejores restaurantes de la Cerdanya](https://topcerdanya.com/guies/restaurantes-cerdanya)

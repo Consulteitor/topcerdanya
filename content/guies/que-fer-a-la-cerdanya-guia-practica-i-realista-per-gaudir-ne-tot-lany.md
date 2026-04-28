@@ -181,7 +181,7 @@ Per a allotjament, l'oferta va des de grans hotels a la vora de les estacions d'
 
 Al directori de Top Cerdanya trobaràs restaurants, allotjaments i activitats seleccionats a la comarca, amb informació de contacte directe.
 
-→ [On menjar a la Cerdanya: guia completa de restaurants](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [On menjar a la Cerdanya: guia completa de restaurants](/guies/restaurants-cerdanya)
 → [Restaurants amb terrassa a la Cerdanya](/guies/restaurants-terrassa-cerdanya)
 → [Allotjament a la Cerdanya amb gos](/guies/on-dormir-cerdanya-amb-gos)
 → [Trinxat de la Cerdanya: el plat de la comarca](/guies/trinxat-de-la-cerdanya)

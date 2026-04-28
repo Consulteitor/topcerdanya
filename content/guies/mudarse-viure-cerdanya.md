@@ -1,5 +1,5 @@
 **Slug:** `mudarse-viure-cerdanya`
-**Meta description:** Guia pràctica per mudar-se a viure a la Cerdanya el 2026: serveis, escoles, teletreball, cost de vida, integració i el que ningú et diu sobre viure als Pirineus tot l'any.
+**Meta description:** Guia pràctica per mudar-se a viure a la Cerdanya:: serveis, escoles, teletreball, cost de vida, integració i el que ningú et diu sobre viure als Pirineus tot l'any.
 
 ---
 
@@ -133,7 +133,7 @@ Per a informació sobre propietats disponibles, consulta el [directori de propie
 - [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
 - [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
 
-*Darrera actualització: 2026.*
+*Darrera actualització.
 
 
 ---

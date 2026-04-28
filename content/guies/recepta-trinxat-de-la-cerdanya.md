@@ -147,9 +147,9 @@ Les trumfes han de quedar molt cuites, gairebé desfeides quan les claves amb la
 ---
 
 → [Guia completa del trinxat: origen, Festa del Trinxat i on menjar-lo a la Cerdanya](/guies/trinxat-de-la-cerdanya)
-→ [Els millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
-→ [On menjar a la Cerdanya](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+→ [On menjar a la Cerdanya](/guies/restaurants-cerdanya)
 
 ---
 
-*Guia editorial de Top Cerdanya · Actualitzada el 2026*
+*Guia editorial de Top Cerdanya*

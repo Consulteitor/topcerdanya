@@ -1,5 +1,5 @@
 **Slug:** `lloguer-hivern-puigcerda`
-**Meta description:** Guia per trobar lloguer d'hivern a Puigcerdà el 2026: preus reals per zona, quan buscar, equipament imprescindible, consells de contracte i comparativa amb Alp i La Molina.
+**Meta description:** Guia per trobar lloguer d'hivern a Puigcerdà: preus reals per zona, quan buscar, equipament imprescindible, consells de contracte i comparativa amb Alp i La Molina.
 
 ---
 
@@ -29,7 +29,7 @@ La pregunta es fa sola: si vens a esquiar, per què no estar a La Molina directa
 
 ---
 
-## Preus del lloguer d'hivern a Puigcerdà (2026)
+## Preus del lloguer d'hivern a Puigcerdà
 
 ### Per tipologia i format
 
@@ -140,7 +140,7 @@ Quan visiteis o valoreu una propietat per a lloguer d'hivern a Puigcerdà, verif
 
 ## El contracte: punts crítics per a l'hivern
 
-**Dates i pròrrogues.** Fixa exactament quan entres i quan surts. Evita redaccions com "fins a final de temporada": a quina data és la fi de temporada? Que quedi clar: "de l'1 de desembre de 2026 al 30 d'abril de 2027."
+**Dates i pròrrogues.** Fixa exactament quan entres i quan surts. Evita redaccions com "fins a final de temporada": a quina data és la fi de temporada? Que quedi clar: "de l'1 de desembre al 30 d'abril."
 
 **Subministraments d'hivern.** L'electricitat i el gas a l'hivern a Puigcerdà poden ser sorpresa desagradable. Les possibilitats:
 1. Tot inclòs (fix mensual): la més simple per al llogater
@@ -177,7 +177,7 @@ Per a una visió comparativa de tot el mercat de lloguer d'hivern de la Cerdanya
 - [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
 - [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
 
-*Darrera actualització: 2026. Preus orientatius basats en el mercat actual de Puigcerdà.*
+*Darrera actualització. Preus orientatius basats en el mercat actual de Puigcerdà.*
 
 
 ---

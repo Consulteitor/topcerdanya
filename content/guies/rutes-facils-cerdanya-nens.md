@@ -1,5 +1,5 @@
-**Slug:** `rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026`
-**Meta description:** Les millors rutes fàcils a la Cerdanya per fer amb nens: distàncies, desnivell, edat recomanada i consells pràctics per a cada itinerari. Guia actualitzada 2026.
+**Slug:** `rutes-facils-cerdanya-nens`
+**Meta description:** Les millors rutes fàcils a la Cerdanya per fer amb nens: distàncies, desnivell, edat recomanada i consells pràctics per a cada itinerari. Guia actualitzada.
 
 ---
 
@@ -169,11 +169,11 @@ El passeig del llac de Puigcerdà i el camí Bolvir–Puigcerdà són aptes per 
 
 ## Guies relacionades
 
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-cerdanya-families)
+- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
+- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
+- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-cerdanya-amb-nens)
 - [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---

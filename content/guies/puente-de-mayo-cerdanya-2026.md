@@ -121,7 +121,7 @@ La Cerdaña es uno de los destinos familiares mejor preparados del Pirineo, y ma
 
 **Arborètum Geogràfic de Queixans** — Un jardín botànico temático donde cada zona representa un continente. Dos kilómetros planos, acceso libre, ideal para un pícnic de mañana.
 
-→ [Planes con niños en la Cerdaña](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Planes con niños en la Cerdaña](/guies/que-fer-cerdanya-amb-nens)
 
 ---
 
@@ -184,4 +184,4 @@ El Grau de l'Os en Bellver (4,8 · 378 reseñas, menú a 28 €) es la mejor rel
 → [Qué ver en Puigcerdà](/pobles/puigcerda)
 → [Qué ver en Bellver de Cerdanya](/pobles/bellver-de-cerdanya)
 → [Alojamiento rural en la Cerdaña](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-→ [Planes con niños en la Cerdaña](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Planes con niños en la Cerdaña](/guies/que-fer-cerdanya-amb-nens)

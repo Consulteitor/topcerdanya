@@ -12,7 +12,7 @@ La clave para comer bien y barato es una sola: **el menú de mediodía entre sem
 
 Segundo factor importante: **los fines de semana de temporada alta** (agosto entero, fines de semana de nieve de diciembre a marzo) son otro mundo. Los precios suben, los menús desaparecen o se encarecen, y reservar con días de antelación es obligatorio. Esta guía es especialmente útil si vas entre semana o en temporada media.
 
-Para entender mejor la oferta gastronómica general de la comarca, consulta nuestra [guía completa de restaurantes de la Cerdanya](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026).
+Para entender mejor la oferta gastronómica general de la comarca, consulta nuestra [guía completa de restaurantes de la Cerdanya](/guies/restaurants-cerdanya).
 
 ---
 
@@ -74,7 +74,7 @@ Si cruzas a la parte francesa — Sallagosa, Bourg-Madame, Font-Romeu — el *pl
 
 ## Lo que sí vale la pena pagar
 
-Hay momentos en que gastar un poco más tiene sentido. Un menú degustación de temporada o una cena en un buen restaurante de pueblo es una experiencia que no encuentras en la ciudad. La Cerdanya tiene rango suficiente para comer barato un día y bien otro en el mismo viaje. Si viajas con familia, consulta también nuestra [guía de restaurantes de la Cerdanya para ir con niños](/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026).
+Hay momentos en que gastar un poco más tiene sentido. Un menú degustación de temporada o una cena en un buen restaurante de pueblo es una experiencia que no encuentras en la ciudad. La Cerdanya tiene rango suficiente para comer barato un día y bien otro en el mismo viaje. Si viajas con familia, consulta también nuestra [guía de restaurantes de la Cerdanya para ir con niños](/guies/restaurants-cerdanya-amb-nens).
 
 ---
 

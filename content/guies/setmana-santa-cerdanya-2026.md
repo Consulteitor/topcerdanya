@@ -188,7 +188,7 @@ El llac té un carril bici ben senyalitzat que permet fer la volta completament 
 ### Museu Cerdà de Puigcerdà
 L'espai museístic de la capital repassa la vida quotidiana de la comarca dels segles XIX i XX. L'exposició permanent és accessible i entenedora per a nens de primària. Per Setmana Santa sol tenir activitats especials.
 
-→ [Plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Plans amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
 
 ---
 
@@ -205,7 +205,7 @@ La tradició de la mona de Pasqua és molt present a la Cerdanya. Les pastisseri
 ### Restaurants recomanats
 Per Setmana Santa, els restaurants amb més demanda son els que combinen cuina cerdana de qualitat amb espai per a famílies. Alguns dels millors valorats de la comarca:
 
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
+→ [Els 14 millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 → [Top 10 restaurants de Puigcerdà](/guies/top10-restaurants-puigcerda-2026)
 → [On menjar a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [On menjar a Llívia](/pobles/llivia/restaurants)
@@ -250,8 +250,8 @@ Setmana Santa s'omple. No és una exageració: les cases rurals i hotels de la c
 Setmana Santa a la Cerdanya és el pont de la transició: l'hivern s'acomiada amb les últimes jornades d'esquí i la primavera arriba als prats de la plana amb les primeres flors. És un moment d'equilibri que la comarca ofereix millor que qualsevol altre destí dels Pirineus: prou animació per no sentir-se sol, prou tranquil·litat per desconnectar de debò.
 
 → [Guia completa de la Cerdanya](/guies/que-fer-a-la-cerdanya)
-→ [Plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
-→ [La Cerdanya en 2 dies](/guies/que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026)
+→ [Plans amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
+→ [La Cerdanya en 2 dies](/guies/que-veure-cerdanya-2-dies)
 
 ---
 

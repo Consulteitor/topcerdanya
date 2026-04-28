@@ -48,7 +48,7 @@ El dissabte al migdia és el moment de màxima demanda dels millors restaurants.
 - La Borda del Ceretà (Puigcerdà) — cuina cerdana popular, quasi 1.800 ressenyes a Google
 - La Noga Taverna (Bellver) — local petit, nota excepcional, reserva imprescindible
 
-→ [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
 
 **Tarda (15:30–19h): ritme baix**
 
@@ -128,6 +128,6 @@ Sí, si t'allotges a Puigcerdà. El tren hi arriba directament i des de Puigcerd
 - [Escapada de cap de setmana a la Cerdanya des de Barcelona](https://topcerdanya.com/guies/escapada-cap-de-setmana-cerdanya-barcelona)
 - [La Cerdanya en 2 dies: itinerari complet](https://topcerdanya.com/guies/que-veure-cerdanya-2-dies)
 - [Què fer a la Cerdanya: guia general](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany)
-- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
 - [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)

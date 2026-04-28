@@ -1,5 +1,5 @@
 **Slug:** `comprar-casa-puigcerda`
-**Meta description:** Guia completa per comprar casa a Puigcerdà el 2026: preus per zona, tipologies, barris, avantatges i inconvenients de la capital de la Cerdanya, i per on buscar.
+**Meta description:** Guia completa per comprar casa a Puigcerdà: preus per zona, tipologies, barris, avantatges i inconvenients de la capital de la Cerdanya, i per on buscar.
 
 ---
 
@@ -65,7 +65,7 @@ Tècnicament és un municipi separat, però a menys de 5 minuts de Puigcerdà. U
 
 ---
 
-## Preus del mercat immobiliari de Puigcerdà (2026)
+## Preus del mercat immobiliari de Puigcerdà
 
 Aquí tens els preus orientatius per tipologia al mercat de Puigcerdà:
 
@@ -151,7 +151,7 @@ Per veure propietats disponibles a Puigcerdà, consulta el nostre [directori de 
 - [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
 - [Lloguer de temporada a Puigcerdà](/guies/lloguer-temporada-puigcerda)
 
-*Darrera actualització: 2026. Preus orientatius basats en el mercat actual.*
+*Darrera actualització. Preus orientatius basats en el mercat actual.*
 
 
 ---

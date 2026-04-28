@@ -104,7 +104,7 @@ Diversos pobles organitzen fires i aplecs entre abril i juny. Bellver, Llívia i
 
 **Passeig de ribera del Segre a Martinet** — El riu va ple d'aigua de desgel a la primavera. El so de l'aigua i la vegetació de ribera en brotar fan d'aquest passeig una experiència única.
 
-Per a una selecció completa amb desnivells i durades, consulta la nostra [guia de rutes fàcils a la Cerdanya](/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026).
+Per a una selecció completa amb desnivells i durades, consulta la nostra [guia de rutes fàcils a la Cerdanya](/guies/rutes-facils-cerdanya-nens).
 
 ---
 

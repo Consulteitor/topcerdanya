@@ -101,7 +101,7 @@ Generalmente entre el 20 y el 24 de junio, y cierran en torno al 7 de septiembre
 
 ## Guías relacionadas
 
-- [Aguas termales en la Cerdanya: Dorres, Llo, Sant Tomàs y Llívia](https://topcerdanya.com/guies/aguas-termales-cerdanya-2026)
+- [Aguas termales en la Cerdanya: Dorres, Llo, Sant Tomàs y Llívia](https://topcerdanya.com/guies/aguas-termales-cerdanya)
 - [Qué hacer en la Cerdanya con niños](https://topcerdanya.com/guies/que-hacer-cerdanya-con-ninos)
 - [Los mejores restaurantes de la Cerdanya](https://topcerdanya.com/guies/restaurantes-cerdanya)
 - [Qué hacer en la Cerdanya: guía completa](https://topcerdanya.com/guies/que-hacer-cerdanya)

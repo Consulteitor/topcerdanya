@@ -116,9 +116,9 @@ Sí, els refugis del Cadí-Moixeró admeten famílies. Cal valorar l'edat dels n
 
 ## Guies relacionades
 
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
-- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
+- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/activitats-cerdanya-families)
+- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
 - [Allotjament rural a la Cerdanya: guia general](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 

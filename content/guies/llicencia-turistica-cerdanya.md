@@ -1,5 +1,5 @@
 **Slug:** `llicencia-turistica-cerdanya`
-**Meta description:** Tot sobre la llicència turística a la Cerdanya el 2026: requisits, tràmits, municipis amb moratòria, diferència entre HUT i apartament turístic, i com afecta el Decret llei 3/2023.
+**Meta description:** Tot sobre la llicència turística a la Cerdanya: requisits, tràmits, municipis amb moratòria, diferència entre HUT i apartament turístic, i com afecta el Decret llei 3/2023.
 
 ---
 
@@ -153,7 +153,7 @@ Per a una visió de conjunt sobre la inversió immobiliaria a la Cerdanya, consu
 - [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
 - [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
 
-*Darrera actualització: 2026. La normativa sobre HUT evoluciona. Consulta sempre les fonts oficials i un professional especialitzat per a la teva situació concreta.*
+*Darrera actualització. La normativa sobre HUT evoluciona. Consulta sempre les fonts oficials i un professional especialitzat per a la teva situació concreta.*
 
 
 ---

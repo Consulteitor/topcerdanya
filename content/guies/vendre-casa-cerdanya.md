@@ -1,5 +1,5 @@
 **Slug:** `vendre-casa-cerdanya`
-**Meta description:** Guia completa per vendre casa a la Cerdanya el 2026: preparació, preu de sortida, impostos del venedor, quan vendre, com triar immobiliaria i com negociar sense deixar diners sobre la taula.
+**Meta description:** Guia completa per vendre casa a la Cerdanya: preparació, preu de sortida, impostos del venedor, quan vendre, com triar immobiliaria i com negociar sense deixar diners sobre la taula.
 
 ---
 
@@ -92,7 +92,7 @@ Aquí és on molts venedors se senten sorpresos. Vendre una propietat a la Cerda
 
 ### 1. Guany patrimonial a l'IRPF
 
-Quan vens una propietat per més del que la vas comprar (descomptant despeses), el benefici tributa a l'IRPF com a guany patrimonial. Els tipus aplicables (2026):
+Quan vens una propietat per més del que la vas comprar (descomptant despeses), el benefici tributa a l'IRPF com a guany patrimonial. Els tipus aplicables :
 
 | Guany net | Tipus IRPF |
 |---|---|
@@ -108,7 +108,7 @@ Quan vens una propietat per més del que la vas comprar (descomptant despeses), 
 
 **Exemple:**
 - Vas comprar el 2018 per 280.000 € + 34.000 € de despeses = cost total 314.000 €
-- Vens el 2026 per 450.000 € − 22.500 € honoraris agència = preu net 427.500 €
+- Vens per 450.000 € − 22.500 € honoraris agència = preu net 427.500 €
 - Guany net = 427.500 − 314.000 = **113.500 €**
 - IRPF: 19% sobre 6.000 = 1.140 €; 21% sobre 44.000 = 9.240 €; 23% sobre 63.500 = 14.605 €
 - **Total IRPF a pagar: ~25.000 €**
@@ -163,7 +163,7 @@ Consulta amb l'ajuntament del municipi o amb una gestoria local per calcular l'i
 - [Invertir a la Cerdanya](/guies/invertir-cerdanya)
 - [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
 
-*Darrera actualització: 2026. Per a assessorament personalitzat, consulta una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o un gestor fiscal especialitzat en immobiliari.*
+*Darrera actualització.
 
 
 ---
@@ -183,7 +183,7 @@ Consulta amb l'ajuntament del municipi o amb una gestoria local per calcular l'i
 Els preus varien molt per zona i tipologia. A Puigcerdà i rodalies, els pisos oscil·len entre 3.500 i 6.000 €/m² i les cases entre 450.000 i 1.500.000 €. A Bellver de Cerdanya i Llívia els preus son lleugerament inferiors. Les zones de muntanya prop de les pistes (Alp, Das, La Molina) mantenen preus alts per la demanda d'hivern. En qualsevol cas, un taxador o agent immobiliari local és l'única referència fiable per a una propietat concreta.
 
 **Quant triga a vendre's una casa a la Cerdanya?**
-En el mercat actual (2025–2026), les propietats ben preuades i en bon estat es venen en 4 a 12 setmanes. Les propietats que necessiten reforma o estan per sobre del preu de mercat poden trigar de 6 a 18 mesos. L'hivern (temporada d'esquí) i la primavera son els moments amb més demanda.
+En el mercat actual (actuals), les propietats ben preuades i en bon estat es venen en 4 a 12 setmanes. Les propietats que necessiten reforma o estan per sobre del preu de mercat poden trigar de 6 a 18 mesos. L'hivern (temporada d'esquí) i la primavera son els moments amb més demanda.
 
 **Necessito una immobiliària per vendre a la Cerdanya?**
 No és obligatori, però és molt recomanable per a propietats d'alt valor. Les immobiliàries locals coneixen la tipologia del comprador de la comarca (segones residències, inversors, famílies de Barcelona) i disposen de bases de dades de clients actius. La comissió habitual és del 3 al 5% del preu de venda. La venda directa és possible però exigeix temps, disponibilitat i coneixement dels processos legals.

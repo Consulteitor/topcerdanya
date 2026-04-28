@@ -1,5 +1,5 @@
-**Slug:** `que-veure-a-la-cerdanya-en-2-dies-itinerari-practic-2026`
-**Meta description:** Itinerari per a 2 dies a la Cerdanya: el millor de la comarca sense improvisar. Llívia, Puigcerdà, rutes, restaurants i on dormir. Guia pràctica 2026.
+**Slug:** `que-veure-cerdanya-2-dies`
+**Meta description:** Itinerari per a 2 dies a la Cerdanya: el millor de la comarca sense improvisar. Llívia, Puigcerdà, rutes, restaurants i on dormir. Guia pràctica.
 
 ---
 
@@ -37,7 +37,7 @@ Baixa al **llac de Puigcerdà**: un llac artificial creat al s. XIII per al reg 
 
 Si el dia és bo i vols fer el dinar tranquil, queda't a Puigcerdà: la zona del llac té bones opcions de terrassa amb vistes. Alternativament, espera i dina a Llívia.
 
-Consulta la guia de [restaurants a la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026) per a recomanacions concretes per a cada tipus de cuina i pressupost.
+Consulta la guia de [restaurants a la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya) per a recomanacions concretes per a cada tipus de cuina i pressupost.
 
 ### Tarda: Llívia
 
@@ -158,7 +158,7 @@ Sí. Llívia és un dels llocs més singulars de tot el Pirineu i rarament decep
 
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 - [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
-- [On menjar a la Cerdanya: guia de restaurants](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+- [On menjar a la Cerdanya: guia de restaurants](https://topcerdanya.com/guies/restaurants-cerdanya)
 - [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
 - [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)

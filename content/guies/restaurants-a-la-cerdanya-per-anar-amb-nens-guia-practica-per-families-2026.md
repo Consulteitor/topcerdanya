@@ -1,6 +1,6 @@
 Menjar fora amb nens a la Cerdanya és molt més fàcil del que sembla. La comarca té una llarga tradició de turisme familiar i la majoria de restaurants estan acostumats a rebre famílies amb nens de totes les edats. Però triar bé —lloc correcte, hora adequada, zona convenient— marca la diferència entre un dinar agradable i un cap de setmana que s'espatlla per un error de planificació.
 
-Aquesta guia t'ajuda a triar on menjar a la Cerdanya quan viatges amb nens, ordenat per zona i amb consells pràctics per no improvisar. Per a una visió més àmplia de la gastronomia de la comarca, consulta la guia completa d'[on menjar a la Cerdanya](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026).
+Aquesta guia t'ajuda a triar on menjar a la Cerdanya quan viatges amb nens, ordenat per zona i amb consells pràctics per no improvisar. Per a una visió més àmplia de la gastronomia de la comarca, consulta la guia completa d'[on menjar a la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya).
 
 ---
 
@@ -102,10 +102,10 @@ El trinxat (patata i col amb cansalada) és el plat més icònic i sol agradar a
 
 ## Guies relacionades
 
-- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
-- [On menjar a la Cerdanya: guia gastronòmica completa](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [On menjar a la Cerdanya: guia gastronòmica completa](https://topcerdanya.com/guies/restaurants-cerdanya)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-cerdanya-families)
+- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 - [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
 
@@ -115,7 +115,7 @@ El trinxat (patata i col amb cansalada) és el plat més icònic i sol agradar a
 
 Menjar bé amb nens a la Cerdanya no és difícil si t'anticipes. La comarca té molt bona oferta familiar, des de restaurants de cuina de mercat amb terrassa fins a fondes de poble que fa anys que serveixen famílies senceres. La clau és reservar, arribar aviat i adaptar el format de dinar al ritme del dia.
 
-Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026) per organitzar tota l'escapada familiar.
+Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per organitzar tota l'escapada familiar.
 
 ---
 

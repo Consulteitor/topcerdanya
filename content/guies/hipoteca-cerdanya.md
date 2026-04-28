@@ -1,5 +1,5 @@
 **Slug:** `hipoteca-cerdanya`
-**Meta description:** Guia completa sobre hipoteques per comprar casa a la Cerdanya el 2026: habitatge habitual vs. segona residència, quant finançen els bancs, tipus fix vs. variable, i com preparar la sol·licitud.
+**Meta description:** Guia completa sobre hipoteques per comprar casa a la Cerdanya: habitatge habitual vs. segona residència, quant finançen els bancs, tipus fix vs. variable, i com preparar la sol·licitud.
 
 ---
 
@@ -54,7 +54,7 @@ Si el preu és de 400.000 euros però la taxació dóna 360.000 euros, el banc c
 
 ## Tipus fix vs. tipus variable: la decisió en el context actual
 
-En el context de 2026, amb uns tipus d'interès que han viscut un cicle de pujada important entre 2022 i 2024 i es troben en un procés de normalització progressiva, la decisió entre tipus fix i variable és menys evident que fa uns anys.
+Amb uns tipus d'interès que han viscut un cicle de pujada important entre 2022 i 2024 i es troben en un procés de normalització progressiva, la decisió entre tipus fix i variable és menys evident que fa uns anys.
 
 **Hipoteca a tipus fix:**
 - El tipus d'interès no canvia durant tota la vida del préstec
@@ -156,7 +156,7 @@ Per a càlcul complet d'impostos i despeses de compra, consulta la [guia d'impos
 - [Mudar-se a viure a la Cerdanya](/guies/mudarse-viure-cerdanya)
 - [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
 
-*Darrera actualització: 2026. Les condicions hipotecàries varien contínuament. Consulta diverses entitats i una corredoria hipotecaria per obtenir les millors condicions actuals.*
+*Darrera actualització. Les condicions hipotecàries varien contínuament. Consulta diverses entitats i una corredoria hipotecaria per obtenir les millors condicions actuals.*
 
 
 ---

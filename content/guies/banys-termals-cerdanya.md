@@ -20,7 +20,7 @@ Si has d'anar a un sol lloc, que sigui Dorres. Situat a pocs quilòmetres de Pui
 
 El recinte es divideix en dues zones: la part antiga, amb banyeres individuals de granit on l'aigua arriba a 41°C (caben dues persones per banyera, hi sol haver espera), i la part moderna, amb dues piscines exteriors a 38-39°C amb vistes panoràmiques al Puigmal i la Serra del Cadí. L'ambient és rústic, sense artifici, envoltat d'arbres. Arribar cap a la tarda i veure la posta de sol des de l'aigua és una de les experiències senzilles i memorables que ofereix la comarca.
 
-**Preu 2026:** 6€ adults · 4€ nens · Tot l'any
+**Preu:** 6€ adults · 4€ nens · Tot l'any
 **Horari:** 9h a 19:30h (fins a 20:30h juliol-agost)
 **Tancament anual:** novembre aprox. (consultar web)
 **Web:** dorres66.com
@@ -33,7 +33,7 @@ Els banys de Llo són els que ofereixen més instal·lacions. Situats a la gorja
 
 Si el que busques és una experiència de spa completa amb aigües naturals, Llo és l'opció. L'inconvenient: precisament per la seva popularitat, en temporada alta pot anar ple i l'ambient és menys íntim que Dorres. A les piscines exteriors hi accedeixen nens de qualsevol edat; la zona de sauna i hammam és exclusiva per a majors de 12 anys.
 
-**Preu 2026:** 11€ adults · 8€ nens · (sauna i hammam inclosos a partir de 12 anys)
+**Preu:** 11€ adults · 8€ nens · (sauna i hammam inclosos a partir de 12 anys)
 **Horari:** 10h a 19:15h (fins a 20h juliol-agost i Nadal)
 **Tancament anual:** juny (2 setmanes) i novembre-desembre (consultar web)
 **Web:** bains-de-llo.com
@@ -46,8 +46,8 @@ A 25 km al nord de Puigcerdà, al municipi de Fontpedrós (Conflent), els Banys 
 
 La diferència clau de Sant Tomàs és que ofereix **dos formats d'accés:** el bany exterior (piscines a l'aire lliure) a un preu molt accessible, o el complex complet amb espai de benestar interior. Molts visitants es queden tota la jornada amb el format exterior i en surten molt satisfets. La llegenda explica que un pastor va descobrir la font per casualitat buscant remei per al seu ramat ferit: sigui cert o no, l'indret és d'aquells que justifiquen el desplaçament.
 
-**Preu 2026 bany exterior:** 9€ adults · 7,50€ nens (gratuït fins a 4 anys)
-**Preu 2026 complex complet (bany + spa):** 18€ adults
+**Preu bany exterior:** 9€ adults · 7,50€ nens (gratuït fins a 4 anys)
+**Preu complex complet (bany + spa):** 18€ adults
 **Horari:** 10h a 19:40h (fins a 20:40h juliol-agost i Nadal)
 **Tancament:** 1 de maig i dues setmanes al juny i novembre
 **Web:** bains-saint-thomas.fr
@@ -60,7 +60,7 @@ Els banys de Llívia van obrir el 2023 i van convertir-se d'immediat en els bany
 
 La particularitat de Llívia és la seva gestió: a diferència dels altres —tots privats i a l'Alta Cerdanya francesa—, els banys de Llívia els gestiona directament l'Ajuntament. Això es nota al preu, el més econòmic dels quatre, i a la seva integració amb l'oferta del parc municipal. No tenen la profunditat termal ni l'entorn rústic de Dorres o Sant Tomàs, però són una opció excel·lent si estàs a la Baixa Cerdanya i vols una tarda d'aigües calentes sense creuar la frontera.
 
-**Preu 2026:** ~6€ adults · ~4€ nens (verificar a llivia.org)
+**Preu:** ~6€ adults · ~4€ nens (verificar a llivia.org)
 **Horari:** 11h a 19h tots els dies
 **Telèfon:** 699 683 919
 **Web:** llivia.org
@@ -111,6 +111,6 @@ Llo té restaurant propi. Sant Tomàs té snack-bar. Dorres té begudes i gelats
 
 ## Guies relacionades
 
-- [On banyar-se a la Cerdanya: piscines i llocs naturals](https://topcerdanya.com/guies/on-banyar-se-cerdanya-2026)
+- [On banyar-se a la Cerdanya: piscines i llocs naturals](https://topcerdanya.com/guies/on-banyar-se-cerdanya)
 - [Què fer a la Cerdanya: guia pràctica](https://topcerdanya.com/guies/que-fer-cerdanya)
-- [Cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya-2026)
+- [Cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya)

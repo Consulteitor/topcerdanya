@@ -1,5 +1,5 @@
 **Slug:** `lloguer-temporada-puigcerda`
-**Meta description:** Guia completa per trobar lloguer de temporada a Puigcerdà el 2026: preus per zona, hivern i estiu, quan buscar, consells per al contracte i les millors zones per a famílies i parelles.
+**Meta description:** Guia completa per trobar lloguer de temporada a Puigcerdà: preus per zona, hivern i estiu, quan buscar, consells per al contracte i les millors zones per a famílies i parelles.
 
 ---
 
@@ -19,7 +19,7 @@ El lloguer de temporada a Puigcerdà és un mercat amb dues velocitats molt dife
 
 ---
 
-## Preus del lloguer de temporada a Puigcerdà (2026)
+## Preus del lloguer de temporada a Puigcerdà
 
 ### Hivern (novembre–abril, 5–6 mesos)
 
@@ -111,7 +111,7 @@ El boca a boca segueix funcionant molt bé a la Cerdanya. Si coneixes algú amb 
 
 ## Claus per a un bon contracte de lloguer de temporada a Puigcerdà
 
-**Especifica les dates exactes.** "Temporada d'hivern" és ambigu. El contracte ha de dir "de l'1 de desembre de 2026 al 30 d'abril de 2027". Qualsevol altra redacció pot generar disputes.
+**Especifica les dates exactes.** "Temporada d'hivern" és ambigu. El contracte ha de dir "de l'1 de desembre al 30 d'abril". Qualsevol altra redacció pot generar disputes.
 
 **Clarifica els subministraments.** El model més habitual a Puigcerdà per als lloguers de temporada d'hivern és incloure una quota fixa mensual de subministraments (habitualment 150–250 euros/mes per a un apartament, 300–500 euros/mes per a una casa gran). Si el consum real supera la quota, pagues la diferència. Si no arriba, el propietari guarda el crèdit. Molt millor que la incertesa d'una factura de gas a final de temporada.
 
@@ -165,7 +165,7 @@ Per veure l'oferta de [lloguers disponibles a la Cerdanya](/inmobiliaria/lloguer
 - [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
 - [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
 
-*Darrera actualització: 2026. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
+*Darrera actualització. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
 
 
 ---

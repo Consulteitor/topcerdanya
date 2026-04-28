@@ -1,5 +1,5 @@
 **Slug:** `segona-residencia-cerdanya`
-**Meta description:** Guia completa sobre la segona residència a la Cerdanya el 2026: impostos, despeses recurrents, lloguer ocasional, normativa, pros i contres, i per quines zones apostar.
+**Meta description:** Guia completa sobre la segona residència a la Cerdanya:: impostos, despeses recurrents, lloguer ocasional, normativa, pros i contres, i per quines zones apostar.
 
 ---
 
@@ -183,7 +183,7 @@ Per a informació sobre preus actuals i on comprar, consulta la [guia de preus d
 - [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
 - [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
 
-*Darrera actualització: 2026. La normativa fiscal pot variar. Consulta un assessor fiscal per a la teva situació específica.*
+*Darrera actualització.
 
 
 ---

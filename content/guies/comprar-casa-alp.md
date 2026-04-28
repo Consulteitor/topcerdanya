@@ -1,5 +1,5 @@
 **Slug:** `comprar-casa-alp`
-**Meta description:** Guia per comprar casa a Alp el 2026: el municipi que inclou La Molina i Masella, preus per zona, proximitat a les pistes, mercat immobiliari, i tot el que has de saber sobre Alp i les seves urbanitzacions.
+**Meta description:** Guia per comprar casa a Alp: el municipi que inclou La Molina i Masella, preus per zona, proximitat a les pistes, mercat immobiliari, i tot el que has de saber sobre Alp i les seves urbanitzacions.
 
 ---
 
@@ -49,7 +49,7 @@ El terme d'Alp és gran i divers. Inclou múltiples nuclis de població amb cara
 
 ---
 
-## Preus del mercat immobiliari d'Alp per zona (2026)
+## Preus del mercat immobiliari d'Alp per zona
 
 ### La Molina (nucli i base de pistes)
 
@@ -154,7 +154,7 @@ Per a l'oferta de propietats disponibles, consulta el [directori de propietats](
 
 - [Invertir a la Cerdanya](/guies/invertir-cerdanya)
 
-*Darrera actualització: 2026. Preus orientatius. El mercat d'Alp és molt sensible als cicles de neu: verifica l'estat de les temporades recents amb agents locals.*
+*Darrera actualització. Preus orientatius. El mercat d'Alp és molt sensible als cicles de neu: verifica l'estat de les temporades recents amb agents locals.*
 
 
 ---
@@ -162,7 +162,7 @@ Per a l'oferta de propietats disponibles, consulta el [directori de propietats](
 ## Guies relacionades
 
 → [Guia completa d'Alp: La Molina, Masella i Das](/pobles/alp)
-→ [Immobiliària a Alp: preus per zona 2026](/pobles/alp/immobiliaria)
+→ [Immobiliària a Alp: preus per zona](/pobles/alp/immobiliaria)
 → [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
 → [Comprar casa a Bellver de Cerdanya](/guies/comprar-casa-bellver-cerdanya)
 → [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

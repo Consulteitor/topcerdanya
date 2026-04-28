@@ -1,5 +1,5 @@
 **Slug:** `impostos-compra-habitatge-cerdanya`
-**Meta description:** Quants impostos i despeses has de pagar en comprar una casa a la Cerdanya el 2026? Càlcul complet d'ITP, IVA, AJD, notaria, registre i gestoria, amb exemples reals per trams de preu.
+**Meta description:** Quants impostos i despeses has de pagar en comprar una casa a la Cerdanya: Càlcul complet d'ITP, IVA, AJD, notaria, registre i gestoria, amb exemples reals per trams de preu.
 
 ---
 
@@ -228,7 +228,7 @@ Per entendre tot el procés de compra, consulta la [guia completa per comprar ca
 - [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
 - [Vendre casa a la Cerdanya](/guies/vendre-casa-cerdanya)
 
-*Darrera actualització: 2026. Els tipus impositius i les tarifes arancelàries poden canviar. Verifica sempre amb un gestor o assessor fiscal la situació vigent en el moment de la teva operació.*
+*Darrera actualització. Els tipus impositius i les tarifes arancelàries poden canviar. Verifica sempre amb un gestor o assessor fiscal la situació vigent en el moment de la teva operació.*
 
 
 ---

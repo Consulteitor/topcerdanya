@@ -1,5 +1,5 @@
 **Slug:** `obra-nova-cerdanya`
-**Meta description:** Guia sobre l'obra nova a la Cerdanya el 2026: escassetat del mercat, preus reals, promocions actives, avantatges i riscos de comprar sobre plànol als Pirineus.
+**Meta description:** Guia sobre l'obra nova a la Cerdanya: escassetat del mercat, preus reals, promocions actives, avantatges i riscos de comprar sobre plànol als Pirineus.
 
 ---
 
@@ -25,7 +25,7 @@ Aquesta realitat no és un accident: és el resultat de dècades de restriccions
 
 Quan s'ha trobat sòl i s'ha pogut construir, els preus de l'obra nova a la Cerdanya son dels més alts de Catalunya fora de Barcelona i la seva primera corona.
 
-**Rang de preus habituals (2026):**
+**Rang de preus habituals:**
 - **Apartament 2 habitacions (60–75 m²):** 280.000–420.000 €
 - **Pis 3 habitacions (90–110 m²):** 380.000–600.000 €
 - **Casa adossada obra nova (130–160 m²):** 550.000–900.000 €
@@ -133,7 +133,7 @@ A la Cerdanya, els projectes solen tenir terminis d'entrega de 18–30 mesos des
 - [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
 - [Impostos i despeses en comprar](/guies/impostos-compra-habitatge-cerdanya)
 
-*Darrera actualització: 2026. L'oferta d'obra nova canvia contínuament. Per a informació actualitzada sobre promocions actives, contacta amb una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o consulta les alertes dels principals portals immobiliaris.*
+*Darrera actualització. L'oferta d'obra nova canvia contínuament. Per a informació actualitzada sobre promocions actives, contacta amb una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o consulta les alertes dels principals portals immobiliaris.*
 
 
 ---

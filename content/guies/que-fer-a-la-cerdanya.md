@@ -92,7 +92,7 @@ Menjar bé a la Cerdanya és fàcil si saps on anar. Menjar malament també, si 
 
 **Els millors restaurants:** la comarca té catorze restaurants amb un 4,8 o més a Google Maps. El Serendipia by La Calèche de Llívia i el Grau de l'Os de Bellver son les dues adresses de referència gastronòmica de tota la comarca. El Fogony de Fontanals —a deu minuts de Puigcerdà— és el restaurant que més reconeixement extern ha rebut en els darrers anys.
 
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026) · [Top 10 de Puigcerdà](/guies/top10-restaurants-puigcerda-2026) · [On menjar a la Cerdanya](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [Els 14 millors restaurants de la Cerdanya](/guies/restaurants-cerdanya) · [On menjar a la Cerdanya](/guies/restaurants-cerdanya)
 
 ---
 

@@ -143,7 +143,7 @@ La Cerdanya es uno de los mejores destinos del Pirineo catalán para hacer raque
 **Lles y Aransa** — Más de 35 km de recorridos de esquí nórdico y raquetas. El mayor espacio de este tipo en España.
 
 → [Qué hacer en la Cerdanya con niños: guía completa por edades](/guies/que-fer-a-la-cerdanya-amb-nens)
-→ [Alojamiento cerca de las rutas de la Cerdanya: dónde dormir si vienes a caminar](/guies/allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026)
+→ [Alojamiento cerca de las rutas de la Cerdanya: dónde dormir si vienes a caminar](/guies/allotjament-senderisme-cerdanya)
 
 ---
 

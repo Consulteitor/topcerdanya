@@ -130,7 +130,7 @@ La nit de Sant Joan pot ser una experiència extraordinària per als nens, sempr
 
 **Consell per a famílies:** Si vens amb nens petits, centra't en els actes de tarda (botifarrada popular a Puigcerdà a les 19.30h, Ball de les Rentadores a Riu) i no us quedeu fins a la madrugada. La festa de la nit és per als adults; els nens ja tindran el record de la foguera i la coca.
 
-→ [Plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Plans amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
 
 ---
 
@@ -145,7 +145,7 @@ Per al dia 24 de juny (Sant Joan, festiu), molts restaurants obren amb menú de 
 - **La Noga Taverna** (Bellver) — reserva imprescindible, places molt limitades
 - **Mercat de Puigcerdà** (24 de juny, matí) — si et quedes el 24, el mercat dominical de la Plaça de Santa Maria és el millor lloc per esmorzar i comprar producte local
 
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
+→ [Els 14 millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 
 ---
 
@@ -190,8 +190,8 @@ Anirem ampliant aquesta guia a mesura que els ajuntaments publiquin els programe
 → [Guia completa de la Cerdanya](/guies/que-fer-a-la-cerdanya)
 → [La Cerdanya a l'estiu](/guies/estiu-cerdanya-2026)
 → [Allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-→ [Els millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
-→ [Plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+→ [Plans amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
 
 ---
 

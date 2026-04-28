@@ -165,4 +165,4 @@ Primavera y otoño para evitar aglomeraciones y tener precios más bajos. Verano
 
 ---
 
-*Guía editorial de Top Cerdanya · Actualitzada el 2026*
+*Guía editorial de Top Cerdanya*

@@ -111,6 +111,6 @@ Llo té restaurant propi. Sant Tomàs té snack-bar. Dorres té begudes i gelats
 
 ## Guies relacionades
 
-- [On banyar-se a la Cerdanya: piscines i llocs naturals](https://topcerdanya.com/guies/on-banyar-se-cerdanya-2026)
+- [On banyar-se a la Cerdanya: piscines i llocs naturals](https://topcerdanya.com/guies/on-banyar-se-cerdanya)
 - [Què fer a la Cerdanya: guia pràctica](https://topcerdanya.com/guies/que-fer-cerdanya)
-- [Cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya-2026)
+- [Cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya)

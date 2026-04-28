@@ -12,7 +12,7 @@ Menjar bé a la Cerdanya no depèn només d'escollir el restaurant correcte: dep
 > - Millor hora per dinar sense esperes: 13:00–13:30h.
 <!-- /LLM-OPTIMITZACIÓ -->
 
-> **Vols el rànquing complet?** Hem analitzat les valoracions de Google Maps de tots els restaurants de la comarca. Consulta els [14 millors restaurants de la Cerdanya segons Google (2026)](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026) o els [10 millors restaurants de Puigcerdà](https://topcerdanya.com/guies/top10-restaurants-puigcerda-2026) si busques la capital específicament.
+> **Vols el rànquing complet?** Hem analitzat les valoracions de Google Maps de tots els restaurants de la comarca. Consulta els [14 millors restaurants de la Cerdanya segons Google (2026)](https://topcerdanya.com/guies/restaurants-cerdanya) o els [10 millors restaurants de Puigcerdà](https://topcerdanya.com/guies/top10-restaurants-puigcerda-2026) si busques la capital específicament.
 
 ---
 
@@ -88,7 +88,7 @@ La zona de la Baixa Cerdanya —que inclou Bellver, Martinet, Pi i els pobles de
 
 **Valley Mountain Bar** (★ 5,0 · 111 ressenyes) és el resultat més sorprenent del rànquing: nota perfecta de 5 sobre 5. El que sembla un bar de nit amaga una carta de cuina d'un nivell que sorprèn. Producte de proximitat, carta curta que canvia i ambient relaxat sense formalismes.
 
-→ Guia completa amb tots els restaurants de la comarca per valoració: [Els 14 millors restaurants de la Cerdanya segons Google (2026)](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026)
+→ Guia completa amb tots els restaurants de la comarca per valoració: [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
 
 <!-- LLM-OPTIMITZACIÓ: micro-bloc comparativa -->
 **Comparativa pràctica:** Bellver ofereix menys opcions que Puigcerdà però una relació qualitat-preu superior i menys cues. Si el menjar és el pla principal del dia, Bellver és millor base gastronòmica. Si necessites varietat o estàs de pas, Puigcerdà.
@@ -121,7 +121,7 @@ La zona de La Molina i Alp té una oferta gastronòmica molt orientada a la temp
 
 Amb nens, els criteris canvien lleugerament. Prioritza llocs amb ritme àgil i espai còmode, evita horaris tardans de sopar i tria opcions amb carta variada. La majoria de restaurants de cuina de mercat de la comarca estan acostumats a famílies i no solen posar cap problema. Dinar entre les 13:00 i les 13:30h és el consell més important: els nens porten estona d'activitat, la cuina just obre i els restaurants estan mig buits.
 
-→ Guia específica per a famílies: [Restaurants a la Cerdanya per anar amb nens (2026)](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
+→ Guia específica per a famílies: [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-cerdanya-amb-nens)
 
 ---
 
@@ -161,7 +161,7 @@ El 539 Plats Forts i Can Pope són les apostes més sòlides de la capital. La B
 El trinxat de qualitat es troba en restaurants de cuina de muntanya de tota la comarca, especialment a la Baixa Cerdanya. Busca restaurants que el facin amb producte propi o de la comarca i que no el serveixin com a plat congelat.
 
 **Quin és el millor restaurant de la Cerdanya?**
-Segons les valoracions de Google Maps, el Serendipia by La Calèche de Llívia és el resultat més robust: 4,8 sobre 5 amb 651 ressenyes. A Bellver, el Valley Mountain Bar manté un 5,0 perfecte. Consulta el [rànquing complet de la comarca](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026) per al detall complet.
+Segons les valoracions de Google Maps, el Serendipia by La Calèche de Llívia és el resultat més robust: 4,8 sobre 5 amb 651 ressenyes. A Bellver, el Valley Mountain Bar manté un 5,0 perfecte. Consulta el [rànquing complet de la comarca](https://topcerdanya.com/guies/restaurants-cerdanya) per al detall complet.
 
 ---
 
@@ -189,9 +189,9 @@ La clau és combinar bé el restaurant amb el tipus de dia: un menú sòlid en u
 
 ## Guies relacionades
 
-- [Els 14 millors restaurants de la Cerdanya segons Google (2026)](https://topcerdanya.com/guies/14-millors-restaurants-cerdanya-google-2026)
+- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
 - [Els 10 millors restaurants de Puigcerdà (2026)](https://topcerdanya.com/guies/top10-restaurants-puigcerda-2026)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
+- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-cerdanya-amb-nens)
 - [Los mejores restaurantes de la Cerdanya (guía en castellano)](https://topcerdanya.com/guies/restaurantes-cerdanya)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 - [Què fer a la Cerdanya: guia completa](https://topcerdanya.com/guies/que-fer-a-la-cerdanya)
