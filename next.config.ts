@@ -28,7 +28,17 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
+        source: "/guies/14-millors-restaurants-cerdanya-google-2026/",
+        destination: "/guies/restaurants-cerdanya",
+        permanent: true,
+      },
+      {
         source: "/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
+        destination: "/guies/restaurants-cerdanya",
+        permanent: true,
+      },
+      {
+        source: "/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026/",
         destination: "/guies/restaurants-cerdanya",
         permanent: true,
       },
@@ -135,7 +145,12 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/guies/top10-restaurants-puigcerda-2026',
-        destination: '/guies/restaurants-cerdanya',
+        destination: '/pobles/puigcerda/restaurants',
+        permanent: true,
+      },
+      {
+        source: '/guies/top10-restaurants-puigcerda-2026/',
+        destination: '/pobles/puigcerda/restaurants',
         permanent: true,
       },
       {
