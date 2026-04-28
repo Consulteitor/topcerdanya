@@ -106,7 +106,7 @@ La Cerdanya és un dels destins familiars millor preparats del Pirineu català. 
 
 **Tot l'any:** la Farmàcia Esteva de Llívia és el museu familiar que no sembla un museu —45 minuts, espai petit, objectes reals de cinc segles de medicina. La granja Molí de Ger ofereix tardes de tarda amb visita als animals i munyida de vaques. El Museu d'Arqueologia de Bolvir explica els ibers amb peces originals del jaciment de El Castellot.
 
-→ [Guia de plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026) · [Puigcerdà amb nens](/pobles/puigcerda/amb-nens) · [Llívia amb nens](/pobles/llivia/amb-nens) · [Alp amb nens: esquí a La Molina](/pobles/alp/amb-nens)
+→ [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens) · [Puigcerdà amb nens](/pobles/puigcerda/amb-nens) · [Alp amb nens: esquí a La Molina](/pobles/alp/amb-nens)
 
 ---
 

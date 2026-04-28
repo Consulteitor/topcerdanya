@@ -48,6 +48,42 @@ Les pistes buides de La Molina a l'agost son un dels paisatges més peculiars de
 
 ---
 
+## Com arribar a Alp i La Molina
+
+**En tren des de Barcelona:** La línia R3 de Rodalies connecta Barcelona Sants amb l'estació de La Molina en unes 2h 30 min, amb parada a Puigcerdà (1h 50 min). Hi ha trens cada dues hores. L'estació de La Molina queda al nucli residencial, a uns 10 minuts a peu de la telecabina. En temporada d'esquí hi ha un servei de bus llançadora entre l'estació i les pistes.
+
+**En cotxe des de Barcelona:** Per la C-16 i el Túnel del Cadí fins a Puigcerdà, i des d'allà per la N-260 o per la C-17 fins a l'accés d'Alp. Total: 1h 50 min en condicions normals. En caps de setmana de neu (febrer i març), suma entre 30 min i 2 hores de cua al Túnel del Cadí.
+
+**Aparcament:** La Molina i Masella disposen d'aparcaments propis al peu de les estacions. En temporada alta d'esquí s'omplen d'hora; arriba abans de les 9h per no pagar aparcament extra o per no quedar-te fora. Fora de temporada, l'aparcament no és cap problema.
+
+→ [Com arribar a la Cerdanya: totes les opcions](/guies/como-llegar-cerdanya)
+
+---
+
+## On menjar a Das i La Molina
+
+Das, malgrat la seva mida, té una oferta gastronòmica honesta i local. El bar de la plaça és el punt de reunió del poble, i en temporada d'esquí diversos restaurants al nucli de La Molina cobreixen l'oferta de muntanya: carn a la brasa, trinxat, plats de cuina catalana d'hivern.
+
+El consell per a l'esquiador que menja bé: evita els restaurants situats a peu de pistes (preus alts, qualitat variable) i baixa al nucli de La Molina o fins a Das. La relació qualitat-preu millora considerablement a menys de cinc minuts de les pistes.
+
+Per a gastronomes que fan base a Alp, Puigcerdà és a 20 minuts i concentra la millor oferta de la comarca: La Placeta, Tiracanyes i, a 8 km, El Fogony de Fontanals de Cerdanya (referència gastronòmica dels Pirineus catalans).
+
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+
+---
+
+## On dormir a Alp
+
+L'oferta d'allotjament d'Alp és la més especialitzada en esquí de tota la comarca. El nucli de La Molina concentra hotels, apartaments i allotjaments pensats per a temporada: accés ràpid a les pistes, serveis d'equip, guarda-esquís i, en molts casos, forfets inclosos al preu.
+
+Masella té una oferta d'allotjament més reduïda i familiar, ideal per a qui vol tranquil·litat i bon accés a l'estació sense el ritme de La Molina.
+
+**Per a famílies amb nens:** els apartaments de La Molina ofereixen cuina pròpia i espai, una opció molt més econòmica que l'hotel si l'estada és de 3 o més nits.
+
+→ [Allotjament a Alp i La Molina](/pobles/alp/allotjament)
+
+---
+
 ## Connexions amb la comarca
 
 Alp és un dels municipis millor connectats de la Cerdanya. Puigcerdà és a vint minuts per la N-260. Bellver de Cerdanya és a trenta minuts per la mateixa carretera. Llívia i la Cerdanya francesa, a vint-i-cinc minuts.
@@ -61,10 +97,22 @@ Alp és un dels municipis millor connectats de la Cerdanya. Puigcerdà és a vin
 ## Preguntes freqüents
 
 **Cal forfet per a les dues estacions?**
-El forfet d'Alp 2500 cobreix La Molina i Masella. Hi ha forfets per a cada estació per separat, però el combinat és el que aprofita la totalitat del domini.
+El forfet d'Alp 2500 cobreix La Molina i Masella amb accés lliure entre les dues estacions per telecabina. Hi ha forfets per a cada estació per separat, però el combinat és el que aprofita el domini complet de 141 km de pistes.
 
 **El tren arriba fins a peu de pistes?**
-L'estació de tren de La Molina és al nucli residencial, a uns deu minuts a peu de la telecabina que puja a les pistes. Hi ha servei de bus llançadora en temporada.
+L'estació de tren de La Molina és al nucli residencial, a uns 10 minuts a peu de la telecabina que puja a les pistes. En temporada hi ha un bus llançadora. És l'única estació d'esquí de l'Estat accessible en tren de rodalies des de Barcelona.
+
+**Quina diferència hi ha entre La Molina i Masella?**
+La Molina és la més gran, la més turística i la que té més serveis i escoles d'esquí. Masella és més tècnica, menys massificada i preferida pels esquiadors intermedis i avançats. Amb el forfet combinat Alp 2500 pots esquiar a les dues.
+
+**Alp és bo per esquiar amb nens?**
+Sí, especialment La Molina. Té una escola d'esquí molt consolidada per a nens des de 3 anys, zones d'aprenentatge separades del flux de les pistes i accés en tren des de Barcelona sense necessitat de cotxe.
+
+**Quan obre i tanca la temporada d'esquí a La Molina?**
+Normalment de desembre fins a principis d'abril, amb les millors condicions de gener a primers de març. Les dates exactes depenen de la innivació; consulta la web de La Molina o Masella per a l'estat de les pistes en temps real.
 
 **Alp té serveis tot l'any?**
-Das té els serveis bàsics tot l'any. La Molina i Masella funcionen principalment en temporada d'esquí i als mesos d'estiu; l'oferta entre temporades és molt reduïda.
+Das té els serveis bàsics tot l'any (bar, botiga, serveis municipals). La Molina i Masella funcionen principalment en temporada d'esquí i als mesos d'estiu; l'oferta entre temporades és molt reduïda. Per a serveis complets fora de temporada, Puigcerdà és a 20 minuts.
+
+**Es pot visitar Alp a l'estiu?**
+Sí, i és molt diferent de l'hivern. Les pistes verdes de La Molina, les rutes de BTT i senderisme des del terme municipal i la tranquil·litat de Das en contrast amb l'agitació hivernal fan d'Alp una escapada poc coneguda d'estiu. El Puigmal, accessible des del terme, és un dels cims de referència de la comarca.
