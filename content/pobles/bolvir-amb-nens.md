@@ -34,9 +34,9 @@ El gran avantatge de Bolvir per a famílies amb nens petits és l'espai: els pra
 
 **El mercat dominical** — formatge artesà i embotits que molts nens descobreixen per primera vegada.
 
-→ [Plans amb nens a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Plans amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
 → [Puigcerdà amb nens](/pobles/puigcerda/amb-nens)
-→ [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+→ [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
 
 ---
 
@@ -45,4 +45,4 @@ El gran avantatge de Bolvir per a famílies amb nens petits és l'espai: els pra
 Els allotjaments de Bolvir son els millors de la comarca per a famílies que volen espai i jardí. El Parador, el Mas Tapiol i les cases de lloguer del barri del Golf ofereixen jardins propis, piscines i l'espai exterior que els apartaments de Puigcerdà no poden donar.
 
 → [On dormir a Bolvir](/pobles/bolvir/allotjament)
-→ [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+→ [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)

@@ -2,7 +2,7 @@ El mercat immobiliari d'Alp és el de la Cerdanya que més clarament s'entén de
 
 ---
 
-## Els preus per zona (2026)
+## Els preus per zona
 
 **La Molina** és el mercat més car del terme i un dels més cars de la comarca. La proximitat a les pistes fa pujar els preus de manera significativa respecte a qualsevol altra zona:
 

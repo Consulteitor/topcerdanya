@@ -47,4 +47,4 @@ El lloguer de raquetes és disponible a La Molina. En temporada alta, reserva am
 **BTT: pista vs. camí.** Alguns circuits de BTT als voltants de La Molina poden tenir trams de pista de ski reservats a l'hivern o en mal estat fora de temporada. Comprova condicions actualitzades.
 
 → [Rutes des de Puigcerdà: la plana i les valls](/pobles/puigcerda/rutes)
-→ [Rutes a la Cerdanya: guia per a totes les dificultats](/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+→ [Rutes a la Cerdanya: guia per a totes les dificultats](/guies/rutes-facils-cerdanya-nens)

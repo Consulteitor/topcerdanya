@@ -47,4 +47,4 @@ Per a estades d'estiu, Das és la millor base del terme: tranquil·litat, connex
 **Serveis mínims.** Alguns allotjaments de Das o Masella no tenen servei de restaurant ni bar. Si no tens cotxe per desplaçar-te, confirma l'accés a menjars.
 
 → [Allotjament rural a la Cerdanya: com triar](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-→ [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+→ [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)

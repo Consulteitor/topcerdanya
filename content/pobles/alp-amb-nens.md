@@ -16,7 +16,7 @@ No compris equip la primera vegada. El lloguer a La Molina és fàcil i permet p
 
 La combinació que funciona millor: classes de ski al matí (9-11h), dinar tranquil, tarda lliure o activitat lleugera. Intentar esquiar tota la jornada els primers dies acaba en cansament i llàgrimes.
 
-→ [Plans amb nens a la Cerdanya: guia per a famílies](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Plans amb nens a la Cerdanya: guia per a famílies](/guies/que-fer-cerdanya-amb-nens)
 
 ---
 
@@ -45,7 +45,7 @@ Per a famílies amb nens, les opcions millors son les que inclouen cuina equipad
 La alternativa és allotjar-se a Puigcerdà i pujar a La Molina en tren cada dia que s'esquia. Estalvies en allotjament, guanyes en opcions de restaurant i serveis per a la família.
 
 → [On dormir a Alp: opcions per a famílies](/pobles/alp/allotjament)
-→ [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+→ [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)
 
 ---
 

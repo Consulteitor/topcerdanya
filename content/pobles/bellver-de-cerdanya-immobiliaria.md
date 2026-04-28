@@ -8,7 +8,7 @@ Cap dels dos marcs és del tot just. Bellver no és simplement Puigcerdà amb de
 
 El preu per metre quadrat a Bellver és, per a tipologies comparables, entre un 25% i un 45% inferior al de Puigcerdà. Allò que a Puigcerdà val 400.000 euros, a Bellver sol trobar-se entre 260.000 i 300.000.
 
-| Tipus | Preu orientatiu 2026 |
+| Tipus | Preu orientatiu |
 |---|---|
 | Apartament 2 habitacions | 120.000–200.000 € |
 | Casa al nucli antic | 180.000–320.000 € |

@@ -38,6 +38,6 @@ La cuina de major prestigi del terme. Producte local de la Cerdanya, cuina de me
 
 Per a tot el que Bolvir no ofereix, Puigcerdà és a tres minuts. El top 10 de restaurants de la capital cobreix des del japonès fins a la carn argentina. El mercat dominical dels diumenges és un dels plans de matí més recomanables per als hostes de Bolvir.
 
-→ [Top 10 restaurants de Puigcerdà](/guies/top10-restaurants-puigcerda-2026)
+→ [Top 10 restaurants de Puigcerdà](/guies/restaurants-cerdanya)
 → [On menjar a Puigcerdà](/pobles/puigcerda/restaurants)
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
+→ [Els 14 millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)

@@ -45,4 +45,4 @@ Das té un bar que obre d'hora i que fa l'esmorzar de pa amb tomàquet i cafè c
 **El menú del dia entre setmana.** Si ets a la zona entre setmana —teletreball, vacances llargues—, el menú del dia als restaurants de Das i Fontanals és una de les millors relacions qualitat-preu de tota la Cerdanya.
 
 → [Restaurants a Puigcerdà: la capital amb més oferta](/pobles/puigcerda/restaurants)
-→ [On menjar bé a la Cerdanya: guia completa](/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
+→ [On menjar bé a la Cerdanya: guia completa](/guies/restaurants-cerdanya)

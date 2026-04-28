@@ -16,7 +16,7 @@ El comprador tipus a Bolvir no és el turista que busca un apartament per esquia
 
 ---
 
-## Els preus per zona (2026)
+## Els preus per zona
 
 **Barri del Golf i voltants** — la zona de màxim prestigi:
 

@@ -14,7 +14,7 @@ Puigcerdà ha intentat regular-ho amb un pla d'ordenació que limita les noves s
 
 ---
 
-## Preus orientatius el 2026
+## Preus orientatius
 
 Els preus canvien per barri, per estat de la propietat i per si hi ha vistes o no. Aquestes xifres son orientatives:
 

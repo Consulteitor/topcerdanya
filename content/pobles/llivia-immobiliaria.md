@@ -6,7 +6,7 @@ El mercat immobiliari de Llívia és petit, peculiar i fascinant. Petit perquè 
 
 El preu per metre quadrat a Llívia és entre un 20% i un 35% inferior al de Puigcerdà, per a tipologies comparables. La diferència real és que l'oferta és molt escassa: quan surt alguna cosa a la venda, es ven ràpid.
 
-| Tipologia | Preu orientatiu 2026 |
+| Tipologia | Preu orientatiu |
 |---|---|
 | Apartament 1–2 habitacions | 90.000–160.000 € |
 | Pis 3 habitacions | 140.000–230.000 € |

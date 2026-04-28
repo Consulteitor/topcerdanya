@@ -39,7 +39,7 @@ Molts pares expliquen el Tractat dels Pirineus del 1659 en el cotxe, entre Llív
 Sallagosa —el primer poble de la Cerdanya francesa al nord de Llívia, a quatre quilòmetres— té un parc infantil al voltant d'uns llacs petits plens d'ànecs que és un dels plans més fàcils i agradables per a nens petits de tota la comarca. La combinació Llívia nucli medieval + trajecte per França + parc de Sallagosa cobreix un matí complet sense cap esforç logístic.
 
 → [Plans amb nens a Puigcerdà: el llac i les activitats d'estiu](/pobles/puigcerda/amb-nens)
-→ [Guia de famílies a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+→ [Guia de famílies a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
 
 ---
 
