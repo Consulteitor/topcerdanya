@@ -51,7 +51,7 @@ La zona de Puigcerdà y Bolvir concentra las casas rurales más accesibles y mej
 Las casas rurales para 4-6 personas oscilan entre 120 y 250 € la noche en temporada media. En Semana Santa y agosto, espera entre 180 y 350 €. Las mejores se reservan con 4-8 semanas de antelación en temporada alta.
 
 → [Guia d'allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-→ [Cases rurals per a famílies](/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+→ [Cases rurals per a famílies](/guies/cases-rurals-cerdanya-families)
 → [Ver casas rurales en el directorio](/directori?categoria=allotjament)
 
 ---
@@ -102,8 +102,8 @@ Si tu estancia es de más de una semana, el **alquiler de temporada** es la opci
 
 **Para una escapada romántica** → Hotel Can Borrell en Meranges o Hotel Villa Paulita en Puigcerdà. Los dos extremos del espectro: máxima tranquilidad rural versus máxima comodidad urbana.
 
-→ [On dormir amb nens a la Cerdanya](/guies/on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026)
-→ [Allotjaments prop de rutes](/guies/allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026)
+→ [On dormir amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
+→ [Allotjaments prop de rutes](/guies/allotjament-senderisme-cerdanya)
 
 ---
 
@@ -146,10 +146,10 @@ Un apartamento para 4-6 personas cuesta entre 700 y 1.800 € semanales según �
 → [Guia d'allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 → [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
 → [Lloguer d'estiu a la Cerdanya](/guies/lloguer-estiu-cerdanya)
-→ [On dormir amb nens](/guies/on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026)
-→ [Allotjaments prop de rutes de senderisme](/guies/allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026)
+→ [On dormir amb nens](/guies/que-fer-cerdanya-amb-nens)
+→ [Allotjaments prop de rutes de senderisme](/guies/allotjament-senderisme-cerdanya)
 → [Qué hacer en la Cerdaña](/guies/que-fer-a-la-cerdanya)
 
 ---
 
-*Guía editorial de Top Cerdanya · Actualizada en 2026*
+*Guía editorial de Top Cerdanya**

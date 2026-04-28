@@ -1,5 +1,5 @@
 **Slug:** `reformar-casa-cerdanya`
-**Meta description:** Guia pràctica per reformar casa a la Cerdanya el 2026: costos reals per tipologia de reforma, llicències necessàries, empreses locals, terminis, i com gestionar una obra des de Barcelona.
+**Meta description:** Guia pràctica per reformar casa a la Cerdanya: costos reals per tipologia de reforma, llicències necessàries, empreses locals, terminis, i com gestionar una obra des de Barcelona.
 
 ---
 
@@ -153,7 +153,7 @@ Per a la guia de compra amb necessitat de reforma, consulta [comprar casa a la C
 - [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
 - [Mudar-se a viure a la Cerdanya](/guies/mudarse-viure-cerdanya)
 
-*Darrera actualització: 2026. Costos orientatius. Demana sempre pressupost a empreses locals per obtenir una estimació actualitzada.*
+*Costos orientatius. Demana sempre pressupost a empreses locals per obtenir una estimació actualitzada.*
 
 
 ---
