@@ -116,7 +116,7 @@ El mercat immobiliari de Bellver és entre un 25 i un 45% més barat que Puigcer
 | Masia o casa de poble | 180.000–500.000 € (estat variable) |
 
 → [Guia completa de l'immobiliari a Bellver](/pobles/bellver-de-cerdanya/immobiliaria)
-→ [Agències immobiliàries a la Cerdanya](/inmobiliaria/agencies)
+→ [Agències immobiliàries a la Cerdanya](/inmobiliaria)
 
 ---
 

@@ -140,7 +140,7 @@ La negociació és possible però ha de ser raonable. Un constructor local amb a
 
 ---
 
-Per a la guia de compra amb necessitat de reforma, consulta [comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya). Per a la normativa sobre nuclis antics i llicències turístiques, [llicències turístiques a la Cerdanya](/inmobiliaria/llicencia-turistica-cerdanya). Per comparar preus de mercat, [preus de l'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya).
+Per a la guia de compra amb necessitat de reforma, consulta [comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya). Per a la normativa sobre nuclis antics i llicències turístiques, [llicències turístiques a la Cerdanya](/guies/llicencia-turistica-cerdanya). Per comparar preus de mercat, [preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya).
 
 ---
 

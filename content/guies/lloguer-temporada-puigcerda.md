@@ -99,7 +99,7 @@ El mercat de Puigcerdà s'ha avançat molt. Cada any les millors propietats s'es
 Consell: molts anuncis a la Cerdanya estan en castellà (molts propietaris son castellanoparlants o usen el castellà als portals). Cerca sempre en castellà i català per no perdre't cap.
 
 ### Immobiliàries locals
-Les agències de Puigcerdà gestionen una part important dels lloguers de temporada, incloent propietats que no arriben als portals. Contacta directament amb Finques Alpi, Activa Cerdanya, Immoneu i d'altres [agències del directori](/inmobiliaria/agencies), explica'ls el que busques i demana que t'avissin.
+Les agències de Puigcerdà gestionen una part important dels lloguers de temporada, incloent propietats que no arriben als portals. Contacta directament amb Finques Alpi, Activa Cerdanya, Immoneu i d'altres [agències del directori](/inmobiliaria), explica'ls el que busques i demana que t'avissin.
 
 ### Grups de Facebook i xarxes socials
 Existeixen grups de Facebook de lloguer a la Cerdanya actius. Propietaris privats publiquen directament. Pots trobar propietats sense comissió d'agència, però gestiona el contracte amb cura i verifica sempre la identitat del propietari.
@@ -151,7 +151,7 @@ Per a guies específiques sobre activitats i allotjaments per a famílies, consu
 
 ---
 
-Per veure l'oferta de [lloguers disponibles a la Cerdanya](/inmobiliaria/lloguers), consulta el nostre directori actualitzat. Per comparar les dues temporades, tens les guies específiques de [lloguer d'hivern](/inmobiliaria/lloguer-hivern-cerdanya) i [lloguer d'estiu](/inmobiliaria/lloguer-estiu-cerdanya).
+Per veure l'oferta de [lloguers disponibles a la Cerdanya](/inmobiliaria), consulta el nostre directori actualitzat. Per comparar les dues temporades, tens les guies específiques de [lloguer d'hivern](/guies/lloguer-hivern-cerdanya) i [lloguer d'estiu](/guies/lloguer-estiu-cerdanya).
 
 ---
 
@@ -165,7 +165,7 @@ Per veure l'oferta de [lloguers disponibles a la Cerdanya](/inmobiliaria/lloguer
 - [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
 - [Preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya)
 
-*Darrera actualització. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
+*Darrera actualització. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria) o consulta el nostre [directori de lloguers](/inmobiliaria).*
 
 
 ---

@@ -79,7 +79,7 @@ Puigcerdà és el **tercer municipi més car de Catalunya** en preu per metre qu
 En menys d'una dècada, el preu del metre quadrat ha pujat prop de 1.000 euros. La zona del llac i el centre històric són les més cotitzades.
 
 → [Guia completa per comprar casa a la Cerdanya](/inmobiliaria)
-→ [Agències immobiliàries a la Cerdanya](/inmobiliaria/agencies)
+→ [Agències immobiliàries a la Cerdanya](/inmobiliaria)
 
 ---
 

@@ -69,7 +69,7 @@ Donada l'escassetat d'oferta, trobar obra nova activa a la comarca requereix est
 
 **Portals immobiliaris.** Idealista i Habitaclia tenen filtres específics per a "obra nova". Activa les alertes per a la Cerdanya per rebre notificació quan surti oferta nova.
 
-**Immobiliàries locals.** Moltes promocions es venen exclusivament a través d'immobiliàries locals, sense arribar mai als portals generalistes. Mantingues contacte amb diverses [immobiliàries de la Cerdanya](/inmobiliaria/agencies) i demana que t'avisin de noves promocions.
+**Immobiliàries locals.** Moltes promocions es venen exclusivament a través d'immobiliàries locals, sense arribar mai als portals generalistes. Mantingues contacte amb diverses [immobiliàries de la Cerdanya](/inmobiliaria) i demana que t'avisin de noves promocions.
 
 **Ajuntaments.** Les llicències d'obra major son públiques. Si et fixes en parcel·les buides o solars en procés de construcció, pots consultar a l'ajuntament qui ha demanat la llicència i contactar directament amb el promotor.
 
@@ -107,14 +107,14 @@ Sense poder llistar promocions específiques (que canvien contínuament), els **
 - Prefereixes una zona específica on no hi ha obra nova disponible
 - Vols negociar el preu (en obra nova el marge és molt inferior)
 
-Per a una visió completa del mercat de compravenda, consulta la [guia per comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya). Si t'interessa el potencial inversor, la [guia d'inversió immobiliaria](/inmobiliaria/invertir-cerdanya) té tots els números.
+Per a una visió completa del mercat de compravenda, consulta la [guia per comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya). Si t'interessa el potencial inversor, la [guia d'inversió immobiliaria](/guies/invertir-cerdanya) té tots els números.
 
 ---
 
 ## Preguntes freqüents sobre l'obra nova
 
 **L'obra nova a la Cerdanya pot obtenir llicència turística?**
-En principi sí, si el municipi no té moratòria. Però als 14 municipis afectats pel Decret llei 3/2023 (que inclou Puigcerdà, Bolvir, Alp i la majoria de municipis actius), les noves llicències estan suspeses fins que els ajuntaments adaptin el planejament. Per tant, una propietat nova a la Cerdanya avui difícilment obté llicència turística. Consulta la [guia de llicències turístiques](/inmobiliaria/llicencia-turistica-cerdanya) per entendre la situació completa.
+En principi sí, si el municipi no té moratòria. Però als 14 municipis afectats pel Decret llei 3/2023 (que inclou Puigcerdà, Bolvir, Alp i la majoria de municipis actius), les noves llicències estan suspeses fins que els ajuntaments adaptin el planejament. Per tant, una propietat nova a la Cerdanya avui difícilment obté llicència turística. Consulta la [guia de llicències turístiques](/guies/llicencia-turistica-cerdanya) per entendre la situació completa.
 
 **Puc demanar hipoteca per a una compra sobre plànol?**
 Sí, però el procés és diferent que en una compra de mercat secundari. El banc sol fer un estudi de la promotora i de l'avenç de l'obra, i el finançament s'allibera per trams conforme avança la construcció. Alguns bancs no financen promocions de promotores petites o sense aval bancari. Consulta amb el teu banc abans de signar.
@@ -133,7 +133,7 @@ A la Cerdanya, els projectes solen tenir terminis d'entrega de 18–30 mesos des
 - [Hipoteca per comprar a la Cerdanya](/guies/hipoteca-cerdanya)
 - [Impostos i despeses en comprar](/guies/impostos-compra-habitatge-cerdanya)
 
-*Darrera actualització. L'oferta d'obra nova canvia contínuament. Per a informació actualitzada sobre promocions actives, contacta amb una [immobiliària de la Cerdanya](/inmobiliaria/agencies) o consulta les alertes dels principals portals immobiliaris.*
+*Darrera actualització. L'oferta d'obra nova canvia contínuament. Per a informació actualitzada sobre promocions actives, contacta amb una [immobiliària de la Cerdanya](/inmobiliaria) o consulta les alertes dels principals portals immobiliaris.*
 
 
 ---

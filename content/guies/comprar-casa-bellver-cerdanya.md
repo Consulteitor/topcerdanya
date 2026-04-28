@@ -1,5 +1,5 @@
 **Slug:** `comprar-casa-bellver-cerdanya`
-**Meta description:** Guia per comprar casa a Bellver de Cerdanya el 2026: preus, zones, tipologies, avantatges sobre Puigcerdà, i tot el que necessites saber sobre el mercat immobiliari de la capital de la Baixa Cerdanya.
+**Meta description:** Guia per comprar casa a Bellver de Cerdanya: preus, zones, tipologies, avantatges sobre Puigcerdà, i tot el que necessites saber sobre el mercat immobiliari de la capital de la Baixa Cerdanya.
 
 ---
 
@@ -56,7 +56,7 @@ Bellver no té tots els serveis de Puigcerdà, però té el que cal: CAP (Centre
 
 ---
 
-## Preus del mercat immobiliari de Bellver (2026)
+## Preus del mercat immobiliari de Bellver
 
 ### Compravenda
 
@@ -127,7 +127,7 @@ Per la C-16 (autopista fins a Berga, carretera convencional fins a Bellver). Des
 
 ---
 
-Per a una visió comparativa del mercat, consulta la [guia de preus d'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya). Per comparar amb la capital, tens la [guia de comprar a Puigcerdà](/inmobiliaria/comprar-casa-puigcerda). Per als impostos de la compra, el [càlcul complet d'impostos](/inmobiliaria/impostos-compra-habitatge-cerdanya).
+Per a una visió comparativa del mercat, consulta la [guia de preus d'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya). Per comparar amb la capital, tens la [guia de comprar a Puigcerdà](/guies/comprar-casa-puigcerda). Per als impostos de la compra, el [càlcul complet d'impostos](/guies/impostos-compra-habitatge-cerdanya).
 
 ---
 
@@ -140,7 +140,7 @@ Per a una visió comparativa del mercat, consulta la [guia de preus d'habitatge 
 - [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
 - [Invertir a la Cerdanya](/guies/invertir-cerdanya)
 
-*Darrera actualització: 2026. Preus orientatius basats en el mercat actual de Bellver de Cerdanya.*
+*Preus orientatius basats en el mercat actual de Bellver de Cerdanya.*
 
 
 ---
@@ -148,7 +148,7 @@ Per a una visió comparativa del mercat, consulta la [guia de preus d'habitatge 
 ## Guies relacionades
 
 → [Guia completa de Bellver de Cerdanya: viure i visitar](/pobles/bellver-de-cerdanya)
-→ [Immobiliària a Bellver: preus i mercat 2026](/pobles/bellver-de-cerdanya/immobiliaria)
+→ [Immobiliària a Bellver: preus i mercat](/pobles/bellver-de-cerdanya/immobiliaria)
 → [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
 → [Comprar casa a Llívia](/guies/comprar-casa-llivia)
 → [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

@@ -119,7 +119,7 @@ La integració és perfectament possible i molts nouvinguts s'incorporen de form
 
 ---
 
-Per a informació sobre propietats disponibles, consulta el [directori de propietats](/inmobiliaria/propietats). Per entendre el mercat de compra, la [guia de comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya). Per als preus i el finançament, la [guia d'hipoteques](/inmobiliaria/hipoteca-cerdanya).
+Per a informació sobre propietats disponibles, consulta el [directori de propietats](/inmobiliaria). Per entendre el mercat de compra, la [guia de comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya). Per als preus i el finançament, la [guia d'hipoteques](/guies/hipoteca-cerdanya).
 
 ---
 

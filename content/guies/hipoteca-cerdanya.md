@@ -143,7 +143,7 @@ Hipoteca de 276.500 € a 25 anys, tipus fix 3,4%:
 
 ---
 
-Per a càlcul complet d'impostos i despeses de compra, consulta la [guia d'impostos](/inmobiliaria/impostos-compra-habitatge-cerdanya). Per a la guia de compra completa, [comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya). Per a inversors, [invertir a la Cerdanya](/inmobiliaria/invertir-cerdanya).
+Per a càlcul complet d'impostos i despeses de compra, consulta la [guia d'impostos](/guies/impostos-compra-habitatge-cerdanya). Per a la guia de compra completa, [comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya). Per a inversors, [invertir a la Cerdanya](/guies/invertir-cerdanya).
 
 ---
 

@@ -126,7 +126,7 @@ La demanda de lloguer a Masella és alta però lleugerament inferior a La Molina
 
 Alp és un dels 14 municipis de la Cerdanya afectats pel Decret llei 3/2023 de la Generalitat. Noves llicències turístiques suspeses fins que l'ajuntament adapti el planejament urbanístic.
 
-Per a la inversió en lloguer vacacional (Airbnb/Booking), és imprescindible comprar una propietat que **ja tingui llicència turística vigent**. Les propietats amb HUT a Alp i La Molina son molt cotitzades i es venen a prima significativa. Consulta sempre la [guia de llicències turístiques](/inmobiliaria/llicencia-turistica-cerdanya) abans de prendre decisions d'inversió.
+Per a la inversió en lloguer vacacional (Airbnb/Booking), és imprescindible comprar una propietat que **ja tingui llicència turística vigent**. Les propietats amb HUT a Alp i La Molina son molt cotitzades i es venen a prima significativa. Consulta sempre la [guia de llicències turístiques](/guies/llicencia-turistica-cerdanya) abans de prendre decisions d'inversió.
 
 Per al lloguer de temporada (mesos sencers), no es requereix llicència turística.
 
@@ -143,7 +143,7 @@ Molts compradors de propietats a Alp les veuen principalment com a inversió d'h
 
 ---
 
-Per a l'oferta de propietats disponibles, consulta el [directori de propietats](/inmobiliaria/propietats). Per a comparar preus amb la resta de la comarca, la [guia de preus](/inmobiliaria/preu-habitatge-cerdanya). Per a la guia de lloguer d'hivern a tota la comarca, [lloguer d'hivern a la Cerdanya](/inmobiliaria/lloguer-hivern-cerdanya).
+Per a l'oferta de propietats disponibles, consulta el [directori de propietats](/inmobiliaria). Per a comparar preus amb la resta de la comarca, la [guia de preus](/guies/preu-habitatge-cerdanya). Per a la guia de lloguer d'hivern a tota la comarca, [lloguer d'hivern a la Cerdanya](/guies/lloguer-hivern-cerdanya).
 
 ---
 

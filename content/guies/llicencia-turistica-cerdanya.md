@@ -138,7 +138,7 @@ Si estàs considerant comprar una propietat que ja disposa d'HUT, verifica:
 - **Decret llei 3/2023** (DOGC): text complert de la nova regulació i llistat de municipis afectats.
 - **Ajuntament de Puigcerdà / Bellver de Cerdanya**: per a consultes sobre planejament urbanístic i llicències.
 
-Per a una visió de conjunt sobre la inversió immobiliaria a la Cerdanya, consulta la nostra [guia d'inversió](/inmobiliaria/invertir-cerdanya). Si estàs pensant en comprar, la [guia de compra de casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya) és el punt de partida.
+Per a una visió de conjunt sobre la inversió immobiliaria a la Cerdanya, consulta la nostra [guia d'inversió](/guies/invertir-cerdanya). Si estàs pensant en comprar, la [guia de compra de casa a la Cerdanya](/guies/comprar-casa-cerdanya) és el punt de partida.
 
 ---
 

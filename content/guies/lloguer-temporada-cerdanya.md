@@ -1,5 +1,5 @@
 **Slug:** `lloguer-temporada-cerdanya`
-**Meta description:** Tot sobre el lloguer de temporada a la Cerdanya el 2026: preus per zona i temporada, consells per trobar casa, diferències entre hivern i estiu, i com posar la teva propietat en lloguer.
+**Meta description:** Tot sobre el lloguer de temporada a la Cerdanya: preus per zona i temporada, consells per trobar casa, diferències entre hivern i estiu, i com posar la teva propietat en lloguer.
 
 ---
 
@@ -23,7 +23,7 @@ Hi ha propietaris que fan les dues temporades seguides, i d'altres que prefereix
 
 ---
 
-## Preus del lloguer de temporada a la Cerdanya (2026)
+## Preus del lloguer de temporada a la Cerdanya
 
 Els preus varien molt en funció de la zona, el tipus de propietat, la temporada i l'equipament. Aquí una referència orientativa basada en el mercat actual:
 
@@ -68,7 +68,7 @@ Urbanitzacions tranquil·les, moltes amb piscina comunitaria i espais verds. Mol
 ### Opcions singulars: Llívia
 L'enclavament espanyol enmig del territori francès. Molt tranquil, preus continguts, i un entorn únic. La pega és que per anar a La Molina o Masella cal passar per carretera francesa. Molt adequat per a l'estiu.
 
-Per veure les [propietats en lloguer de temporada disponibles](/inmobiliaria/lloguers), consulta el nostre directori actualitzat.
+Per veure les [propietats en lloguer de temporada disponibles](/inmobiliaria), consulta el nostre directori actualitzat.
 
 ---
 
@@ -78,7 +78,7 @@ Per veure les [propietats en lloguer de temporada disponibles](/inmobiliaria/llo
 Idealista, Habitaclia i Yaencontre concentren bona part de l'oferta de lloguer de temporada. Filtra per "temporada" o "lloguer de temporada" i per zona. La competència per les millors propietats és alta: si trobes una casa que t'interessa, mou-te ràpid.
 
 ### Immobiliàries locals especialitzades
-Les agències immobiliàries de la comarca gestionen una part important dels lloguers de temporada, molts dels quals no arriben a publicar-se a portals generalistes. Grus Pla (Bellver i Puigcerdà), Activa Cerdanya, Habit Cerdanya i Finques Moixeró son referents de la comarca. Consulta el [directori d'immobiliàries](/inmobiliaria/agencies) per trobar-les totes.
+Les agències immobiliàries de la comarca gestionen una part important dels lloguers de temporada, molts dels quals no arriben a publicar-se a portals generalistes. Grus Pla (Bellver i Puigcerdà), Activa Cerdanya, Habit Cerdanya i Finques Moixeró son referents de la comarca. Consulta el [directori d'immobiliàries](/inmobiliaria) per trobar-les totes.
 
 ### Plataformes vacacionals
 Airbnb i Booking concentren l'oferta de lloguer setmanal i per dies, sobretot per a propietats amb llicència turística. Si busques per setmanes a l'estiu o caps de setmana a l'hivern, son el canal habitual. Els preus per nit solen ser més cars que el lloguer de temporada, però la flexibilitat és màxima.
@@ -117,7 +117,7 @@ El lloguer de temporada es regeix per la Llei d'Arrendaments Urbans (LAU), però
 Una casa adossada de 3 habitacions a Puigcerdà, ben equipada, pot generar entre 10.000 i 16.000 euros l'hivern (5–6 mesos) i entre 8.000 i 14.000 euros l'estiu (3–4 mesos). En total, entre 18.000 i 30.000 euros anuals, depenent de la qualitat de l'equipament i la gestió.
 
 ### Llicència turística: quan cal?
-Si llogues per temporades llargues (hivern o estiu complet) a un sol arrendatari, no necessites llicència turística perquè no és lloguer vacacional. Si llogues per dies o setmanes de forma habitual, sí que cal llicència. Consulta la guia sobre [llicències turístiques a la Cerdanya](/inmobiliaria/llicencia-turistica-cerdanya) per entendre quan s'aplica cada règim.
+Si llogues per temporades llargues (hivern o estiu complet) a un sol arrendatari, no necessites llicència turística perquè no és lloguer vacacional. Si llogues per dies o setmanes de forma habitual, sí que cal llicència. Consulta la guia sobre [llicències turístiques a la Cerdanya](/guies/llicencia-turistica-cerdanya) per entendre quan s'aplica cada règim.
 
 ### Gestió pròpia o a través d'immobiliària?
 Si vius a prop de la comarca o tens temps, la gestió pròpia és possible i t'estalvies la comissió. Si vius a Barcelona o no vols gestionar visites, entregues de claus i incidències, una immobiliària local cobra habitualment entre el 8% i el 15% dels ingressos anuals a canvi de gestionar-ho tot. Pot valer la pena per la tranquil·litat que dona.
@@ -171,7 +171,7 @@ Depèn del que digui el contracte. En general, el lloguer de temporada és molt 
 - [Invertir a la Cerdanya](/guies/invertir-cerdanya)
 - [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
 
-*Darrera actualització: 2026. Els preus indicats son orientatius i poden variar. Per veure [propietats en lloguer de temporada disponibles](/inmobiliaria/lloguers) a la Cerdanya, consulta el nostre directori.*
+*Els preus indicats son orientatius i poden variar. Per veure [propietats en lloguer de temporada disponibles](/inmobiliaria) a la Cerdanya, consulta el nostre directori.*
 
 
 ---

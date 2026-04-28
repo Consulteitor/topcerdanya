@@ -1,5 +1,5 @@
 **Slug:** `lloguer-estiu-cerdanya`
-**Meta description:** Guia per trobar lloguer d'estiu a la Cerdanya el 2026: preus per zona, quan reservar, les millors zones per a famílies, consells per al contracte i activitats d'estiu als Pirineus.
+**Meta description:** Guia per trobar lloguer d'estiu a la Cerdanya: preus per zona, quan reservar, les millors zones per a famílies, consells per al contracte i activitats d'estiu als Pirineus.
 
 ---
 
@@ -23,7 +23,7 @@ La combinació de factors és difícil de trobar en cap altre lloc de Catalunya:
 
 ---
 
-## Preus del lloguer d'estiu per zona (2026)
+## Preus del lloguer d'estiu per zona
 
 L'estiu funciona molt per setmanes i quinzenes, especialment l'agost. Aquí tens els preus orientatius per als dos formats principals:
 
@@ -147,7 +147,7 @@ A Puigcerdà i la zona del llac, sí que hi ha molta gent a l'agost. Però sorti
 
 ---
 
-Per veure l'oferta de [lloguers d'estiu disponibles a la Cerdanya](/inmobiliaria/lloguers), consulta el nostre directori actualitzat. Per al lloguer d'hivern, tens la [guia de lloguer d'hivern a la Cerdanya](/inmobiliaria/lloguer-hivern-cerdanya). Per a una visió general del mercat, la [guia de lloguer de temporada](/inmobiliaria/lloguer-temporada-cerdanya) és el punt de partida.
+Per veure l'oferta de [lloguers d'estiu disponibles a la Cerdanya](/inmobiliaria), consulta el nostre directori actualitzat. Per al lloguer d'hivern, tens la [guia de lloguer d'hivern a la Cerdanya](/guies/lloguer-hivern-cerdanya). Per a una visió general del mercat, la [guia de lloguer de temporada](/guies/lloguer-temporada-cerdanya) és el punt de partida.
 
 ---
 
@@ -160,7 +160,7 @@ Per veure l'oferta de [lloguers d'estiu disponibles a la Cerdanya](/inmobiliaria
 - [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
 - [Invertir a la Cerdanya](/guies/invertir-cerdanya)
 
-*Darrera actualització: 2026. Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria/agencies) o consulta el nostre [directori de lloguers](/inmobiliaria/lloguers).*
+*Preus orientatius. Per a propietats disponibles, contacta amb una [immobiliaria de la Cerdanya](/inmobiliaria) o consulta el nostre [directori de lloguers](/inmobiliaria).*
 
 
 ---

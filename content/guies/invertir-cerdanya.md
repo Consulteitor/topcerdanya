@@ -1,5 +1,5 @@
 **Slug:** `invertir-cerdanya`
-**Meta description:** Guia completa per invertir en immobiliària a la Cerdanya el 2026: rendibilitat real del lloguer turístic, tipus de propietats amb millor retorn, riscos i estratègies per maximitzar la inversió.
+**Meta description:** Guia completa per invertir en immobiliària a la Cerdanya: rendibilitat real del lloguer turístic, tipus de propietats amb millor retorn, riscos i estratègies per maximitzar la inversió.
 
 ---
 
@@ -157,7 +157,7 @@ Quan venguis la propietat, el guany patrimonial tributa a l'IRPF a tipus progres
 
 ## Consells per a primers inversors a la Cerdanya
 
-Treballa amb una immobiliaria local que conegui el mercat de primera mà. Els preus al portal i el preu real de mercat pot diferir, i un professional local sap quines propietats son bones inversions i quines no. Consulta el [directori d'immobiliàries de la Cerdanya](/inmobiliaria/agencies).
+Treballa amb una immobiliaria local que conegui el mercat de primera mà. Els preus al portal i el preu real de mercat pot diferir, i un professional local sap quines propietats son bones inversions i quines no. Consulta el [directori d'immobiliàries de la Cerdanya](/inmobiliaria).
 
 Visita la propietat en temporada alta. L'ambient i la demanda real es veu molt millor quan hi ha turistes. Evita comprar a cegues a partir de fotos i visites en tardor o primavera amb poca activitat.
 
@@ -165,7 +165,7 @@ Verifica sempre la situació de la llicència turística. És el punt més crít
 
 Consulta un gestor fiscal especialitzat en immobiliari. Els números bruts son atractius; els nets, amb tots els impostos i despeses, son la realitat. Un bon gestor t'estalviarà sorpreses.
 
-Per aprofundir en els preus del mercat, consulta la nostra [anàlisi de preus de l'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya). Per entendre la llicència turística en detall, tens la [guia de llicències turístiques a la Cerdanya](/inmobiliaria/llicencia-turistica-cerdanya).
+Per aprofundir en els preus del mercat, consulta la nostra [anàlisi de preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya). Per entendre la llicència turística en detall, tens la [guia de llicències turístiques a la Cerdanya](/guies/llicencia-turistica-cerdanya).
 
 ---
 
@@ -180,7 +180,7 @@ Per aprofundir en els preus del mercat, consulta la nostra [anàlisi de preus de
 - [Obra nova a la Cerdanya](/guies/obra-nova-cerdanya)
 - [Segona residència a la Cerdanya](/guies/segona-residencia-cerdanya)
 
-*Darrera actualització: 2026. La informació sobre rendibilitats és orientativa i no constitueix assessorament financer. Consulta sempre un professional abans de prendre decisions d'inversió.*
+*La informació sobre rendibilitats és orientativa i no constitueix assessorament financer. Consulta sempre un professional abans de prendre decisions d'inversió.*
 
 
 ---

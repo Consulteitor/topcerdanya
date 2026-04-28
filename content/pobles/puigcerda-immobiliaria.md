@@ -65,5 +65,5 @@ Les agències locals coneixen el mercat d'una manera que les plataformes online 
 
 Les principals agències de referència a la comarca —Grus Pla, Vincle Cerdanya, Immoneu— porten anys treballant al territori i tenen cartera de propietats que no sempre apareix als portals generalistes.
 
-→ [Veure el directori d'agències immobiliàries](/inmobiliaria/agencies)  
+→ [Veure el directori d'agències immobiliàries](/inmobiliaria)  
 → [Guia completa per comprar casa a la Cerdanya](/inmobiliaria)

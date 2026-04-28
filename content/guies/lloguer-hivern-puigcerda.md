@@ -165,7 +165,7 @@ Acorda per escrit quin model s'aplica i quin import es preveu.
 
 ---
 
-Per a una visió comparativa de tot el mercat de lloguer d'hivern de la Cerdanya, consulta la [guia de lloguer d'hivern a la Cerdanya](/inmobiliaria/lloguer-hivern-cerdanya). Per a l'estiu, tens la [guia de lloguer d'estiu a Puigcerdà](/inmobiliaria/lloguer-temporada-puigcerda). Per veure l'oferta disponible, consulta el [directori de lloguers](/inmobiliaria/lloguers).
+Per a una visió comparativa de tot el mercat de lloguer d'hivern de la Cerdanya, consulta la [guia de lloguer d'hivern a la Cerdanya](/guies/lloguer-hivern-cerdanya). Per a l'estiu, tens la [guia de lloguer d'estiu a Puigcerdà](/guies/lloguer-temporada-puigcerda). Per veure l'oferta disponible, consulta el [directori de lloguers](/inmobiliaria).
 
 ---
 

@@ -215,7 +215,7 @@ Habitualment no. Els bancs financen fins a un 80% del valor de taxació de la pr
 
 ---
 
-Per entendre tot el procés de compra, consulta la [guia completa per comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya). Si consideres la compra com a inversió, la [guia d'inversió](/inmobiliaria/invertir-cerdanya) té els càlculs de rendibilitat. Per trobar professionals locals, el [directori d'immobiliàries](/inmobiliaria/agencies) és el punt de partida.
+Per entendre tot el procés de compra, consulta la [guia completa per comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya). Si consideres la compra com a inversió, la [guia d'inversió](/guies/invertir-cerdanya) té els càlculs de rendibilitat. Per trobar professionals locals, el [directori d'immobiliàries](/inmobiliaria) és el punt de partida.
 
 ---
 

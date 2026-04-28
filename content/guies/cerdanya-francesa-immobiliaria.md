@@ -107,7 +107,7 @@ Immoneu (que opera tant a la Cerdanya catalana com francesa) és l'exemple d'ag�
 
 ---
 
-Per a informació comparativa sobre el mercat de tota la Cerdanya, consulta la [guia de preus d'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya). Si prefereixes el costat espanyol però vols alternatives a Puigcerdà, la [guia de Llívia](/inmobiliaria/comprar-casa-llivia) i la [guia de Bellver](/inmobiliaria/comprar-casa-bellver-cerdanya) son bons punts de partida.
+Per a informació comparativa sobre el mercat de tota la Cerdanya, consulta la [guia de preus d'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya). Si prefereixes el costat espanyol però vols alternatives a Puigcerdà, la [guia de Llívia](/guies/comprar-casa-llivia) i la [guia de Bellver](/guies/comprar-casa-bellver-cerdanya) son bons punts de partida.
 
 ---
 

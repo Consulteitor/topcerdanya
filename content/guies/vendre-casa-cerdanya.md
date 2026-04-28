@@ -61,7 +61,7 @@ Fixar el preu correcte és l'element més crític de tota la venda. Un preu mass
 
 **Valora els diferencials específics de la teva propietat.** Orientació solar (sud suma entre un 10% i un 20% respecte a nord), vistes panoràmiques (suma entre un 15% i un 30%), llicència turística (suma entre un 15% i un 25%), estat de conservació, mida de la parcel·la.
 
-**Referència de preus per zona:** per a una guia detallada, consulta la nostra [anàlisi de preus de l'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya).
+**Referència de preus per zona:** per a una guia detallada, consulta la nostra [anàlisi de preus de l'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya).
 
 ### La trampa del preu emocional
 El risc principal dels venedors privats és posar un preu basat en el que ells creuen que val la propietat (per sentiment d'apego, per recordar el que van pagar fa anys, o per comparar-se amb veïns que "han dit" que els han ofert tant). El mercat no compra sentiments: compra metres quadrats, ubicació i estat de la propietat.
@@ -82,7 +82,7 @@ Amb **exclusiva**, cedeixis la venda a una sola agència per un periode determin
 
 Sense exclusiva, pots treballar amb diverses agències simultàniament. Però sovint això redueix la implicació de cada agència (per què invertir en comercialització si una altra agència pot vendre primer?).
 
-**Recomanació:** exclusiva de 3 mesos amb una agència de referència a la zona, amb compromís de pla de comercialització clar i resultats mesurables. Consulta el [directori d'immobiliàries de la Cerdanya](/inmobiliaria/agencies).
+**Recomanació:** exclusiva de 3 mesos amb una agència de referència a la zona, amb compromís de pla de comercialització clar i resultats mesurables. Consulta el [directori d'immobiliàries de la Cerdanya](/inmobiliaria).
 
 ---
 

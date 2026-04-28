@@ -74,7 +74,7 @@ Deducció de despeses: pots deduir proporcional als mesos llogats els interessos
 ### Lloguer turístic (per dies/setmanes)
 Requereix Habitatge d'Ús Turístic (HUT). Les rendes tributen íntegrament (sense reducció del 60% del lloguer d'habitatge habitual). La combinació ús propi + lloguer turístic és la fórmula que molts propietaris de la Cerdanya usen per reduir el cost net anual de la propietat.
 
-**Atenció a la moratòria:** Als 14 municipis de la Cerdanya afectats pel Decret llei 3/2023, les noves llicències turístiques estan suspeses. Consulta la [guia de llicències turístiques](/inmobiliaria/llicencia-turistica-cerdanya) per entendre si la teva propietat pot obtenir HUT.
+**Atenció a la moratòria:** Als 14 municipis de la Cerdanya afectats pel Decret llei 3/2023, les noves llicències turístiques estan suspeses. Consulta la [guia de llicències turístiques](/guies/llicencia-turistica-cerdanya) per entendre si la teva propietat pot obtenir HUT.
 
 ---
 
@@ -169,7 +169,7 @@ No hi ha una resposta única. Però considera que, a la Cerdanya, un bon lloguer
 
 ---
 
-Per a informació sobre preus actuals i on comprar, consulta la [guia de preus d'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya) i la [guia per comprar casa](/inmobiliaria/comprar-casa-cerdanya). Per als impostos de la compra, tens el [càlcul complet d'impostos](/inmobiliaria/impostos-compra-habitatge-cerdanya).
+Per a informació sobre preus actuals i on comprar, consulta la [guia de preus d'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya) i la [guia per comprar casa](/guies/comprar-casa-cerdanya). Per als impostos de la compra, tens el [càlcul complet d'impostos](/guies/impostos-compra-habitatge-cerdanya). Si la propietat que trobes necessita intervenció, la [guia de reforma de cases a la Cerdanya](/guies/reformar-casa-cerdanya) t'explica costos reals, llicències i com gestionar-ho des de Barcelona.
 
 ---
 

@@ -130,7 +130,7 @@ Si compres sense agència, assegura't de tenir un bon advocat especialitzat en d
 
 ---
 
-Per veure les propietats disponibles a la venda, consulta el nostre [directori de propietats](/inmobiliaria/propietats). Si vols entendre els costos de comprar, tens la [guia d'impostos i despeses](/inmobiliaria/impostos-compra-habitatge-cerdanya). Per a guia sobre el procés complet, la [guia per comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya).
+Per veure les propietats disponibles a la venda, consulta el nostre [directori de propietats](/inmobiliaria). Si vols entendre els costos de comprar, tens la [guia d'impostos i despeses](/guies/impostos-compra-habitatge-cerdanya). Per a guia sobre el procés complet, la [guia per comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya).
 
 ---
 

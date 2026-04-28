@@ -116,7 +116,7 @@ Les immobiliàries estan tranquil·les — els compradors d'hivern ja han decidi
 
 A més, venir a la Cerdanya a la primavera et permet enamorar-te d'un poble amb calma. Moltes de les decisions de compra comencen exactament així: un cap de setmana de maig, un passeig per Bellver o Meranges, i la sensació que aquí és on vols estar.
 
-Si estàs en aquesta fase, al nostre [directori d'immobiliàries de la Cerdanya](/inmobiliaria/agencies) trobaràs les agències locals de referència.
+Si estàs en aquesta fase, al nostre [directori d'immobiliàries de la Cerdanya](/inmobiliaria) trobaràs les agències locals de referència.
 
 ---
 

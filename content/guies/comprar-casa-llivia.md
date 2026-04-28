@@ -1,5 +1,5 @@
 **Slug:** `comprar-casa-llivia`
-**Meta description:** Guia per comprar casa a Llívia el 2026: per què és un mercat immobiliari únic, preus, avantatges fiscals i pràctics, tipologies disponibles i tot el que has de saber de l'enclavament espanyol.
+**Meta description:** Guia per comprar casa a Llívia: per què és un mercat immobiliari únic, preus, avantatges fiscals i pràctics, tipologies disponibles i tot el que has de saber de l'enclavament espanyol.
 
 ---
 
@@ -54,7 +54,7 @@ La protecció patrimonial del nucli medieval i la normativa urbanística restric
 
 ---
 
-## Preus del mercat immobiliari de Llívia (2026)
+## Preus del mercat immobiliari de Llívia
 
 El mercat de Llívia és petit i l'oferta limitada, però els preus son significativament inferiors a Puigcerdà:
 
@@ -112,7 +112,7 @@ Llívia té una demanda de lloguer de temporada, especialment de l'estiu (la pla
 **Preus orientatius de lloguer d'estiu:** apartament de 2 habitacions, 700–1.200 euros mensuals; casa, 1.200–2.500 euros mensuals.
 
 ### Llicència turística
-Llívia és un dels 14 municipis de la Cerdanya afectats pel Decret llei 3/2023. Noves llicències turístiques suspeses fins que l'ajuntament adapti el planejament. Consulta la [guia de llicències turístiques](/inmobiliaria/llicencia-turistica-cerdanya).
+Llívia és un dels 14 municipis de la Cerdanya afectats pel Decret llei 3/2023. Noves llicències turístiques suspeses fins que l'ajuntament adapti el planejament. Consulta la [guia de llicències turístiques](/guies/llicencia-turistica-cerdanya).
 
 ### Rendibilitat
 La combinació de preus d'adquisició inferiors als de Puigcerdà amb una demanda de lloguer raonable (sobretot estiu) i una apreciació de capital moderada fa de Llívia un mercat interessant per a inversors pacients amb perfil de valor (comprar bé, mantenir, apreciar a llarg termini).
@@ -127,7 +127,7 @@ Per als qui compren per a ús propi, viure a Llívia és viure a un lloc amb ide
 
 ---
 
-Per a una comparativa de preus amb tota la comarca, consulta la [guia de preus d'habitatge a la Cerdanya](/inmobiliaria/preu-habitatge-cerdanya). Per comparar amb la capital, tens la [guia de Puigcerdà](/inmobiliaria/comprar-casa-puigcerda). Per als impostos de la compra, el [càlcul complet d'impostos](/inmobiliaria/impostos-compra-habitatge-cerdanya).
+Per a una comparativa de preus amb tota la comarca, consulta la [guia de preus d'habitatge a la Cerdanya](/guies/preu-habitatge-cerdanya). Per comparar amb la capital, tens la [guia de Puigcerdà](/guies/comprar-casa-puigcerda). Per als impostos de la compra, el [càlcul complet d'impostos](/guies/impostos-compra-habitatge-cerdanya).
 
 ---
 
@@ -139,7 +139,7 @@ Per a una comparativa de preus amb tota la comarca, consulta la [guia de preus d
 - [Lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya)
 - [Invertir a la Cerdanya](/guies/invertir-cerdanya)
 
-*Darrera actualització: 2026. L'oferta a Llívia és escassa i canvia sovint. Contacta directament amb [immobiliàries de la Cerdanya](/inmobiliaria/agencies) que cobreixi el municipi.*
+*L'oferta a Llívia és escassa i canvia sovint. Contacta directament amb [immobiliàries de la Cerdanya](/inmobiliaria) que cobreixi el municipi.*
 
 
 ---
@@ -147,7 +147,7 @@ Per a una comparativa de preus amb tota la comarca, consulta la [guia de preus d
 ## Guies relacionades
 
 → [Guia completa de Llívia: l'enclavament espanyol dins França](/pobles/llivia)
-→ [Immobiliària a Llívia: preus i mercat 2026](/pobles/llivia/immobiliaria)
+→ [Immobiliària a Llívia: preus i mercat](/pobles/llivia/immobiliaria)
 → [Comprar casa a Puigcerdà](/guies/comprar-casa-puigcerda)
 → [Comprar casa a Bellver de Cerdanya](/guies/comprar-casa-bellver-cerdanya)
 → [Visió general del mercat immobiliari de la Cerdanya](/guies/comprar-casa-cerdanya)

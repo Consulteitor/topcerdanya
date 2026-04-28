@@ -1,5 +1,5 @@
 **Slug:** `preu-habitatge-cerdanya`
-**Meta description:** Anàlisi completa del preu de l'habitatge a la Cerdanya el 2026: preu per m² per municipi, evolució dels preus, comparativa per tipus de propietat i tendències del mercat immobiliari.
+**Meta description:** Anàlisi completa del preu de l'habitatge a la Cerdanya: preu per m² per municipi, evolució dels preus, comparativa per tipus de propietat i tendències del mercat immobiliari.
 
 ---
 
@@ -11,20 +11,20 @@ Aquesta guia recull les dades més actualitzades del mercat, analitzades per mun
 
 ## La Cerdanya en el context català: un mercat d'elit
 
-La Cerdanya és, de manera consistent, una de les comarques amb el preu per metre quadrat més alt de Catalunya. El 2026, el preu mitjà de l'habitatge usat a la comarca se situa al voltant dels **3.000–3.200 €/m²**, per damunt de comarques com el Baix Empordà, el Gironès o el Maresme.
+La Cerdanya és, de manera consistent, una de les comarques amb el preu per metre quadrat més alt de Catalunya. El preu mitjà de l'habitatge usat a la comarca se situa al voltant dels **3.000–3.200 €/m²**, per damunt de comarques com el Baix Empordà, el Gironès o el Maresme.
 
 Només tres àmbits territorials superen habitualment la Cerdanya en preu: el Barcelonès, l'Aran i el Garraf. Puigcerdà, la capital de la comarca, ocupa el **tercer lloc** entre els municipis catalans amb el preu per metre quadrat més elevat, amb valors que s'acosten o superen els 2.500 €/m² de mitjana (i molt per sobre en les zones més exclusives).
 
 Aquesta posició no és nova. En menys d'una dècada, el preu del metre quadrat a la comarca ha pujat al voltant de 1.000 euros. I la tendència no mostra signes de revertir-se.
 
 **Per entendre el context:**
-- Si estàs pensant en comprar, consulta la nostra [guia completa per comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya).
-- Si t'interessa el lloguer, tens la guia sobre [lloguer de temporada a la Cerdanya](/inmobiliaria/lloguer-temporada-cerdanya).
-- Per contactar amb una [immobiliària local](/inmobiliaria/agencies), revisa el nostre directori.
+- Si estàs pensant en comprar, consulta la nostra [guia completa per comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya).
+- Si t'interessa el lloguer, tens la guia sobre [lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya).
+- Per contactar amb una [immobiliària local](/inmobiliaria), revisa el nostre directori.
 
 ---
 
-## Preu per metre quadrat per municipi (2026)
+## Preu per metre quadrat per municipi
 
 Les diferències entre municipis son importants. Aquí una estimació basada en les dades del mercat:
 
@@ -194,7 +194,7 @@ No hi ha indicadors clars que apuntin a una correcció significativa. La demanda
 - [Comprar casa a Alp](/guies/comprar-casa-alp)
 - [Comprar casa a Llívia](/guies/comprar-casa-llivia)
 
-*Darrera actualització: 2026. Dades orientatives basades en el mercat actual. Per a valoracions concretes, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria/agencies) o revisa les propietats en venda al nostre [directori de propietats](/inmobiliaria/propietats).*
+*Dades orientatives basades en el mercat actual. Per a valoracions concretes, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria) o revisa les propietats en venda al nostre [directori de propietats](/inmobiliaria).*
 
 
 ---

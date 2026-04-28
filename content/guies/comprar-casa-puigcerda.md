@@ -136,7 +136,7 @@ Puigcerdà és una capital de comarca atípica per la seva condició de destí t
 
 ---
 
-Per veure propietats disponibles a Puigcerdà, consulta el nostre [directori de propietats](/inmobiliaria/propietats). Per a la guia de compravenda completa, tens [com comprar casa a la Cerdanya](/inmobiliaria/comprar-casa-cerdanya). Si prefereixes una opció amb preus inferiors, consulta la [guia per comprar a Bellver de Cerdanya](/inmobiliaria/comprar-casa-bellver-cerdanya).
+Per veure propietats disponibles a Puigcerdà, consulta el nostre [directori de propietats](/inmobiliaria). Per a la guia de compravenda completa, tens [com comprar casa a la Cerdanya](/guies/comprar-casa-cerdanya). Si prefereixes una opció amb preus inferiors, consulta la [guia per comprar a Bellver de Cerdanya](/guies/comprar-casa-bellver-cerdanya).
 
 ---
 

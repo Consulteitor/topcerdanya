@@ -112,7 +112,7 @@ En primavera las inmobiliarias están tranquilas. Los compradores de invierno ya
 
 Además, enamorarse de un pueblo en primavera es más fácil. Un fin de semana de mayo en Bellver o Meranges, paseando sin aglomeraciones, es exactamente el contexto en el que muchas decisiones de compra empiezan.
 
-Si estás en esa fase, en nuestro [directorio de inmobiliarias de la Cerdanya](/inmobiliaria/agencies) encontrarás las agencias locales de referencia.
+Si estás en esa fase, en nuestro [directorio de inmobiliarias de la Cerdanya](/inmobiliaria) encontrarás las agencias locales de referencia.
 
 ---
 

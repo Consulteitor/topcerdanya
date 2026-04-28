@@ -1,5 +1,5 @@
 **Slug:** `comprar-casa-cerdanya`
-**Meta description:** Guia completa per comprar casa a la Cerdanya el 2026: preus per municipi, tipus de propietats, impostos, consells legals i les millors zones. Tot el que necessites saber abans de signar.
+**Meta description:** Guia completa per comprar casa a la Cerdanya: preus per municipi, tipus de propietats, impostos, consells legals i les millors zones. Tot el que necessites saber abans de signar.
 
 ---
 
@@ -18,13 +18,13 @@ El motiu és senzill: el 64% dels habitatges de la comarca són segones residèn
 En menys d'una dècada, el preu del metre quadrat ha pujat prop de 1.000 euros. I no hi ha senyals que la tendència s'aturi.
 
 **Relació amb altres guies:**
-- Si el que busques és [llogar per temporada a la Cerdanya](/inmobiliaria/lloguer-temporada-cerdanya), tens una guia específica.
-- Si vols entendre [els preus per municipi](/inmobiliaria/preu-habitatge-cerdanya), hem preparat una anàlisi detallada.
-- Si prefereixes contactar directament amb una [immobiliària de la Cerdanya](/inmobiliaria/agencies), al nostre directori hi tens les principals.
+- Si el que busques és [llogar per temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya), tens una guia específica.
+- Si vols entendre [els preus per municipi](/guies/preu-habitatge-cerdanya), hem preparat una anàlisi detallada.
+- Si prefereixes contactar directament amb una [immobiliària de la Cerdanya](/inmobiliaria), al nostre directori hi tens les principals.
 
 ---
 
-## Preus orientatius per zona (2026)
+## Preus orientatius per zona
 
 Els preus canvien molt en funció del municipi i del tipus de propietat. Aquí tens una aproximació basada en dades recents del mercat:
 
@@ -121,7 +121,7 @@ Demana sempre una **nota simple del Registre de la Propietat**. Ha de coincidir 
 Sense cèdula d'habitabilitat vigent no pots escripturar ni contractar subministraments. Moltes cases antigues a la Cerdanya han quedat sense cèdula per manca de renovació. El venedor l'ha de facilitar o renovar prèviament.
 
 ### Llicències turístiques
-Si el teu objectiu és llogar la propietat, comprova que disposi de llicència turística o que sigui susceptible d'obtenir-la. A la Cerdanya hi ha molta demanda de lloguer vacacional, però la normativa és estricta: sense llicència no pots anunciar la propietat a Airbnb ni similars. Consulta la guia sobre [llicències turístiques a la Cerdanya](/inmobiliaria/llicencia-turistica-cerdanya) per entendre el procés.
+Si el teu objectiu és llogar la propietat, comprova que disposi de llicència turística o que sigui susceptible d'obtenir-la. A la Cerdanya hi ha molta demanda de lloguer vacacional, però la normativa és estricta: sense llicència no pots anunciar la propietat a Airbnb ni similars. Consulta la guia sobre [llicències turístiques a la Cerdanya](/guies/llicencia-turistica-cerdanya) per entendre el procés.
 
 ### Estatuts de la comunitat de propietaris
 En una urbanització, llegeix els estatuts abans de comprar. Alguns prohibeixen animals de companyia, estableixen restriccions d'ús, o tenen deutes comunitaris que es traslladen al nou propietari.
@@ -143,7 +143,15 @@ La rendibilitat del lloguer turístic a la Cerdanya pot ser atractiva, especialm
 
 Tingues en compte que aquest rendiment ha de fer front a despeses de gestió (agència o autogestió), manteniment, assegurança, i tributs sobre els ingressos de lloguer. La rendibilitat neta sol quedar entre el 3% i el 6% anual sobre el capital invertit.
 
-Per a una anàlisi detallada sobre inversió i lloguers, consulta la nostra guia [Invertir en immobiliària a la Cerdanya](/inmobiliaria/invertir-cerdanya).
+Per a una anàlisi detallada sobre inversió i lloguers, consulta la nostra guia [Invertir en immobiliària a la Cerdanya](/guies/invertir-cerdanya).
+
+### Comprar per reformar: una opció amb marge
+
+Una tercera via que molts compradors no consideren: adquirir una propietat que necessita intervenció a un preu inferior al mercat i reformar-la al gust. A la Cerdanya, hi ha un nombre significatiu de cases antigues dels anys 70–80 en urbanitzacions consolidades que es venen per sota del preu de mercat justament perquè necessiten actualització.
+
+El càlcul és net: si el preu de la propietat és un 20–30% per sota del mercat, i el cost de la reforma representa menys d'aquest diferencial, pots accedir a una casa millor de la que pots pagar directament. L'equació funciona especialment bé a Puigcerdà centre i a les urbanitzacions de Bolvir i Ger, on el valor final d'una propietat reformada és considerablement superior al cost d'entrada.
+
+El risc és la gestió de l'obra des de la distància i els imprevistos de construcció. Consulta la nostra [guia per reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya) per entendre costos reals, llicències i com trobar constructors locals de confiança.
 
 ---
 
@@ -159,7 +167,7 @@ Fes fotos de tot, inclosa la caixa de llums, la caldera, la instal·lació d'aig
 No tinguis por de negociar. El mercat és actiu però no urgent per al venedor habitual. Un 5–8% de marge de negociació és habitual. Si la propietat porta molt temps al mercat, el marge pot ser major.
 
 **Amb l'immobiliària:**
-Treballa amb professionals locals que coneguin el mercat de la comarca. Un bon agent immobiliari a la Cerdanya et pot evitar errors que costen molt diners. Consulta el nostre [directori d'immobiliàries de la Cerdanya](/inmobiliaria/agencies) per trobar professionals de confiança.
+Treballa amb professionals locals que coneguin el mercat de la comarca. Un bon agent immobiliari a la Cerdanya et pot evitar errors que costen molt diners. Consulta el nostre [directori d'immobiliàries de la Cerdanya](/inmobiliaria) per trobar professionals de confiança.
 
 ---
 
@@ -202,7 +210,7 @@ L'Agència de l'Habitatge de Catalunya té línies d'ajuts per a compra d'habita
 - [Reformar una casa a la Cerdanya](/guies/reformar-casa-cerdanya)
 - [Mudar-se a viure a la Cerdanya](/guies/mudarse-viure-cerdanya)
 
-*Darrera actualització: 2026. Tota la informació sobre preus és orientativa i pot variar. Per a assessorament personalitzat, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria/agencies).*
+*Tota la informació sobre preus és orientativa i pot variar. Per a assessorament personalitzat, consulta una [immobiliària especialitzada en la Cerdanya](/inmobiliaria).*
 
 
 ---

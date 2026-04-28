@@ -1,5 +1,5 @@
 **Slug:** `lloguer-hivern-cerdanya`
-**Meta description:** Guia completa per trobar lloguer d'hivern a la Cerdanya el 2026: preus per zona, quan buscar, La Molina vs Masella, Puigcerdà, consells per al contracte i les millors zones per a famílies.
+**Meta description:** Guia completa per trobar lloguer d'hivern a la Cerdanya: preus per zona, quan buscar, La Molina vs Masella, Puigcerdà, consells per al contracte i les millors zones per a famílies.
 
 ---
 
@@ -24,7 +24,7 @@ La temporada d'hivern a la Cerdanya s'entén habitualment com el període de nov
 
 ---
 
-## Preus del lloguer d'hivern per zona (2026)
+## Preus del lloguer d'hivern per zona
 
 Els preus varien significativament en funció de la proximitat a les pistes i la tipologia de propietat.
 
@@ -112,7 +112,7 @@ Aquesta és la informació més important de tota la guia: **si esperes massa, n
 Idealista, Habitaclia i Yaencontre son els canals principals. Filtra per "temporada" i "hivern" (o "invierno" en castellà, ja que molts anuncis estan en castellà tot i ser a Catalunya). Activa alertes per rebre notificació d'oferta nova immediatament.
 
 ### Immobiliàries especialitzades locals
-Les agències de la comarca gestionen una part important de l'oferta de lloguer d'hivern, incloent propietats que mai arriben als portals generalistes. Contacta directament amb Grus Pla, Activa Cerdanya, Habit Cerdanya, Finques Moixeró i altres agències del [directori d'immobiliàries](/inmobiliaria/agencies). Diga'ls exactament el que busques (zona, nombre d'habitacions, pressupost, dates) i demana que t'avisin de noves entrades.
+Les agències de la comarca gestionen una part important de l'oferta de lloguer d'hivern, incloent propietats que mai arriben als portals generalistes. Contacta directament amb Grus Pla, Activa Cerdanya, Habit Cerdanya, Finques Moixeró i altres agències del [directori d'immobiliàries](/inmobiliaria). Diga'ls exactament el que busques (zona, nombre d'habitacions, pressupost, dates) i demana que t'avisin de noves entrades.
 
 ### Propietaris directes (sense immobiliaria)
 Existeixen grups de Facebook dedicats a lloguers a la Cerdanya on propietaris publiquen directament. L'avantatge és que no hi ha comissió d'agència. El desavantatge és la necessitat de gestionar el contracte directament i verificar la legitimitat del propietari. Sempre signa un contracte i mai transfereixis diners sense haver vist la propietat o verificat la identitat del propietari.
@@ -168,7 +168,7 @@ El risc d'una temporada dolenta de neu és real. En anys de poc pluja de neu, le
 
 ---
 
-Per veure l'oferta de [lloguers de temporada disponibles a la Cerdanya](/inmobiliaria/lloguers), consulta el nostre directori. Per a una visió general del mercat de lloguer de temporada, tens la [guia completa de lloguer de temporada a la Cerdanya](/inmobiliaria/lloguer-temporada-cerdanya).
+Per veure l'oferta de [lloguers de temporada disponibles a la Cerdanya](/inmobiliaria), consulta el nostre directori. Per a una visió general del mercat de lloguer de temporada, tens la [guia completa de lloguer de temporada a la Cerdanya](/guies/lloguer-temporada-cerdanya).
 
 ---
 
@@ -182,7 +182,7 @@ Per veure l'oferta de [lloguers de temporada disponibles a la Cerdanya](/inmobil
 - [Llicència turística a la Cerdanya](/guies/llicencia-turistica-cerdanya)
 - [Comprar casa a Alp (prop de les pistes)](/guies/comprar-casa-alp)
 
-*Darrera actualització: 2026. Preus orientatius basats en el mercat actual, subjectes a variació.*
+*Preus orientatius basats en el mercat actual, subjectes a variació.*
 
 
 ---
