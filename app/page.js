@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { getNegocis, getNoticies, getGuies, getAgenda } from '../lib/sheets';
+import { getGuideHref, getGuideSlug, isCanonicalPublishedGuide } from '../lib/guideCanonical';
 
 export const revalidate = 3600; // ISR 1h
 
@@ -113,7 +114,7 @@ export default async function HomePage() {
 
   const noticies = totsNoticies.slice(0, 4);
   const negocisDestacats = totsNegocis.filter(n => n.destacat).slice(0, 5);
-  const guiesPublicades = totesGuies.filter(g => !g.estat || g.estat === 'publicat');
+  const guiesPublicades = totesGuies.filter(isCanonicalPublishedGuide);
   const slots = assignarSlots(guiesPublicades);
 
   return (
@@ -122,7 +123,7 @@ export default async function HomePage() {
       {/* ══ HERO GUIA DESTACADA ══════════════════════════════ */}
       {slots.hero && (() => {
         const g = slots.hero;
-        const slug = g.slug || g.id;
+        const href = getGuideHref(g);
         return (
           <section style={{ marginBottom: '0', paddingBottom: '40px', borderBottom: `1px solid ${C.black}` }}>
             <div style={{ padding: '20px 0 16px' }}>
@@ -136,7 +137,7 @@ export default async function HomePage() {
               gap: '40px', alignItems: 'center',
             }}>
               {g.imatge && (
-                <Link href={`/guies/${slug}`} style={{ textDecoration: 'none' }}>
+                <Link href={href} style={{ textDecoration: 'none' }}>
                   <div style={{ aspectRatio: '16/9', overflow: 'hidden', position: 'relative' }}>
                     <Image src={g.imatge} alt={g.titol}
                       fill priority
@@ -151,7 +152,7 @@ export default async function HomePage() {
                   letterSpacing: '0.2em', textTransform: 'uppercase',
                   color: C.accent, marginBottom: '12px',
                 }}>{g.categoria || 'Guia'}</div>
-                <Link href={`/guies/${slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <Link href={href} style={{ textDecoration: 'none', color: 'inherit' }}>
                   <h1 style={{
                     fontFamily: C.serif, fontSize: 'clamp(24px,3.5vw,44px)', fontWeight: 900,
                     lineHeight: 1.05, letterSpacing: '-0.02em', marginBottom: '16px', color: C.black,
@@ -164,7 +165,7 @@ export default async function HomePage() {
                     display: '-webkit-box', WebkitLineClamp: 4, WebkitBoxOrient: 'vertical', overflow: 'hidden',
                   }}>{g.meta_description}</p>
                 )}
-                <Link href={`/guies/${slug}`} style={{ textDecoration: 'none' }}>
+                <Link href={href} style={{ textDecoration: 'none' }}>
                   <span style={{
                     fontFamily: C.sans, fontSize: '11px', fontWeight: 600,
                     letterSpacing: '0.15em', textTransform: 'uppercase',
@@ -218,9 +219,10 @@ export default async function HomePage() {
           gap: '2px', background: C.black, marginBottom: '2px',
         }}>
           {[slots.home1, slots.home2].filter(Boolean).map(g => {
-            const slug = g.slug || g.id;
+            const slug = getGuideSlug(g);
+            const href = getGuideHref(g);
             return (
-              <Link key={slug} href={`/guies/${slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+              <Link key={slug} href={href} style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div style={{ background: C.white, padding: '24px' }}>
                   {g.imatge && (
                     <div style={{ width: '100%', aspectRatio: '16/9', overflow: 'hidden', marginBottom: '16px' }}>
@@ -259,9 +261,10 @@ export default async function HomePage() {
           gap: '2px', background: C.black,
         }}>
           {[slots.home3, slots.home4].filter(Boolean).map(g => {
-            const slug = g.slug || g.id;
+            const slug = getGuideSlug(g);
+            const href = getGuideHref(g);
             return (
-              <Link key={slug} href={`/guies/${slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+              <Link key={slug} href={href} style={{ textDecoration: 'none', color: 'inherit' }}>
                 <div style={{
                   background: C.white, padding: '20px',
                   display: 'grid', gridTemplateColumns: g.imatge ? 'auto minmax(0,1fr)' : '1fr',
@@ -351,9 +354,9 @@ export default async function HomePage() {
               </div>
             ))}
             <div style={{ marginTop: '20px', paddingTop: '16px', borderTop: '1px solid #e8e4dc' }}>
-              <a href='/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany' style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#9a9489', textDecoration: 'none', borderBottom: '1px solid #9a9489', paddingBottom: '2px' }}>
+              <Link href='/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany' style={{ fontFamily: "'IBM Plex Sans', Helvetica, sans-serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#9a9489', textDecoration: 'none', borderBottom: '1px solid #9a9489', paddingBottom: '2px' }}>
                 Planifica la teva visita → Guia completa de la Cerdanya
-              </a>
+              </Link>
             </div>
           </div>
 

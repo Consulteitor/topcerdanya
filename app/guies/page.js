@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { getGuideHref, getGuideSlug, isCanonicalPublishedGuide } from "@/lib/guideCanonical";
 
 export const revalidate = 3600; // 1h — apareixen guies noves cada dia
 import { getGuies } from "@/lib/sheets";
@@ -60,9 +61,8 @@ function perCategoria(guies, cat) {
 
 // Targeta petita (sidebar o grid)
 function TarjetaPetita({ guia }) {
-  const slug = guia.slug || guia.id;
   return (
-    <Link href={`/guies/${slug}`} style={{ textDecoration: "none", color: "inherit", display: "block" }}>
+    <Link href={getGuideHref(guia)} style={{ textDecoration: "none", color: "inherit", display: "block" }}>
       <div style={{
         padding: "16px 0",
         borderBottom: `1px solid ${C.warmGray}`,
@@ -94,7 +94,6 @@ function TarjetaPetita({ guia }) {
 function BlocCategoria({ titol, etiqueta, guies, showDivider = true }) {
   if (!guies || guies.length === 0) return null;
   const [destacada, ...resta] = guies;
-  const slug = destacada.slug || destacada.id;
   const laterals = resta.slice(0, 3);
 
   return (
@@ -132,7 +131,7 @@ function BlocCategoria({ titol, etiqueta, guies, showDivider = true }) {
         alignItems: "start",
       }}>
         {/* DESTACADA */}
-        <Link href={`/guies/${slug}`} style={{ textDecoration: "none", color: "inherit" }}>
+        <Link href={getGuideHref(destacada)} style={{ textDecoration: "none", color: "inherit" }}>
           <article style={{ cursor: "pointer" }}>
             {destacada.imatge && (
               <div style={{ width: "100%", aspectRatio: "16/9", overflow: "hidden", marginBottom: "20px", position: "relative" }}>
@@ -215,7 +214,7 @@ function BlocTemporades({ hivern, primavera, estiu, tardor }) {
         <span style={{
           fontFamily: "'Playfair Display', Georgia, serif",
           fontSize: "clamp(16px,2.5vw,20px)", fontWeight: 700, color: C.black,
-        }}>Per estació de l'any</span>
+        }}>Per estació de l&apos;any</span>
       </div>
 
       <div style={{
@@ -226,7 +225,6 @@ function BlocTemporades({ hivern, primavera, estiu, tardor }) {
       }}>
         {temporades.map(({ key, label, icon, guies }) => {
           const dest = guies[0];
-          const slug = dest?.slug || dest?.id;
           return (
             <div key={key} style={{ background: C.white, padding: "clamp(16px,3vw,24px)" }}>
               <div style={{
@@ -237,7 +235,7 @@ function BlocTemporades({ hivern, primavera, estiu, tardor }) {
 
               {/* Destacada de temporada */}
               {dest && (
-                <Link href={`/guies/${slug}`} style={{ textDecoration: "none", color: "inherit" }}>
+                <Link href={getGuideHref(dest)} style={{ textDecoration: "none", color: "inherit" }}>
                   {dest.imatge && (
                     <div style={{ width: "100%", aspectRatio: "4/3", overflow: "hidden", marginBottom: "12px", position: "relative" }}>
                       <Image src={dest.imatge} alt={dest.titol}
@@ -267,21 +265,24 @@ function BlocTemporades({ hivern, primavera, estiu, tardor }) {
               )}
 
               {/* Resta de guies de la temporada */}
-              {guies.slice(1, 3).map(g => (
-                <Link key={g.slug || g.id} href={`/guies/${g.slug || g.id}`}
-                  style={{ textDecoration: "none", color: "inherit", display: "block",
-                    borderTop: `1px solid ${C.warmGray}`, marginTop: "12px", paddingTop: "12px" }}>
-                  <span style={{
-                    fontFamily: "'Playfair Display', Georgia, serif",
-                    fontSize: "13px", fontWeight: 600, color: C.black,
-                    lineHeight: 1.3, display: "block", marginBottom: "4px",
-                  }}>{g.titol}</span>
-                  <span style={{
-                    fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
-                    fontSize: "10px", color: C.accent,
-                  }}>→</span>
-                </Link>
-              ))}
+              {guies.slice(1, 3).map(g => {
+                const itemSlug = getGuideSlug(g);
+                return (
+                  <Link key={itemSlug} href={getGuideHref(g)}
+                    style={{ textDecoration: "none", color: "inherit", display: "block",
+                      borderTop: `1px solid ${C.warmGray}`, marginTop: "12px", paddingTop: "12px" }}>
+                    <span style={{
+                      fontFamily: "'Playfair Display', Georgia, serif",
+                      fontSize: "13px", fontWeight: 600, color: C.black,
+                      lineHeight: 1.3, display: "block", marginBottom: "4px",
+                    }}>{g.titol}</span>
+                    <span style={{
+                      fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
+                      fontSize: "10px", color: C.accent,
+                    }}>→</span>
+                  </Link>
+                );
+              })}
             </div>
           );
         })}
@@ -360,7 +361,9 @@ export default async function GuiesPage() {
   const guies = await getGuies();
 
   // Classificar totes
-  const totes = guies.map(g => ({ ...g, _cat: inferirCategoria(g) }));
+  const totes = guies
+    .filter(isCanonicalPublishedGuide)
+    .map(g => ({ ...g, _cat: inferirCategoria(g) }));
 
   // Guia hero: la marcada com destacada, o la primera amb imatge
   const hero = totes.find(g => g.destacada === "TRUE" || g.destacada === true)
@@ -369,7 +372,7 @@ export default async function GuiesPage() {
   // Essencials: les 3 guies pilars (busca per slug concret)
   const ESSENCIALS_SLUGS = [
     "que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
-    "on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026",
+    "restaurants-cerdanya",
     "alojamiento-cerdanya",
   ];
   const essencials = ESSENCIALS_SLUGS
@@ -421,15 +424,14 @@ export default async function GuiesPage() {
             fontFamily: "'IBM Plex Sans', Helvetica, sans-serif",
             fontSize: "10px", color: C.midGray, letterSpacing: "0.1em",
             textTransform: "uppercase",
-          }}>{guies.length} guies publicades</span>
+          }}>{totes.length} guies publicades</span>
         </div>
 
         {/* ── HERO ── */}
         {hero && (() => {
-          const slug = hero.slug || hero.id;
           return (
             <section style={{ marginBottom: "clamp(40px,6vw,64px)" }}>
-              <Link href={`/guies/${slug}`} style={{ textDecoration: "none", color: "inherit" }}>
+              <Link href={getGuideHref(hero)} style={{ textDecoration: "none", color: "inherit" }}>
                 <div style={{
                   display: "grid",
                   gridTemplateColumns: "minmax(0,3fr) minmax(0,2fr)",
@@ -506,9 +508,9 @@ export default async function GuiesPage() {
               gap: "2px", background: C.black,
             }}>
               {essencials.map(g => {
-                const slug = g.slug || g.id;
+                const slug = getGuideSlug(g);
                 return (
-                  <Link key={slug} href={`/guies/${slug}`}
+                  <Link key={slug} href={getGuideHref(g)}
                     style={{ textDecoration: "none", color: "inherit" }}>
                     <div style={{ background: C.white, padding: "clamp(20px,3vw,28px)" }}>
                       {g.imatge && (
@@ -578,9 +580,9 @@ export default async function GuiesPage() {
               gap: "2px", background: C.black,
             }}>
               {recents.map(g => {
-                const slug = g.slug || g.id;
+                const slug = getGuideSlug(g);
                 return (
-                  <Link key={slug} href={`/guies/${slug}`}
+                  <Link key={slug} href={getGuideHref(g)}
                     style={{ textDecoration: "none", color: "inherit" }}>
                     <div style={{ background: C.white, padding: "20px" }}>
                       {g.imatge && (
@@ -636,7 +638,7 @@ export default async function GuiesPage() {
             <span style={{
               fontFamily: "'Playfair Display', Georgia, serif",
               fontSize: "clamp(16px,2.5vw,20px)", fontWeight: 700, color: C.black,
-            }}>Totes les guies ({guies.length})</span>
+            }}>Totes les guies ({totes.length})</span>
           </div>
           <div style={{
             display: "grid",
@@ -644,9 +646,9 @@ export default async function GuiesPage() {
             gap: "1px", background: C.warmGray,
           }}>
             {totes.map(g => {
-              const slug = g.slug || g.id;
+              const slug = getGuideSlug(g);
               return (
-                <Link key={slug} href={`/guies/${slug}`}
+                <Link key={slug} href={getGuideHref(g)}
                   style={{ textDecoration: "none", color: "inherit" }}>
                   <div style={{
                     background: C.white, padding: "16px 20px",

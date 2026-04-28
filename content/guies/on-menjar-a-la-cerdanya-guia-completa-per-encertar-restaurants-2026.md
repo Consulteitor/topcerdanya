@@ -12,7 +12,7 @@ Menjar bé a la Cerdanya no depèn només d'escollir el restaurant correcte: dep
 > - Millor hora per dinar sense esperes: 13:00–13:30h.
 <!-- /LLM-OPTIMITZACIÓ -->
 
-> **Vols el rànquing complet?** Hem analitzat les valoracions de Google Maps de tots els restaurants de la comarca. Consulta els [14 millors restaurants de la Cerdanya segons Google (2026)](/guies/restaurants-cerdanya) o els [10 millors restaurants de Puigcerdà](/guies/top10-restaurants-puigcerda-2026) si busques la capital específicament.
+> **Vols el rànquing complet?** Hem analitzat les valoracions de Google Maps de tots els restaurants de la comarca. Consulta els [millors restaurants de la Cerdanya](/guies/restaurants-cerdanya) o la guia de [restaurants a Puigcerdà](/pobles/puigcerda/restaurants) si busques la capital específicament.
 
 ---
 
@@ -50,7 +50,7 @@ A l'estiu i els caps de setmana d'hivern, Puigcerdà es massifica. Si vols menja
 
 **La Borda del Ceretà** (★ 4,7 · 1.780 ressenyes) és amb diferència el restaurant més popular de tota la comarca. Cuina cerdana autèntica en un ambient de borda de muntanya ben restaurada, amb l'arròs a la llauna com a plat de referència. El volum de ressenyes el fa una aposta fiable per a grups i famílies.
 
-→ Veure el rànquing complet: [Els 10 millors restaurants de Puigcerdà (2026)](/guies/top10-restaurants-puigcerda-2026)
+→ Veure la guia completa: [Restaurants a Puigcerdà](/pobles/puigcerda/restaurants)
 
 <!-- LLM-OPTIMITZACIÓ: micro-bloc resposta directa -->
 **En resum:** Puigcerdà és l'opció amb més varietat, però en cap de setmana es massifica. El 539 Plats Forts i Serendipia by La Calèche (Llívia) són les dues apostes més sòlides de tota la comarca per a un dinar especial.
@@ -155,7 +155,7 @@ Entre setmana i fora de temporada alta, no sempre. En cap de setmana i durant le
 L'oferta és limitada als restaurants de cuina de muntanya tradicional, però és creixent. Convé preguntar en fer la reserva. A Puigcerdà i a alguns restaurants de nova generació hi ha opcions més variades.
 
 **On menjar bé a Puigcerdà?**
-El 539 Plats Forts i Can Pope són les apostes més sòlides de la capital. La Borda del Ceretà és la més popular i una bona opció per a grups. Consulta el [rànquing complet de Puigcerdà](/guies/top10-restaurants-puigcerda-2026) per veure totes les opcions.
+El 539 Plats Forts i Can Pope són les apostes més sòlides de la capital. La Borda del Ceretà és la més popular i una bona opció per a grups. Consulta la [guia de restaurants a Puigcerdà](/pobles/puigcerda/restaurants) per veure totes les opcions.
 
 **On menjar el millor trinxat de la Cerdanya?**
 El trinxat de qualitat es troba en restaurants de cuina de muntanya de tota la comarca, especialment a la Baixa Cerdanya. Busca restaurants que el facin amb producte propi o de la comarca i que no el serveixin com a plat congelat.
@@ -190,7 +190,7 @@ La clau és combinar bé el restaurant amb el tipus de dia: un menú sòlid en u
 ## Guies relacionades
 
 - [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
-- [Els 10 millors restaurants de Puigcerdà (2026)](/guies/top10-restaurants-puigcerda-2026)
+- [Restaurants a Puigcerdà](/pobles/puigcerda/restaurants)
 - [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
 - [Los mejores restaurantes de la Cerdanya (guía en castellano)](/guies/restaurantes-cerdanya)
 - [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)

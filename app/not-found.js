@@ -40,7 +40,7 @@ const TARGETES = [
 
 const CATEGORIES = [
   { label: "Pobles", href: "/pobles" },
-  { label: "Restaurants", href: "/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026" },
+  { label: "Restaurants", href: "/guies/restaurants-cerdanya" },
   { label: "Amb nens", href: "/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026" },
   { label: "Cases rurals", href: "/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir" },
   { label: "Rutes", href: "/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026" },

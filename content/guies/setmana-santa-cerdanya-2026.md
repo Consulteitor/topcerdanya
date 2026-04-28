@@ -205,8 +205,8 @@ La tradició de la mona de Pasqua és molt present a la Cerdanya. Les pastisseri
 ### Restaurants recomanats
 Per Setmana Santa, els restaurants amb més demanda son els que combinen cuina cerdana de qualitat amb espai per a famílies. Alguns dels millors valorats de la comarca:
 
-→ [Els 14 millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
-→ [Top 10 restaurants de Puigcerdà](/guies/top10-restaurants-puigcerda-2026)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+→ [Restaurants a Puigcerdà](/pobles/puigcerda/restaurants)
 → [On menjar a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 → [On menjar a Llívia](/pobles/llivia/restaurants)
 
