@@ -51,7 +51,7 @@ Quatre dels catorze millors restaurants de la comarca per nota de Google Maps es
 El consell més important: **reserva en cap de setmana**. Llívia rep molts visitants de Puigcerdà i els millors llocs s'omplen ràpidament.
 
 → [Tots els restaurants de Llívia](/pobles/llivia/restaurants)
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 
 ---
 
@@ -108,7 +108,7 @@ Llívia és una destinació familiar molt adequada. El nucli és compacte i segu
 - Mercat de dissabte a la Plaça Major (experiència local autèntica)
 
 → [Llívia amb nens](/pobles/llivia/amb-nens)
-→ [Activitats familiars a la Cerdanya](/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
+
 
 ---
 
@@ -116,7 +116,7 @@ Llívia és una destinació familiar molt adequada. El nucli és compacte i segu
 
 El mercat immobiliari de Llívia és entre un 20% i un 35% més barat que Puigcerdà per a tipologies equivalents, però l'oferta és molt petita. La singularitat del lloc genera una demanda específica de compradors que valoren la tranquil·litat i la posició fronterera.
 
-**Preus orientatius 2026:**
+**Preus orientatius:**
 
 | Tipus de propietat | Preu orientatiu |
 |---|---|
@@ -199,4 +199,4 @@ Puigcerdà (6 km), Bolvir (10 km), Das (15 km) i Alp (20 km) per la banda espany
 
 ---
 
-*Guia editorial de Top Cerdanya · Actualitzada el 2026*
+*Guia editorial de Top Cerdanya*
