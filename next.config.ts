@@ -114,6 +114,16 @@ const nextConfig: NextConfig = {
       },
       // Redirects guies any → evergreen
       {
+        source: '/guies/que-ver-en-la-cerdanya',
+        destination: '/guies/que-hacer-en-la-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/que-ver-en-la-cerdanya/',
+        destination: '/guies/que-hacer-en-la-cerdanya',
+        permanent: true,
+      },
+      {
         source: '/guies/top10-restaurants-puigcerda-2026',
         destination: '/guies/restaurants-cerdanya',
         permanent: true,
