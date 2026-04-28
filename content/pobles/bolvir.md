@@ -42,6 +42,32 @@ El centre del poble — unes quantes cases de pedra al voltant d'una plaça disc
 
 ---
 
+## On dormir a Bolvir: el millor allotjament de la Cerdanya
+
+Bolvir concentra la millor oferta d'allotjament de tota la comarca. Mentre Puigcerdà té quantitat, Bolvir té qualitat i tranquil·litat.
+
+**Parador de Turisme de Bolvir** — un dels paraderos més sol·licitats del nord de Catalunya. Situat en un edifici senyorial del segle XX, amb jardins, piscina i vistes a la plana cerdana. El restaurant del Parador utilitza producte local i és una opció de qualitat per a qui no s'allotja però vol dinar bé fora de Puigcerdà. Reserva amb antelació, especialment a l'agost i als caps de setmana de neu.
+
+**Can Cuch** — casa rural de disseny al costat del camp de golf. Cinc habitacions úniques en una masia rehabilitada amb criteris contemporanis, spa propi i un ambient que combina el millor del rústic i el modern. És l'opció de luna de mel i escapades de parella de referència de la comarca.
+
+**Mas Tapiol** — manor house del segle XII amb habitacions de molt alta gamma. Jardí de tres hectàrees, piscina exterior i una sensació de privacitat que és difícil trobar a la comarca. El spa del Mas Tapiol és accessible per dies, fins i tot per als qui no s'allotgen.
+
+**Per a famílies:** les cases rurals del terme de Bolvir ofereixen cuina pròpia, jardí i accés a camp a través de la plana. Una opció molt més econòmica que els establiments de gamma alta, però amb la mateixa tranquil·litat.
+
+→ [Allotjament rural a la Cerdanya: guia per triar](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+
+---
+
+## Com arribar a Bolvir
+
+**En cotxe des de Barcelona:** Per la C-16 i el Túnel del Cadí fins a Puigcerdà, i des d'allà per la N-260 cap a l'oest uns 3 km. Total: 1h 45 min en condicions normals. Bolvir s'agafa en el primer desviament a l'esquerra sortint de Puigcerdà.
+
+**En tren:** La línia R3 de Rodalies connecta Barcelona Sants amb Puigcerdà en 1h 50 min (trens cada dues hores). Des de l'estació de Puigcerdà, Bolvir és a 10 minuts caminant o 3 minuts en taxi.
+
+**Aparcament:** El nucli de Bolvir i l'entorn del camp de golf disposen d'aparcament sense restriccions. No hi ha problemes d'aparcament en cap època de l'any.
+
+---
+
 ## Connexions amb la comarca
 
 Bolvir és al cor de la plana cerdana. Puigcerdà a 3 minuts, Llívia a 10, Bellver de Cerdanya a 25, La Molina a 20.
@@ -63,3 +89,15 @@ Sí, té horaris estacionals. Es recomana confirmar horaris abans de la visita.
 
 **Bolvir té serveis bàsics?**
 El nucli té els serveis mínims. Per a farmàcia, supermercat i restaurants, Puigcerdà és a tres minuts.
+
+**El Parador de Bolvir és car?**
+Els preus del Parador oscil·len entre 150 i 350 euros per nit depenent de la temporada. Molt per sobre dels apartaments turístics de Puigcerdà, però competitiu amb allotjaments de qualitat similar. El restaurant és accessible sense allotjar-se.
+
+**Bolvir és una bona base per esquiar?**
+Sí, especialment si l'allotjament és el factor prioritari. La Molina és a 20 minuts en cotxe i Masella a 25. Per a qui combina esquí amb qualitat d'allotjament i gastronomia, Bolvir és superior a Les Molina o Alp com a base.
+
+**Quin és el millor allotjament de la Cerdanya?**
+Depèn del criteri. El Parador és el més reconegut institucionalment. Can Cuch és el preferit per a escapades de parella i luna de mel. Mas Tapiol per a màxima privacitat i jardins. Els tres estan a Bolvir.
+
+**Quan és millor visitar Bolvir?**
+Bolvir funciona molt bé a l'estiu (golf, Castellot, base per explorar la comarca) i a l'hivern (esquí a prop, allotjaments de qualitat, tranquil·litat). La primavera és excel·lent per al camp de golf i les rutes per la plana. L'agost és la temporada alta de tots els allotjaments: reserva amb quatre o més setmanes d'antelació.
