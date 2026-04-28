@@ -1,5 +1,3 @@
-# Qué hacer en La Cerdanya: guía completa
-
 La Cerdanya es un valle pirenaico a dos horas de Barcelona con 300 días de sol al año, la mayor concentración de esquí nórdico de España y algunos de los mejores restaurantes de los Pirineos. No es el destino más famoso — y eso es exactamente lo que la hace especial.
 
 Esta guía está escrita desde dentro: cubrimos la comarca a fondo para que no pierdas tiempo con lugares que no valen la pena y no te pierdas los que sí.
