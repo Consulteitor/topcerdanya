@@ -21,13 +21,14 @@ export async function generateMetadata({ params }) {
   if (!guia) return { title: "Guia no trobada | Top Cerdanya" };
 
   const titol = guia.titol || slug;
-  const desc = guia.meta_description || `Guia completa sobre ${titol} a la Cerdanya. Informació pràctica i actualitzada 2026.`;
+  const titolSeo = guia.titol_seo || titol;
+  const desc = guia.meta_description || `Guia completa sobre ${titol} a la Cerdanya. Informació pràctica i actualitzada.`;
 
   return {
-    title: titol,
+    title: titolSeo,
     description: desc,
     openGraph: {
-      title: titol,
+      title: titolSeo,
       description: desc,
       url: `https://topcerdanya.com/guies/${slug}`,
       siteName: "Top Cerdanya",
