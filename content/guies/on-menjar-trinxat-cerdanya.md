@@ -6,7 +6,7 @@ Aquesta guia recull els restaurants on el trinxat val la pena. No és una llista
 
 ---
 
-## La referència popular: Hípica de Prats i Sansor
+## Millor trinxat popular: Hípica de Prats i Sansor
 
 Si preguntes a qualsevol habitant de la comarca on es menja el millor trinxat, la resposta és sempre la mateixa: l'Hípica. Un restaurant annexat a una hípica al petit municipi de Prats i Sansor, entre Bellver de Cerdanya i Alp, que funciona des de fa dècades sense cap cartell a fora, sense web, sense xarxes socials i sense cap concession a la modernitat gastronòmica.
 
@@ -20,7 +20,7 @@ El que fa el seu trinxat especial, a banda de la qualitat del producte local, é
 
 ---
 
-## La versió d'autor: La Formatgeria de Llívia
+## Millor trinxat d'autor: La Formatgeria de Llívia
 
 Ubicada en una antiga fàbrica de formatges als prats de Gorguja, als afores de Llívia, La Formatgeria és des de fa dècades una referència gastronòmica de la comarca. Especialitzada en fondues i raclettes — i el formatge és clarament la seva ànima —, el seu trinxat és una versió contemporània que respecta l'esperit del plat però l'eleva.
 
@@ -34,7 +34,7 @@ Entorn idíl·lic, grans finestres amb vistes al Cadí, terrassa d'estiu especta
 
 ---
 
-## El menú de tota la vida: El Plat Rodó de Puigcerdà
+## Trinxat al menú del dia: El Plat Rodó de Puigcerdà
 
 Negoci familiar des del 1991 a l'Avinguda Catalunya de Puigcerdà, davant l'estació de tren. Cuina catalana de mercat, menú diari entre setmana i cap de setmana, racions abundants i preu molt raonable.
 
@@ -46,7 +46,7 @@ L'ambient és el d'un restaurant familiar de tota la vida: taules de fòrmica, s
 
 ---
 
-## El trinxat gastronòmic: Grau de l'Os (Bellver de Cerdanya)
+## Millor trinxat gastronòmic: Grau de l'Os (Bellver de Cerdanya)
 
 La Guia Repsol, en la seva distinció al Grau de l'Os, cita explícitament que el cuiner "treu partit al trinxat" com un dels plats que millor representa la seva cuina. No és un plat fix de carta — apareix per temporada, quan la col és al seu moment — però quan hi és, és de les versions més elaborades que pots trobar a la comarca.
 
@@ -58,7 +58,7 @@ El Grau de l'Os és un restaurant de cuina de mercat contemporània amb producte
 
 ---
 
-## Una sorpresa: El Celler de Bellver
+## Trinxat de temporada: El Celler de Bellver
 
 El Celler és un dels restaurants habituals de Bellver que apareix regularment en converses de comarca quan es parla de trinxat. L'espai — un celler reconvertit en restaurant, amb les taules de la planta superior com a reclam — té un ambient que encaixa perfectament amb el plat: pedra, fusta, llum baixa.
 
@@ -68,7 +68,7 @@ El trinxat és un dels primers fixos de la carta i és de les versions que gener
 
 ---
 
-## On menjar trinxat a Llívia: l'Hostal
+## Trinxat a Llívia: l'Hostal de la Plaça Major
 
 Per als qui busquen una opció econòmica a Llívia, l'Hostal de la Plaça Major ofereix un menú de cuina catalana de tota la vida — sense variants modernes, sense pretensions — a uns 15 euros. El trinxat forma part del menú de temporada i és exactament el que sembla: cuina casolana, producte local, sense complicacions.
 
@@ -106,9 +106,7 @@ La Formatgeria de Llívia serveix una versió d'autor molt bona, però no és la
 
 → [Guia completa del trinxat de la Cerdanya: recepta, origen i Festa del Trinxat](/guies/trinxat-de-la-cerdanya)
 → [Recepta tradicional del trinxat pas a pas](/guies/recepta-trinxat-de-la-cerdanya)
-→ [Els 14 millors restaurants de la Cerdanya](/guies/14-millors-restaurants-cerdanya-google-2026)
-→ [Restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
-→ [Restaurants a Llívia](/pobles/llivia/restaurants)
+→ [Trinxat de la Cerdanya en castellà: receta y dónde comerlo](/guies/trinxat-de-la-cerdanya-receta)
 
 ---
 
