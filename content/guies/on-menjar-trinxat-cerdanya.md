@@ -1,5 +1,3 @@
-# On menjar el millor trinxat a la Cerdanya: guia de restaurants
-
 El trinxat de la Cerdanya és el plat més icònic de la comarca. I com qualsevol plat icònic, n'hi ha versions molt bones i versions molt mediocres. La diferència entre un trinxat fet amb col d'hivern tocada pel fred i trumfes de la comarca, i un trinxat fet amb col de supermercat passada per la paella amb poc criteri, és abismal.
 
 Aquesta guia recull els restaurants on el trinxat val la pena. No és una llista de tots els que el posen a la carta — és una selecció dels que el fan bé, amb el context que necessites per triar.

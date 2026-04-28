@@ -1,5 +1,3 @@
-# Com arribar a la Cerdanya: tren, cotxe, BlaBlaCar i bus (guia actualitzada 2026)
-
 > **Avís d'actualització — abril 2026:** La línia de tren R3 té talls parcials actius per obres de modernització. Consulta la secció de tren per entendre la situació actual abans de planificar el viatge.
 
 La Cerdanya queda a menys de dues hores de Barcelona en cotxe, però hi ha més maneres d'arribar-hi del que molta gent sap. Aquesta guia explica totes les opcions amb honestitat: temps reals, preus orientatius i els pros i contres de cada una.

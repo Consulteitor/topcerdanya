@@ -1,5 +1,3 @@
-# Viajar a la Cerdanya con perro: la guía que ojalá hubieras tenido antes
-
 Llevas semanas pensando en escaparte al Pirineo. El problema es el de siempre: ¿qué hago con el perro? La respuesta, en la Cerdanya, es más sencilla de lo que crees: te lo llevas.
 
 El valle más grande de los Pirineos catalanes es uno de los destinos más cómodos de Catalunya para viajar con perro. Rutas de montaña donde puede ir suelto, ríos donde bañarse, pueblos tranquilos sin tráfico y una oferta de alojamiento pet friendly que ha crecido mucho en los últimos años. El truco está en saber filtrar bien, porque "admitimos mascotas" puede significar cosas muy distintas según el alojamiento.

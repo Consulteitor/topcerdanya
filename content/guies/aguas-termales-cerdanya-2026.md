@@ -1,5 +1,3 @@
-# Aguas termales en la Cerdanya: guía completa de baños y spas (2026)
-
 Pocos lo saben, pero la Cerdanya es uno de los destinos termales más interesantes de los Pirineos. A menos de dos horas de Barcelona, cuatro complejos de aguas sulfurosas naturales —tres en la Cerdanya francesa y uno en el lado catalán— ofrecen una experiencia muy distinta a la piscina climatizada de un hotel. Aquí el agua sale de la tierra. Y se nota.
 
 Esta guía está pensada para quien viaja a la Cerdanya y quiere añadir una tarde de aguas termales al plan. Con los precios actualizados para 2026, los horarios y una comparativa honesta de los cuatro.

@@ -1,5 +1,3 @@
-# Qué hacer en la Cerdanya en primavera: el valle del Pirineo cuando la montaña despierta
-
 Hay dos tipos de personas que visitan la Cerdanya: las que van en agosto y las que han descubierto la primavera. Las primeras vuelven a casa con fotos del lago lleno de gente. Las segundas reservan ya para el año siguiente.
 
 La primavera en la Cerdanya es lo que el verano promete y no siempre cumple: montaña accesible, pueblos tranquilos, restaurantes con mesa disponible y precios que recuerdan que esto no siempre fue un destino de moda.

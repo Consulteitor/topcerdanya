@@ -1,5 +1,3 @@
-# Puente del 1 de mayo 2026 en la Cerdaña: qué hacer, dónde dormir y cómo no arruinarlo
-
 El 1 de mayo de 2026 cae en viernes. Son tres días seguidos sin pedir ninguna vacación: viernes festivo, sábado y domingo. Es uno de los puentes más limpios del año, y la Cerdaña —la gran llanura pirenaica a menos de dos horas de Barcelona— es uno de los destinos más inteligentes para aprovecharlo.
 
 ¿Por qué en mayo y no en agosto? Porque en mayo la Cerdaña no tiene turistas de playa que se han desviado a la montaña. Los caminos están secos pero no llenos de gente. Los prados han florecido. Los restaurantes trabajan al límite pero todavía tienen espacio. Y la luz —esa luz de primavera pirenaica con el cielo limpio y el Cadí recién salido del invierno— es la que sale en todas las fotos que envidias en Instagram y que nunca sabes dónde están tomadas.

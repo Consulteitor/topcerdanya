@@ -1,5 +1,3 @@
-# On menjar a la Cerdanya: guia completa per encertar restaurants (2026)
-
 Si et preguntes on menjar a la Cerdanya, la bona notícia és que la comarca té una oferta gastronòmica sòlida i variada. La mala notícia és que, en temporada alta, els millors llocs s'esgoten. Aquesta guia t'ajuda a triar amb criteri, per zona i per tipus de pla, i a evitar els errors que fan que acabis menjant de pressa en un lloc que no estava a cap llista.
 
 Menjar bé a la Cerdanya no depèn només d'escollir el restaurant correcte: depèn de quan hi vas, des d'on véns i com organitzes la resta del dia. Amb una mica d'anticipació, la diferència és enorme.

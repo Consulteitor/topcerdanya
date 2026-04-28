@@ -1,5 +1,3 @@
-# Dónde bañarse en la Cerdanya: piscinas, ríos y pozas naturales (2026)
-
 La Cerdanya tiene un verano distinto al de la costa. Las temperaturas suben con fuerza a mediodía —los días de julio pueden superar los 30°C en el llano— pero el agua está fría. Muy fría. Y eso, en el Pirineo, es exactamente lo que se busca.
 
 Esta guía recoge las opciones para bañarse en la Cerdanya en verano: las piscinas municipales de los pueblos, los rincones naturales en el río Segre y sus afluentes, y algunos apuntes sobre lo que está permitido y lo que no. Los baños termales de agua caliente son otra historia, y los tienes en nuestra guía específica.

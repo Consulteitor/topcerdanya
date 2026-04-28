@@ -1,5 +1,3 @@
-# Cómo llegar a la Cerdanya desde cualquier punto: la guía que necesitas antes de salir
-
 > **Aviso de actualización — abril 2026:** La línea de tren R3 tiene cortes parciales activos por obras de modernización. Consulta la sección de tren antes de planificar tu viaje.
 
 Poca gente fuera de Cataluña sabe dónde está exactamente la Cerdanya. Es el valle más grande de los Pirineos catalanes, a caballo entre España y Francia, con Puigcerdà como capital. Desde Barcelona está a menos de dos horas. Desde Zaragoza, tres. Desde Madrid, unas cinco y media.

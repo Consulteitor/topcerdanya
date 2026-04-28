@@ -1,5 +1,3 @@
-# Què fer a la Cerdanya a la primavera: la guia per a l'estació més infravalorada (2026)
-
 Tothom coneix la Cerdanya d'hivern per l'esquí i d'estiu pel llac. La primavera és l'estació que la gent que coneix la comarca de debò guarda per a ella mateixa: menys gent, preus millors, natura en ebullició i activitats que l'estiu fa impossibles per l'afluència.
 
 Aquesta guia és per als que volen la Cerdanya sense cues, sense aparcar a quilòmetres del centre i sense compartir la muntanya amb mitja Barcelona.

@@ -1,5 +1,3 @@
-# Los mejores restaurantes de la Cerdanya (2026): guía completa para no equivocarse
-
 La Cerdanya tiene un problema que ningún guía turística explica bien: demasiada oferta mediocre y demasiado poca gente que sepa distinguirla. En una comarca donde cada fin de semana llegan miles de visitantes desde Barcelona, la tentación de vivir de la ubicación —y no de la cocina— es enorme. Esta guía existe para evitarte ese error.
 
 El criterio es simple: solo entran los restaurantes que mantienen una valoración de 4,7 o más en Google Maps con suficiente volumen de reseñas para que el resultado sea fiable. No es una lista de "lo más creativo" ni de "el chef del momento". Es una lista de los sitios donde la gente repite, recomienda y lleva a sus invitados de fuera.

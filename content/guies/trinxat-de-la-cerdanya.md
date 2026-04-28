@@ -1,5 +1,3 @@
-# El trinxat de la Cerdanya: recepta tradicional, origen i on menjar-lo
-
 Hi ha plats que expliquen un lloc millor que qualsevol guia turística. El trinxat és un d'ells. Tres ingredients que tots els pagesos de la Cerdanya tenien a l'hivern — col, trumfes i cansalada — transformats en una cosa que ha sobreviscut segles, ha omplert taules de gent amb poc i molt, i avui apareix en les cartes dels millors restaurants de la comarca i als fogons de qui vol cuinar de debò.
 
 Aquesta és la guia definitiva sobre el trinxat de la Cerdanya: d'on ve, com es fa bé, per què la col ha d'estar tocada pel fred, i on el pots menjar a la comarca sense decepcions.

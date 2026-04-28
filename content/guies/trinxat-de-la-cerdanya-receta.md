@@ -1,5 +1,3 @@
-# Trinxat de la Cerdaña: qué es, receta tradicional y dónde comerlo
-
 Hay platos que explican un lugar mejor que cualquier guía turística. El trinxat es uno de ellos. Tres ingredientes que todos los campesinos de la Cerdaña tenían en invierno — col, patatas y panceta — transformados en algo que ha sobrevivido siglos, alimentado mesas con poco y con mucho, y que hoy aparece tanto en menús de 15 euros como en las cartas de los mejores restaurantes del Pirineo catalán.
 
 Si vas a la Cerdaña y no pruebas el trinxat, has dejado incompleta la visita. Esta guía te cuenta todo lo que necesitas saber.

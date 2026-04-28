@@ -1,6 +1,3 @@
-# Bolets de primavera a la Cerdanya: marçots, múrgoles, moixernons i carreretes (2026)
-
-
 ---
 
 La primavera és la temporada boletaire menys coneguda a la Cerdanya, i potser per això la més agraïda per als boletaires que la coneixen. Mentre la tardor concentra masses de gent als boscos del Cadí-Moixeró, l'abril i el maig ofereixen sortides tranquil·les, espècies molt preuades i boscos que just desperten.

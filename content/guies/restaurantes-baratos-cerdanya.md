@@ -1,5 +1,3 @@
-# Comer barato en la Cerdanya: guía para no arruinarse en el Pirineo catalán
-
 La Cerdanya tiene fama de cara. Y tiene razón en parte: en agosto, en fin de semana, rodeado de turistas con presupuesto de esquí, comer puede salir caro. Pero esa no es la única versión del lugar.
 
 La misma comarca que tiene restaurantes con menú degustación a 48 euros tiene también fondas de pueblo donde comes un menú completo por 13. Saber dónde mirar cambia completamente la ecuación.

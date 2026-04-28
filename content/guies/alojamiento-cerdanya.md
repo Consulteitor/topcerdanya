@@ -1,5 +1,3 @@
-# Dónde dormir en la Cerdaña: hoteles, casas rurales, camping y apartamentos
-
 La Cerdaña tiene un problema de alojamiento que no es un problema para el visitante: hay demasiadas opciones buenas. Hoteles con spa y vistas al Cadí, masías rurales donde se desayuna con huevos del corral, campings familiares en Prullans con parcelas en el pinar, apartamentos en el centro de Puigcerdà para grupos. El problema real es elegir.
 
 Esta guía ordena las opciones por tipo de alojamiento y por lo que buscas, con recomendaciones concretas y links directos al directorio de la comarca.

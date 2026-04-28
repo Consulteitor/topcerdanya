@@ -1,5 +1,3 @@
-# On dormir a la Cerdanya amb gos: cases rurals, càmpings i apartaments pet friendly (2026)
-
 Viatjar amb gos a la Cerdanya és més fàcil del que sembla. La comarca té una oferta pet friendly creixent —cases rurals de pedra, càmpings amb picanyes i apartaments amb jardí privat— i un entorn perfecte per a un gos: rutes de muntanya, rius on banyar-se i pobles tranquils on els animals es mouen amb llibertat.
 
 Aquesta guia recull els millors allotjaments on el gos hi és benvingut de veritat, no tolerat per educació. Des d'una rectoria romànica als peus del Cadí fins a un ecoresort amb parc d'agilitat, hi ha opció per a tots els estils i butxaques.

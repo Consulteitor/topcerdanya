@@ -1,5 +1,3 @@
-# On banyar-se a la Cerdanya: piscines, rius i gorgs (2026)
-
 A la Cerdanya a l'estiu, la pregunta no és si fa calor —en fa, i molt, a la tarda de juliol—, sinó on et refresques. La comarca té tres respostes: les piscines municipals dels pobles (assequibles, familiars, amb bar), els llocs naturals al riu Segre i als seus afluents (gratuïts, frescos, autèntics), i els banys d'aigües termals (calents tot l'any, però aquí ho tractem en una guia apart).
 
 Aquesta guia cobreix les dues primeres opcions i t'ajuda a triar.

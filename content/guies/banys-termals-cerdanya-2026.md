@@ -1,5 +1,3 @@
-# Banys termals a la Cerdanya: Dorres, Llo, Sant Tomàs i Llívia (2026)
-
 La Cerdanya és una de les comarques catalanes amb més oferta de banys termals. Quatre enclavaments —tres a l'Alta Cerdanya francesa i un a la Baixa Cerdanya catalana— ofereixen aigües sulfuroses naturals amb temperatures d'entre 32 i 41 graus, cadascun amb un caràcter ben diferent: des de les banyeres romanes de granit de Dorres fins al spa complet de Llo, passant pel complex modern de Sant Tomàs i els nous banys públics de Llívia.
 
 Aquesta guia et dóna tota la informació pràctica per triar quin encaixa millor amb el que busques: perfil, preu, ambient i recomanació honesta.

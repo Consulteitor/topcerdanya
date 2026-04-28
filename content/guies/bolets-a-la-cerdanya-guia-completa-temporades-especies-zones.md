@@ -1,6 +1,3 @@
-# Bolets a la Cerdanya: guia completa per temporades, espècies i zones (2026)
-
-
 ---
 
 La Cerdanya és un dels territoris boletaires més rics de Catalunya. La combinació de boscos de pi negre i pi roig als vessants del Cadí-Moixeró, els prats d'alta muntanya i l'altitud sostenida de la vall —al voltant dels 1.000 metres— crea les condicions ideals per a la fructificació de fongs durant gairebé tot l'any, amb dos pics molt marcats: la primavera i la tardor.
