@@ -112,6 +112,16 @@ const nextConfig: NextConfig = {
         destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
         permanent: true,
       },
+      {
+        source: '/que-fer-a-la-cerdanya',
+        destination: '/guies/que-fer-a-la-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/que-fer-a-la-cerdanya/',
+        destination: '/guies/que-fer-a-la-cerdanya',
+        permanent: true,
+      },
       // Redirects guies any → evergreen
       {
         source: '/guies/que-ver-en-la-cerdanya',
