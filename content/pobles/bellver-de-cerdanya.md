@@ -99,7 +99,6 @@ Bellver és una destinació familiar tranquil·la, molt adequada per a famílies
 - A l'hivern, escola d'esquí a La Molina o Masella (35–40 min)
 
 → [Bellver de Cerdanya amb nens](/pobles/bellver-de-cerdanya/amb-nens)
-→ [Activitats familiars a la Cerdanya](/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
 
 ---
 
@@ -107,7 +106,7 @@ Bellver és una destinació familiar tranquil·la, molt adequada per a famílies
 
 El mercat immobiliari de Bellver és entre un 25 i un 45% més barat que Puigcerdà per a tipologies equivalents. El que a Puigcerdà costa 400.000 euros, a Bellver sol trobar-se entre 260.000 i 300.000. Això ha atret en els darrers anys un perfil de comprador que vol vida de comarca real i qualitat de muntanya, però no pot ni vol pagar els preus de la capital.
 
-**Preus orientatius 2026:**
+**Preus orientatius:**
 
 | Tipus de propietat | Preu orientatiu |
 |---|---|
@@ -187,4 +186,4 @@ Sí. Cada dimecres al matí hi ha mercat a la Plaça de la Vila, amb producte lo
 
 ---
 
-*Guia editorial de Top Cerdanya · Actualitzada el 2026*
+*Guia editorial de Top Cerdanya*
