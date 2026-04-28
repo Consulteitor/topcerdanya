@@ -101,7 +101,7 @@ Generalment entre el 20 i el 24 de juny, i tanquen al voltant del 7 de setembre.
 
 ## Guies relacionades
 
-- [Banys termals a la Cerdanya: Dorres, Llo, Sant Tomàs i Llívia](https://topcerdanya.com/guies/banys-termals-cerdanya)
-- [Activitats familiars a la Cerdanya](https://topcerdanya.com/guies/activitats-cerdanya-families)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
-- [Què fer a la Cerdanya: guia pràctica](https://topcerdanya.com/guies/que-fer-cerdanya)
+- [Banys termals a la Cerdanya: Dorres, Llo, Sant Tomàs i Llívia](/guies/banys-termals-cerdanya)
+- [Activitats familiars a la Cerdanya](/guies/activitats-cerdanya-families)
+- [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
+- [Què fer a la Cerdanya: guia pràctica](/guies/que-fer-cerdanya)

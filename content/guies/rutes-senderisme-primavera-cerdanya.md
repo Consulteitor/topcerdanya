@@ -108,24 +108,24 @@ La primavera és la millor temporada per trobar disponibilitat als millors allot
 
 **Per a rutes 4 i 5 (Tosa d'Alp, Puigmal):** La nit anterior prop del punt de sortida facilita molt la logística. La zona de Das i Alp per la Tosa; la zona de la Vall de Ribes o Queralbs per al Puigmal.
 
-Consulta la [guia completa d'allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir) i la [guia d'allotjaments prop de rutes](https://topcerdanya.com/guies/allotjament-senderisme-cerdanya).
+Consulta la [guia completa d'allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir) i la [guia d'allotjaments prop de rutes](/guies/allotjament-senderisme-cerdanya).
 
 ---
 
 ## Combina senderisme amb una escapada romàntica
 
-Les rutes 1, 2 i 3 d'aquesta guia funcionen molt bé com a pla de matí per a parelles. Un format que funciona especialment bé a la primavera: ruta tranquil·la de matí → dinar en un restaurant de la comarca → tarda als banys termals de Dorres o Llo. Consulta la [guia de cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya) per a l'itinerari complet.
+Les rutes 1, 2 i 3 d'aquesta guia funcionen molt bé com a pla de matí per a parelles. Un format que funciona especialment bé a la primavera: ruta tranquil·la de matí → dinar en un restaurant de la comarca → tarda als banys termals de Dorres o Llo. Consulta la [guia de cap de setmana romàntic a la Cerdanya](/guies/cap-de-setmana-romantic-cerdanya) per a l'itinerari complet.
 
 ---
 
 ## Guies relacionades
 
-- [Cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya)
-- [Banys termals a la Cerdanya: guia completa](https://topcerdanya.com/guies/banys-termals-cerdanya)
-- [Allotjaments prop de rutes a la Cerdanya](https://topcerdanya.com/guies/allotjament-senderisme-cerdanya)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
-- [Què fer a la Cerdanya: guia general](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-la-guia-practica-per-aprofitar-la-comarca-al-maxim)
-- [Restaurants amb terrassa a la Cerdanya](https://topcerdanya.com/guies/restaurants-terrassa-cerdanya)
+- [Cap de setmana romàntic a la Cerdanya](/guies/cap-de-setmana-romantic-cerdanya)
+- [Banys termals a la Cerdanya: guia completa](/guies/banys-termals-cerdanya)
+- [Allotjaments prop de rutes a la Cerdanya](/guies/allotjament-senderisme-cerdanya)
+- [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
+- [Què fer a la Cerdanya: guia general](/guies/que-fer-a-la-cerdanya-la-guia-practica-per-aprofitar-la-comarca-al-maxim)
+- [Restaurants amb terrassa a la Cerdanya](/guies/restaurants-terrassa-cerdanya)
 
 ---
 

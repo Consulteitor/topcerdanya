@@ -74,7 +74,7 @@ Per a un dinar sense presses en parella o per a una ocasió que mereix un marc e
 
 **Hotel Mas Tapiol (Bolvir):** Masia del s. XVII amb restaurant propi i terrassa amb vistes a la vall. Cuina de producte i ambient de hotel rural de qualitat.
 
-Per a recomanacions de terrasses en contextos de cap de setmana romàntic, consulta la [guia de cap de setmana romàntic a la Cerdanya](https://topcerdanya.com/guies/cap-de-setmana-romantic-cerdanya).
+Per a recomanacions de terrasses en contextos de cap de setmana romàntic, consulta la [guia de cap de setmana romàntic a la Cerdanya](/guies/cap-de-setmana-romantic-cerdanya).
 
 ---
 

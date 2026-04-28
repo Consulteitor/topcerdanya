@@ -97,13 +97,13 @@ La Cerdanya es uno de los destinos ciclistas de referencia de los Pirineos. El c
 La gastronomía de la comarca refleja directamente el territorio: producto de montaña, cocina de temporada y recetas que llevan siglos resolviendo los inviernos fríos del Pirineo.
 
 **El trinxat**
-El plato más icónico de la Cerdanya. Col y patata cocinadas y trabajadas con manteca, normalmente acompañadas de panceta o butifarra negra. El buen trinxat se hace con col que ha pasado el frío del invierno: los meses de noviembre a febrero son el momento de máxima calidad. Consulta la [guía del mejor trinxat de la Cerdanya](https://topcerdanya.com/guies/on-menjar-trinxat-cerdanya) para saber dónde encontrarlo.
+El plato más icónico de la Cerdanya. Col y patata cocinadas y trabajadas con manteca, normalmente acompañadas de panceta o butifarra negra. El buen trinxat se hace con col que ha pasado el frío del invierno: los meses de noviembre a febrero son el momento de máxima calidad. Consulta la [guía del mejor trinxat de la Cerdanya](/guies/on-menjar-trinxat-cerdanya) para saber dónde encontrarlo.
 
 **Los embutidos y quesos artesanos**
 La comarca tiene una tradición potente de producto porcino artesano. La Formatgeria de Llívia es el punto de referencia para queso artesano local. El mercado dominical de Puigcerdà y el de los miércoles de Bellver son los mejores lugares para comprar producto local directamente a los productores.
 
 **Dónde comer bien:**
-Para una guía completa de restaurantes, consulta la [guía de restaurantes de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya). Las referencias son el Serendipia by La Calèche en Llívia, el Grau de l'Os en Bellver y el 539 – Plats Forts en Puigcerdà para alta cocina.
+Para una guía completa de restaurantes, consulta la [guía de restaurantes de la Cerdanya](/guies/restaurants-cerdanya). Las referencias son el Serendipia by La Calèche en Llívia, el Grau de l'Os en Bellver y el 539 – Plats Forts en Puigcerdà para alta cocina.
 
 ---
 
@@ -167,9 +167,9 @@ Sí, en verano. La temporada de baño oficial es de julio a agosto. El acceso y 
 
 ## Guías relacionadas
 
-- [Restaurantes en la Cerdanya: guía completa](https://topcerdanya.com/guies/restaurantes-cerdanya)
-- [Alojamiento en la Cerdanya: hoteles y casas rurales](https://topcerdanya.com/guies/alojamiento-cerdanya)
-- [Aguas termales en la Cerdanya](https://topcerdanya.com/guies/aguas-termales-cerdanya)
-- [Puente de mayo 2026 en la Cerdanya](https://topcerdanya.com/guies/puente-de-mayo-cerdanya-2026)
-- [Cómo llegar a la Cerdanya](https://topcerdanya.com/guies/como-llegar-cerdanya)
-- [Qué hacer en la Cerdanya en primavera](https://topcerdanya.com/guies/que-hacer-cerdanya-primavera)
+- [Restaurantes en la Cerdanya: guía completa](/guies/restaurantes-cerdanya)
+- [Alojamiento en la Cerdanya: hoteles y casas rurales](/guies/alojamiento-cerdanya)
+- [Aguas termales en la Cerdanya](/guies/aguas-termales-cerdanya)
+- [Puente de mayo 2026 en la Cerdanya](/guies/puente-de-mayo-cerdanya-2026)
+- [Cómo llegar a la Cerdanya](/guies/como-llegar-cerdanya)
+- [Qué hacer en la Cerdanya en primavera](/guies/que-hacer-cerdanya-primavera)

@@ -149,13 +149,13 @@ Perfectament. Puigcerdà té tots els serveis necessaris (farmàcia, supermercat
 
 ## Guies relacionades
 
-- [Cases rurals a la Cerdanya per a famílies: guia pràctica](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
-- [Allotjament rural a la Cerdanya: guia general](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Allotjaments prop de rutes a la Cerdanya](https://topcerdanya.com/guies/allotjament-senderisme-cerdanya)
-- [Què fer a la Cerdanya amb nens: guia completa](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
-- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/activitats-cerdanya-families)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-cerdanya-amb-nens)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
+- [Cases rurals a la Cerdanya per a famílies: guia pràctica](/guies/cases-rurals-cerdanya-families)
+- [Allotjament rural a la Cerdanya: guia general](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Allotjaments prop de rutes a la Cerdanya](/guies/allotjament-senderisme-cerdanya)
+- [Què fer a la Cerdanya amb nens: guia completa](/guies/que-fer-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats](/guies/activitats-cerdanya-families)
+- [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
+- [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
 
 ---
 

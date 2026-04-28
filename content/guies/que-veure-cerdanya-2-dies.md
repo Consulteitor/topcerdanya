@@ -37,7 +37,7 @@ Baixa al **llac de Puigcerdà**: un llac artificial creat al s. XIII per al reg 
 
 Si el dia és bo i vols fer el dinar tranquil, queda't a Puigcerdà: la zona del llac té bones opcions de terrassa amb vistes. Alternativament, espera i dina a Llívia.
 
-Consulta la guia de [restaurants a la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya) per a recomanacions concretes per a cada tipus de cuina i pressupost.
+Consulta la guia de [restaurants a la Cerdanya](/guies/restaurants-cerdanya) per a recomanacions concretes per a cada tipus de cuina i pressupost.
 
 ### Tarda: Llívia
 
@@ -119,10 +119,10 @@ Si tornes en cotxe el diumenge, intenta sopar d'hora —19:30–20h— per evita
 Substitueix el senderisme del dia 2 per una jornada a les pistes de **La Molina o Masella**: totes dues estacions estan a menys de 30 minuts de Puigcerdà. Reserva el forfet i les classes d'esquí amb antelació si és cap de setmana. El dia 1 segueix igual: Puigcerdà i Llívia funcionen perfectament a l'hivern.
 
 ### Quan plou
-El llac de Puigcerdà perd atractiu amb pluja, però Llívia (museu, farmàcia, restaurant) és completament interior. Afegeix una visita llarga a **l'església de Sant Pere de Llívia** i aprofita per dinar llarg en un bon restaurant. Consulta la guia de [què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou) per a més opcions.
+El llac de Puigcerdà perd atractiu amb pluja, però Llívia (museu, farmàcia, restaurant) és completament interior. Afegeix una visita llarga a **l'església de Sant Pere de Llívia** i aprofita per dinar llarg en un bon restaurant. Consulta la guia de [què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou) per a més opcions.
 
 ### Amb nens petits
-Substitueix la ruta del dia 2 per l'**Arborètum de Queixans** al matí i el **parc de la Palanca de Segre** (Puigcerdà) a la tarda. Dos espais segurs, gratuïts i molt adequats per a nens de 3–6 anys. Consulta la guia de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per a un itinerari complet.
+Substitueix la ruta del dia 2 per l'**Arborètum de Queixans** al matí i el **parc de la Palanca de Segre** (Puigcerdà) a la tarda. Dos espais segurs, gratuïts i molt adequats per a nens de 3–6 anys. Consulta la guia de [què fer a la Cerdanya amb nens](/guies/que-fer-cerdanya-amb-nens) per a un itinerari complet.
 
 ---
 
@@ -134,7 +134,7 @@ Substitueix la ruta del dia 2 per l'**Arborètum de Queixans** al matí i el **p
 
 **Llívia** és la tria si vols allotjament amb caràcter i no et molesta desplaçar-te 10 minuts en cotxe per a qualsevol cosa.
 
-Consulta la guia completa d'[allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir) per a opcions per pressupost i tipus de viatger.
+Consulta la guia completa d'[allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir) per a opcions per pressupost i tipus de viatger.
 
 ---
 
@@ -156,13 +156,13 @@ Sí. Llívia és un dels llocs més singulars de tot el Pirineu i rarament decep
 
 ## Guies relacionades
 
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
-- [On menjar a la Cerdanya: guia de restaurants](https://topcerdanya.com/guies/restaurants-cerdanya)
-- [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
-- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
-- [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
+- [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
+- [On menjar a la Cerdanya: guia de restaurants](/guies/restaurants-cerdanya)
+- [Allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Què fer a la Cerdanya amb nens](/guies/que-fer-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats](/guies/que-fer-cerdanya-amb-nens)
+- [Què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---
 

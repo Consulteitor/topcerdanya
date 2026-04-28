@@ -169,12 +169,12 @@ El passeig del llac de Puigcerdà i el camí Bolvir–Puigcerdà són aptes per 
 
 ## Guies relacionades
 
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-cerdanya-families)
-- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-cerdanya-amb-nens)
-- [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](/guies/activitats-cerdanya-families)
+- [Què fer a la Cerdanya amb nens: guia completa per a famílies](/guies/que-fer-cerdanya-amb-nens)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
+- [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)
+- [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
+- [Què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---
 

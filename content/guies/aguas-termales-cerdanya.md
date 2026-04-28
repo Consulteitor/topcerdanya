@@ -109,6 +109,6 @@ Sí, todos abren en invierno. Es precisamente la mejor época. Todos hacen cierr
 
 ## Guías relacionadas
 
-- [Dónde bañarse en la Cerdanya: piscinas y lugares naturales](https://topcerdanya.com/guies/donde-banarse-cerdanya)
-- [Qué hacer en la Cerdanya: guía completa](https://topcerdanya.com/guies/que-hacer-cerdanya)
-- [Los mejores restaurantes de la Cerdanya](https://topcerdanya.com/guies/restaurantes-cerdanya)
+- [Dónde bañarse en la Cerdanya: piscinas y lugares naturales](/guies/donde-banarse-cerdanya)
+- [Qué hacer en la Cerdanya: guía completa](/guies/que-hacer-cerdanya)
+- [Los mejores restaurantes de la Cerdanya](/guies/restaurantes-cerdanya)

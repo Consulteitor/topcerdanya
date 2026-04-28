@@ -48,7 +48,7 @@ El dissabte al migdia és el moment de màxima demanda dels millors restaurants.
 - La Borda del Ceretà (Puigcerdà) — cuina cerdana popular, quasi 1.800 ressenyes a Google
 - La Noga Taverna (Bellver) — local petit, nota excepcional, reserva imprescindible
 
-→ [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
+→ [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
 
 **Tarda (15:30–19h): ritme baix**
 
@@ -89,7 +89,7 @@ Dina a la comarca, no a l'autopista. Un dinar tranquil a les 13h i sortida cap a
 
 **On allotjar-se**. L'elecció de la base condiciona molt el cap de setmana. Puigcerdà és la més pràctica si vols tenir serveis a prop. Bellver és millor per a qui vol tranquil·litat i accés a la Baixa Cerdanya. Bolvir i Meranges son les opcions més silencioses i solen tenir els millors allotjaments rurals de qualitat.
 
-→ [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+→ [Allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 
 **Reserves**. Per a caps de setmana de temporada alta (hivern i agost), reserva allotjament amb 3–4 setmanes d'antelació. Restaurants: mínim 3–5 dies per als bons llocs, fins i tot fora de temporada alta el dissabte al migdia.
 
@@ -125,9 +125,9 @@ Sí, si t'allotges a Puigcerdà. El tren hi arriba directament i des de Puigcerd
 
 ## Guies relacionades
 
-- [Escapada de cap de setmana a la Cerdanya des de Barcelona](https://topcerdanya.com/guies/escapada-cap-de-setmana-cerdanya-barcelona)
-- [La Cerdanya en 2 dies: itinerari complet](https://topcerdanya.com/guies/que-veure-cerdanya-2-dies)
-- [Què fer a la Cerdanya: guia general](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany)
-- [Els millors restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya)
-- [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
+- [Escapada de cap de setmana a la Cerdanya des de Barcelona](/guies/escapada-cap-de-setmana-cerdanya-barcelona)
+- [La Cerdanya en 2 dies: itinerari complet](/guies/que-veure-cerdanya-2-dies)
+- [Què fer a la Cerdanya: guia general](/guies/que-fer-a-la-cerdanya)
+- [Els millors restaurants de la Cerdanya](/guies/restaurants-cerdanya)
+- [Allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)

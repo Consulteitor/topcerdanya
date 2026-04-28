@@ -35,7 +35,7 @@ Si surts de Barcelona a primera hora del matí, evites la congestió que es form
 
 **Tarda:** Instal·la't i ves directament al nucli de Puigcerdà. El mercat setmanal cau en diumenge —no en divendres—, però el centre té vida pròpia: volta pel carrer Major, puja al campanar de Santa Maria i fes una primera passejada pels voltants del llac. A primera hora del vespre, molts visitants ocupen les terrasses del centre.
 
-**Sopar:** Reserva amb antelació. Els millors restaurants de la comarca s'omplen els caps de setmana de pont. Consulta la [guia de restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya) per triar el que s'ajusta millor al teu grup.
+**Sopar:** Reserva amb antelació. Els millors restaurants de la comarca s'omplen els caps de setmana de pont. Consulta la [guia de restaurants de la Cerdanya](/guies/restaurants-cerdanya) per triar el que s'ajusta millor al teu grup.
 
 ---
 
@@ -53,7 +53,7 @@ Si surts de Barcelona a primera hora del matí, evites la congestió que es form
 
 **Matí:** El **mercat dominical de Puigcerdà** és un dels més animats del Pirineu català. S'instal·la a la plaça de Santa Maria i als carrers del centre. Hi trobaràs producte local, formatge, embotits, mel i artesania. Arriba abans de les 10 h si vols el millor ambient i evitar la part final del mercat, que es desmunta cap al migdia.
 
-**Migdia:** Últim dinar a la Cerdanya. Bona opció per als restaurants amb terrassa, que al maig ja obren a l'aire lliure si fa sol. Consulta la [guia de restaurants amb terrassa a la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya) per triar.
+**Migdia:** Últim dinar a la Cerdanya. Bona opció per als restaurants amb terrassa, que al maig ja obren a l'aire lliure si fa sol. Consulta la [guia de restaurants amb terrassa a la Cerdanya](/guies/restaurants-cerdanya) per triar.
 
 **Sortida:** Intenta sortir de la Cerdanya abans de les 14–15 h del diumenge. El Túnel del Cadí acumula cues a partir del migdia en sentit Barcelona. Si surts tard, comptabilitza entre 45 minuts i 1,5 hores d'espera.
 
@@ -65,7 +65,7 @@ Si surts de Barcelona a primera hora del matí, evites la congestió que es form
 
 El pont de maig és un bon moment per a famílies: no fa la calor de l'agost, els pobles no estan saturats i el llac de Puigcerdà és un punt de referència fàcil. A principis de maig el llac no està habilitat per al bany (la temporada de bany obliga el juliol), però el passeig i els espais verds al voltant funcionen perfectament.
 
-Per a activitats familiars, consulta la [guia d'activitats per a famílies a la Cerdanya](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens) i les [rutes fàcils amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens).
+Per a activitats familiars, consulta la [guia d'activitats per a famílies a la Cerdanya](/guies/que-fer-a-la-cerdanya-amb-nens) i les [rutes fàcils amb nens](/guies/rutes-facils-cerdanya-nens).
 
 ### Parelles
 
@@ -90,10 +90,10 @@ La Cerdanya té una oferta gastronòmica sòlida per a una comarca de muntanya. 
 Alguns imprescindibles:
 
 - **[La Noga Taverna](https://topcerdanya.com/negocis/la-noga-taverna)** — cuina de mercat amb producte local, a Puigcerdà. Referència de la comarca.
-- **Trinxat** — el plat emblema de la Cerdanya és el millor al final de l'hivern i principis de primavera, quan les cols han passat el fred i el producte local és al seu punt. Consulta on trobar el [millor trinxat de la Cerdanya](https://topcerdanya.com/guies/on-menjar-trinxat-cerdanya).
+- **Trinxat** — el plat emblema de la Cerdanya és el millor al final de l'hivern i principis de primavera, quan les cols han passat el fred i el producte local és al seu punt. Consulta on trobar el [millor trinxat de la Cerdanya](/guies/on-menjar-trinxat-cerdanya).
 - **Restaurants de Llívia** — Llívia té una oferta sorprenentment bona per a la seva mida. Bona alternativa als restaurants de Puigcerdà quan tot està ple.
 
-Per a una selecció completa, consulta la [guia de restaurants de la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya).
+Per a una selecció completa, consulta la [guia de restaurants de la Cerdanya](/guies/restaurants-cerdanya).
 
 ---
 
@@ -108,7 +108,7 @@ Opcions per zones:
 - **Llívia** — opció singular si vols dormir a l'enclavament. Menys oferta però molt tranquil.
 - **Bellver de Cerdanya** — si et vols allunyar del centre, Bellver té el seu nucli medieval i bon accés al Cadí.
 
-Consulta la [guia d'allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir) per a més opcions.
+Consulta la [guia d'allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir) per a més opcions.
 
 ---
 
@@ -154,8 +154,8 @@ Els divendres tarda i els diumenges a partir del migdia solen acumular cues en t
 
 ## Guies relacionades
 
-- [Què fer a la Cerdanya: guia pràctica tot l'any](https://topcerdanya.com/guies/que-fer-a-la-cerdanya)
-- [On menjar a la Cerdanya: guia de restaurants](https://topcerdanya.com/guies/restaurants-cerdanya)
-- [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Activitats a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
+- [Què fer a la Cerdanya: guia pràctica tot l'any](/guies/que-fer-a-la-cerdanya)
+- [On menjar a la Cerdanya: guia de restaurants](/guies/restaurants-cerdanya)
+- [Allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Activitats a la Cerdanya amb nens](/guies/que-fer-a-la-cerdanya-amb-nens)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)

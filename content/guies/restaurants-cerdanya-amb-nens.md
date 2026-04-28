@@ -1,6 +1,6 @@
 Menjar fora amb nens a la Cerdanya és molt més fàcil del que sembla. La comarca té una llarga tradició de turisme familiar i la majoria de restaurants estan acostumats a rebre famílies amb nens de totes les edats. Però triar bé —lloc correcte, hora adequada, zona convenient— marca la diferència entre un dinar agradable i un cap de setmana que s'espatlla per un error de planificació.
 
-Aquesta guia t'ajuda a triar on menjar a la Cerdanya quan viatges amb nens, ordenat per zona i amb consells pràctics per no improvisar. Per a una visió més àmplia de la gastronomia de la comarca, consulta la guia completa d'[on menjar a la Cerdanya](https://topcerdanya.com/guies/restaurants-cerdanya).
+Aquesta guia t'ajuda a triar on menjar a la Cerdanya quan viatges amb nens, ordenat per zona i amb consells pràctics per no improvisar. Per a una visió més àmplia de la gastronomia de la comarca, consulta la guia completa d'[on menjar a la Cerdanya](/guies/restaurants-cerdanya).
 
 ---
 
@@ -30,7 +30,7 @@ Puigcerdà concentra la major oferta de restaurants de la comarca. Per a famíli
 
 Bellver és el segon nucli amb millor oferta gastronòmica per a famílies. Menys massificat que Puigcerdà, amb restaurants centrats en cuina de muntanya i producte local. La Plaça Major porticada és un dels millors escenaris per dinar a l'exterior amb nens: espai obert, molt bon ambient i els nens poden explorar els porxos mentre esperen.
 
-Si combines el dinar amb la visita al poble, llegeix la guia dels [pobles de la Cerdanya](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa) per organitzar bé el dia.
+Si combines el dinar amb la visita al poble, llegeix la guia dels [pobles de la Cerdanya](/guies/pobles-de-la-cerdanya-guia-completa) per organitzar bé el dia.
 
 ### La zona de La Molina, Alp i Das: hivern i après-esquí
 
@@ -38,7 +38,7 @@ A l'hivern, la zona al voltant de les estacions d'esquí té una oferta molt ori
 
 ### Llívia: dinar combinat amb visita cultural
 
-Llívia té pocs restaurants però de qualitat. **La Formatgeria de Llívia** és l'opció de referència: producte local, formatges artesans, embotits i una experiència que combina molt bé amb la visita al nucli medieval i la Farmàcia Esteva. Ideal si fas el dia de Llívia com a pla familiar — consulta la guia de [pobles de la Cerdanya](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa) per organitzar-lo bé.
+Llívia té pocs restaurants però de qualitat. **La Formatgeria de Llívia** és l'opció de referència: producte local, formatges artesans, embotits i una experiència que combina molt bé amb la visita al nucli medieval i la Farmàcia Esteva. Ideal si fas el dia de Llívia com a pla familiar — consulta la guia de [pobles de la Cerdanya](/guies/pobles-de-la-cerdanya-guia-completa) per organitzar-lo bé.
 
 ### Baixa Cerdanya: cuina de mercat sense aglomeracions
 
@@ -70,7 +70,7 @@ La zona de Martinet, Pi, Bor i els pobles de la Baixa Cerdanya té alguns dels r
 
 ## Quan plou: on menjar si el pla exterior s'ha desfet
 
-Els dies de pluja a la Cerdanya, l'opció de dinar en un restaurant es converteix en el pla principal, no en la pausa del dia. Tria llocs amb espai interior generós, cuina de mercat i ritme tranquil. Llívia sempre és una bona opció per combinar dinar amb visita coberta. Per a més idees de plans amb pluja, llegeix la guia de [què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou).
+Els dies de pluja a la Cerdanya, l'opció de dinar en un restaurant es converteix en el pla principal, no en la pausa del dia. Tria llocs amb espai interior generós, cuina de mercat i ritme tranquil. Llívia sempre és una bona opció per combinar dinar amb visita coberta. Per a més idees de plans amb pluja, llegeix la guia de [què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou).
 
 ---
 
@@ -102,12 +102,12 @@ El trinxat (patata i col amb cansalada) és el plat més icònic i sol agradar a
 
 ## Guies relacionades
 
-- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
-- [On menjar a la Cerdanya: guia gastronòmica completa](https://topcerdanya.com/guies/restaurants-cerdanya)
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-cerdanya-families)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
-- [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
+- [Què fer a la Cerdanya amb nens: guia completa per a famílies](/guies/que-fer-cerdanya-amb-nens)
+- [On menjar a la Cerdanya: guia gastronòmica completa](/guies/restaurants-cerdanya)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](/guies/activitats-cerdanya-families)
+- [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
+- [Què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---
 
@@ -115,7 +115,7 @@ El trinxat (patata i col amb cansalada) és el plat més icònic i sol agradar a
 
 Menjar bé amb nens a la Cerdanya no és difícil si t'anticipes. La comarca té molt bona oferta familiar, des de restaurants de cuina de mercat amb terrassa fins a fondes de poble que fa anys que serveixen famílies senceres. La clau és reservar, arribar aviat i adaptar el format de dinar al ritme del dia.
 
-Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per organitzar tota l'escapada familiar.
+Consulta la guia completa de [què fer a la Cerdanya amb nens](/guies/que-fer-cerdanya-amb-nens) per organitzar tota l'escapada familiar.
 
 ---
 

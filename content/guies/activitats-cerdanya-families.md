@@ -39,7 +39,7 @@ Situat al terme d'Urús, a uns 10 minuts de Puigcerdà. Un jardí botànic temà
 A Talltendre, la Formatgeria La Closa organitza visites guiades els dissabtes al matí on els nens veuen el procés complet de fer formatge des de la llet crua. Una activitat molt concreta i sensorial que sol enganxar als nens d'aquesta edat. Reserva amb antelació perquè els grups són petits.
 
 **Rutes de bosc curtes**
-Les rutes de menys de 45 minuts d'anada per boscos de pi o avet al voltant de Puigcerdà i Bolvir funcionen molt bé a la primavera i la tardor. L'objectiu no és la distància sinó l'experiència: escoltar els ocells, tocar l'escorça dels arbres, trobar pinyes. Consulta la guia de [rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens) per a itineraris concrets per edat.
+Les rutes de menys de 45 minuts d'anada per boscos de pi o avet al voltant de Puigcerdà i Bolvir funcionen molt bé a la primavera i la tardor. L'objectiu no és la distància sinó l'experiència: escoltar els ocells, tocar l'escorça dels arbres, trobar pinyes. Consulta la guia de [rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens) per a itineraris concrets per edat.
 
 ---
 
@@ -151,7 +151,7 @@ El llac de Puigcerdà és l'opció familiar per excel·lència a l'estiu. Per a 
 Rutes de bosc cobertes (avets i pins tallen molt el vent). Visita a Llívia. Formatgeria La Closa si és dissabte. Activitat indoor si l'allotjament en disposa.
 
 ### Dia de pluja
-Llívia és la millor opció coberta de la comarca: museu, farmàcia, nucli medieval. Formatgeria La Closa si és dissabte al matí. Piscina coberta si l'allotjament en té. Dinar llarg en un bon restaurant és un pla en si mateix. Consulta la guia de [què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou) per a més opcions.
+Llívia és la millor opció coberta de la comarca: museu, farmàcia, nucli medieval. Formatgeria La Closa si és dissabte al matí. Piscina coberta si l'allotjament en té. Dinar llarg en un bon restaurant és un pla en si mateix. Consulta la guia de [què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou) per a més opcions.
 
 ### Dia d'entre setmana (menys gent)
 El millor moment per anar al llac (fins al juny i a partir de setembre), per fer rutes de muntanya sense coincidir amb grups i per reservar activitats guiades als millors horaris.
@@ -217,13 +217,13 @@ En temporada alta (agost i caps de setmana d'hivern), sí, i amb antelació. En 
 
 ## Guies relacionades
 
-- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-cerdanya-amb-nens)
-- [Cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
-- [Allotjament rural a la Cerdanya: guia general](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
-- [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
+- [Què fer a la Cerdanya amb nens: guia completa per a famílies](/guies/que-fer-cerdanya-amb-nens)
+- [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
+- [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
+- [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)
+- [Allotjament rural a la Cerdanya: guia general](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
+- [Què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---
 

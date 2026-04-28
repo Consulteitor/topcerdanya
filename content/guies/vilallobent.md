@@ -76,4 +76,4 @@ La posició de Vilallobent és un dels seus atractius no sempre evidents: és un
 
 A cinc minuts en cotxe tens la capital de comarca amb tots els seus serveis, el mercat del diumenge i el llac. A deu minuts, [Llívia](/guies/pobles-de-la-cerdanya-guia-completa), l'enclavament espanyol envoltat de França. A vint minuts, les estacions de La Molina i Masella. I a la porta del poble, una ruta de muntanya circular que no necessita cotxe, ni planificació complicada, ni madrugar per trobar aparcament.
 
-Per a una visió general de la comarca, consulta la nostra [guia completa de la Cerdanya](/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany).
+Per a una visió general de la comarca, consulta la nostra [guia completa de la Cerdanya](/guies/que-fer-a-la-cerdanya).

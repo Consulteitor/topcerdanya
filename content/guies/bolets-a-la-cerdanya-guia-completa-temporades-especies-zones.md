@@ -16,7 +16,7 @@ La temporada de primavera és la gran desconeguda entre els boletaires de cap de
 
 A la Cerdanya, l'altitud allarga la temporada de primavera. El que als Prepirineus ja ha acabat a maig, aquí pot durar fins a juny en zones altes. El desglaç a les cotes d'entre 1.400 i 1.800 metres és el moment clau per als marçots i les múrgoles de bosc.
 
-→ [Guia completa de bolets de primavera a la Cerdanya](https://topcerdanya.com/guies/bolets-cerdanya-primavera)
+→ [Guia completa de bolets de primavera a la Cerdanya](/guies/bolets-cerdanya-primavera)
 
 ### Tardor (setembre–novembre)
 
@@ -73,7 +73,7 @@ A Catalunya no existeix, a data d'avui, una normativa específica i unificada qu
 
 ## Guies detallades per temporada
 
-- [Bolets de primavera a la Cerdanya: marçots, múrgoles, moixernons i carreretes](https://topcerdanya.com/guies/bolets-cerdanya-primavera)
+- [Bolets de primavera a la Cerdanya: marçots, múrgoles, moixernons i carreretes](/guies/bolets-cerdanya-primavera)
 - Bolets de tardor a la Cerdanya: rovellons, ceps, llenegues i trompetes *(properament)*
 
 ---

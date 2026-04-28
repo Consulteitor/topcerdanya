@@ -190,9 +190,9 @@ En primaveres amb molt poca pluja o temperatures inestables, la temporada pot se
 
 ## Guies relacionades
 
-- [Bolets a la Cerdanya: guia completa per temporades, espècies i zones](https://topcerdanya.com/guies/bolets-a-la-cerdanya-guia-completa-temporades-especies-zones)
-- [Rutes fàcils a la Cerdanya](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
-- [Què fer a la Cerdanya a la primavera](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany)
+- [Bolets a la Cerdanya: guia completa per temporades, espècies i zones](/guies/bolets-a-la-cerdanya-guia-completa-temporades-especies-zones)
+- [Rutes fàcils a la Cerdanya](/guies/rutes-facils-cerdanya-nens)
+- [Què fer a la Cerdanya a la primavera](/guies/que-fer-a-la-cerdanya)
 
 ## Recursos externs
 
