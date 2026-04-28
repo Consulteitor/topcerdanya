@@ -67,7 +67,7 @@ Si vols tranquil·litat i qualitat màxima, Bolvir —a 4 km— és la millor op
 
 Puigcerdà és el **tercer municipi més car de Catalunya** en preu per metre quadrat, just darrere del Barcelonès i l'Aran. El mercat és dominat per la demanda de segona residència —el 64% dels habitatges de la comarca—, cosa que manté els preus alts i l'oferta escassa.
 
-**Preus orientatius 2026:**
+**Preus orientatius:**
 
 | Tipus de propietat | Preu orientatiu |
 |---|---|
@@ -95,7 +95,6 @@ La situació geogràfica de Puigcerdà la converteix en el punt de sortida ideal
 | Ascensió al Puigmal (2.913 m) | 14 km | 6h | Difícil |
 
 → [Totes les rutes des de Puigcerdà](/pobles/puigcerda/rutes)
-→ [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
 
 ---
 
@@ -136,8 +135,6 @@ Puigcerdà és una de les millors destinacions familiars de Catalunya. A l'estiu
 - **+10 anys:** rutes de muntanya moderades, BTT, activitats d'aventura
 
 → [Guia completa de Puigcerdà amb nens](/pobles/puigcerda/amb-nens)
-→ [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
-→ [Activitats familiars a la Cerdanya](/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
 
 ---
 
@@ -211,4 +208,4 @@ Sí. Puigcerdà és la millor base per esquiar a La Molina (25 min) i Masella (3
 
 ---
 
-*Guia editorial de Top Cerdanya · Actualitzada el 2026*
+*Guia editorial de Top Cerdanya*
