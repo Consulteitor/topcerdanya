@@ -29,7 +29,7 @@ export async function generateMetadata({ params }) {
       canonical: `https://topcerdanya.com/pobles/${slug}`,
     },
     openGraph: {
-      title: `${titol} — Guia completa 2026`,
+      title: pobla.titol_seo ? pobla.titol_seo : `${titol} — Guia completa`,
       description: desc,
       url: `https://topcerdanya.com/pobles/${slug}`,
       siteName: "Top Cerdanya",
@@ -44,12 +44,9 @@ export async function generateMetadata({ params }) {
         },
       ],
     },
-    // ─── TWITTER CARD CORREGIT ────────────────────────────────────────────────
-    // summary_large_image mostra la imatge gran quan es comparteix a X/Twitter,
-    // LinkedIn, WhatsApp i altres xarxes socials.
     twitter: {
       card: 'summary_large_image',
-      title: `${titol} — Guia completa 2026`,
+      title: pobla.titol_seo ? pobla.titol_seo : `${titol} — Guia completa`,
       description: desc,
       images: [imatgeUrl],
     },
@@ -128,6 +125,25 @@ function getContingut(slug) {
   }
 }
 
+function getFaqSchema(contingut, slug) {
+  if (!contingut) return null;
+  const faqMatch = contingut.match(/##\s+Preguntes freqüents[\s\S]*/i);
+  if (!faqMatch) return null;
+  const faqSection = faqMatch[0];
+  const pairs = [...faqSection.matchAll(/\*\*([^*]+\?)\*\*\s*\n([\s\S]*?)(?=\n\*\*[^*]+\?\*\*|\n##|$)/g)];
+  if (!pairs.length) return null;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': `https://topcerdanya.com/pobles/${slug}#faq`,
+    mainEntity: pairs.map(([, q, a]) => ({
+      '@type': 'Question',
+      name: q.trim(),
+      acceptedAnswer: { '@type': 'Answer', text: a.trim().replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') },
+    })),
+  };
+}
+
 const C = {
   black: "#0a0a0a",
   white: "#faf9f6",
@@ -152,6 +168,7 @@ export default async function PoblaPage({ params }) {
 
   const contingut = getContingut(slug);
   const placeSchema = getPlaceSchema(pobla, slug);
+  const faqSchema = getFaqSchema(contingut, slug);
 
   return (
     <div style={{ background: C.white, minHeight: "100vh", fontFamily: "'Source Serif 4', Georgia, serif", overflowX: "hidden" }}>
@@ -161,6 +178,13 @@ export default async function PoblaPage({ params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(placeSchema) }}
       />
+      {/* JSON-LD: FAQPage schema — generat des del bloc ## Preguntes freqüents del .md */}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       {/* ── HERO ── */}
       <div style={{ background: C.black, color: C.white, padding: "clamp(32px,5vw,56px) clamp(20px,5vw,40px) clamp(40px,6vw,64px)" }}>
