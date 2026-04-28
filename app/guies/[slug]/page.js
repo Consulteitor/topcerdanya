@@ -78,6 +78,7 @@ function extractFAQs(markdown) {
 }
 
 const RECIPE_SLUGS = [
+  "trinxat-de-la-cerdanya",
   "recepta-trinxat-de-la-cerdanya",
   "trinxat-de-la-cerdanya-receta",
 ];
