@@ -138,12 +138,12 @@ En una casa rural sencera tens tot l'espai per al teu grup, amb total privacitat
 
 ## Guies relacionades
 
-- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
+- [Què fer a la Cerdanya amb nens: guia completa per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
 - [Allotjament rural a la Cerdanya: guia general per triar i reservar](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [On dormir a la Cerdanya amb nens](https://topcerdanya.com/guies/on-dormir-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 - [Que fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
 
@@ -155,7 +155,7 @@ Una bona casa rural canvia completament l'experiència d'un cap de setmana famil
 
 Tria la zona en funció dels plans que faràs, reserva amb temps i llegeix les ressenyes recents. Amb aquest criteri, les cases rurals de la Cerdanya rarament decepcionen.
 
-Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026) per organitzar tota l'escapada familiar.
+Consulta la guia completa de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per organitzar tota l'escapada familiar.
 
 ---
 

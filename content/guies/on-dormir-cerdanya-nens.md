@@ -149,13 +149,13 @@ Perfectament. Puigcerdà té tots els serveis necessaris (farmàcia, supermercat
 
 ## Guies relacionades
 
-- [Cases rurals a la Cerdanya per a famílies: guia pràctica](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
+- [Cases rurals a la Cerdanya per a famílies: guia pràctica](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
 - [Allotjament rural a la Cerdanya: guia general](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Allotjaments prop de rutes a la Cerdanya](https://topcerdanya.com/guies/allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026)
-- [Què fer a la Cerdanya amb nens: guia completa](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
-- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+- [Allotjaments prop de rutes a la Cerdanya](https://topcerdanya.com/guies/allotjament-senderisme-cerdanya)
+- [Què fer a la Cerdanya amb nens: guia completa](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
 
 ---
 

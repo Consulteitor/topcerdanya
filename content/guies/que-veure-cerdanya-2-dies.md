@@ -122,7 +122,7 @@ Substitueix el senderisme del dia 2 per una jornada a les pistes de **La Molina 
 El llac de Puigcerdà perd atractiu amb pluja, però Llívia (museu, farmàcia, restaurant) és completament interior. Afegeix una visita llarga a **l'església de Sant Pere de Llívia** i aprofita per dinar llarg en un bon restaurant. Consulta la guia de [què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou) per a més opcions.
 
 ### Amb nens petits
-Substitueix la ruta del dia 2 per l'**Arborètum de Queixans** al matí i el **parc de la Palanca de Segre** (Puigcerdà) a la tarda. Dos espais segurs, gratuïts i molt adequats per a nens de 3–6 anys. Consulta la guia de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026) per a un itinerari complet.
+Substitueix la ruta del dia 2 per l'**Arborètum de Queixans** al matí i el **parc de la Palanca de Segre** (Puigcerdà) a la tarda. Dos espais segurs, gratuïts i molt adequats per a nens de 3–6 anys. Consulta la guia de [què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per a un itinerari complet.
 
 ---
 
@@ -157,11 +157,11 @@ Sí. Llívia és un dels llocs més singulars de tot el Pirineu i rarament decep
 ## Guies relacionades
 
 - [Pobles de la Cerdanya: guia completa](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
 - [On menjar a la Cerdanya: guia de restaurants](https://topcerdanya.com/guies/on-menjar-a-la-cerdanya-guia-completa-per-encertar-restaurants-2026)
 - [Allotjament rural a la Cerdanya](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-- [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-amb-nens-plans-realistes-per-gaudir-en-familia-2026)
-- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
+- [Què fer a la Cerdanya amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
 - [Què fer a la Cerdanya quan plou](https://topcerdanya.com/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---

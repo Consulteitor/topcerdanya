@@ -34,7 +34,7 @@ A 6 km de Puigcerdà, l'enclavament espanyol dins França és un pla diferent i 
 Espai d'oci infantil equipat a la vora del riu Segre, a Puigcerdà. Jocs, zona verda i ombra. Gratuït. Ideal per a nens petits o com a parada de tarda sense haver de buscar aparcament.
 
 ### El bosc i la muntanya
-Per a famílies amb nens que ja caminen bé (a partir de 6-7 anys), la Cerdanya té rutes senzilles molt adequades. La ruta de la Bollosa (accés per Bolvir), el sender de Meranges al llac de Malniu i el camí de l'Arborètum de Queixans fins als Prats de l'Escobairó estan entre les opcions més recomanades. Mira la guia de [rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026) per triar la millor opció per l'edat.
+Per a famílies amb nens que ja caminen bé (a partir de 6-7 anys), la Cerdanya té rutes senzilles molt adequades. La ruta de la Bollosa (accés per Bolvir), el sender de Meranges al llac de Malniu i el camí de l'Arborètum de Queixans fins als Prats de l'Escobairó estan entre les opcions més recomanades. Mira la guia de [rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens) per triar la millor opció per l'edat.
 
 ---
 
@@ -44,7 +44,7 @@ Per a famílies amb nens que ja caminen bé (a partir de 6-7 anys), la Cerdanya 
 
 **Esquí i neu** és el pla estrella. La Molina i Masella ofereixen classes per a nens des dels 3 anys, amb instructors federats i grups per edats. Si és el primer cop, les classes en grup de matí (2-3 hores) funcionen molt bé per als nens, i els pares poden esquiar per lliure mentrestant o fer una caminada amb raquetes.
 
-**Si no esquieu o no hi ha prou neu:** Llívia és ideal (entrada al museu, nucli cobert). La Formatgeria La Closa a Talltendre fa visites guiades els dissabtes al matí on els nens veuen com es fa el formatge des de la llet. Un dinar llarg en un restaurant de cuina de muntanya és un pla perfecte per completar el dia. Llegeix la guia de [restaurants de la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026) per triar el lloc correcte.
+**Si no esquieu o no hi ha prou neu:** Llívia és ideal (entrada al museu, nucli cobert). La Formatgeria La Closa a Talltendre fa visites guiades els dissabtes al matí on els nens veuen com es fa el formatge des de la llet. Un dinar llarg en un restaurant de cuina de muntanya és un pla perfecte per completar el dia. Llegeix la guia de [restaurants de la Cerdanya per anar amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per triar el lloc correcte.
 
 ### Primavera amb nens: natura i poca gent
 
@@ -52,7 +52,7 @@ La primavera és una de les millors èpoques per portar nens a la Cerdanya. Poca
 
 ### Estiu amb nens: llac, rutes i activitats
 
-L'estiu és la temporada de màxima activitat familiar a la Cerdanya. A més del llac de Puigcerdà, a l'estiu s'activen els programes d'activitats guiades: senderisme familiar, BTT suau, kayak al llac, observació astronòmica nocturna a la zona alta de la comarca. Consulta la guia d'[activitats familiars a la Cerdanya](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026) per trobar les millors opcions per edat.
+L'estiu és la temporada de màxima activitat familiar a la Cerdanya. A més del llac de Puigcerdà, a l'estiu s'activen els programes d'activitats guiades: senderisme familiar, BTT suau, kayak al llac, observació astronòmica nocturna a la zona alta de la comarca. Consulta la guia d'[activitats familiars a la Cerdanya](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per trobar les millors opcions per edat.
 
 Reserva sempre les activitats guiades amb antelació. A l'agost, els millors horaris s'esgoten.
 
@@ -92,13 +92,13 @@ Llívia (farmàcia, museu, nucli cobert). Formatgeria La Closa a Talltendre si �
 
 ## On menjar amb nens a la Cerdanya
 
-Els restaurants de la Cerdanya estan molt acostumats a famílies. Per als dinars amb nens, la clau és arribar aviat (13:00–13:30h), triar llocs amb carta variada i si és possible amb espai exterior. Consulta la guia de [restaurants de la Cerdanya per a famílies](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026) per triar per zona.
+Els restaurants de la Cerdanya estan molt acostumats a famílies. Per als dinars amb nens, la clau és arribar aviat (13:00–13:30h), triar llocs amb carta variada i si és possible amb espai exterior. Consulta la guia de [restaurants de la Cerdanya per a famílies](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens) per triar per zona.
 
 ---
 
 ## On dormir amb nens a la Cerdanya
 
-Les cases rurals amb jardí exterior, cuina equipada i esmorzar inclòs són l'opció ideal per a famílies. La zona de Puigcerdà i Alp és la més pràctica per tenir serveis a prop. Per a famílies que volen més tranquil·litat, Bellver de Cerdanya i Bolvir funcionen molt bé. Tenim una guia específica d'[on dormir a la Cerdanya amb nens](https://topcerdanya.com/guies/on-dormir-a-la-cerdanya-amb-nens-guia-practica-per-families-2026) i una altra de [cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026).
+Les cases rurals amb jardí exterior, cuina equipada i esmorzar inclòs són l'opció ideal per a famílies. La zona de Puigcerdà i Alp és la més pràctica per tenir serveis a prop. Per a famílies que volen més tranquil·litat, Bellver de Cerdanya i Bolvir funcionen molt bé. Tenim una guia específica d'[on dormir a la Cerdanya amb nens](https://topcerdanya.com/guies/on-dormir-a-la-cerdanya-amb-nens-guia-practica-per-families-2026) i una altra de [cases rurals a la Cerdanya per a famílies](https://topcerdanya.com/guies/cases-rurals-cerdanya-families).
 
 ---
 
@@ -132,10 +132,10 @@ Pràcticament sí. El tren de FGC arriba fins a Puigcerdà (línia R3 des de Bar
 
 ## Guies relacionades
 
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026)
-- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/restaurants-a-la-cerdanya-per-anar-amb-nens-guia-practica-per-families-2026)
-- [Cases rurals a la Cerdanya per a famílies: guia pràctica](https://topcerdanya.com/guies/cases-rurals-a-la-cerdanya-per-families-guia-practica-per-triar-i-reservar-2026)
-- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Restaurants a la Cerdanya per anar amb nens](https://topcerdanya.com/guies/que-fer-cerdanya-amb-nens)
+- [Cases rurals a la Cerdanya per a famílies: guia pràctica](https://topcerdanya.com/guies/cases-rurals-cerdanya-families)
+- [Rutes fàcils a la Cerdanya amb nens](https://topcerdanya.com/guies/rutes-facils-cerdanya-nens)
 - [On dormir a la Cerdanya amb nens](https://topcerdanya.com/guies/on-dormir-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
 - [Pobles de la Cerdanya: guia completa per visitar-los amb calma](https://topcerdanya.com/guies/pobles-de-la-cerdanya-guia-completa)
 - [Allotjament rural a la Cerdanya: com triar bé i on dormir](https://topcerdanya.com/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
