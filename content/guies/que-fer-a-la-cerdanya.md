@@ -199,6 +199,31 @@ El mercat dominical de Puigcerdà se celebra els diumenges amb qualsevol temps. 
 
 ---
 
+## Preguntes freqüents sobre què fer a la Cerdanya
+
+**Quina és la millor època per visitar la Cerdanya?**
+Depèn del que busques. L'hivern (desembre–març) és per a l'esquí a La Molina i Masella. La primavera (abril–juny) per a senderisme amb floració i preus baixos. L'estiu (juliol–agost) per al llac de Puigcerdà, mercats i festivals, però amb molta gent. La tardor (setembre–octubre) és el millor secret: bolets, colors de bosc, restaurants tranquils i temperatures perfectes per caminar.
+
+**Quant temps es necessita per visitar la Cerdanya?**
+Un cap de setmana llarg (3 nits) és suficient per veure els punts principals: Puigcerdà, Llívia, una ruta de senderisme i uns quants àpats bons. Per aprofitar bé l'esquí o fer senderisme d'alta muntanya, una setmana permet anar sense presses.
+
+**Cal cotxe per visitar la Cerdanya?**
+Per aprofitar bé la comarca, sí. El tren FGC arriba a Puigcerdà (1h 50 min des de Barcelona), però per arribar a Llívia, les estacions d'esquí, les termes o els pobles de la Baixa Cerdanya necessites vehicle. Molts allotjaments ofereixen o gestionen el lloguer de cotxe a l'arribada.
+
+**Quines són les millors activitats per fer a la Cerdanya a l'estiu?**
+El llac de Puigcerdà (bany, piragua, passeig perimetral), senderisme per als estanys de muntanya (Malniu, Pera, Campcardós), el mercat dominical de Puigcerdà, la visita a Llívia i el Tren Groc. Per a famílies, l'Arborètum de Queixans i les rutes de bosc del voltant d'Alp.
+
+**Quines activitats hi ha a la Cerdanya a l'hivern fora de l'esquí?**
+Les termes de Dorres (piscina exterior a 38°C amb neu al voltant), el Tren Groc fins a Font-Romeu, la Festa del Trinxat de Puigcerdà (febrer), el mercat de Nadal de Puigcerdà i el senderisme amb raquetes de neu per als entorns d'Err i Eina. L'esquí nòrdic a Guils Fontanera i Lles de Cerdanya és una alternativa menys coneguda i molt accessible.
+
+**Quins pobles de la Cerdanya val la pena visitar?**
+Puigcerdà (capital, llac, mercat), Llívia (enclavament espanyol a França, farmàcia medieval), Bellver de Cerdanya (nucli medieval, castell), Bolvir (Parador, golf, tranquil·litat) i Meranges (el poble més tranquil, porta al Llac de Malniu). Cada un té un perfil diferent — no cal visitar-los tots en un cap de setmana.
+
+**Quin és el plat típic de la Cerdanya?**
+El trinxat: col d'hivern i trumfes (patates) bullides i daurades a la paella amb cansalada. La col ha d'estar tocada pel fred perquè sigui dolça i tendra. Pots menjar-ne a quasi tots els restaurants de la comarca entre octubre i febrer; la referència popular és l'Hípica de Prats i Sansor (reserva imprescindible).
+
+---
+
 ## Totes les guies de la Cerdanya
 
 → [Guia de pobles de la Cerdanya](/guies/pobles-de-la-cerdanya-guia-completa)
