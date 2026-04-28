@@ -44,7 +44,7 @@ L'ascensió al Puigmal (2.913 metres) des de Das o des de la banda de La Molina 
 **El Camí de Santiago per la Cerdanya:**
 Un dels itineraris menys coneguts de la comarca. Vint quilòmetres plans —240 metres de desnivell— que travessen la plana de est a oest, de Llívia a Bellver de Cerdanya, passant per Puigcerdà, Bolvir, Ger i Isòvol. Ple de paisatge de plana cerdana, arquitectura romànica i silenci. Es pot fer a peu, en bici o a cavall.
 
-→ [Rutes des de Puigcerdà](/pobles/puigcerda/rutes) · [Rutes des de Bellver](/pobles/bellver-de-cerdanya/rutes) · [Rutes des de Llívia](/pobles/llivia/rutes) · [Rutes des d'Alp](/pobles/alp/rutes)
+→ [Rutes de senderisme de primavera a la Cerdanya](/guies/rutes-senderisme-primavera-cerdanya) · [Rutes des de Puigcerdà](/pobles/puigcerda/rutes) · [Rutes des de Bellver](/pobles/bellver-de-cerdanya/rutes)
 
 ---
 
