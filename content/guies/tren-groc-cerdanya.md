@@ -1,6 +1,6 @@
 El Tren Groc de la Cerdanya és una d'aquelles experiències que, un cop feta, no s'oblida. Seixanta-tres quilòmetres de via estreta pels Pirineus Catalans, viaductes espectaculars, paisatges que canvien d'altitud en altitud, i un tren groc —literalment groc— que fa més de cent anys que puja i baixa entre la plana del Conflent i l'altiplà de la Cerdanya. No és el transport més ràpid ni el més directe. És una experiència en si mateixa.
 
-Si estàs planificant una escapada a la Cerdanya i encara no has pujat al Tren Groc, aquesta guia és per a tu. Horaris actualitzats 2025, preus, estacions i tot el que cal saber per no improvisar.
+Si estàs planificant una escapada a la Cerdanya i encara no has pujat al Tren Groc, aquesta guia és per a tu. Horaris, preus, estacions i tot el que cal saber per no improvisar.
 
 ---
 
@@ -41,11 +41,9 @@ Tots dos es troben al tram del Conflent, entre Villefranche i Fontpédrouse, i e
 
 ---
 
-## Horaris 2025 (vigents del 24 de maig al 13 de desembre)
+## Horaris del Tren Groc
 
-> ⚠️ **Important:** La línia estarà tancada del **29 de setembre al 31 d'octubre de 2025** per obres de manteniment. Durant aquest període no circula cap tren entre Latour-de-Carol i Villefranche. Consulta els horaris alternatius a [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) o a [letrainjaune.fr](https://letrainjaune.fr/ca/horaires-et-infos/).
-
-Els horaris que publiquem aquí són els vigents per al període estiu-tardor 2025. Hi ha variacions entre setmana i caps de setmana, i alguns trens circulen únicament en temporada d'estiu (5 juliol – 31 agost) o a partir de l'1 de novembre. Sempre confirma abans de viatjar.
+> ⚠️ **Confirma sempre abans de viatjar.** El Tren Groc té horaris de temporada i pot tenir talls puntuals per obres de manteniment. Els horaris varien entre setmana i caps de setmana, i alguns trens circulen únicament en temporada d'estiu o a partir de novembre. Consulta els horaris actualitzats a [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) o a [letrainjaune.fr](https://letrainjaune.fr/ca/horaires-et-infos/).
 
 ### Direcció Latour-de-Carol (sentit muntanya, de baix a dalt)
 
@@ -144,7 +142,7 @@ Si vens de Barcelona sense cotxe, pots combinar el tren R3 (Barcelona → Puigce
 El trajecte complet de Villefranche-Vernet-les-Bains fins a Latour-de-Carol-Enveitg dura aproximadament 3 hores, amb parades a totes les estacions obligatòries. Si fas el trajecte parcialment (per exemple, de Latour de Carol a Font-Romeu), el temps es redueix proporcionalment.
 
 **El Tren Groc circula tot l'any?**
-Sí, el Tren Groc és un servei de transport públic regular que funciona tot l'any. Però hi ha períodes de tancament per manteniment: el 2025 la línia estarà tancada del 29 de setembre al 31 d'octubre. Sempre convé confirmar la circulació a trainlio.sncf.com.
+Sí, el Tren Groc és un servei de transport públic regular que funciona tot l'any. Però hi ha períodes de tancament per manteniment (habitualment a la tardor). Sempre convé confirmar la circulació a trainlio.sncf.com abans de viatjar.
 
 **Puc pujar al Tren Groc des de Puigcerdà?**
 No directament: Puigcerdà és a la Cerdanya espanyola i el Tren Groc circula per la banda francesa. L'estació més propera per als visitants que vénen de Puigcerdà és Latour-de-Carol-Enveitg, a menys de 10 minuts en cotxe. Des d'allà pots agafar el tren en direcció Villefranche.
