@@ -189,6 +189,93 @@ function getImageObjectSchema(guia, slug) {
 }
 // ─────────────────────────────────────────────────────────────────────────────
 
+// ─── SCHEMA TouristDestination ───────────────────────────────────────────────
+// Per a pàgines de destinació (que-fer-*, que-hacer-en-la-cerdanya).
+// Beneficis GEO: Google, Gemini, ChatGPT i Perplexity extreuen entitats
+// geogràfiques estructurades → millora visibilitat en respostes d'IA.
+// containsPlace: atraccions principals per a extracció de llistes per IA.
+const TOURIST_DESTINATION_SLUGS = new Set([
+  "que-fer-a-la-cerdanya",
+  "que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
+  "que-hacer-en-la-cerdanya",
+]);
+
+function getTouristDestinationSchema(slug, guia) {
+  if (!TOURIST_DESTINATION_SLUGS.has(slug)) return null;
+
+  const isES = slug === "que-hacer-en-la-cerdanya";
+  const urlGuia = `https://topcerdanya.com/guies/${slug}`;
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "TouristDestination",
+    "@id": urlGuia,
+    "name": isES ? "La Cerdanya" : "La Cerdanya",
+    "description": guia.meta_description || (isES
+      ? "La Cerdanya es un valle pirenaico a dos horas de Barcelona con 300 días de sol al año, esquí nórdico y algunos de los mejores restaurantes de los Pirineos."
+      : "La Cerdanya és una comarca del Pirineu català a menys de dues hores de Barcelona amb 300 dies de sol, esquí i natura d'alta muntanya."),
+    "url": urlGuia,
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 42.43,
+      "longitude": 1.88
+    },
+    "hasMap": "https://maps.google.com/?q=La+Cerdanya",
+    "touristType": isES
+      ? ["Turismo de montaña", "Turismo de nieve", "Senderismo", "Turismo gastronómico", "Turismo familiar"]
+      : ["Turisme de muntanya", "Turisme de neu", "Senderisme", "Turisme gastronòmic", "Turisme familiar"],
+    "includesAttraction": [
+      {
+        "@type": "TouristAttraction",
+        "name": isES ? "Estaciones de esquí Alp 2500 (La Molina + Masella)" : "Estacions d'esquí Alp 2500 (La Molina + Masella)",
+        "description": isES ? "135 km de pistas, el mayor espacio esquiable de Cataluña." : "135 km de pistes, el major espai esquiable de Catalunya.",
+        "geo": { "@type": "GeoCoordinates", "latitude": 42.34, "longitude": 1.90 }
+      },
+      {
+        "@type": "TouristAttraction",
+        "name": isES ? "Llívia, enclave español en Francia" : "Llívia, enclavament català a França",
+        "description": isES ? "Municipio español rodeado de territorio francés. Alberga la farmacia habitada más antigua de Europa (siglo XV)." : "Municipi català rodejat de territori francès. Acull la farmàcia habitada més antiga d'Europa (segle XV).",
+        "geo": { "@type": "GeoCoordinates", "latitude": 42.46, "longitude": 1.98 }
+      },
+      {
+        "@type": "TouristAttraction",
+        "name": isES ? "Tren Groc (Tren Amarillo)" : "Tren Groc",
+        "description": isES ? "Línea de vía métrica eléctrica con 63 km, 40 puentes y 19 túneles. Estación de Bolquère-Eyne a 1.592 m, la más alta de Francia en servicio regular." : "Línia de via mètrica elèctrica de 63 km, 40 ponts i 19 túnels. Estació de Bolquère-Eyne a 1.592 m, la més alta de França en servei regular.",
+        "geo": { "@type": "GeoCoordinates", "latitude": 42.50, "longitude": 2.03 }
+      },
+      {
+        "@type": "TouristAttraction",
+        "name": isES ? "Baños termales de Dorres" : "Banys termals de Dorres",
+        "description": isES ? "Piscina exterior a 38–39 °C, 1.680 m de altitud, acceso libre, abierta todo el año." : "Piscina exterior a 38–39 °C, 1.680 m d'altitud, accés lliure, oberta tot l'any.",
+        "geo": { "@type": "GeoCoordinates", "latitude": 42.49, "longitude": 1.97 }
+      },
+      {
+        "@type": "TouristAttraction",
+        "name": isES ? "Lago de Puigcerdà" : "Llac de Puigcerdà",
+        "description": isES ? "Lago artificial de 1260, corazón social de la capital. 2,5 km de paseo, baño en verano." : "Llac artificial del 1260, cor social de la capital. 2,5 km de passeig, bany a l'estiu.",
+        "geo": { "@type": "GeoCoordinates", "latitude": 42.43, "longitude": 1.93 }
+      },
+      {
+        "@type": "TouristAttraction",
+        "name": isES ? "Lago de Malniu (Meranges)" : "Llac de Malniu (Meranges)",
+        "description": isES ? "Lago de montaña a 1.870 m, 8 km de ruta, 340 m de desnivel." : "Llac de muntanya a 1.870 m, 8 km de ruta, 340 m de desnivell.",
+        "geo": { "@type": "GeoCoordinates", "latitude": 42.40, "longitude": 1.84 }
+      }
+    ],
+    "containedInPlace": {
+      "@type": "AdministrativeArea",
+      "name": isES ? "Cataluña, España" : "Catalunya, Espanya",
+      "geo": { "@type": "GeoCoordinates", "latitude": 41.82, "longitude": 1.87 }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Top Cerdanya",
+      "url": "https://topcerdanya.com"
+    }
+  };
+}
+// ─────────────────────────────────────────────────────────────────────────────
+
 
 const MESOS = ['','Gener','Febrer','Març','Abril','Maig','Juny','Juliol','Agost','Setembre','Octubre','Novembre','Desembre'];
 const MESOS_CURT = ['','Gen','Feb','Mar','Abr','Mai','Jun','Jul','Ago','Set','Oct','Nov','Des'];
@@ -339,6 +426,9 @@ export default async function GuiaPage({ params }) {
   // ImageObject schema — només si la guia té infografia al Sheets
   const imageObjectSchema = getImageObjectSchema(guia, slug);
 
+  // TouristDestination schema — guies de destinació (que-fer-*, que-hacer-*)
+  const touristDestinationSchema = getTouristDestinationSchema(slug, guia);
+
   // Posició de la infografia dins l'article
   const infoPosicio = guia.infografia_posicio || "intro";
 
@@ -370,6 +460,16 @@ export default async function GuiaPage({ params }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(imageObjectSchema) }}
+        />
+      )}
+
+      {/* JSON-LD: TouristDestination — guies de destinació (que-fer-*, que-hacer-*)
+          Beneficis GEO: Google Knowledge Graph + AI models (Gemini, ChatGPT, Perplexity)
+          extreuen entitats geogràfiques estructurades per a respostes directes */}
+      {touristDestinationSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(touristDestinationSchema) }}
         />
       )}
 
