@@ -13,7 +13,7 @@ Si estàs pensant en una escapada a la Cerdanya al maig, aquesta guia t'explica 
 5. **Bici per la plana Puigcerdà–Bolvir–Ger–Alp** — 20 km plans, prats florits, vistes al Puigmal i al Cadí. La millor finestra de l'any per a la bici de carretera i BTT.
 6. **Pont de l'1 de maig** — el cap de setmana amb més ambient del mes. Mercat, activitats als pobles, però cal reservar amb 3–4 setmanes.
 7. **Visita a Llívia sense cues** — Farmàcia Esteva (farmàcia habitada més antiga d'Europa, s. XV) i nucli medieval. Al maig, accés lliure sense espera.
-8. **Dinars als millors restaurants** — Serendipia (Bolvir), La Noga Taverna (Bellver), La Borda del Ceretà (Puigcerdà). Al maig pots aconseguir taula amb 2–3 dies d'antelació.
+8. **Dinars als millors restaurants** — Serendipia (Llívia), La Noga Taverna (Bellver), La Borda del Ceretà (Puigcerdà). Al maig pots aconseguir taula amb 2–3 dies d'antelació.
 
 ---
 
@@ -75,7 +75,7 @@ El maig és una data excel·lent per venir amb nens. Sense la massificació de l
 
 Els restaurants de la Cerdanya obren amb normalitat al maig i és temporada activa. La diferència respecte a l'estiu és que pots aconseguir taula amb 2–3 dies d'antelació en lloc de setmanes. Alguns dels millors llocs de la comarca:
 
-**Serendipia by La Calèche (Bolvir)** — el referent de la comarca per a una ocasió especial. Cuina de mercat amb producte pirinenc. Reserva recomanada.
+**Serendipia by La Calèche (Llívia)** — el referent de la comarca per a una ocasió especial. Cuina de mercat amb producte pirinenc. Reserva recomanada.
 
 **Grau de l'Os (Bellver)** — el millor menú qualitat-preu de la comarca, a 28 €. Ideal per dinar après d'una ruta per la Baixa Cerdanya.
 

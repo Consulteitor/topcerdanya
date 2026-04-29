@@ -36,7 +36,7 @@ A 15 km de Puigcerdà, Bellver de Cerdanya es uno de los pueblos medievales mejo
 
 El **castillo de Bellver** domina el pueblo desde un promontorio. Aunque no siempre está abierto al público, el camino de subida ya merece el paseo por las vistas sobre el valle.
 
-**La Noga Taverna** y **Serendipia by La Calèche** (en el vecino Bolvir) son las dos referencias gastronómicas de esta zona.
+**La Noga Taverna** (Bellver) y **Serendipia by La Calèche** (Llívia) son las dos referencias gastronómicas más destacadas de la comarca.
 
 ### Otros pueblos con encanto
 
@@ -124,7 +124,7 @@ Restaurantes de referencia por zona:
 | Puigcerdà | La Placeta | Cocina de mercado en el centro histórico |
 | Puigcerdà | Tiracanyes | Brasas y producto local; buena lista de vinos |
 | Llívia | Lo Vintage | La referencia gastronómica del enclave |
-| Bolvir | Serendipia by La Calèche | Cocina de autor; el más reconocido de la comarca |
+| Llívia | Serendipia by La Calèche | Cocina de autor; el más reconocido de la comarca |
 | Bellver | La Noga Taverna | Propuesta honesta con producto de proximidad |
 
 → Guía completa con más opciones por zona: [Restaurantes en la Cerdanya](/guies/restaurantes-cerdanya)
