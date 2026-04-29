@@ -189,6 +189,53 @@ function getImageObjectSchema(guia, slug) {
 }
 // ─────────────────────────────────────────────────────────────────────────────
 
+// ─── SCHEMA Article ──────────────────────────────────────────────────────────
+// S'aplica a totes les guies excepte les de recepta (que ja tenen Recipe schema).
+// Beneficis E-E-A-T: Google i AI models llegeixen author/publisher per avaluar
+// credibilitat. datePublished/dateModified opcionals — s'activen si el Sheets
+// té columnes "data_publicacio" i "data_modificacio" (format YYYY-MM-DD).
+function getArticleSchema(slug, guia) {
+  if (RECIPE_SLUGS.includes(slug)) return null; // Recipe ja cobreix aquestes pàgines
+
+  const urlGuia = `https://topcerdanya.com/guies/${slug}`;
+  const org = {
+    "@type": "Organization",
+    "name": "Top Cerdanya",
+    "url": "https://topcerdanya.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://topcerdanya.com/logo.png"
+    }
+  };
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": guia.titol,
+    "description": guia.meta_description || `Guia completa sobre ${guia.titol} a la Cerdanya.`,
+    "url": urlGuia,
+    "mainEntityOfPage": { "@type": "WebPage", "@id": urlGuia },
+    "author": org,
+    "publisher": org,
+    "inLanguage": guia.idioma || (/hacer|donde|aguas|alojamiento|verano|esqui|pueblo|como-llegar|comprar-casa|segunda-residencia|reformar-casa|restaurantes-|excursiones/.test(slug) ? "es" : "ca"),
+  };
+
+  // Imatge destacada (camp "imatge" del Sheets)
+  if (guia.imatge) {
+    schema.image = {
+      "@type": "ImageObject",
+      "url": guia.imatge.startsWith("http") ? guia.imatge : `https://topcerdanya.com${guia.imatge}`,
+    };
+  }
+
+  // Dates opcionals — s'activen si el Sheets té les columnes corresponents
+  if (guia.data_publicacio) schema.datePublished = guia.data_publicacio;
+  if (guia.data_modificacio) schema.dateModified = guia.data_modificacio;
+
+  return schema;
+}
+// ─────────────────────────────────────────────────────────────────────────────
+
 // ─── SCHEMA TouristDestination ───────────────────────────────────────────────
 // Per a pàgines de destinació (que-fer-*, que-hacer-en-la-cerdanya).
 // Beneficis GEO: Google, Gemini, ChatGPT i Perplexity extreuen entitats
@@ -429,6 +476,9 @@ export default async function GuiaPage({ params }) {
   // TouristDestination schema — guies de destinació (que-fer-*, que-hacer-*)
   const touristDestinationSchema = getTouristDestinationSchema(slug, guia);
 
+  // Article schema — totes les guies (excepte receptes)
+  const articleSchema = getArticleSchema(slug, guia);
+
   // Posició de la infografia dins l'article
   const infoPosicio = guia.infografia_posicio || "intro";
 
@@ -470,6 +520,16 @@ export default async function GuiaPage({ params }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(touristDestinationSchema) }}
+        />
+      )}
+
+      {/* JSON-LD: Article — totes les guies excepte receptes
+          author + publisher → E-E-A-T per a Google i AI models
+          dates opcionals via Sheets (data_publicacio / data_modificacio) */}
+      {articleSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
         />
       )}
 
