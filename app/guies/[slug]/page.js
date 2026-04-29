@@ -87,13 +87,20 @@ function getRecipeSchema(slug, guia) {
   if (!RECIPE_SLUGS.includes(slug)) return null;
 
   const isES = slug === "trinxat-de-la-cerdanya-receta";
+  const pageUrl = `https://topcerdanya.com/guies/${slug}`;
+  const mainImage = guia.imatge
+    ? `https://topcerdanya.com${guia.imatge}`
+    : "https://topcerdanya.com/images/guies/recepta-trinxat-de-la-cerdanya.jpg";
+
+  // Helpers per generar l'anchor URL de cada pas (fix "url" i "image" a HowToStep)
+  const sUrl = (n) => isES ? `${pageUrl}#paso-${n}` : `${pageUrl}#pas-${n}`;
 
   return {
     "@context": "https://schema.org",
     "@type": "Recipe",
     "name": "Trinxat de la Cerdanya",
     "description": guia.meta_description || "Recepta tradicional del trinxat de la Cerdanya pas a pas: col d'hivern, trumfes i cansalada.",
-    "image": guia.imatge ? `https://topcerdanya.com${guia.imatge}` : "https://topcerdanya.com/images/guies/recepta-trinxat-de-la-cerdanya.jpg",
+    "image": mainImage,
     "author": { "@type": "Organization", "name": "Top Cerdanya", "url": "https://topcerdanya.com" },
     "publisher": { "@type": "Organization", "name": "Top Cerdanya", "url": "https://topcerdanya.com" },
     "datePublished": "2026-03-24",
@@ -107,7 +114,11 @@ function getRecipeSchema(slug, guia) {
     "keywords": isES
       ? "trinxat, cerdanya, receta tradicional, col, patatas, panceta"
       : "trinxat, cerdanya, recepta tradicional, col, trumfes, cansalada, thermomix",
-    "nutrition": { "@type": "NutritionInformation", "servingSize": isES ? "1 porción" : "1 ració" },
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "servingSize": isES ? "1 porción (aprox. 250g)" : "1 ració (aprox. 250g)",
+      "calories": "450 calories"
+    },
     "recipeIngredient": isES ? [
       "1 kg de col de invierno",
       "1 kg de patatas (variedad Kennebec o Red Pontiac)",
@@ -122,21 +133,21 @@ function getRecipeSchema(slug, guia) {
       "Sal"
     ],
     "recipeInstructions": isES ? [
-      { "@type": "HowToStep", "name": "Prepara las verduras", "text": "Limpia bien la col eliminando el tronco central y las hojas exteriores. Pela las patatas y córtalas en trozos." },
-      { "@type": "HowToStep", "name": "Cuece las verduras", "text": "Pon las patatas en agua hirviendo con sal. A los 15 minutos añade la col. Cuece todo junto 25-30 minutos hasta que las patatas queden muy blandas, casi deshechas." },
-      { "@type": "HowToStep", "name": "Escurre bien", "text": "Escurre las verduras en un escurridor al menos 5 minutos. El exceso de humedad impide que el trinxat se dore correctamente." },
-      { "@type": "HowToStep", "name": "Fríe la panceta", "text": "Dora las lonchas de panceta en una sartén grande con aceite a fuego medio. Retira la panceta y conserva la grasa en la sartén." },
-      { "@type": "HowToStep", "name": "Tritura e integra", "text": "Pon las verduras escurridas en la sartén caliente con la grasa. Aplasta y mezcla con tenedor hasta obtener una pasta homogénea con algunos grumos." },
-      { "@type": "HowToStep", "name": "Dora en la sartén", "text": "Aplana la mezcla como una tortilla y dora a fuego medio-alto 3-4 minutos por cada lado hasta obtener costra dorada." },
-      { "@type": "HowToStep", "name": "Emplata", "text": "Coloca las lonchas de panceta crujiente encima y acaba con un chorro generoso de aceite de oliva virgen extra." }
+      { "@type": "HowToStep", "name": "Prepara las verduras", "url": sUrl(1), "image": mainImage, "text": "Limpia bien la col eliminando el tronco central y las hojas exteriores. Pela las patatas y córtalas en trozos." },
+      { "@type": "HowToStep", "name": "Cuece las verduras", "url": sUrl(2), "image": mainImage, "text": "Pon las patatas en agua hirviendo con sal. A los 15 minutos añade la col. Cuece todo junto 25-30 minutos hasta que las patatas queden muy blandas, casi deshechas." },
+      { "@type": "HowToStep", "name": "Escurre bien", "url": sUrl(3), "image": mainImage, "text": "Escurre las verduras en un escurridor al menos 5 minutos. El exceso de humedad impide que el trinxat se dore correctamente." },
+      { "@type": "HowToStep", "name": "Fríe la panceta", "url": sUrl(4), "image": mainImage, "text": "Dora las lonchas de panceta en una sartén grande con aceite a fuego medio. Retira la panceta y conserva la grasa en la sartén." },
+      { "@type": "HowToStep", "name": "Tritura e integra", "url": sUrl(5), "image": mainImage, "text": "Pon las verduras escurridas en la sartén caliente con la grasa. Aplasta y mezcla con tenedor hasta obtener una pasta homogénea con algunos grumos." },
+      { "@type": "HowToStep", "name": "Dora en la sartén", "url": sUrl(6), "image": mainImage, "text": "Aplana la mezcla como una tortilla y dora a fuego medio-alto 3-4 minutos por cada lado hasta obtener costra dorada." },
+      { "@type": "HowToStep", "name": "Emplata", "url": sUrl(7), "image": mainImage, "text": "Coloca las lonchas de panceta crujiente encima y acaba con un chorro generoso de aceite de oliva virgen extra." }
     ] : [
-      { "@type": "HowToStep", "name": "Prepara les verdures", "text": "Neteja la col eliminant el tronc central i les fulles exteriors malmeses. Pela les trumfes i talla-les en trossos." },
-      { "@type": "HowToStep", "name": "Bull les verdures", "text": "Posa les trumfes en aigua bullint amb sal. Als 15 minuts afegeix la col. Bull tot junt 25-30 minuts fins que les trumfes quedin molt cuites, gairebé desfeides." },
-      { "@type": "HowToStep", "name": "Escorre molt bé", "text": "Escorre les verdures en un escorredor almenys 5 minuts. L'excés d'humitat impedeix que el trinxat dauri correctament." },
-      { "@type": "HowToStep", "name": "Fregeix la cansalada", "text": "Daura els talls de cansalada en una paella gran amb oli a foc mig. Retira la cansalada i conserva el greix a la paella." },
-      { "@type": "HowToStep", "name": "Trinxa i integra", "text": "Posa les verdures escorregudes a la paella calenta amb el greix. Aixafa i barreja amb forquilla fins a obtenir una pasta homogènia amb algun grumoll visible." },
-      { "@type": "HowToStep", "name": "Daura a la paella", "text": "Aplana la barreja com una truita i daura a foc mig-fort 3-4 minuts per cada costat fins a obtenir crosta daurada." },
-      { "@type": "HowToStep", "name": "Emplata", "text": "Col·loca les rostes de cansalada cruixents a sobre i acaba amb un raig generós d'oli d'oliva verge extra." }
+      { "@type": "HowToStep", "name": "Prepara les verdures", "url": sUrl(1), "image": mainImage, "text": "Neteja la col eliminant el tronc central i les fulles exteriors malmeses. Pela les trumfes i talla-les en trossos." },
+      { "@type": "HowToStep", "name": "Bull les verdures", "url": sUrl(2), "image": mainImage, "text": "Posa les trumfes en aigua bullint amb sal. Als 15 minuts afegeix la col. Bull tot junt 25-30 minuts fins que les trumfes quedin molt cuites, gairebé desfeides." },
+      { "@type": "HowToStep", "name": "Escorre molt bé", "url": sUrl(3), "image": mainImage, "text": "Escorre les verdures en un escorredor almenys 5 minuts. L'excés d'humitat impedeix que el trinxat dauri correctament." },
+      { "@type": "HowToStep", "name": "Fregeix la cansalada", "url": sUrl(4), "image": mainImage, "text": "Daura els talls de cansalada en una paella gran amb oli a foc mig. Retira la cansalada i conserva el greix a la paella." },
+      { "@type": "HowToStep", "name": "Trinxa i integra", "url": sUrl(5), "image": mainImage, "text": "Posa les verdures escorregudes a la paella calenta amb el greix. Aixafa i barreja amb forquilla fins a obtenir una pasta homogènia amb algun grumoll visible." },
+      { "@type": "HowToStep", "name": "Daura a la paella", "url": sUrl(6), "image": mainImage, "text": "Aplana la barreja com una truita i daura a foc mig-fort 3-4 minuts per cada costat fins a obtenir crosta daurada." },
+      { "@type": "HowToStep", "name": "Emplata", "url": sUrl(7), "image": mainImage, "text": "Col·loca les rostes de cansalada cruixents a sobre i acaba amb un raig generós d'oli d'oliva verge extra." }
     ]
   };
 }
