@@ -1,6 +1,15 @@
 Pocos lo saben, pero la Cerdanya es uno de los destinos termales más interesantes de los Pirineos. A menos de dos horas de Barcelona, cuatro complejos de aguas sulfurosas naturales —tres en la Cerdanya francesa y uno en el lado catalán— ofrecen una experiencia muy distinta a la piscina climatizada de un hotel. Aquí el agua sale de la tierra. Y se nota.
 
-Esta guía está pensada para quien viaja a la Cerdanya y quiere añadir una tarde de aguas termales al plan. Con los precios actualizados para 2026, los horarios y una comparativa honesta de los cuatro.
+Esta guía está pensada para quien viaja a la Cerdanya y quiere añadir una tarde de aguas termales al plan. Con los horarios y una comparativa honesta de los cuatro.
+
+---
+
+## Los 4 baños termales de la Cerdanya: resumen rápido
+
+1. **Dorres** — 6€ · 38–41°C · Alta Cerdanya francesa · Bañeras romanas talladas en granito, piscinas exteriores con panorámica al Puigmal. El más fotogénico y auténtico. Abierto todo el año.
+2. **Llívia** — ~6€ · 32–38°C · Baja Cerdanya (España) · Gestión municipal, 4 piscinas exteriores, capacidad 90 personas. El único en el lado español. Abierto 365 días.
+3. **Sant Tomàs** (Fontpedrós) — 9€ solo exterior / 18€ completo · 34–37°C · Fuente natural a 58°C (la más caliente de los Pirineos orientales), anfiteatro de piedra, hammam y sauna opcionales.
+4. **Llo** — 11€ · 35–40°C · 3 piscinas exteriores + 2 interiores + hammam + sauna + masajes. El más completo. Ideal para un día entero de spa.
 
 ---
 
@@ -22,7 +31,7 @@ Lo que hace único a Dorres es su parte antigua: bañeras individuales talladas 
 
 El ambiente es deliberadamente sencillo. No hay spa, no hay circuito termal, no hay música ambiental. Hay agua caliente, granito, montaña y silencio. Es exactamente lo que tiene que ser.
 
-**Precio 2026:** 6€ adultos · 4€ niños · Abierto todo el año
+**Precio:** 6€ adultos · 4€ niños · Abierto todo el año
 **Horario:** 9h a 19:30h (hasta 20:30h en julio y agosto)
 **Cierre anual:** noviembre aprox. (consultar web)
 **Web:** dorres66.com
@@ -35,7 +44,7 @@ Los baños de Llo son los que ofrecen más instalaciones. Situados junto a las G
 
 Es el más popular entre quienes buscan un día de spa completo con aguas naturales. La pega: precisamente por eso, en temporada alta puede estar concurrido y el ambiente es menos íntimo que Dorres. Los vestuarios están muy bien equipados con cabinas individuales, taquillas y secadores. Las piscinas exteriores están abiertas a niños de cualquier edad; sauna y hammam son para mayores de 12 años.
 
-**Precio 2026:** 11€ adultos · 8€ niños
+**Precio:** 11€ adultos · 8€ niños
 **Horario:** 10h a 19:15h (hasta 20h en julio-agosto y Navidad)
 **Web:** bains-de-llo.com
 
@@ -61,7 +70,7 @@ Abiertos en 2023, los baños de Llívia son los únicos de gestión pública de 
 
 Su apertura fue técnicamente compleja: el agua del subsuelo de Llívia brota a unos 31°C, temperatura insuficiente para el baño en invierno. El Ayuntamiento resolvió el problema calentando el agua mediante energía renovable (paneles solares y biomasa), lo que permitió abrir el complejo los 365 días del año. El resultado es el enclave termal más accesible de la Cerdanya española, con precios notablemente más bajos que los complejos franceses.
 
-**Precio 2026:** ~6€ adultos · ~4€ niños (verificar en llivia.org)
+**Precio:** ~6€ adultos · ~4€ niños (verificar en llivia.org)
 **Horario:** 11h a 19h todos los días
 **Teléfono:** 699 683 919
 **Web:** llivia.org
@@ -110,5 +119,5 @@ Sí, todos abren en invierno. Es precisamente la mejor época. Todos hacen cierr
 ## Guías relacionadas
 
 - [Dónde bañarse en la Cerdanya: piscinas y lugares naturales](/guies/donde-banarse-cerdanya)
-- [Qué hacer en la Cerdanya: guía completa](/guies/que-hacer-cerdanya)
+- [Qué hacer en la Cerdanya: guía completa](/guies/que-hacer-en-la-cerdanya)
 - [Los mejores restaurantes de la Cerdanya](/guies/restaurantes-cerdanya)

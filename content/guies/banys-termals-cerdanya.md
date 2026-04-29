@@ -4,6 +4,15 @@ Aquesta guia et dóna tota la informació pràctica per triar quin encaixa millo
 
 ---
 
+## Els 4 banys termals de la Cerdanya: resum ràpid
+
+1. **Dorres** — 6€ · 38–41°C · Alt Cerdanya francesa · Banyeres romanes de granit tallat, piscines exteriors amb panoràmica al Puigmal. El més fotogènic i autèntic. Obert tot l'any.
+2. **Llívia** — ~6€ · 32–38°C · Baixa Cerdanya (Espanya) · Gestió municipal, 4 piscines exteriors, capacitat 90 persones. L'únic a la banda espanyola. Obert 365 dies.
+3. **Sant Tomàs** (Fontpedrós) — 9€ exterior / 18€ complet · 34–37°C · Font natural a 58°C (la més calenta dels Pirineus orientals), amfiteatre de pedra, hammam i sauna opcionals.
+4. **Llo** — 11€ · 35–40°C · 3 piscines exteriors + 2 interiors + hammam + sauna + massatges. El més complet. Ideal per a un dia sencer de spa.
+
+---
+
 ## Per què la Cerdanya té tants banys termals?
 
 Les aigües termals de la Cerdanya provenen de fonts d'origen volcànic i filtració profunda a través del granit del massís pirinenc. L'activitat geotèrmica de la zona és notable: a Dorres l'aigua brolla naturalment a 41°C, a Sant Tomàs a 58°C —una de les fonts més calentes dels Pirineus—, mentre que a Llívia surt a uns 31°C i s'escalfa complementàriament amb energies renovables.
@@ -112,5 +121,5 @@ Llo té restaurant propi. Sant Tomàs té snack-bar. Dorres té begudes i gelats
 ## Guies relacionades
 
 - [On banyar-se a la Cerdanya: piscines i llocs naturals](/guies/on-banyar-se-cerdanya)
-- [Què fer a la Cerdanya: guia pràctica](/guies/que-fer-cerdanya)
+- [Què fer a la Cerdanya: guia pràctica](/guies/que-fer-a-la-cerdanya)
 - [Cap de setmana romàntic a la Cerdanya](/guies/cap-de-setmana-romantic-cerdanya)
