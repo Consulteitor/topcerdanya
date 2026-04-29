@@ -153,8 +153,8 @@ Perfectament. Puigcerdà té tots els serveis necessaris (farmàcia, supermercat
 - [Allotjament rural a la Cerdanya: guia general](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [Allotjaments prop de rutes a la Cerdanya](/guies/allotjament-senderisme-cerdanya)
 - [Què fer a la Cerdanya amb nens: guia completa](/guies/que-fer-cerdanya-amb-nens)
-- [Activitats familiars a la Cerdanya: plans per edats](/guies/que-fer-cerdanya-amb-nens)
-- [Restaurants a la Cerdanya per anar amb nens](/guies/que-fer-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats](/guies/activitats-cerdanya-families)
+- [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
 - [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
 
 ---

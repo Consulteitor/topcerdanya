@@ -4,6 +4,16 @@ Aquesta guia no és un llistat de cases rurals. És una guia per entendre com fu
 
 ---
 
+## Els 5 tipus d'allotjament rural a la Cerdanya i quan triar cada un
+
+1. **Casa rural de lloguer complet** — tot l'espai per al teu grup, cuina pròpia, jardí. La millor opció per a famílies amb nens i grups. Preus: 90–350 €/nit per a 6–10 places segons temporada. Més de 80 cases catalogades a la comarca.
+2. **Masia amb habitacions (B&B)** — experiència rural amb servei d'esmorzar inclòs. Ideal per a parelles o estades curtes sense voler cuinar. Can Borrell a Meranges i Torre del Remei a Bolvir en són els referents.
+3. **Hotel rural** — servei complet (recepció, neteja diària, restaurant). Per a qui prioritza comoditat. Preus des de 120 €/nit per a dues persones.
+4. **Apartament rural** — format flexible i econòmic. Ideal per a parelles o famílies que prefereixen independència. Bona oferta al centre de Puigcerdà i zones d'esquí.
+5. **Refugi de muntanya** — pernocta en altitud amb sopar i esmorzar inclosos. Per a senderistes sense nens petits. Refugi de Prat d'Aguiló (2.043 m) i Refugi de Malniu (1.730 m) són els de referència a la comarca.
+
+---
+
 ## Com funciona l'oferta d'allotjament rural a la Cerdanya
 
 La Cerdanya és una de les comarques catalanes amb més oferta d'allotjament rural per capita. La combinació de paisatge, accessibilitat des de Barcelona i tradició turística de muntanya ha generat un mercat consolidat amb propostes per a tots els perfils.

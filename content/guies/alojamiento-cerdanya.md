@@ -4,6 +4,18 @@ Esta guía ordena las opciones por tipo de alojamiento y por lo que buscas, con 
 
 ---
 
+## Los 7 tipos de alojamiento en la Cerdaña: cuál elegir
+
+1. **Hotel con spa en Puigcerdà** (Hotel Villa Paulita) — frente al lago, edificio novecentista, spa. Para escapadas de pareja o quien quiere comodidad máxima y servicios a pie de calle.
+2. **Hotel rural de montaña** (Can Borrell, Meranges) — masia del s. XVIII, gastronomía de autor, vistas al Puigpedrós. Para quien busca tranquilidad real y base de senderismo.
+3. **Casa rural sencera** (Puigcerdà, Bolvir, Bellver) — jardín, cocina equipada, todo el espacio para el grupo. La opción más popular para familias y grupos de amigos, 80+ casas rurales en la comarca.
+4. **Apartamento vacacional** (Puigcerdà centro) — cocina propia, horarios libres, precios más bajos para grupos. Booking y Airbnb tienen buena oferta.
+5. **Hotel a pie de pista** (Alp, La Molina, Das) — para esquiadores que quieren minimizar desplazamientos. Temporada alta: reserva con 3–4 semanas.
+6. **Camping o bungalow** (Cerdanya Ecoresort, Prullans) — el más completo del Pirineo catalán, con granja para niños y zona de baño. Activo de abril a octubre.
+7. **Albergue o refugio de montaña** (Refugi de Prat d'Aguiló, 2.043 m; Refugi de Malniu, 1.730 m) — para senderistas que quieren pernoctar en altitud con cena y desayuno incluidos.
+
+---
+
 ## Hoteles en la Cerdaña
 
 La oferta hotelera de la comarca no es enorme, pero tiene varios establecimientos que merecen la pena por encima de la media. La mayoría se concentran en Puigcerdà, Alp y Llívia.
@@ -152,4 +164,4 @@ Un apartamento para 4-6 personas cuesta entre 700 y 1.800 € semanales según �
 
 ---
 
-*Guía editorial de Top Cerdanya**
+*Guía editorial de Top Cerdanya*

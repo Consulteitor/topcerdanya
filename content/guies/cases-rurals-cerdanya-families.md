@@ -141,11 +141,10 @@ En una casa rural sencera tens tot l'espai per al teu grup, amb total privacitat
 - [Què fer a la Cerdanya amb nens: guia completa per a famílies](/guies/que-fer-cerdanya-amb-nens)
 - [Allotjament rural a la Cerdanya: guia general per triar i reservar](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [On dormir a la Cerdanya amb nens](/guies/on-dormir-cerdanya-nens)
-- [Restaurants a la Cerdanya per anar amb nens](/guies/que-fer-cerdanya-amb-nens)
-- [Activitats familiars a la Cerdanya: plans per edats i temporada](/guies/que-fer-cerdanya-amb-nens)
+- [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
+- [Activitats familiars a la Cerdanya: plans per edats i temporada](/guies/activitats-cerdanya-families)
 - [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
 - [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
-- [Que fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
 
 ---
 
