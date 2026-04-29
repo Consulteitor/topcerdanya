@@ -1,11 +1,11 @@
 **Slug:** `reformar-casa-cerdanya`
-**Meta description:** Guia pràctica per reformar casa a la Cerdanya: costos reals per tipologia de reforma, llicències necessàries, empreses locals, terminis, i com gestionar una obra des de Barcelona.
+**Meta description:** Guia per reformar casa o xalet a la Cerdanya: costos reals (400–1.600 €/m²), llicències, constructors locals i com gestionar l'obra des de Barcelona. Tot el que cal saber.
 
 ---
 
-Reformar una casa a la Cerdanya és una cosa que molts compradors han de fer —bé perquè han comprat una propietat que la necessitava, bé perquè volen modernitzar i millorar l'eficiència energètica d'un habitatge ja adquirit. I és una cosa que, si no es gestiona bé, pot convertir-se en una font de maldecaps, sobrecostos i disputes.
+Reformar una casa o xalet a la Cerdanya és una de les decisions que acompanyen la compra de moltes propietats a la comarca. Bé perquè s'ha adquirit una propietat dels anys 70–80 que necessitava actualització, bé perquè es vol millorar l'eficiència energètica d'un habitatge ja adquirit, o bé perquè la casa de cap de setmana necessita una posada al dia que augmenti el seu confort hivernal.
 
-Aquesta guia t'explica com funciona el mercat de la rehabilitació i la reforma a la Cerdanya, amb els costos reals del mercat local, els tràmits necessaris, i els consells pràctics per gestionar-ho des de la distància.
+Sigui quin sigui el motiu, gestionar una reforma a la Cerdanya té especificitats locals molt concretes que no trobaràs a cap altra comarca. Aquesta guia t'explica com funciona el mercat de la rehabilitació i la reforma a la comarca, amb els costos reals del mercat local, els tràmits necessaris, i els consells pràctics per gestionar-ho des de la distància.
 
 ---
 
@@ -132,6 +132,22 @@ Els fons europeus per a rehabilitació energètica d'habitatges segueixen actius
 
 ---
 
+## Reformar un xalet o casa de cap de setmana a la Cerdanya
+
+La gran majoria de les reformes que es fan a la Cerdanya son en propietats que funcionen com a segones residències o cases de cap de setmana: xalets adossats de les urbanitzacions de Bolvir i Ger, apartaments dels anys 80 a prop de les pistes d'Alp i Puigcerdà, cases aïllades a la plana de la Baixa Cerdanya.
+
+Reformar un xalet de cap de setmana té una lògica diferent a la d'una primera residència:
+
+**La priorització és diferent.** L'eficiència energètica és clau — a la Cerdanya, el cost de calefacció d'un xalet mal aïllat pot ser de 5.000–10.000 euros anuals en combustible. La inversió en aïllament i caldera eficient es recupera en 5–8 anys amb l'ús habitual d'un cap de setmana. Per contra, els acabats de luxe (marbres, domòtica premium) rarament es recuperen en la revenda.
+
+**La gestió de l'obra des de Barcelona és el repte principal.** Si no pots desplaçar-te a supervisar l'obra, necessites un aparellador o arquitecte tècnic local que faci el seguiment. No és una despesa opcional: sense supervisió, les reformes a distància acaben amb molts problemes.
+
+**L'estiu és la millor temporada per a obres importants.** Les reformes estructurals (coberta, façana) s'han de planificar per als mesos de maig a octubre. A l'hivern, les temperatures extremes i la neu afecten directament els materials i les condicions de treball exterior.
+
+**Si el xalet és en urbanització, comprova els estatuts.** Algunes urbanitzacions de la Cerdanya (especialment les de Bolvir i les properes a pistes) tenen normativa sobre colors de façana, tipus de cobertura permesa i horaris d'obra. Un error aquí pot obligar a desfer feina.
+
+---
+
 ## Pressupostos i negociació
 
 Per a qualsevol reforma, demana **com a mínim 3 pressupostos** de contractors/empreses constructores amb experiència a la comarca. Desconfia del pressupost molt més barat: sovint indica omissió de partides, materials de menor qualitat o problemes de cobertura d'assegurances.
@@ -185,3 +201,9 @@ Sí. Els fons Next Generation EU per a rehabilitació energètica (aïllament, f
 
 **Quines son les reformes més recomanables en una casa de muntanya?**
 Per ordre de retorn i confort: aïllament tèrmic (teulada i façana), substitució de finestres per doble vidre, caldera de biomassa o aerotèrmia, i reforma de banys. La cuina i els acabats son importants però l'envolupant tèrmica és la intervenció amb major impacte en confort i cost energètic a la muntanya.
+
+**Puc reformar un xalet a la Cerdanya gestionant-ho des de Barcelona?**
+Sí, però és imprescindible tenir un interlocutor presencial a la comarca. La figura de l'arquitecte tècnic o aparellador local, que supervisa l'obra en nom teu, és clau. Per a reformes superiors a 30.000 euros, el cost d'un aparellador (3–8% del pressupost) és una assegurança necessària. Sense supervisió local, les reformes a distància son la font número u de disputes amb constructors.
+
+**Quant costa reformar un xalet adossat a la Cerdanya?**
+Depèn de l'estat de partida i de les intervencions. Un xalet adossat típic dels anys 80–90 (120–150 m²) amb actualització integral —cuina, banys, aïllament, caldera nova i paviment— té un cost orientatiu d'entre 100.000 i 200.000 euros al mercat de la Cerdanya. Si s'hi afegeix intervenció a façana i coberta, el pressupost pot arribar als 250.000 euros. Sempre demana mínim 3 pressupostos d'empreses amb experiència a la comarca.
