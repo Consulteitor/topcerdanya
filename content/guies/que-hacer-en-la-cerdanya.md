@@ -85,9 +85,9 @@ Temporada: de diciembre a principios de abril, con las mejores condiciones en en
 
 ---
 
-### El Tren Groc: el tren cremallera más alto de Europa
+### El Tren Groc: la línea de montaña más espectacular del Pirineo
 
-El **Tren Groc** (Tren Amarillo) es uno de los símbolos del Pirineo. Circula entre Villefranche-de-Conflent y La Tour de Carol a través de la Alta Cerdanya francesa, con vistas espectaculares al macizo del Canigó y al llano de la Cerdanya.
+El **Tren Groc** (Tren Amarillo) es uno de los símbolos de los Pirineos. Es una línea de vía métrica eléctrica que circula entre Villefranche-de-Conflent y Latour-de-Carol-Enveitg, atravesando la Alta Cerdanya francesa. Su estación de Bolquère-Eyne, a 1.592 metros, es la más alta de toda Francia en servicio regular. A lo largo de los 63 km del trayecto, el tren cruza 40 puentes y 19 túneles, incluido el Pont de Gisclard — el puente ferroviario colgante más antiguo de Francia en funcionamiento.
 
 - **Trayecto más popular**: La Tour de Carol → Font-Romeu (1h aprox.)
 - **Dónde coger el tren**: desde La Tour de Carol, a 10 min en coche de Puigcerdà

@@ -1,8 +1,25 @@
-La Cerdanya no és un destí de cap de setmana. És una comarca que canvia completament segons quan hi vas: no té res a veure esquiar a La Molina el febrer amb passejar pels camps de Bolvir un diumenge de setembre, ni el mercat de Puigcerdà ple de gent a l'agost amb el nucli de Bellver en silenci un dilluns de novembre. La mateixa plana, quatre estacions molt diferents.
+La Cerdanya és una comarca del Pirineu català situada a 1.000–1.200 metres d'altitud, a menys de dues hores de Barcelona pel Túnel del Cadí. Limita amb França al nord, el massís del Cadí al sud i el Capcir francès a l'est. Puigcerdà (9.500 habitants, 1.202 m) n'és la capital. La comarca suma 68 municipis, la plana esquiable més gran de Catalunya (La Molina + Masella, 141 km de pistes) i la major concentració d'esquí nòrdic de l'Estat (Lles de Cerdanya, 45 km).
 
-Aquesta guia ordena el que pots fer a la Cerdanya per tipus d'activitat i per temporada. No és una llista de postals. És el que realment val la pena, amb el context suficient per saber si t'interessa o no.
+La Cerdanya canvia completament segons quan hi vas: no té res a veure esquiar a La Molina el febrer amb passejar pels camps de Bolvir un diumenge de setembre, ni el mercat de Puigcerdà ple de gent a l'agost amb el nucli de Bellver en silenci un dilluns de novembre. La mateixa plana, quatre estacions molt diferents.
 
-**Si busques plans per aquest cap de setmana o avui mateix:** els apartats de senderisme, gastronomia i pobles d'aquesta guia funcionen qualsevol dia de l'any. Si plou, llegeix la secció de plans per a dies de pluja que trobaràs més avall. Si fa sol, el llac de Puigcerdà a l'estiu o qualsevol ruta de mig nivell son la millor opció per aprofitar el dia.
+## Les 10 millors activitats a la Cerdanya
+
+1. **Esquí a La Molina i Masella** — domini Alp 2500, 141 km de pistes, únic complex de l'Estat accessible en tren de rodalies (R3 des de Barcelona)
+2. **Llac de Puigcerdà** — zona de bany, piragua i passeig perimetral de 2,5 km; el cor social de la capital a l'estiu
+3. **Tren Groc** — tren de via mètrica elèctrica de 63 km entre Vilafranca de Conflent i Latour-de-Carol; Bolquère-Eyne (1.592 m) és l'estació de servei regular més alta de França
+4. **Llac de Malniu des de Meranges** — llac glacial a 1.870 m, 8 km, 340 m de desnivell; la ruta de referència de mig nivell de la comarca
+5. **Banys termals de Dorres** — piscina exterior a 38°C, 1.680 m d'altitud, oberta tot l'any; la millor combinació neu-aigues calentes del Pirineu
+6. **Llívia** — enclavament espanyol envoltat de territori francès; Farmàcia Esteva (s. XV), museu municipal i nucli medieval sense aglomeracions
+7. **Bellver de Cerdanya i Santa Maria de Talló** — nucli medieval del s. XIV, castell i la joia del romànic cerdan a 2 km al sud
+8. **Mercat dominical de Puigcerdà** — formatge de llet crua, embotit artesà i producte local; els diumenges al matí a la Plaça de Santa Maria
+9. **Recol·lecció de bolets a la tardor** — ceps, rovellons i fredolics als boscos de les valls altes (Gréixer, Meranges, Das); setembre–novembre
+10. **Ascensió al Puigmal (2.913 m)** — la cima de referència de la comarca; 14 km, ~1.100 m de desnivell, panoràmica de 360° des del cim
+
+---
+
+Aquesta guia desenvolupa cada un d'aquests plans per tipus d'activitat i temporada, amb tota la informació pràctica per no improvisar.
+
+**Si busques plans per aquest cap de setmana o avui mateix:** els apartats de senderisme, gastronomia i pobles funcionen qualsevol dia de l'any. Si plou, llegeix la secció específica de plans per a dies de pluja.
 
 ---
 
@@ -59,6 +76,16 @@ La Cerdanya és el territori d'esquí per excel·lència de Catalunya. El domini
 **Raquetes de neu** com alternativa: els voltants de La Molina, la vall de Gréixer (des de Bellver) i l'entorn de Meranges ofereixen circuits de raquetes senyalitzats per als qui no esquien o volen una activitat diferent a les pistes.
 
 → [Guia completa d'Alp: La Molina, Masella i Das](/pobles/alp) · [Esquí i plans hivern a Alp](/pobles/alp/que-fer)
+
+---
+
+## El Tren Groc
+
+Una de les experiències que més sorprenen els visitants de la comarca. El Tren Groc és un tren de via mètrica elèctrica que fa més de cent anys que circula entre la plana del Conflent i l'altiplà de la Cerdanya francesa: 63 km, 21 estacions, viaductes espectaculars i la sensació de viatjar en una altra època. L'estació terminal de Latour-de-Carol-Enveitg és a menys de 10 minuts de Puigcerdà en cotxe.
+
+Puja a Latour-de-Carol i fes el trajecte fins a Font-Romeu (45 minuts): és suficient per entendre per què la gent torna.
+
+→ [Horaris, preus i estacions del Tren Groc](/guies/tren-groc-cerdanya)
 
 ---
 
@@ -152,11 +179,15 @@ Esquí a La Molina i Masella, raquetes de neu, après-ski, cases rurals amb llar
 **Primavera (abril – juny)**
 La temporada baixa amb menys turisme i preus menors. Les pastures de la plana es tornen verdes d'una manera que l'estiu sec no repetirà. Bon moment per al senderisme de mig nivell i per visitar els nuclis medievals sense aglomeracions. Les fonts i torrents de muntanya porten el cabal màxim.
 
+→ [Què fer a la Cerdanya a la primavera](/guies/que-fer-cerdanya-primavera) · [Plans per al pont de Maig a la Cerdanya](/guies/que-fer-cerdanya-maig)
+
 **Estiu (juliol – agost)**
 El llac de Puigcerdà, BTT, senderisme d'alta muntanya, festivals locals i festes majors. La plana pot assolir temperatures agradables de dia i sempre refresca de nit. Temporada alta turística: reserves necessàries per a tot. La combinació més popular és llac al matí, alta muntanya a la tarda.
 
 **Tardor (setembre – novembre)**
 La millor temporada per als qui busquen tranquil·litat i natura. Els boscos de la Cerdanya canvien de color d'una manera que costa d'oblidar. Temporada de bolets: ceps, rovellons i fredolics als boscos de les valls altes. Preus menors, molt menys turisme i una llum de setembre i octubre que els fotògrafs busquen específicament. La Fira de Bolets de Bellver és un dels esdeveniments de tardor més arrelats de la comarca.
+
+→ [Guia de bolets a la Cerdanya: temporades, espècies i zones](/guies/bolets-a-la-cerdanya-guia-completa-temporades-especies-zones)
 
 ---
 
@@ -189,7 +220,9 @@ La Farmàcia Esteva de Llívia és el pla de pluja per excel·lència de la coma
 Un dia de pluja és el millor moment per reservar en un dels restaurants de referència de la comarca i fer un dinar llarg. El Serendipia by La Calèche a Llívia, el Grau de l'Os a Bellver o el 539 Plats Forts a Puigcerdà son adresses on un dinar tranquil un diumenge de pluja és una experiència en si mateixa. Reserva el dia anterior.
 
 **Balnearis i termes:**
-Els Banys Termals de Llo, a 25 minuts de Puigcerdà per territori francès, son la millor opció per convertir un dia de pluja en un pla actiu: piscines d'aigües sulfuroses calentes a l'aire lliure, amb núvols o neu de fons. La sensació de banyar-te en aigües calentes mentre plou és difícil d'oblidar. A la banda espanyola, el Balneari de la Vall de Ribes (45 minuts) és una alternativa interior.
+Els Banys Termals de Dorres —a 20 minuts de Puigcerdà, piscina exterior a 38°C i 1.680 m d'altitud— és el millor pla de pluja activa de la comarca. Obert tot l'any, 6€, sense reserva. Els de Llo i Sant Tomàs de les Basses (Fontpédrouse, ja a França) son alternatives amb més instal·lacions. La sensació de banyar-te en aigües calentes mentre plou o neva és difícil d'oblidar.
+
+→ [Banys termals a la Cerdanya: Dorres, Llo, Sant Tomàs i Llívia](/guies/banys-termals-cerdanya)
 
 **Pobles medievals sota la pluja:**
 Bellver de Cerdanya i el seu nucli de pedra funcionen molt bé sota la pluja —els carrers coberts i l'arquitectura medieval guanyen amb la llum grisa. Llívia té el nucli més compacte i es pot recórrer en mitja hora sense mullar-se gaire.
