@@ -2,6 +2,17 @@ Hi ha un moment concret en el qual Llívia comença a tenir sentit. És quan sur
 
 Llívia és un enclavament: un tros de territori espanyol completament envoltat de França. No és una curiositat menor —és el resultat directe del Tractat dels Pirineus del 1659, quan Espanya va cedir a França tots els "llocs" de la Cerdanya però va retenir les "viles", i Llívia era vila. El resultat, tres-cents seixanta anys després, és un poble de mil cinc-cents habitants que viu a cavall de dues cultures, dues administracions i dues lògiques de funcionament quotidià, amb una farmàcia del segle XVI i un castell medieval que domina una plana que és francesa per tots costats.
 
+## Llívia: les 8 coses essencials
+
+1. **Farmàcia Esteva** — fundada al s. XVI, la farmàcia en funcionament continuat més antiga d'Europa. Ara museu. Visita de 45 min, entrada econòmica, accessible per a nens de 6+ anys.
+2. **Nucli medieval i castell** — muralles, carrers de pedra, Fòrum romà de Iulia Libica, mirador sobre la plana cerdana. Visita lliure.
+3. **Serendipia by La Calèche** — ★ 4,8 · 651 ressenyes · Guia Repsol. El millor restaurant de la comarca per nota i volum. Canelons de confit de pato com a plat de referència. Reserva imprescindible.
+4. **Trumfes** — únic restaurant de la Cerdanya a la Guia Michelin 2025. Menú degustació des de 55€. Cuina catalana contemporània amb trumfes (patates) i producte de temporada.
+5. **Can Ventura** — 1.776 ressenyes · casa de 1791 a la Plaça Major · raviolis de tòfona, canelons de foie. Menú des de 32€.
+6. **Ruta Llívia–Puigcerdà pels camins rurals** — 8 km plans · 2h · creuant pastures i alzinars en territori francès. Una de les rutes més senzilles i sorprenents de la comarca.
+7. **Mercat de dissabte** — Plaça Major. El menys turístic de la comarca: gent del poble, producte local, res de Puigcerdà.
+8. **Cerdanya francesa a 20 minuts** — Font-Romeu a 20 min, Capcir i els seus llacs a 40 min. Llívia és la millor base per explorar la banda francesa.
+
 ---
 
 ## Què fer a Llívia

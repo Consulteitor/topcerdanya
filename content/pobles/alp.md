@@ -2,6 +2,15 @@ Alp és el municipi que conté La Molina i Masella. Aquesta frase explica gaireb
 
 Però dir que Alp és "el poble de les pistes" és simplificar. Das —el nucli capital— és un poble de tradició agrícola amb una plaça, un bar i una vida local que no té res a veure amb el turisme d'esquí. La Molina nucli és una altra cosa: apartaments, hotels i la sensació peculiar d'un lloc construït completament al voltant d'una activitat estacional. Masella és una tercera realitat: tranquilla, familiar, menys coneguda i molt apreciada pels qui la troben.
 
+## Alp, La Molina i Masella: les 6 coses essencials
+
+1. **La Molina** — primera estació d'esquí de la Península Ibèrica (1943). 141 km de pistes amb Masella (forfet Alp 2500). Escola d'esquí per a nens des de 3 anys.
+2. **Masella** — pistes llargues per a intermedis i avançats, menys massificada que La Molina. Accés per telecabina des de La Molina amb el forfet combinat.
+3. **Tren des de Barcelona** — línia R3 de Rodalies, Barcelona Sants–La Molina en 2h 30 min. L'única estació d'esquí de l'Estat accessible en tren de rodalies. Ideal per a adolescents que venen sols.
+4. **Das** — nucli capital del terme, plaça de pedra, vida local autèntica sense turisme. Seu del restaurant Das 1219 i Mooma Cerdanya, dos dels millors valorats de tota la comarca.
+5. **Puigmal (2.913 m)** — el cim de referència del terme, accessible a l'estiu des de diverses sortides. Una de les ascensions de referència de la Cerdanya.
+6. **Estiu a La Molina** — pistes verdes, rutes de BTT i senderisme, tranquil·litat total. La versió menys coneguda d'Alp i la que més sorprèn als qui hi tornen fora de temporada.
+
 ---
 
 ## Das: el nucli que la gent oblida

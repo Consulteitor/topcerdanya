@@ -4,6 +4,15 @@ Bolvir és el municipi que la majoria de visitants de la Cerdanya passen sense e
 
 El que fa especial Bolvir no és un sol element sinó la suma de tres que no trobaràs junts en cap altre punt de la comarca: un camp de golf centenari d'abast nacional, els allotjaments de major prestigi de la Cerdanya i un jaciment arqueològic ibèric que explica com era la plana cerdana fa 2.500 anys. Tot en un municipi de menys de 400 habitants, a tres minuts en cotxe de la capital de comarca.
 
+## Bolvir: les 6 coses essencials
+
+1. **Real Club de Golf Cerdanya** — fundat el 1929 per Alfons XIII. 27 forats (18+9), un dels 10 millors camps de golf d'Espanya. Obert a visitants externs amb reserva a rcgcerdanya.com.
+2. **Castellot de Bolvir** — jaciment ibèric del s. IV aC, un dels més importants del Pirineu oriental. Museu d'Arqueologia de la Cerdanya als peus del jaciment. Horaris estacionals.
+3. **Parador de Turisme de Bolvir** — un dels paradors més sol·licitats del nord de Catalunya. Jardins, piscina, restaurant de producte local. Preus 150–350€/nit.
+4. **Can Cuch** — 5 habitacions úniques en masia rehabilitada, spa propi, la referència de luna de mel i escapades de parella de tota la comarca.
+5. **Mas Tapiol** — manor house del s. XII, jardí de 3 hectàrees, spa accessible per dies. La privacitat màxima de la comarca.
+6. **3 minuts de Puigcerdà** — tots els serveis de la capital a la distància d'un semàfor: mercat, restaurants, hospital, estació de tren. Bolvir té la tranquil·litat; Puigcerdà, la logística.
+
 ---
 
 ## El camp de golf: un actiu centenari

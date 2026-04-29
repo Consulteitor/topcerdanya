@@ -1,5 +1,14 @@
 Meranges és el municipi capital de comarca més alt de Catalunya: 1.539 metres, uns cinquanta habitants i una vall que la majoria de gent passa de llarg per anar al llac. Un error. El poble té una escala humana que pocs llocs de la Cerdanya conserven, i la combinació del nucli medieval, la connexió amb el Kilian Jornet i el Refugi de Malniu com a porta d'entrada a un dels millors racons lacustres dels Pirineus catalans fan de Meranges una de les escapades més autèntiques de la comarca.
 
+## Meranges: les 6 coses essencials
+
+1. **Estany de Malniu** — 2.250 m d'altitud · 1,5 km des del Refugi de Malniu (35–40 min a peu, apta per a nens) · aparcament 3€/vehicle. Un dels llacs glacials més visitats de la Cerdanya.
+2. **Refugi de Malniu** — 2.120 m · 40 places · punt de partida per als estanys de Guils i d'Engorgs i per a l'ascensió al Puigpedrós (2.914 m). Acampada controlada amb permís.
+3. **Sant Serni de Meranges** — església romànica del s. XII, una de les millor conservades i menys visitades de la comarca. Visita lliure al centre del poble.
+4. **Can Borrell** — hotel-restaurant de referència en una masia de 400 anys. Cuina catalana de mercat, terrassa amb vistes a la vall, reserva imprescindible.
+5. **Connexió Kilian Jornet** — els pares del millor atleta de muntanya del món van gestionar el Refugi de Malniu. Les fotos al restaurant Cal Joan en son el testimoni.
+6. **Municipi capital de comarca més alt de Catalunya** — 1.539 m d'altitud, uns 50 habitants. La Cerdanya en versió mínima i màxima alhora.
+
 ---
 
 ## L'Estany de Malniu: per què ve la gent

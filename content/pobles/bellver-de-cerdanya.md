@@ -2,6 +2,17 @@ Bellver de Cerdanya és la capital de la Baixa Cerdanya i, probablement, el pobl
 
 Vint-i-cinc quilòmetres separen Bellver de Puigcerdà per la N-260. Mitja hora en cotxe. En termes de ritme de vida, podrien ser dues comarques diferents.
 
+## Bellver de Cerdanya: les 8 coses essencials
+
+1. **Nucli medieval i Plaça de la Vila** — porxos del s. XIV, cases de pedra, torre de l'homenatge del castell amb mirador sobre la confluència del Segre i el Llosa. Visita lliure, sense cues.
+2. **Santa Maria de Talló** — església romànica del s. XI a 2 km del centre. Pica baptismal i relleus considerats entre els més rellevants del romànic pirinenc. Entrada lliure; la clau és a la casa del costat.
+3. **Grau de l'Os** — ★ 4,8 · 378 ressenyes · Guia Repsol · menú a 28€. Un dels millors restaurants del Pirineu català. Reserva imprescindible.
+4. **La Noga Taverna** — ★ 4,9 · 85 ressenyes · cuina del propi hort · menú 15,90€. La referència de cuina de proximitat de la comarca.
+5. **Mercat de dimecres** — Plaça de la Vila, 9h–12h. Producte local de tota la Baixa Cerdanya: formatge, embotits, mel. El menys turístic de la comarca.
+6. **Ruta al Pedró dels Quatre Batlles** — 12 km · 4h 30 min · dificultat moderada. La porta d'entrada al Cadí per la cara nord.
+7. **Ca la Núria** — Guia Repsol · +1.000 ressenyes · terrassa amb vistes directes al Cadí. La referència per a grups grans.
+8. **Camins de Talló** — ★ 4,8 · 226 ressenyes · cuina cerdana a peu de Santa Maria de Talló. La combinació perfecta de romànic i gastronomia.
+
 ---
 
 ## Què fer a Bellver de Cerdanya

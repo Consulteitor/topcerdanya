@@ -2,6 +2,17 @@ Puigcerdà és la capital de la Cerdanya i el punt d'entrada natural a una de le
 
 El campanar de Santa Maria —l'únic que va sobreviure als bombardejos de 1936— presideix el turó i és visible des de qualsevol punt de la plana. Des de dalt, les vistes sobre la vall, els Pirineus i la frontera francesa fan entendre per què milers de barcelonins trien Puigcerdà com a segon lloc d'arrelament.
 
+## Puigcerdà: les 8 coses essencials
+
+1. **Llac de Puigcerdà** — llac artificial de 8 ha, bany a l'estiu, passeig perimetral gratuït de 2,5 km, activitats nàutiques. L'actiu principal de la capital en temporada estival.
+2. **Campanar de Santa Maria** — mirador panoràmic sobre la plana cerdana i els Pirineus. L'únic element que va sobreviure als bombardejos del 1936. Visita recomanada.
+3. **La Molina i Masella** — a 25–30 min en cotxe. Domenni Alp 2500: 141 km de pistes entre les dues estacions, l'esquí més gran de Catalunya.
+4. **Mercat dels divendres** — Plaça de Santa Maria, 8h–14h. Formatges artesans, embotits, producte pirinenc i artesania local. El mercat de referència de la comarca.
+5. **Llívia** — enclavament espanyol a França, a 6 km (10 min). Farmàcia Esteva (s. XVI, la més antiga d'Europa) + millors restaurants de la comarca.
+6. **El Fogony de Fontanals** — a 8 min de Puigcerdà. Premi al millor restaurant de muntanya de Catalunya 2025. Menú degustació de temporada.
+7. **539 Plats Forts** — ★ 4,9 · 335 ressenyes · Guia Repsol. El millor restaurant de la capital, barra japonesa per a 12 comensals. Reserva amb setmanes.
+8. **Museu Cerdà** — història de la comarca al nucli urbà. Exposicions permanents i temporals.
+
 ---
 
 ## Què fer a Puigcerdà

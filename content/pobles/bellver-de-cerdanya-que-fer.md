@@ -2,6 +2,16 @@ Bellver de Cerdanya no es visita: es passeja. No hi ha una llista d'atraccions q
 
 Si arribes esperant el ritme de Puigcerdà, et decebrà. Si arribes disposat a anar lent, és un dels llocs més satisfactoris de tota la comarca.
 
+## Les 7 coses que fer a Bellver de Cerdanya
+
+1. **Nucli medieval i Plaça de la Vila** — porxos del s. XIV, torre de l'homenatge del castell (visita gratuïta lliure o amb guia els caps de setmana), mirador sobre la confluència del Segre i el Llosa. Temps: 1–2h.
+2. **Santa Maria de Talló** — 2 km del centre, romànic s. XI, pica baptismal única als Pirineus. Entrada lliure; si tancada, la clau és a la casa del costat. Combina bé amb dinar al Camins de Talló.
+3. **Mercat de dimecres** — Plaça de la Vila, 9h–12h. Formatge de Talló i Bolvir, embotits, mel, verdures de temporada. El mercat menys turístic i més autèntic de la comarca.
+4. **Mirador del castell** — el millor punt de vista de la confluència fluvial del Segre i el Llosa. Accés a peu des de la plaça en 5 minuts.
+5. **Ruta al Pedró dels Quatre Batlles** — 12 km · 4h 30 min · dificultat moderada · sortida des de Bellver. La porta més directa al Parc Natural del Cadí-Moixeró per la cara nord.
+6. **Vall de Gréixer** — carretera entre Bellver i Guardiola de Berguedà. Una de les valls laterals del Cadí menys visitades: pastures altes, flora de muntanya, silenci garantit.
+7. **Talló i el seu entorn rural** — nucli de menys de 100 habitants, cases de pedra intactes. Combina la visita romànica amb dinar al Camins de Talló (★ 4,8 · 226 ressenyes) per a una tarda completa.
+
 ---
 
 ## El nucli medieval, sense presses
