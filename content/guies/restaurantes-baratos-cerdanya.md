@@ -18,7 +18,7 @@ Para entender mejor la oferta gastronómica general de la comarca, consulta nues
 
 ## El menú de mediodía: el secreto mejor guardado
 
-En la Cerdanya, el menú de entre semana suele incluir dos platos a elegir, pan, bebida y postre o café. El precio orientativo en 2026 está entre 13 y 20 euros dependiendo del restaurante y la temporada. Algunos lo mantienen también los fines de semana; otros solo de lunes a viernes.
+En la Cerdanya, el menú de entre semana suele incluir dos platos a elegir, pan, bebida y postre o café. El precio orientativo está entre 13 y 20 euros dependiendo del restaurante y la temporada. Algunos lo mantienen también los fines de semana; otros solo de lunes a viernes.
 
 **Consejo práctico:** pregunta siempre si hay menú antes de pedir carta. En muchos locales no está visible en la entrada, pero existe.
 
@@ -80,7 +80,7 @@ Hay momentos en que gastar un poco más tiene sentido. Un menú degustación de 
 
 ## Guías relacionadas
 
-- [Qué ver y hacer en la Cerdanya](/guies/que-fer-cerdanya)
+- [Qué ver y hacer en la Cerdanya](/guies/que-hacer-en-la-cerdanya)
 - [Cómo llegar a la Cerdanya](/guies/como-llegar-cerdanya)
 - [Dónde dormir en la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 

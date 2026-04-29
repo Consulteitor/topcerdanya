@@ -179,4 +179,4 @@ No. O almenys no s'hauria de menjar fred. El trinxat perd tota la seva gràcia q
 
 ---
 
-*Guia editorial de Top Cerdanya · Actualitzada el 2026*
+*Guia editorial de Top Cerdanya*

@@ -2,6 +2,18 @@ La Cerdanya té una de les ofertes gastronòmiques més sòlides del Pirineu cat
 
 Aquesta guia recull els millors restaurants de la Cerdanya per zona i per tipus de pla, amb tota la informació pràctica per triar bé i no acabar improvisant.
 
+## Els millors restaurants de la Cerdanya: resum ràpid
+
+1. **Serendipia by La Calèche** (Llívia) — ★ 4,8 · 651 ressenyes · Guia Repsol · cuina d'autor amb producte local, canelons de confit de pato de referència. El millor de la comarca per nota i volum.
+2. **539 Plats Forts** (Puigcerdà) — ★ 4,9 · 335 ressenyes · Guia Repsol · barra japonesa per a 12 comensals, cuina de mercat d'alta precisió. Reserva amb setmanes d'antelació.
+3. **Trumfes** (Llívia) — únic restaurant de la Cerdanya a la Guia Michelin 2025 · menú degustació des de 55€ · cuina catalana contemporània amb producte de temporada.
+4. **Grau de l'Os** (Bellver de Cerdanya) — ★ 4,8 · 378 ressenyes · Guia Repsol · menú a 28€, una de les millors relacions qualitat-preu de la comarca.
+5. **La Borda del Ceretà** (Puigcerdà) — ★ 4,7 · 1.780 ressenyes · el més popular de la comarca · arròs a la llauna, canelons de pato, ambient de borda.
+6. **La Noga Taverna** (Bellver de Cerdanya) — ★ 4,9 · cuina de temporada amb producte del propi hort.
+7. **El Fogony de Fontanals** (Fontanals de Cerdanya, 8 min de Puigcerdà) — premi al millor restaurant de muntanya de Catalunya · menú degustació de temporada.
+
+---
+
 ---
 
 ## Què menjar a la Cerdanya: els plats que cal provar

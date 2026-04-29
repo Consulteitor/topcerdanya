@@ -154,4 +154,4 @@ Un vino tinto de cuerpo medio con acidez. Una Garnacha del Pirineo, un Costers d
 
 ---
 
-*Guía editorial de Top Cerdanya · Actualizada en 2026*
+*Guía editorial de Top Cerdanya*
