@@ -6,6 +6,20 @@ Si estàs pensant a venir a la Cerdanya per Sant Joan 2026, **reserva allotjamen
 
 ---
 
+## Sant Joan 2026 a la Cerdanya: resum ràpid
+
+1. **Puigcerdà** — foguera 22.30h Plaça de l'Estació · coca i cava gratuïts · espectacle de foc Dimonis · Revetlla Jove al Recinte Firal fins a la matinada
+2. **Riu de Cerdanya** — foguera 22.30h + coca i cava · Ball de les Rentadores 18:00h del 24 de juny · únic a Catalunya
+3. **Bellver de Cerdanya** — Flama del Canigó 13.00h Plaça del Portal · foguera al nucli medieval
+4. **Llívia** — Flama del Canigó 10.00h Plaça Major · sopar popular + ball 21.00h
+5. **Vilallobent** — foguera 22.00h local social · coca i moscatell gratis · ambient de poble petit · Patrimoni Festiu de la Generalitat
+6. **Age** — foguera + coca i moscatell · celebració de comunitat
+7. **Urús** — foguera 22.00h · fins les 23.30h aproximadament
+
+*23 de juny 2026 (dimarts) és la Nit de Sant Joan. 24 de juny és festiu. Programes definitius: ajuntaments publiquen a finals de maig / principis de juny.*
+
+---
+
 ## Com és la Cerdanya per Sant Joan
 
 El 23 de juny a la Cerdanya, l'estiu acaba d'arribar de debò. A les vuit del vespre el sol encara escalfa amb força —el solstici és literalment el dia de llum més llarg de l'any— i quan cau la nit, la temperatura a la plana baixa suaument però no pas de forma inclement: entre 12 i 18 graus a mitjanit és el rang habitual. A les zones altes de la comarca, per sobre dels 1.500 metres, pot fer més fred, però a la plana la nit és agradable per estar a l'aire lliure.
@@ -80,6 +94,8 @@ Vilallobent és un dels pobles petits del terme de Puigcerdà que celebra la sev
 
 *Font: Turisme Cerdanya (cerdanya.org). Programa subjecte a confirmació per a 2026.*
 
+→ [Guia de Vilallobent](/guies/vilallobent)
+
 ---
 
 ### Urús — Revetlla al peu de les muntanyes
@@ -91,6 +107,37 @@ Urús és un municipi petit de la Cerdanya, a uns 10 minuts de Puigcerdà, que c
 - Durada aproximada fins a les 23.30h
 
 *Font: Ajuntament d'Urús (urus.cat). Programa subjecte a confirmació per a 2026.*
+
+---
+
+### Bellver de Cerdanya — La Flama al cor de la Vila Medieval
+
+Bellver de Cerdanya és la capital de l'Alt Urgell cerdà i un dels nuclis medievals més ben conservats dels Pirineus. Per Sant Joan, la vila viu la festa al voltant de la seva Plaça del Portal i el nucli históric de pedra.
+
+**Dimarts 23 de juny**
+- 13.00h — **Recepció de la Flama del Canigó** a la Plaça del Portal
+- Vespre — **Encesa de la foguera** a la plaça del nucli, amb coca i beguda per als veïns i visitants
+- Música i ball fins a la matinada
+
+El nucli medieval de Bellver — les arcades medievals, la torre homenatge, les cases de pedra — és un escenari especialment bonic per viure la nit de Sant Joan. Si et planteges combinar Puigcerdà i Bellver el mateix dia, la recepció de la Flama a Bellver (13.00h) i la revetlla nocturna a Puigcerdà (22.30h) és una combinació molt bona.
+
+*Font: Ajuntament de Bellver de Cerdanya. Programa subjecte a confirmació per a 2026.*
+
+→ [Guia de Bellver de Cerdanya](/pobles/bellver-de-cerdanya)
+
+---
+
+### Llívia — La revetlla a l'enclavament
+
+Llívia, l'enclavament català al cor de la Cerdanya francesa, celebra Sant Joan a la seva Plaça Major amb un dels ambients més singulars de la comarca: un poble medieval envoltat de territori francès que encén la foguera catalana.
+
+**Dimarts 23 de juny**
+- 10.00h — **Recepció de la Flama del Canigó** a la Plaça Major de Llívia
+- 21.00h — **Sopar popular** al nucli, amb ball fins a la matinada
+
+*Font: Ajuntament de Llívia. Programa subjecte a confirmació per a 2026.*
+
+→ [Guia de Llívia](/pobles/llivia)
 
 ---
 

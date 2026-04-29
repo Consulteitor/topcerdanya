@@ -1,8 +1,3 @@
-**Slug:** `lloguer-hivern-puigcerda`
-**Meta description:** Guia per trobar lloguer d'hivern a Puigcerdà: preus reals per zona, quan buscar, equipament imprescindible, consells de contracte i comparativa amb Alp i La Molina.
-
----
-
 Puigcerdà a l'hivern és una aposta diferent de la que fan molts. Mentre la majoria dels qui busquen lloguer d'hivern a la Cerdanya es fixen primer en Alp o La Molina —on hi ha les pistes al davant—, qui tria Puigcerdà opta per una cosa ben diferent: la vida de capital, tots els serveis, el tren des de Barcelona, i les pistes a 20–25 minuts en cotxe. Per a famílies amb nens en edat escolar, professionals en teletreball, o qui vol compaginar l'hivern als Pirineus amb accés freqüent a serveis mèdics, culturals o socials, Puigcerdà és molt sovint la millor opció.
 
 Aquesta guia és específicament per al lloguer d'hivern a Puigcerdà: preus actuals per zona, quan buscar, on buscar, i com no cometre els errors habituals.

@@ -1,11 +1,17 @@
-**Slug:** `preu-habitatge-cerdanya`
-**Meta description:** Anàlisi completa del preu de l'habitatge a la Cerdanya: preu per m² per municipi, evolució dels preus, comparativa per tipus de propietat i tendències del mercat immobiliari.
-
----
-
 El mercat immobiliari de la Cerdanya és un dels més singulars de Catalunya. No funciona com el d'una comarca convencional: la demanda és majoritàriament de compradors de fora —sobretot de l'àrea de Barcelona— que busquen una segona residència o una inversió turística. Això fa que els preus segueixin una lògica pròpia, bastant desconnectada de la realitat salarial local.
 
 Aquesta guia recull les dades més actualitzades del mercat, analitzades per municipi i tipus de propietat, per ajudar-te a entendre on estàs comprant i a quin preu real ho fas.
+
+## Preu de l'habitatge a la Cerdanya: resum per zones
+
+1. **Bolvir** — 3.000–5.000€/m² · fins a 6.000€/m² en propietats de gamma alta · les cases més exclusives de la comarca
+2. **Ger / La Pleta de Saga** — 2.800–5.500€/m² · urbanització de referència per a compradors d'alt poder adquisitiu
+3. **Puigcerdà** — 2.400–3.200€/m² · centre i zona del llac fins a 4.000–4.500€/m² · 3r municipi més car de Catalunya
+4. **Fontanals de Cerdanya** — 2.200–3.800€/m² · tranquil·litat a 5–10min de Puigcerdà
+5. **Alp / La Molina** — 2.000–3.200€/m² · propietats amb llicència turística valen 15–30% més
+6. **Llívia** — 20–35% inferior a Puigcerdà · accés equivalent a tots els serveis de la comarca
+7. **Bellver de Cerdanya** — 25–45% inferior a Puigcerdà · la millor relació qualitat-preu per a residència permanent
+8. **Tendència** — +1.000€/m² en l'última dècada · mitjana comarcal: 3.000–3.200€/m²
 
 ---
 

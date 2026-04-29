@@ -225,6 +225,27 @@ const nextConfig: NextConfig = {
         destination: '/guies/on-dormir-cerdanya-nens',
         permanent: true,
       },
+      // Redirects per URLs WordPress amb prefix numèric (IDs antics)
+      {
+        source: "/guies/1593-on-dormir-cerdanya-amb-gos",
+        destination: "/guies/on-dormir-cerdanya-amb-gos",
+        permanent: true,
+      },
+      {
+        source: "/guies/1593-on-dormir-cerdanya-amb-gos/",
+        destination: "/guies/on-dormir-cerdanya-amb-gos",
+        permanent: true,
+      },
+      {
+        source: "/guies/1594-alojamiento-cerdanya-con-perro",
+        destination: "/guies/alojamiento-cerdanya-con-perro",
+        permanent: true,
+      },
+      {
+        source: "/guies/1594-alojamiento-cerdanya-con-perro/",
+        destination: "/guies/alojamiento-cerdanya-con-perro",
+        permanent: true,
+      },
       // Nous redirects — URLs WordPress del mail de Google
       {
         source: "/es",

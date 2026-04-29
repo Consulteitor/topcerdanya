@@ -1,11 +1,16 @@
-**Slug:** `comprar-casa-llivia`
-**Meta description:** Guia per comprar casa a Llívia: per què és un mercat immobiliari únic, preus, avantatges fiscals i pràctics, tipologies disponibles i tot el que has de saber de l'enclavament espanyol.
-
----
-
 Llívia és un cas únic al món: un municipi espanyol de 1.500 habitants completament envoltat de territori francès, separat de la resta d'Espanya per una estreta franja de 2 quilòmetres de territori gal·lic. No és exactament ni la Cerdanya espanyola ni la Cerdanya francesa: és una altra cosa, i el seu mercat immobiliari reflecteix exactament aquesta singularitat.
 
 Comprar a Llívia no és per a tothom. Però per als qui encaixa —i hi ha un perfil molt concret que hi encaixa perfectament— és una de les millors oportunitats immobiliàries dels Pirineus.
+
+## Comprar a Llívia: dades clau
+
+1. **Singularitat** — municipi espanyol (1.500 hab.) completament envoltat de França · normativa espanyola · administracions catalanes
+2. **Preu** — 20–35% inferior a Puigcerdà · apartament: 130.000–200.000€ · casa: 270.000–500.000€
+3. **Distàncies** — Puigcerdà: 6km (10–12min en cotxe) · Cerdanya francesa: 15–30min · Font-Romeu: 30min
+4. **Accés** — per la N-154 a través de territori francès (únic accés) · sense frontera real per a residents UE
+5. **Identitat** — Farmàcia Esteva s.XVI (la més antiga d'Europa en funcionament) · castell medieval · Serendipia ★4,8 / Trumfes Michelin
+6. **Perfil ideal** — qui valora autenticitat i encant · ús freqüent de la Cerdanya francesa · pressupost per sota de Puigcerdà
+7. **Normativa restrictiva** — urbanisme molt protegit al nucli antic · dificultat d'edificar en nova planta · preserva el caràcter medieval
 
 ---
 

@@ -1,11 +1,16 @@
-**Slug:** `lloguer-temporada-cerdanya`
-**Meta description:** Tot sobre el lloguer de temporada a la Cerdanya: preus per zona i temporada, consells per trobar casa, diferències entre hivern i estiu, i com posar la teva propietat en lloguer.
-
----
-
 El lloguer de temporada és una de les peces clau del mercat immobiliari de la Cerdanya. Cada any, milers de famílies, parelles i grups busquen una casa, apartament o xalet per passar la temporada d'hivern al costat de les pistes d'esquí o l'estiu a la fresca dels Pirineus. I molts propietaris de la comarca —que no viuen a la Cerdanya tot l'any— posen les seves propietats en lloguer durant els mesos en que no les fan servir.
 
 Aquesta guia és útil per als dos perfils: si busques llogar una propietat a la Cerdanya per temporada, i si tens una propietat i vols posar-la en lloguer. T'expliquem preus reals, zones, terminis, contractes i tot el que cal saber.
+
+## Lloguer de temporada a la Cerdanya: resum
+
+1. **Temporada hivern** — novembre–abril · màxima demanda des.–mar. · apartament 2hab Puigcerdà: 5.000–8.000€/temporada · Alp/La Molina: 5.500–9.000€
+2. **Temporada estiu** — juny–setembre · apartament 2hab Puigcerdà: 5.000–8.500€ · Bellver: 3.500–6.000€ · Bolvir/Ger: 6.000–10.000€
+3. **Lloguer 11 mesos** — fórmula per no caure al règim d'habitatge habitual · preu inferior a les temporades però continuïtat anual
+4. **Quan buscar** — hivern: setembre–octubre · estiu: febrer–abril · les millors propietats surten del mercat en dies
+5. **Llicència HUT** — necessària per a lloguer per dies/setmanes a Airbnb · no necessària per a lloguer de temporada completa (2–11 mesos)
+6. **Per a propietaris** — rendibilitat bruta lloguer temporada: 4–7% anual · molt menor gestió que el vacacional però ingressos estables
+7. **Regulació** — contracte de temporada (no suposa arrendament d'habitatge habitual) · recomanable notariar-lo · clàusules d'inventari obligatòries
 
 ---
 

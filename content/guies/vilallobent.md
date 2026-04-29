@@ -1,5 +1,15 @@
 Vilallobent és un d'aquells pobles de la Cerdanya que la majoria de visitants passen per alt. I és exactament per això que val la pena anar-hi.
 
+## Vilallobent: les 5 coses essencials
+
+1. **Església de Sant Andreu** — romànica s. XIII · opus spicatum · retaule gòtic s. XV · plaça Major
+2. **Ruta circular al Refugi de Vilallobent** — 9,9 km · 550 m desnivell · 3h30min · sortida des del local social
+3. **Revetlla de Sant Joan** — foguera + coca i moscatell gratis · 23 de juny · Patrimoni Festiu de la Generalitat de Catalunya
+4. **5 minuts de Puigcerdà** — tots els serveis de la capital, mercat dominical i el llac, a menys de 5 km
+5. **"De Llevant fins a Ponent no hi ha com Vilallobent"** — el lema del poble al local social, i una promesa que s'acompleix
+
+---
+
 Situat a 1.170 metres d'altitud, a tan sols 5 quilòmetres de Puigcerdà, aquest petit nucli del municipi puigcerdanès combina patrimoni romànic, natura de muntanya i una tranquil·litat que cada cop és més difícil de trobar a la comarca. Sense aglomeracions, sense cues, sense el soroll de les grans estacions.
 
 Si busques Vilallobent, probablement ja saps el que vols: autenticitat.
@@ -49,6 +59,24 @@ El torrent de Vilallobent —que fa de frontera natural amb l'Alta Cerdanya i am
 El descens es fa per una combinació dels camins SC603 i SC602 fins a tornar al punt de partida.
 
 **Consell pràctic:** El camí pot ser relliscós en alguns trams. Calçat de muntanya o de trekking és imprescindible. No és una ruta per a sabatilles d'esport.
+
+---
+
+## La Revetlla de Sant Joan: la festa de Vilallobent
+
+La nit del 23 de juny, Vilallobent encén la seva foguera de Sant Joan al **local social del poble** (Carretera de Vilallobent). No és una festa turística: és el poble que es reuneix al voltant del foc, amb **coca i moscatell gratuïts per a tothom** — visitants inclosos.
+
+La revetlla de Vilallobent és reconeguda com a **Patrimoni Festiu de la Generalitat de Catalunya**, distinció que reconeix la continuïtat i autenticitat de la seva celebració popular. L'esperit és el d'un poble petit que manté la tradició com sempre s'ha fet: a la plaça, entre veïns, sense pretensions.
+
+**Pràctic:**
+- **Quan:** 23 de juny · a partir de les 22.00h
+- **On:** Local social de Vilallobent, Carretera de Vilallobent
+- **Preu:** gratuït (coca i moscatell per a tothom)
+- **Aparcar:** al poble, sense problemes
+
+Si vols viure Sant Joan a la Cerdanya d'una manera autèntica i sense multituds, Vilallobent és la millor alternativa a la revetlla gran de Puigcerdà.
+
+→ [Agenda completa de Sant Joan a la Cerdanya](/guies/sant-joan-cerdanya-2026)
 
 ---
 

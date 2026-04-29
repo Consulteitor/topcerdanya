@@ -1,11 +1,16 @@
-**Slug:** `cerdanya-francesa-immobiliaria`
-**Meta description:** Guia per comprar casa a la Cerdanya francesa el 2026: Saillagouse, Font-Romeu, Angoustrine, preus, normativa francesa, fiscalitat i per què és una alternativa interessant a la Cerdanya espanyola.
-
----
-
 La Cerdanya és una comarca partida per la frontera: dos terços espanyols al sud, un terç francès al nord. La Cerdanya francesa —administrativament integrada al departament dels Pirineus Orientals, regió d'Occitània— és menys coneguda pels compradors barcelonins, però ofereix oportunitats immobiliàries molt interessants per a qui està disposat a entendre un marc legal i fiscal completament diferent.
 
 Aquesta guia és una introducció per a compradors espanyols que s'interessen per la Cerdanya francesa. No és exhaustiva (la normativa francesa és complexa i requereix assessorament local), però t'orienta sobre el que hi ha, per on buscar, i els aspectes clau a considerar.
+
+## Cerdanya francesa: dades clau per a compradors espanyols
+
+1. **Municipis principals** — Saillagouse (capital, ~Puigcerdà de la banda francesa) · Bourg-Madame (frontera, 5min de Puigcerdà) · Estavar · Eina · Angoustrine · Font-Romeu (esquí)
+2. **Preus** — generalment inferiors a la Cerdanya espanyola equivalent · casa a Saillagouse: 150.000–350.000€ · Font-Romeu (esquí): preus similars a Alp/La Molina
+3. **Normativa** — llei francesa · notari francès obligatori · fiscalitat francesa per a residents fiscals a França · IFI (Impôt sur la Fortune Immobilière) per a patrimonis superiors a 1,3M€
+4. **Per a residents espanyols** — conveni de doble imposició Espanya–França · pagues impostos al país de residència fiscal · assessorament fiscal transfronterer imprescindible
+5. **Accés** — Bourg-Madame a 5min de Puigcerdà · Saillagouse a 10min · sense fronteres reals per a residents UE · Tren Groc: Latour-de-Carol connecta les dues Cerdanyes
+6. **Avantatge clau** — accés a Font-Romeu, Les Angles i el Capcir a 20–30min · estacions d'esquí menys massificades que La Molina · preus inferiors als equivalents espanyols
+7. **Risc principal** — marc legal i fiscal completament diferent · professionals espanyols poc familiaritzats · cal notari i advocat francesos · tramitació administrativa en francès
 
 ---
 

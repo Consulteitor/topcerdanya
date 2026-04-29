@@ -1,5 +1,15 @@
 Un cap de setmana a la Cerdanya funciona molt bé si saps com estructurar-lo. El problema habitual no és la manca de plans —la comarca n'ofereix per a tots els gustos— sinó la manca d'organització: sortir tard el divendres, quedar-se a la cua del Cadí, improvisar el dissabte i marxar el diumenge just quan la C-16 és un embús. Aquesta guia és per evitar exactament això.
 
+## Cap de setmana a la Cerdanya: els 7 punts clau
+
+1. **Sortida de Barcelona** — divendres abans de les 9h o després de les 20h · cua al Túnel del Cadí entre 16h–19h: fins a 90 min
+2. **Tornada sense cua** — dina a la comarca a la 1h · surt a les 14:30h · Barcelona a les 16:30h · alternativa: esperar fins després de les 20h
+3. **Dissabte matí: senderisme** — Llac de Malniu des de Meranges (3h30min · moderat) · Santa Maria de Talló des de Bellver (1h15min · fàcil) · Bolvir pels camps fins a Puigcerdà (1h45min · pla)
+4. **Dissabte matí: alternatives sense muntanya** — Circuit bici Puigcerdà–Bolvir–Ger–Alp (20km plans · lloguers a Puigcerdà) · Llívia a peu: nucli medieval + Farmàcia Esteva s.XV (2–3h)
+5. **On dinar el dissabte** — Grau de l'Os (Bellver) ★4,8 · menú 28€ · La Borda del Ceretà (Puigcerdà) ★4,7 · 1.780 ressenyes · Serendipia (Llívia) ★4,8 · ocasió especial · **reserva sempre**
+6. **Diumenge matí** — Mercat de Puigcerdà, Plaça de Santa Maria, diumenges 9–14h · formatge de llet crua, embotit artesà, producte local pirinenc
+7. **Aparcament Puigcerdà** — nucli antic difícil en temporada · zona del llac: gratuïta · 10 min a peu fins al centre
+
 ---
 
 ## El marc bàsic: quan arribes i quan marxes marca-ho tot

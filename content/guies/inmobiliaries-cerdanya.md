@@ -1,11 +1,16 @@
-**Slug:** `inmobiliaries-cerdanya`
-**Meta description:** Guia per triar la millor immobiliaria a la Cerdanya el 2026: com funcionen les agències locals, comissions, diferències entre agències, i consells per no cometres errors costosos.
-
----
-
 La Cerdanya té un mercat immobiliari amb una característica que molts compradors i venedors subestimen: el **coneixement local importa molt**. Un agent que porta anys treballant a Puigcerdà sap quines urbanitzacions tenen problemes de comunitat, quines finques tenen disputes de confrontants pendents, on construiran una carretera que canviarà les vistes, i per quant es van vendre realment les cases de la urbanització del costat (no el preu d'oferta dels portals, sinó el preu real de tancament).
 
 Aquesta guia t'explica com funcionen les immobiliàries a la Cerdanya, com triar-ne una de bona, i com evitar errors comuns tant si compres com si vens.
+
+## Immobiliàries a la Cerdanya: el que cal saber
+
+1. **Mercat local** — 500–800 habitatges que canvien de mà cada any · predomini d'agències locals amb dècades d'arrelament · les grans cadenes nacionals no dominen
+2. **Comissió del venedor** — habitualment 3–5% del preu de venda + IVA · a vegades repartida entre comprador i venedor
+3. **Temporada alta de les agències** — tardor (set.–nov.) per a compravenda d'hivern · primavera (mar.–mai.) per a estiu · hivern: gestió de lloguers de temporada
+4. **Coneixement local** — un bon agent local coneix preus reals de tancament (no els preus d'oferta dels portals), disputes de comunitat, plans urbanístics pendents
+5. **Operacions transfrontereres** — algunes agències treballen dels dos costats · útil per a compradors que volen comparar Cerdanya espanyola i francesa
+6. **Exclusivitat** — algunes propietats es gestionen en exclusiva per una sola agència · no sempre apareixen a tots els portals · important visitar diverses agències
+7. **Directori local** — consulta les agències amb presència a la comarca al [directori d'immobiliàries de Top Cerdanya](/inmobiliaria)
 
 ---
 

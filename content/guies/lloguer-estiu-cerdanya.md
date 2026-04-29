@@ -1,11 +1,16 @@
-**Slug:** `lloguer-estiu-cerdanya`
-**Meta description:** Guia per trobar lloguer d'estiu a la Cerdanya: preus per zona, quan reservar, les millors zones per a famílies, consells per al contracte i activitats d'estiu als Pirineus.
-
----
-
 La Cerdanya a l'estiu és un dels secrets millor guardats —i alhora més coneguts— de Catalunya. Les temperatures suaus (rarament superen els 30 graus a la vall), els paisatges verds i oberts, l'accés a centenars de quilòmetres de rutes de senderisme i la distància de menys de 2 hores de Barcelona fan que cada estiu milers de famílies s'instal·lin a la comarca per setmanes o mesos sencers.
 
 Si busques una casa on passar l'estiu als Pirineus, aquesta guia t'explica on buscar, a quins preus, i com no arribar tard a un mercat que cada any s'esgota més ràpidament.
+
+## Lloguer d'estiu a la Cerdanya: preus per zona
+
+1. **Bolvir / Ger** (urbanitzacions) — apartament 2hab temporada: 6.000–10.000€ · casa 3–4hab: 14.000–30.000€ · la zona més cara i exclusiva
+2. **Puigcerdà** — apartament 2hab temporada: 5.000–8.500€ · casa 3–4hab: 10.000–20.000€ · per mes (juliol o agost): 1.800–3.000€ apt
+3. **Alp / La Molina** — apartament temporada: 4.000–7.000€ · casa 3–4hab: 9.000–17.000€ · menys demanda que a l'hivern
+4. **Bellver de Cerdanya** — apartament temporada: 3.500–6.000€ · casa 3–4hab: 7.000–13.000€ · la millor relació qualitat-tranquil·litat-preu
+5. **Llívia** — apartament temporada: 3.000–5.500€ · casa: 6.500–12.000€ · accés a la Cerdanya francesa inclòs
+6. **Agost per setmanes** — format predominant · reservar amb 4–6 setmanes d'antelació mínima · els caps de setmana de juliol s'esgoten abans
+7. **Temperatura garantida** — 24–28°C de dia · 12–16°C de nit · 0 dies de calor sufocant · principal argument davant la costa
 
 ---
 

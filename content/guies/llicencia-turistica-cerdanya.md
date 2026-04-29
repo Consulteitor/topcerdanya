@@ -1,11 +1,16 @@
-**Slug:** `llicencia-turistica-cerdanya`
-**Meta description:** Tot sobre la llicència turística a la Cerdanya: requisits, tràmits, municipis amb moratòria, diferència entre HUT i apartament turístic, i com afecta el Decret llei 3/2023.
-
----
-
 Si tens o vols comprar una propietat a la Cerdanya per llogar-la a turistes, la llicència turística és el punt crític de tot el projecte. Sense ella, no pots anunciar-te legalment a Airbnb ni a cap altra plataforma, i t'exposes a sancions importants. El problema és que el marc legal ha canviat de forma significativa en els darrers anys, i a la Cerdanya la situació és especialment complexa perquè la majoria dels seus municipis estan afectats per la nova regulació de la Generalitat.
 
 Aquesta guia t'explica exactament on estàs, com funciona el sistema, i quines opcions tens.
+
+## Llicència turística a la Cerdanya: el que cal saber
+
+1. **HUT (Habitatge d'Ús Turístic)** — figura per a particulars que lloguen habitatge sencer a turistes · necessària per anunciar-se a Airbnb, Booking i plataformes similars
+2. **Decret llei 3/2023** — nova regulació de la Generalitat · la majoria de municipis de la Cerdanya estan en moratòria → no es concedeixen noves HUT
+3. **Moratòria** — Puigcerdà, Alp, Llívia i la majoria de municipis de la comarca afectats · comprova l'estat exacte al web de cada ajuntament
+4. **Requisits HUT** — cèdula d'habitabilitat vigent · calefacció i climatització adequada · roba de llit i tovalloles per a capacitat màxima · placa normalitzada a l'exterior
+5. **Sanció sense llicència** — fins a 90.000€ per anunciar-se sense HUT vigent · les plataformes col·laboren amb Turisme de Catalunya en la detecció
+6. **Valor de mercat** — propietats amb HUT vigent valen 15–30% més que equivalents sense llicència · la llicència és cada cop més escassa i valorada
+7. **Alternativa legal** — lloguer de temporada (contractes 2–11 mesos) no requereix HUT · menys ingressos per nit però gestió molt més senzilla
 
 ---
 

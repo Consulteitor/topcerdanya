@@ -1,11 +1,16 @@
-**Slug:** `segona-residencia-cerdanya`
-**Meta description:** Guia completa sobre la segona residència a la Cerdanya:: impostos, despeses recurrents, lloguer ocasional, normativa, pros i contres, i per quines zones apostar.
-
----
-
 La Cerdanya és, de lluny, el destí de segona residència més popular de Catalunya. Desenes de milers de famílies barcelonines i de les comarques properes tenen o somien tenir una casa al Pirineu on passar els caps de setmana, les vacances d'esquí i els estius frescos. És un desig molt comprensible: qualitat de vida excepcional, naturalesa, tranquil·litat i a menys de 2 hores de la capital.
 
 Però tenir una segona residència comporta costos, obligacions fiscals i decisions que no sempre es valoren prou abans de la compra. Aquesta guia t'ho explica tot.
+
+## Segona residència a la Cerdanya: el que cal saber
+
+1. **Pes al mercat** — 64% dels habitatges de la comarca son segones residències · fins al 80% a Alp i Fontanals de Cerdanya
+2. **Imputació de rendes (IRPF)** — 1,1% del valor cadastral/any si ha estat revisat des del 2015 · 2% si no ha estat revisat · cal declarar-ho fins i tot si la propietat no es lloga
+3. **Exemple real** — valor cadastral 120.000€ → imputació 1.320€/any → ~396€ més d'IRPF (al 30% marginal)
+4. **Finançament hipotecari** — els bancs financen màxim el 70% (vs. 80% habitatge habitual) · termini 25 anys (vs. 30) · +0,1–0,3% de tipus d'interès
+5. **Fons propis mínims** — 30% del preu + 12–13% d'impostos i despeses = necessites el **42–43% del preu en estalvis**
+6. **Lloguer ocasional** — si llogues sense llicència HUT, tributació com a rendiment del capital immobiliari · amb HUT: activitat econòmica amb obligacions específiques
+7. **Plusvàlua en la venda** — no hi ha exempció per reinversió (a diferència de l'habitatge habitual) · IRPF sobre el guany patrimonial + plusvàlua municipal
 
 ---
 

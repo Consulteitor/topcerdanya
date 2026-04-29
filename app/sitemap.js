@@ -30,6 +30,11 @@ const SLUGS_EXCLOSOS = new Set([
   "aguas-termales-cerdanya-2026",
   "on-banyar-se-cerdanya-2026",
   "donde-banarse-cerdanya-2026",
+  // Slugs llargs amb redirect a next.config.ts (no haurien d'aparèixer al sitemap)
+  "que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
+  "que-ver-en-la-cerdanya",
+  "top10-restaurants-puigcerda-2026",
+  "activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026",
 ]);
 
 function getMdFiles(dir) {

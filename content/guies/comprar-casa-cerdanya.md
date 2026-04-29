@@ -1,11 +1,17 @@
-**Slug:** `comprar-casa-cerdanya`
-**Meta description:** Guia completa per comprar casa a la Cerdanya: preus per municipi, tipus de propietats, impostos, consells legals i les millors zones. Tot el que necessites saber abans de signar.
-
----
-
 Comprar casa a la Cerdanya no és com comprar a qualsevol altre lloc de Catalunya. El mercat té les seves pròpies regles: preus entre els més alts del país, molta demanda de segona residència, poca oferta d'obra nova i una fiscalitat que cal entendre bé per evitar sorpreses desagradables.
 
 Aquesta guia t'explica tot el que necessites saber: des dels preus reals per zona fins als impostos que pagaràs, passant per les diferències entre comprar per viure-hi o com a inversió. Si estàs pensant seriosament en comprar a la Cerdanya, llegeix-la sencera abans de parlar amb cap immobiliària.
+
+## Comprar casa a la Cerdanya: dades clau
+
+1. **Mercat** — 4t mercat immobiliari més car de Catalunya · Puigcerdà: 3r municipi més car de Catalunya · 64% dels habitatges son segones residències
+2. **Preus Puigcerdà** — apartament 2hab: 200.000–320.000€ · casa adossada: 380.000–650.000€ · unifamiliar: 550.000–1.200.000€
+3. **Preus Bolvir / Ger** — les zones més exclusives · casa adossada urbanització: 320.000–700.000€ · masia: 600.000–2.500.000€
+4. **Preus Bellver de Cerdanya** — 25–45% més barat que Puigcerdà · pis centre: 140.000–220.000€ · casa adossada: 250.000–450.000€
+5. **Preus Alp / La Molina** — apartament prop pistes: 150.000–280.000€ · casa adossada: 300.000–550.000€
+6. **Preus Llívia** — 20–35% més barat que Puigcerdà · pis: 130.000–200.000€ · casa: 270.000–500.000€
+7. **Costos sobre el preu** — ITP 10% (usat) / IVA 10% (obra nova) + ~3–4% notari, registre i gestoria = **suma 12–14% al preu de compra**
+8. **Tendència** — +1.000€/m² en l'última dècada · sense signes de revertir-se
 
 ---
 

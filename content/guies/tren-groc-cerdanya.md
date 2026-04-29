@@ -2,6 +2,17 @@ El Tren Groc de la Cerdanya és una d'aquelles experiències que, un cop feta, n
 
 Si estàs planificant una escapada a la Cerdanya i encara no has pujat al Tren Groc, aquesta guia és per a tu. Horaris, preus, estacions i tot el que cal saber per no improvisar.
 
+## El Tren Groc: dades clau
+
+1. **Recorregut** — Villefranche-Vernet-les-Bains (427m) → Latour-de-Carol (1.200m) · 63 km · 21 estacions · 3h trajecte complet
+2. **Altitud màxima** — 1.592m a Bolquère-Eyne · l'estació de servei regular més alta de França
+3. **Pont de Gisclard** — 234m de longitud · 80m d'alçada · pont penjant ferroviari més antic de França en funcionament · Monument Històric 1997
+4. **Viaducte de Séjourné** — 217m longitud · 65m alçada · granit · obra de Paul Séjourné · Inventari Monuments Històrics 1994
+5. **Connexió amb la Cerdanya** — Latour-de-Carol a 5 min en cotxe de Puigcerdà · aparcament gratuït a l'estació
+6. **Vagons oberts** — disponibles primavera–tardor · pas pels ponts i túnels sense vidres · l'experiència recomanada
+7. **Gos** — admès per 7€ el trajecte independent de la distància · amb corretja o transportí
+8. **Trajecte parcial** — Latour-de-Carol → Font-Romeu: ~45min · opció si no tens tot el dia
+
 ---
 
 ## Què és el Tren Groc i per què val la pena

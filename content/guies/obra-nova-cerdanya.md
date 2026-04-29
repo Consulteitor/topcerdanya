@@ -1,11 +1,16 @@
-**Slug:** `obra-nova-cerdanya`
-**Meta description:** Guia sobre l'obra nova a la Cerdanya: escassetat del mercat, preus reals, promocions actives, avantatges i riscos de comprar sobre plànol als Pirineus.
-
----
-
 L'obra nova a la Cerdanya és escassa. Molt escassa. Si compares el mercat de la Cerdanya amb el de qualsevol altra comarca de Catalunya, la diferència és evident: mentre a l'àrea metropolitana de Barcelona hi ha centenars de promocions en curs, a la Cerdanya en qualsevol moment del temps n'hi ha poques, i quan surten al mercat s'esgoten ràpidament.
 
 Aquesta realitat no és un accident: és el resultat de dècades de restriccions urbanístiques, de la voluntat de preservar el paisatge pirinenc, i de la dificultat de trobar sòl qualificat per a ús residencial en una comarca on la major part del territori està protegit o és de difícil edificació. Entendre per què l'obra nova és tan escassa ajuda a prendre millors decisions com a comprador.
+
+## Obra nova a la Cerdanya: dades clau
+
+1. **Escassetat extrema** — molt poques promocions actives en qualsevol moment · s'esgoten ràpidament quan surten · cap comparació possible amb l'àrea metropolitana
+2. **Per què tan poca** — sòl urbanitzable gairebé exhaurit a tots els municipis · normatives de paisatge estrictes · construcció cara en zona de muntanya · tramitació lenta (3–5 anys del sòl a la venda)
+3. **Preu de l'obra nova** — significativament superior al mercat de segona mà · IVA 10% + AJD 1,5% (vs. ITP 10% en usat) · qualitat d'eficiència energètica superior
+4. **Avantatge principal** — eficiència energètica molt millor (clau per a hiverns de muntanya) · garanties de construcció · personalització en fase de plànol
+5. **Risc principal** — pagar sobre plànol en un mercat de demanda alta · retards d'obra · promotores petites amb menys garanties financeres
+6. **Qui compra obra nova** — principalment parelles i famílies que prioritzen confort i eficiència sobre preu · i inversors que valoren el diferencial de preu en la revenda
+7. **On buscar** — portals immobiliaris (Idealista, Fotocasa) · agències locals amb accés a promocions no publicades · directori [Top Cerdanya Inmobiliaria](/inmobiliaria)
 
 ---
 

@@ -2,6 +2,20 @@ A la Cerdanya a l'estiu, la pregunta no és si fa calor —en fa, i molt, a la t
 
 Aquesta guia cobreix les dues primeres opcions i t'ajuda a triar.
 
+## On banyar-se a la Cerdanya: resum ràpid
+
+1. **Piscina de Bolvir** — 4€ adults · gratuït fins a 7 anys · barbacoa + parc infantil + bar · la millor opció per a famílies
+2. **Piscina de Puigcerdà** — 5,60€ adults / 4,60€ nens · 25m olímpica + infantil · obre ~21 de juny
+3. **Piscina de Das (Aeròdrom)** — 8€ + consumició inclosa · vistes 360° a la plana · obre fins l'11 de setembre
+4. **Piscina de La Molina** — climatitzada a 1.800m · obre ~2 de juliol · la més alta de la comarca
+5. **Gorg del Molí del Salt (Lles de Cerdanya)** — gratuït · cascada + gorga · 30min a peu des de Viliella · fred però excepcional
+6. **Palanca del Segre (All–Isòvol)** — gratuït · platges de sorra al riu · planera · apta per a nens petits
+7. **Parc de Sant Guillem (Llívia)** — gratuït · riu Segre + parc infantil + banys termals a 50m · combinació perfecta
+8. **Sanillès** — piscina municipal amb aigua termal lleugerament escalfada · opció poc coneguda i molt recomanable
+9. **Parc aquàtic d'Err (França)** — 8,50€ adults / 6,50€ nens · tobogans · 10h–19h · ideal si vens amb nens que volen emocions
+
+*Llac de Puigcerdà i estanys d'alta muntanya: no es permet el bany (espai natural protegit).*
+
 ---
 
 ## Piscines municipals: la llista completa

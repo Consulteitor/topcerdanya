@@ -1,11 +1,16 @@
-**Slug:** `invertir-cerdanya`
-**Meta description:** Guia completa per invertir en immobiliària a la Cerdanya: rendibilitat real del lloguer turístic, tipus de propietats amb millor retorn, riscos i estratègies per maximitzar la inversió.
-
----
-
 La Cerdanya és un dels mercats immobiliaris amb major atractiu inversor de Catalunya. La combinació d'un mercat de lloguer turístic molt actiu —dues temporades fortes, hivern i estiu— amb una apreciació sostinguda del capital en la darrera dècada el converteix en una destinació interessant per a inversors que busquen diversificar patrimoni a fora de la capital.
 
 Però invertir a la Cerdanya no és senzill ni exempt de riscos. Els preus d'entrada son alts, la normativa sobre llicències turístiques ha canviat significativament, i no totes les propietats generen la rendibilitat que s'anuncia. Aquesta guia t'explica com funciona la inversió immobiliària a la Cerdanya, amb números reals i sense optimismes injustificats.
+
+## Invertir a la Cerdanya: rendibilitats i models
+
+1. **Lloguer de temporada** — rendibilitat bruta 4–7% anual · hivern (des.–abr.) + estiu (jul.–ago.) · gestió moderada · sense llicència HUT necessàriament
+2. **Lloguer vacacional (HUT)** — rendibilitat bruta 5–9% · màxim ingrés per nit · requereix gestió activa o empresa gestora · llicència HUT obligatòria
+3. **Flipping** (compra + reforma + venda) — retorn potencial 20–30% en operacions ben executades · risc i capital immobilitzat durant mesos
+4. **Value / llarg termini** — apreciació ~1.000€/m² en l'última dècada · combina ús propi + lloguer puntual · retorn principal via plusvàlua
+5. **Dues temporades** — hivern (des.–abr., esquí) + estiu (jul.–ago., fresc) = 6–7 mesos de demanda alta · avantatge únic respecte a destins de temporada única
+6. **Escassetat d'obra nova** — restriccions urbanístiques limiten la nova construcció · pressió alcista estructural sobre preus del mercat secundari
+7. **Risc principal** — normativa HUT restrictiva · moratòries en molts municipis · propietats sense llicència valen fins un 20% menys per a inversors
 
 ---
 

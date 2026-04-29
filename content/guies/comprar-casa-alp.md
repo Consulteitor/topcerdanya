@@ -1,11 +1,16 @@
-**Slug:** `comprar-casa-alp`
-**Meta description:** Guia per comprar casa a Alp: el municipi que inclou La Molina i Masella, preus per zona, proximitat a les pistes, mercat immobiliari, i tot el que has de saber sobre Alp i les seves urbanitzacions.
-
----
-
 Alp és el municipi de la Cerdanya que més clarament s'identifica amb l'esquí. El seu terme municipal inclou les estacions de La Molina i Masella —que juntes formen el domini esquiable Alp 2500, el més gran de Catalunya— i concentra la major part de les urbanitzacions d'esquí de la comarca. Per a qui compra a la Cerdanya per a la temporada d'hivern, Alp és freqüentment la primera paraula que surt.
 
 Però Alp és molt més que una base per a les pistes. A l'estiu, és un dels punts de partida principals per al senderisme i el ciclisme de muntanya al Parc del Cadí-Moixeró. El nucli de Das (capital del terme), la Molina poble, la urbanització de Masella... cadascun amb la seva vida i el seu mercat immobiliari.
+
+## Comprar a Alp / La Molina: dades clau
+
+1. **Domini esquiable** — Alp 2500: La Molina + Masella · 141km de pistes · el domini més gran de Catalunya
+2. **Tren des de Barcelona** — R3 Barcelona Sants → La Molina · 2h 30min · única estació d'esquí de l'Estat accessible en tren de rodalies
+3. **Apartament prop de pistes** — 150.000–280.000€ · fins a peu de pista a La Molina · molt buscats per inversió turística
+4. **Casa adossada** — 300.000–550.000€ · Masella i Das ofereixen preus lleugerament inferiors a La Molina
+5. **Propietats amb llicència HUT** — valen 15–30% més que equivalents sense llicència · retorn de la inversió: 15–20 anys via lloguer d'esquí
+6. **Distàncies** — Puigcerdà: 20–25min (N-260) · Bellver: 30min · Barcelona: 1h50min cotxe (sense cues)
+7. **Estiu** — pistes verdes · BTT senyalitzat · senderisme Cadí-Moixeró · molt menys visitat que a l'hivern · preus de lloguer d'estiu un 30–40% inferiors als d'hivern
 
 ---
 

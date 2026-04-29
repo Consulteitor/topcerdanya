@@ -1,8 +1,3 @@
-**Slug:** `activitats-familiars-a-la-cerdanya-plans-per-edats-i-temporada-2026`
-**Meta description:** Guia d'activitats familiars a la Cerdanya: plans per edats (0–3, 3–6, 6–10, 10+), per estació i per temps. Amb consells pràctics per no improvisar. Actualitzada.
-
----
-
 Si busques activitats familiars a la Cerdanya, la bona notícia és que la comarca té una oferta excel·lent per a famílies amb nens de qualsevol edat. La mala notícia és que no tot funciona per a tothom: una ruta de 3 hores és un pla fantàstic amb nens de 10 anys i un error de càlcul amb nens de 4. Aquesta guia t'ajuda a triar les activitats correctes per a l'edat dels teus fills, la temporada i el temps que fa.
 
 El principi que millor funciona a la Cerdanya amb nens és simple: **un pla fort per jornada**. La comarca premia qui es pren el temps per gaudir d'una sola cosa bé, no qui intenta fer-ne cinc de passada.

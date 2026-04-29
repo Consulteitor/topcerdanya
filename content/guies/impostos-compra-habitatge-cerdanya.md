@@ -1,11 +1,16 @@
-**Slug:** `impostos-compra-habitatge-cerdanya`
-**Meta description:** Quants impostos i despeses has de pagar en comprar una casa a la Cerdanya: Càlcul complet d'ITP, IVA, AJD, notaria, registre i gestoria, amb exemples reals per trams de preu.
-
----
-
 Quan compres un habitatge a la Cerdanya —o a qualsevol lloc d'Espanya— el preu que veus a l'anunci no és el que acabes pagant. A sobre del preu de compra, hi ha una capa d'impostos i despeses que molts compradors descobreixen tard, quan el procés ja és molt avançat. El resultat: tensions de tresoreria, sorpreses desagradables, o decisions precipitades.
 
 Aquesta guia t'explica tots els conceptes que has de sumar al preu de compra, amb exemples numèrics concrets per als preus de mercat de la Cerdanya, perquè puguis fer el càlcul real abans de comprometer-te.
+
+## Impostos i despeses de compra a la Cerdanya: resum
+
+1. **Regla pràctica** — suma 12–14% al preu de compra per cobrir tots els impostos i despeses · un pis de 400.000€ costa realment ~448.000–456.000€
+2. **ITP (habitatge usat)** — 10% general a Catalunya · 5% per a joves <33 anys, discapacitat ≥65%, família nombrosa o habitatge habitual en zones de despoblació
+3. **IVA (obra nova)** — 10% sobre el preu · s'aplica en lloc de l'ITP · també cal afegir AJD
+4. **AJD (Actes Jurídics Documentats)** — 1,5% sobre el preu · s'aplica en compres d'obra nova (no en usats amb ITP)
+5. **Notari + registre** — 0,5–1% del preu · obligatori per a totes les compravendes
+6. **Gestoria** — 0,3–0,5% del preu · opcional però molt recomanable per a compradors de fora comarca
+7. **Exemple real** — preu 350.000€ (habitatge usat) · ITP 35.000€ + notari/registre ~4.000€ + gestoria ~1.500€ = **~40.500€ de despeses addicionals**
 
 ---
 

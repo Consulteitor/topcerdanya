@@ -1,8 +1,3 @@
-**Slug:** `allotjaments-prop-de-rutes-a-la-cerdanya-on-dormir-si-vens-a-caminar-2026`
-**Meta description:** On allotjar-se a la Cerdanya si vens a fer senderisme o rutes de muntanya: cases rurals, hotels i refugis propers als millors itineraris de la comarca. Guia 2026.
-
----
-
 Si el motiu principal del viatge a la Cerdanya és caminar, la ubicació de l'allotjament importa molt més del que sembla. No és el mateix allotjar-se a Puigcerdà —còmode per a tot però lluny de les rutes d'alta muntanya— que a Meranges, a cinc minuts del camí al llac de Malniu. Aquesta guia ordena les opcions d'allotjament per proximitat a les principals zones de rutes de la comarca.
 
 ---

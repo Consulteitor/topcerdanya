@@ -1,11 +1,16 @@
-**Slug:** `hipoteca-cerdanya`
-**Meta description:** Guia completa sobre hipoteques per comprar casa a la Cerdanya: habitatge habitual vs. segona residència, quant finançen els bancs, tipus fix vs. variable, i com preparar la sol·licitud.
-
----
-
 Comprar una propietat a la Cerdanya és una operació de centenars de milers d'euros. La majoria dels compradors necessiten finançament hipotecari per fer-la viable. Però les hipoteques per a la Cerdanya presenten algunes especificitats que no sempre es troben en les guies generals de finançament immobiliari.
 
 Aquesta guia t'explica com funciona el finançament per a una propietat a la Cerdanya, les diferències clau entre hipoteques per a primera i segona residència, i com preparar-te per aconseguir les millors condicions.
+
+## Hipoteca a la Cerdanya: diferències clau
+
+1. **1a residència** — finançament màxim 80% · termini fins a 30 anys · tipus d'interès estàndard · fons propis mínims: 32–33% del preu
+2. **2a residència** — finançament màxim 70% · termini fins a 25 anys · +0,1–0,3% de tipus · fons propis mínims: 42–43% del preu
+3. **Exemple 400.000€ com a 2a residència** — hipoteca màxima 280.000€ · necessites ~168.000€ en estalvis (70% + impostos i despeses)
+4. **Risc de taxació** — el banc finança el 70% del valor taxat, no del preu de compra · si taxació < preu (habitual a la Cerdanya), la diferència la poses tu
+5. **Exemple taxació baixa** — preu 400.000€ · taxació 360.000€ · hipoteca màxima 70% sobre 360k = 252.000€ · la diferència de 148.000€ ha de ser estalvi propi
+6. **Perfil del comprador** — la majoria dels compradors a la Cerdanya compren 2a residència · menys opcions de finançament + condicions pitjors que habitatge habitual
+7. **Recomanació** — sol·licita taxació prèvia abans de signar l'arres · evita sorpreses de finançament un cop compromès
 
 ---
 

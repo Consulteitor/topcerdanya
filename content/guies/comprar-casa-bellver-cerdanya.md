@@ -1,11 +1,16 @@
-**Slug:** `comprar-casa-bellver-cerdanya`
-**Meta description:** Guia per comprar casa a Bellver de Cerdanya: preus, zones, tipologies, avantatges sobre Puigcerdà, i tot el que necessites saber sobre el mercat immobiliari de la capital de la Baixa Cerdanya.
-
----
-
 Bellver de Cerdanya és la capital de la Baixa Cerdanya i un dels municipis més desconeguts —i més interessants— del mercat immobiliari pirinenc. Mentre Puigcerdà concentra l'atenció de la majoria de compradors que busquen a la Cerdanya, Bellver ofereix una alternativa molt atractiva per als qui busquen un poble autèntic, preus sensiblement inferiors, una qualitat de vida excepcional, i un ritme de vida ben diferent del bullici estival de la capital.
 
 Aquesta guia t'explica tot el que has de saber sobre el mercat immobiliari de Bellver, per a qui és la millor opció i per a qui no ho és.
+
+## Comprar a Bellver de Cerdanya: dades clau
+
+1. **Preu vs. Puigcerdà** — 25–45% més barat per tipologies comparables · allò que a Puigcerdà costa 400.000€, a Bellver pot costar 260.000–300.000€
+2. **Pis al centre** — 140.000–220.000€ · nucli medieval, a peu de serveis i mercat de dimecres
+3. **Casa adossada** — 250.000–450.000€ · habitualment amb jardí, vistes al Cadí o al Segre
+4. **Distàncies** — Puigcerdà: 25km (30min) · La Molina/Masella: 35–40km (40–45min) · Barcelona: 170km (1h45min C-16)
+5. **Perfil ideal** — famílies que volen residència permanent o llarga temporada · pressupost 200.000–350.000€ · prioritzen autenticitat i silenci sobre serveis urbans
+6. **Mercat** — menys oferta que Puigcerdà · preus estables · menys especulació · vida de poble real tot l'any (2.000 habitants)
+7. **Natura immediata** — accés directe al Parc Natural Cadí-Moixeró · Santa Maria de Talló a 2km · Pedró dels Quatre Batlles com a sortida de cap de setmana
 
 ---
 

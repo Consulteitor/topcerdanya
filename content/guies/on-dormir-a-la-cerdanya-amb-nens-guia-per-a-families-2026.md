@@ -1,8 +1,3 @@
-**Slug:** `on-dormir-a-la-cerdanya-amb-nens-guia-per-a-families-2026`
-**Meta description:** On allotjar-se a la Cerdanya amb nens: cases rurals per a famílies, hotels amb piscina i els millors pobles on tenir la base. Guia pràctica 2026.
-
----
-
 Trobar un bon allotjament a la Cerdanya amb nens no és difícil si saps on mirar. La comarca té una oferta rural àmplia, però no tots els allotjaments estan pensats per a famílies: alguns prioritzen parelles, d'altres no tenen cuina equipada, i uns quants tenen les habitacions tan repartides que la logística nocturna es complica. Aquesta guia t'ajuda a triar bé.
 
 La pregunta clau no és "quin és el millor allotjament" sinó "quin és el millor allotjament per a la nostra família". L'edat dels nens, el nombre de persones, el pressupost i el tipus de viatge (esquí, senderisme, relaxació) determinen la resposta.

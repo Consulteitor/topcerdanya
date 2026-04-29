@@ -1,11 +1,16 @@
-**Slug:** `reformar-casa-cerdanya`
-**Meta description:** Guia per reformar casa o xalet a la Cerdanya: costos reals (400–1.600 €/m²), llicències, constructors locals i com gestionar l'obra des de Barcelona. Tot el que cal saber.
-
----
-
 Reformar una casa o xalet a la Cerdanya és una de les decisions que acompanyen la compra de moltes propietats a la comarca. Bé perquè s'ha adquirit una propietat dels anys 70–80 que necessitava actualització, bé perquè es vol millorar l'eficiència energètica d'un habitatge ja adquirit, o bé perquè la casa de cap de setmana necessita una posada al dia que augmenti el seu confort hivernal.
 
 Sigui quin sigui el motiu, gestionar una reforma a la Cerdanya té especificitats locals molt concretes que no trobaràs a cap altra comarca. Aquesta guia t'explica com funciona el mercat de la rehabilitació i la reforma a la comarca, amb els costos reals del mercat local, els tràmits necessaris, i els consells pràctics per gestionar-ho des de la distància.
+
+## Reformar a la Cerdanya: costos i consideracions clau
+
+1. **Rang de preus** — reforma bàsica (cuina, banys, pintura): 400–700€/m² · reforma integral: 800–1.200€/m² · rehabilitació completa amb estructura: 1.200–1.600€/m²
+2. **Encariment vs. Barcelona** — mà d'obra local escassa · gremis vénen de Berguedà, Ripollès o Urgell amb cost de desplaçament · materials amb logística de muntanya · 20–35% més car que a la capital
+3. **Estacionalitat** — obres a l'exterior (façanes, cobertes) aturades o lentíssimes a l'hivern · gelades afecten materials · estiu: temporada de màxima activitat (i menys disponibilitat de gremis)
+4. **Llicències nuclis antics** — Puigcerdà, Bellver, Llívia: intervencions requereixen informe patrimonial previ · terminis de tramitació superiors als estàndard
+5. **Gestionar des de Barcelona** — imprescindible un aparellador o arquitecte tècnic de referència a la comarca · visites d'obra cada 2–3 setmanes mínimes en fase d'execució
+6. **Eficiència energètica** — la millora d'aïllament és especialment rentable a la Cerdanya · hiverns durs · cost de calefacció alt · bomba de calor aerotèrmica + aïllament: inversió amb retorn clar en 5–8 anys
+7. **Valoració post-reforma** — una reforma integral pot incrementar el valor de la propietat entre un 15% i un 30% en el mercat cerdà
 
 ---
 

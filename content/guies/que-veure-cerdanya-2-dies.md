@@ -1,8 +1,3 @@
-**Slug:** `que-veure-cerdanya-2-dies`
-**Meta description:** Itinerari per a 2 dies a la Cerdanya: el millor de la comarca sense improvisar. Llívia, Puigcerdà, rutes, restaurants i on dormir. Guia pràctica.
-
----
-
 Dos dies a la Cerdanya donen per molt si saps com organitzar-los. Donen per veure els pobles més interessants, fer una ruta de muntanya, menjar bé, descobrir Llívia i entendre per què tanta gent hi torna cada any. No donen per fer-ho tot —la comarca té prou per a una setmana— però amb un bon itinerari surts amb la sensació d'haver vist el millor.
 
 Aquesta guia proposa un itinerari de dos dies que funciona en qualsevol estació: adaptat a famílies amb nens, a parelles i a grups d'amics. Amb alternatives per a cada situació.

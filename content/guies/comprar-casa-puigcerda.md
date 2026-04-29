@@ -1,11 +1,16 @@
-**Slug:** `comprar-casa-puigcerda`
-**Meta description:** Guia completa per comprar casa a Puigcerdà: preus per zona, tipologies, barris, avantatges i inconvenients de la capital de la Cerdanya, i per on buscar.
-
----
-
 Puigcerdà és la capital indiscutible de la Cerdanya i, per extensió, el seu mercat immobiliari de referència. Concentra la major part dels serveis de la comarca, té la millor connexió amb Barcelona (tren i autopista), i ha vist com el seu mercat immobiliari experimentava una apreciació sostinguda durant la darrera dècada. El resultat: és la zona amb els preus per metre quadrat més alts de la Cerdanya, però també la que ofereix la major diversitat d'oferta i la millor liquiditat per a inversors.
 
 Aquesta guia t'explica tot el que has de saber si estàs pensant en comprar a Puigcerdà.
+
+## Comprar a Puigcerdà: dades clau
+
+1. **Posició al mercat** — 3r municipi més car de Catalunya · preu mitjà 2.400–3.200€/m² · centre i zona del llac fins a 4.000–4.500€/m²
+2. **Apartament 2 habitacions** — 200.000–320.000€ · el producte més abundant i líquid del mercat
+3. **Casa adossada** — 380.000–650.000€ · habitualment amb jardí petit i plaça de pàrquing
+4. **Casa unifamiliar** — 550.000–1.200.000€ · molt escassa al nucli, més oferta als voltants
+5. **Tren des de Barcelona** — R3 Barcelona Sants → Puigcerdà · 1h 50min · cada 2 hores · únic accés ferroviari de la comarca
+6. **Serveis** — hospital SSIBE, CAP, institut, Mercadona, Lidl, Bonpreu, jutjat · els únics serveis complets de la comarca
+7. **Liquiditat** — mercat molt actiu · fàcil de vendre quan es vol desinvertir · millor liquiditat de tota la comarca
 
 ---
 

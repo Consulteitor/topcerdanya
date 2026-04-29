@@ -1,11 +1,16 @@
-**Slug:** `vendre-casa-cerdanya`
-**Meta description:** Guia completa per vendre casa a la Cerdanya: preparació, preu de sortida, impostos del venedor, quan vendre, com triar immobiliaria i com negociar sense deixar diners sobre la taula.
-
----
-
 Vendre una propietat a la Cerdanya és, en molts aspectes, més senzill que en altres mercats. La demanda és alta, els compradors sovint arriben motivats i amb capacitat econòmica, i els temps de venda son raonablement curts per a propietats ben posicionades. Però "senzill" no vol dir "automàtic": una venda mal gestionada pot costar-te pultes significatives de preu, temps perdut, o complicacions fiscals.
 
 Aquesta guia t'explica el procés complet: de la decisió de vendre fins al dia de l'escriptura, amb especial atenció als impostos que paguen els venedors, que sovint son la gran sorpresa.
+
+## Vendre a la Cerdanya: quan i com
+
+1. **Millor moment per vendre** — tardor (set.–nov.): compradors que han passat l'estiu a la comarca, motivats · primavera (mar.–mai.): qui planifica l'estiu · evita l'agost si la propietat té lloguers de temporada
+2. **Impostos del venedor** — IRPF sobre el guany patrimonial (preu de venda – preu de compra – millores – despeses) · tipus del 19% al 28% segons el guany · plusvàlua municipal sobre l'increment del valor del sòl
+3. **Plusvàlua municipal** — impost local gestionat per cada ajuntament · pot ser significatiu en propietats amb molt d'increment de valor cadastral
+4. **Comissió immobiliària** — 3–5% del preu de venda + IVA · negociable · a vegades compartida amb el comprador
+5. **Temps de venda** — propietats ben preuades: 2–6 mesos · propietats sobrepreuades: poden estar anys al mercat · la Cerdanya és un mercat actiu però no infinit
+6. **Documentació clau** — cèdula d'habitabilitat vigent (imprescindible) · certificat energètic · últims rebuts IBI · estatuts de comunitat si és pis o adossat
+7. **Preu de sortida** — el preu d'oferta sol ser un 5–10% per sobre del preu real de tancament · comprova preus reals (no d'anunci) amb agències locals
 
 ---
 

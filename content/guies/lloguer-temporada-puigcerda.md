@@ -1,8 +1,3 @@
-**Slug:** `lloguer-temporada-puigcerda`
-**Meta description:** Guia completa per trobar lloguer de temporada a Puigcerdà: preus per zona, hivern i estiu, quan buscar, consells per al contracte i les millors zones per a famílies i parelles.
-
----
-
 Puigcerdà és, de bon tros, el municipi més demandat de tota la Cerdanya per a lloguers de temporada. La combinació de serveis complets, la connexió en tren des de Barcelona, el llac, la vida de carrer i la proximitat a les pistes d'esquí la converteix en la primera opció per a milers de famílies que busquen una base a la comarca per a l'hivern, l'estiu o les dos temporades.
 
 El problema: és precisament per tot això que l'oferta s'esgota més ràpidament i els preus son més alts que a qualsevol altre punt de la comarca. Saber com funciona el mercat de lloguer de temporada a Puigcerdà —quan buscar, on mirar, quant costa realment— és la clau per trobar el que necessites sense pagar de més ni arribar tard.

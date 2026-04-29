@@ -1,11 +1,16 @@
-**Slug:** `mudarse-viure-cerdanya`
-**Meta description:** Guia pràctica per mudar-se a viure a la Cerdanya:: serveis, escoles, teletreball, cost de vida, integració i el que ningú et diu sobre viure als Pirineus tot l'any.
-
----
-
 Cada any, centenars de persones i famílies fan el pas: tanquen el pis de Barcelona (o de Girona, o de Lleida) i s'instal·len a la Cerdanya de forma permanent. Alguns ho porten somiant des de fa temps. D'altres ho han descobert durant el confinament del 2020, quan van teletreball des d'una casa llogada i van pensar "per què no?"
 
 La Cerdanya com a residència permanent és una cosa molt diferent de la Cerdanya com a destinació de vacances. Aquesta guia no et ven el somni: t'explica el que és, amb les seves meravelles i les seves realitats.
+
+## Mudar-se a la Cerdanya: el que cal saber
+
+1. **Qui s'hi muda** — professionals en teletreball (perfil dominant des del 2020) · jubilats actius · famílies que prioritzen entorn natural · emprenedors locals
+2. **Serveis a Puigcerdà** — hospital SSIBE, CAP, escola i institut, Mercadona/Lidl/Bonpreu, jutjat, oficina de correus, bancs · suficient per a vida permanent
+3. **Escoles** — CEIP a la majoria de municipis grans · Institut Puigcerdà per a ESO i Batxillerat · escola de música · escola bressol
+4. **Cost de vida** — habitatge molt superior a la mitjana catalana · alimentació i serveis similars o lleugerament superiors · transport inferior (menys desplaçaments, 0 peatges dins la comarca)
+5. **Teletreball** — fibra òptica disponible a Puigcerdà, Bellver i La Molina · cobertura mòbil bona a la plana · zones altes amb cobertura limitada
+6. **Hivern real** — neu, gel, dies curts, temperatures de -10°C possibles · calefacció cara si la propietat no és eficient · mà d'obra i serveis més difícils d'accedir en temporada alta
+7. **Integració** — la comunitat local és acollidora però compacta · participar a la vida del poble (festes, mercat, escola) accelera la integració · els nouvinguts que es tanquen a casa triguen anys a sentir-se'n part
 
 ---
 

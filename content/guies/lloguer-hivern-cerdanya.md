@@ -1,11 +1,16 @@
-**Slug:** `lloguer-hivern-cerdanya`
-**Meta description:** Guia completa per trobar lloguer d'hivern a la Cerdanya: preus per zona, quan buscar, La Molina vs Masella, Puigcerdà, consells per al contracte i les millors zones per a famílies.
-
----
-
 Cada tardor, milers de famílies i grups comencen la mateixa recerca: una casa, apartament o xalet a la Cerdanya per passar la temporada d'hivern. Ser a prop de les pistes de La Molina i Masella, tenir espai per als nens, una bona llar de foc i connexió a internet per seguir treballant. El problema és que l'oferta és limitada, la demanda altíssima, i les millors propietats desapareixen del mercat en qüestió de dies.
 
 Aquesta guia t'explica com funciona el mercat de lloguer d'hivern a la Cerdanya, quins preus son realistes, on trobar i com no arribar tard.
+
+## Lloguer d'hivern a la Cerdanya: preus i dades clau
+
+1. **Temporada** — novembre a abril · màxima demanda: desembre–març · coincidint amb La Molina i Masella obertes
+2. **Alp / La Molina** (prop de pistes) — apartament 2hab temporada completa: 5.500–9.000€ · per mes: 1.100–1.800€ · casa adossada: 12.000–20.000€/temporada
+3. **Puigcerdà** — apartament 2hab temporada completa: 5.000–8.000€ · per mes: 1.000–1.600€ · casa gran (5+hab): 18.000–35.000€/temporada
+4. **Bellver de Cerdanya** — 20–30% menys que Puigcerdà · 35–40min de les pistes · tranquil·litat total fora de temporada
+5. **Mesos solts vs. temporada completa** — factor 1,3–1,8× el preu per mes respecte a la temporada sencera
+6. **Quan buscar** — setembre–octubre per trobar les millors propietats · les bones surten del mercat en dies
+7. **Llicència turística** — propietats sense llicència HUT: lloguer de temporada (sense serveis turístics) · contractes de 2–11 mesos
 
 ---
 

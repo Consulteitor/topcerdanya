@@ -1,8 +1,3 @@
-**Slug:** `rutes-facils-a-la-cerdanya-amb-nens-guia-practica-per-families-2026`
-**Meta description:** Les millors rutes fàcils a la Cerdanya per fer amb nens: distàncies, desnivell, edat recomanada i consells pràctics per a cada itinerari. Guia actualitzada 2026.
-
----
-
 La Cerdanya té centenars de quilòmetres de rutes senyalitzades, però no totes serveixen per a famílies amb nens. Aquesta guia selecciona les rutes que realment funcionen: distàncies raonables, desnivells assumibles i paisatge que manté l'atenció dels nens de principi a fi.
 
 No trobaràs aquí grans reptes de muntanya. Trobaràs itineraris on els nens arriben al final amb energia, els adults gaudeixen del camí i tothom torna content a l'allotjament. Amb nens, això és la victòria.

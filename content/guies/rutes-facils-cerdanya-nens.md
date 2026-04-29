@@ -1,11 +1,16 @@
-**Slug:** `rutes-facils-cerdanya-nens`
-**Meta description:** Les millors rutes fàcils a la Cerdanya per fer amb nens: distàncies, desnivell, edat recomanada i consells pràctics per a cada itinerari. Guia actualitzada.
-
----
-
 La Cerdanya té centenars de quilòmetres de rutes senyalitzades, però no totes serveixen per a famílies amb nens. Aquesta guia selecciona les rutes que realment funcionen: distàncies raonables, desnivells assumibles i paisatge que manté l'atenció dels nens de principi a fi.
 
 No trobaràs aquí grans reptes de muntanya. Trobaràs itineraris on els nens arriben al final amb energia, els adults gaudeixen del camí i tothom torna content a l'allotjament. Amb nens, això és la victòria.
+
+## Rutes fàcils a la Cerdanya amb nens: resum
+
+1. **Llac de Malniu** (Meranges) — 6km · 300m desnivell · 7anys+ · moderat · llac glacial 1.860m · la ruta familiar de referència de la comarca
+2. **La Bollosa** (Bolvir) — 4–5km · 100m desnivell · 5anys+ · fàcil · bosc de pins i avets · ideal com a primera ruta
+3. **Bolvir–Puigcerdà pels camps** — 4km · 30m desnivell · 4anys+ · molt fàcil · pla total · apta per a cotxets de rodes grans
+4. **Passeig del Llac de Puigcerdà** — 3km · 0m desnivell · totes les edats · molt fàcil · accessible · activitats aquàtiques a l'estiu
+5. **Arborètum de Queixans** (Urús) — 2–3km · 50m desnivell · 4anys+ · molt fàcil · jardí botànic 17ha · accés gratuït · taules de pícnic
+6. **Ger – Tossal de la Pleta** — 5–6km · 180m desnivell · 6anys+ · fàcil-moderat · vistes panoràmiques a tota la plana
+7. **Ribera del Segre** (Martinet) — 4–6km · 80m desnivell · 5anys+ · fàcil · riu per jugar a l'estiu · fresc i accessible
 
 ---
 
