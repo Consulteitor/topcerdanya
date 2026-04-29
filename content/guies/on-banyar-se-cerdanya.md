@@ -26,7 +26,7 @@ La piscina de Llívia es troba al Parc de Sant Guillem, el gran espai verd del m
 
 ### Bellver de Cerdanya
 
-Piscina gran amb vistes al Cadí. Al complex esportiu del carrer dels Esports. Piscina per a grans i petits. **Horari 2025:** del 16 de juny al 20 d'agost de 11h a 20h. Confirmar dates exactes a esportsbellver.org.
+Piscina gran amb vistes al Cadí. Al complex esportiu del carrer dels Esports. Piscina per a grans i petits. **Horari:** de juny a agost, aprox. 11h–20h. Confirmar dates exactes a esportsbellver.org.
 
 ### Alp
 

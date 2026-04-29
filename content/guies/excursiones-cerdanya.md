@@ -198,4 +198,4 @@ La mayoría de rutas permiten perros con correa. Dentro del Parque Natural del C
 
 ---
 
-*Guía editorial de Top Cerdanya · Actualitzada el 2026*
+*Guía editorial de Top Cerdanya*

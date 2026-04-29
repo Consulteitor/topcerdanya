@@ -110,4 +110,4 @@ La Formatgeria de Llívia serveix una versió d'autor molt bona, però no és la
 
 ---
 
-*Guia editorial de Top Cerdanya · Actualitzada el 2026*
+*Guia editorial de Top Cerdanya*
