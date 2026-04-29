@@ -114,12 +114,12 @@ const nextConfig: NextConfig = {
       },
       {
         source: "/2022/12/02/que-hacer-en-la-cerdanya",
-        destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
+        destination: "/guies/que-fer-a-la-cerdanya",
         permanent: true,
       },
       {
         source: "/2022/12/02/que-hacer-en-la-cerdanya/",
-        destination: "/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany",
+        destination: "/guies/que-fer-a-la-cerdanya",
         permanent: true,
       },
       {
@@ -129,6 +129,17 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/que-fer-a-la-cerdanya/',
+        destination: '/guies/que-fer-a-la-cerdanya',
+        permanent: true,
+      },
+      // Slug llarg → canònic curt (resolució canibalització)
+      {
+        source: '/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany',
+        destination: '/guies/que-fer-a-la-cerdanya',
+        permanent: true,
+      },
+      {
+        source: '/guies/que-fer-a-la-cerdanya-guia-practica-i-realista-per-gaudir-ne-tot-lany/',
         destination: '/guies/que-fer-a-la-cerdanya',
         permanent: true,
       },
