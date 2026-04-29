@@ -11,6 +11,17 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // Fix duplicat trailing slash /que-fer-a-la-cerdanya/
+      {
+        source: "/que-fer-a-la-cerdanya",
+        destination: "/guies/que-fer-a-la-cerdanya",
+        permanent: true,
+      },
+      {
+        source: "/que-fer-a-la-cerdanya/",
+        destination: "/guies/que-fer-a-la-cerdanya",
+        permanent: true,
+      },
       // Redirects existents
       {
         source: "/restaurants-destacats",
