@@ -4,6 +4,19 @@ Si estàs pensant en una escapada a la Cerdanya al maig, aquesta guia t'explica 
 
 ---
 
+## Els 8 millors plans al maig a la Cerdanya
+
+1. **Senderisme al llac de Malniu** (Meranges, 1.870 m) — 8 km, 3h 30 min, accessible des de principis de maig. El llac comença a descongelar-se i els prats alpins estan en flor.
+2. **Ruta Bellver – Santa Maria de Talló** — 4 km, desnivell mínim, patrimoni romànic i camps de la Baixa Cerdanya en el millor moment del cicle agrari.
+3. **Volta al llac de Puigcerdà en bici** — carril bici perimetral, 2,5 km, accessible per a totes les edats. Al maig sense les masses de l'agost.
+4. **Bolets de primavera: moixernons i rossinyols** — el gran secret de la comarca. Als prats de la plana (moixernons) i als boscos de coníferes (rossinyols).
+5. **Bici per la plana Puigcerdà–Bolvir–Ger–Alp** — 20 km plans, prats florits, vistes al Puigmal i al Cadí. La millor finestra de l'any per a la bici de carretera i BTT.
+6. **Pont de l'1 de maig** — el cap de setmana amb més ambient del mes. Mercat, activitats als pobles, però cal reservar amb 3–4 setmanes.
+7. **Visita a Llívia sense cues** — Farmàcia Esteva (farmàcia habitada més antiga d'Europa, s. XV) i nucli medieval. Al maig, accés lliure sense espera.
+8. **Dinars als millors restaurants** — Serendipia (Bolvir), La Noga Taverna (Bellver), La Borda del Ceretà (Puigcerdà). Al maig pots aconseguir taula amb 2–3 dies d'antelació.
+
+---
+
 ## Per què el maig és un dels millors mesos per venir
 
 La Cerdanya té dos moments d'or: la tardor i el maig. La tardor és més coneguda —els colors, els bolets, la calma—, però el maig té un avantatge específic: la naturalesa en el punt àlgid del seu cicle, sense la massificació de l'estiu.
@@ -62,7 +75,7 @@ El maig és una data excel·lent per venir amb nens. Sense la massificació de l
 
 Els restaurants de la Cerdanya obren amb normalitat al maig i és temporada activa. La diferència respecte a l'estiu és que pots aconseguir taula amb 2–3 dies d'antelació en lloc de setmanes. Alguns dels millors llocs de la comarca:
 
-**Serendipia by La Calèche (Llívia)** — el referent de la comarca per a una ocasió especial. Cuina de mercat amb producte pirinenc. Reserva recomanada.
+**Serendipia by La Calèche (Bolvir)** — el referent de la comarca per a una ocasió especial. Cuina de mercat amb producte pirinenc. Reserva recomanada.
 
 **Grau de l'Os (Bellver)** — el millor menú qualitat-preu de la comarca, a 28 €. Ideal per dinar après d'una ruta per la Baixa Cerdanya.
 

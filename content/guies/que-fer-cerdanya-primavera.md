@@ -4,6 +4,20 @@ Aquesta guia és per als que volen la Cerdanya sense cues, sense aparcar a quil�
 
 ---
 
+## Les 9 millors activitats de primavera a la Cerdanya
+
+1. **Senderisme als Estanys de Malniu** (Meranges, 1.870 m) — accessible des de finals de maig. Prats alpins en flor, neu als cims reflectida al llac.
+2. **Bolets de primavera: moixernons i rossinyols** — el gran secret de la comarca. Moixernons *(Calocybe gambosa)* als prats de la plana (març–juny); rossinyols *(Cantharellus cibarius)* als boscos de coníferes (maig–juny).
+3. **BTT i ciclisme per la plana** — les pistes forestals estan en les millors condicions de l'any: seques però sense la pols de l'estiu. Ruta clàssica: Puigcerdà–Bolvir–Ger–Alp, 20 km plans.
+4. **Fotografia de paisatge** — l'única estació on la vall verda contrasta amb la neu als cims del Puigmal i del Cadí. Llum lateral excel·lent al matí i a la tarda.
+5. **Ruta de bosc baixa a l'abril** — Camí Bolvir–Puigcerdà per la plana: pla, sense fang, vistes al Cadí. Ideal per estrenar la temporada.
+6. **Visita a Llívia fora de temporada** — Farmàcia Esteva (farmàcia habitada més antiga d'Europa, s. XV), torre medieval i nucli sense cues ni aglomeracions.
+7. **Aplec del Talló** (Bellver de Cerdanya, finals de maig) — sardanes, balls tradicionals i producte local al santuari del Talló. Un dels esdeveniments que millor reflecteix l'esperit de la Cerdanya.
+8. **Observació d'ocells** — pas migratori de primavera: àligues, cigonyes i desenes d'espècies de passeriformes. L'àliga daurada i el trencalòs fan vols nupcials espectaculars.
+9. **Dinars de temporada baixa** — els millors restaurants de la comarca disponibles amb 2–3 dies d'antelació i preus entre un 20–40% inferiors als d'agost.
+
+---
+
 ## Quan comença la primavera a la Cerdanya (de debò)
 
 A 1.100 metres d'altitud, la primavera no arriba quan el calendari diu. Aquí el que passa realment per mesos:
