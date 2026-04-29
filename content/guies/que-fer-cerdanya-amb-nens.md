@@ -98,7 +98,7 @@ Els restaurants de la Cerdanya estan molt acostumats a famílies. Per als dinars
 
 ## On dormir amb nens a la Cerdanya
 
-Les cases rurals amb jardí exterior, cuina equipada i esmorzar inclòs són l'opció ideal per a famílies. La zona de Puigcerdà i Alp és la més pràctica per tenir serveis a prop. Per a famílies que volen més tranquil·litat, Bellver de Cerdanya i Bolvir funcionen molt bé. Tenim una guia específica d'[on dormir a la Cerdanya amb nens](/guies/on-dormir-a-la-cerdanya-amb-nens-guia-practica-per-families-2026) i una altra de [cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families).
+Les cases rurals amb jardí exterior, cuina equipada i esmorzar inclòs són l'opció ideal per a famílies. La zona de Puigcerdà i Alp és la més pràctica per tenir serveis a prop. Per a famílies que volen més tranquil·litat, Bellver de Cerdanya i Bolvir funcionen molt bé. Tenim una guia específica d'[on dormir a la Cerdanya amb nens](/guies/on-dormir-cerdanya-nens) i una altra de [cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families).
 
 ---
 
@@ -136,7 +136,7 @@ Pràcticament sí. El tren de FGC arriba fins a Puigcerdà (línia R3 des de Bar
 - [Restaurants a la Cerdanya per anar amb nens](/guies/que-fer-cerdanya-amb-nens)
 - [Cases rurals a la Cerdanya per a famílies: guia pràctica](/guies/cases-rurals-cerdanya-families)
 - [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
-- [On dormir a la Cerdanya amb nens](/guies/on-dormir-a-la-cerdanya-amb-nens-guia-practica-per-families-2026)
+- [On dormir a la Cerdanya amb nens](/guies/on-dormir-cerdanya-nens)
 - [Pobles de la Cerdanya: guia completa per visitar-los amb calma](/guies/pobles-de-la-cerdanya-guia-completa)
 - [Allotjament rural a la Cerdanya: com triar bé i on dormir](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [Que fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
