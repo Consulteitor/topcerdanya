@@ -1,7 +1,7 @@
 // app/inmobiliaria/page.js
 
 export const metadata = {
-  title: 'Immobiliària a la Cerdanya: comprar, llogar i invertir (2026)',
+  title: 'Immobiliària a la Cerdanya: comprar, llogar i invertir',
   description: 'Tot sobre el mercat immobiliari de la Cerdanya: guies per comprar o llogar, preus per municipi, agències locals de confiança i propietats destacades.',
   openGraph: {
     title: "Immobiliària a la Cerdanya",
