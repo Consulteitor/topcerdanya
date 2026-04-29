@@ -1,3 +1,15 @@
+## Allotjament per a senderistes a la Cerdanya: resum ràpid
+
+1. **Meranges → Llac de Malniu** — Can Borrell: casa rural de pedra amb restaurant · accés directe a la ruta sense cotxe · 9,9 km / 550m / 3h30 · reserva amb antelació
+2. **Bellver de Cerdanya → Cadí** — base per a rutes del Cadí-Moixeró · 25–40% més econòmic que Puigcerdà · Grus Pla gestiona la majoria de l'allotjament rural de la zona
+3. **Alp i Das → Masella i pistes** — rutes d'alta muntanya al voltant de les estacions · base ideal per a rutes de 2.000m+ · menys opcions d'allotjament rural que Meranges
+4. **Puigcerdà → rutes de la plana** — la millor base per a serveis i connexions · menys pròxima a rutes d'alta muntanya · ideal per a senderisme de nivell baix-mig
+5. **Refugis** — Refugi de l'Illa a la Vall de Núria · Refugi de Malniu (prop del llac) · pernoctació amb mitja pensió ~35–45€ · reserva prèvia obligatòria a l'estiu
+6. **Temporada recomanada** — juny–octubre per a alta muntanya · abril–juny per a rutes de bosc i vall · agost: camins populars concorreguts, surt abans de les 8h
+7. **Equipament mínim** — botes de munta o trail running · capa impermeable · provisions per a mig dia · sense transport públic entre pobles: cotxe o bicicleta imprescindibles
+
+---
+
 Si el motiu principal del viatge a la Cerdanya és caminar, la ubicació de l'allotjament importa molt més del que sembla. No és el mateix allotjar-se a Puigcerdà —còmode per a tot però lluny de les rutes d'alta muntanya— que a Meranges, a cinc minuts del camí al llac de Malniu. Aquesta guia ordena les opcions d'allotjament per proximitat a les principals zones de rutes de la comarca.
 
 ---

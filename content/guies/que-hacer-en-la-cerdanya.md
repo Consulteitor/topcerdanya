@@ -1,3 +1,15 @@
+## Qué hacer en la Cerdanya: datos clave
+
+1. **Esquí (diciembre–abril)** — Alp 2500: La Molina + Masella · 141 km de pistas · el dominio esquiable más grande de Cataluña · forfait adulto ~40–55€/día
+2. **Lago de Puigcerdà (todo el año)** — construido en 1260 · paseo perimetral gratuito · piscina municipal 5,60€ · piragüismo y barcas en verano
+3. **Senderismo** — más de 50 rutas marcadas · desde paseos familiares (Bollosa, 2h) hasta el Puigmal (2.911m) · mejor de mayo a octubre en cotas altas
+4. **Llívia** — enclave español dentro de Francia · farmacia del s.XVI (más antigua de Europa) · Museu Municipal · a 6 km de Puigcerdà por carretera neutral
+5. **Gastronomía** — trinxat de la Cerdanya · queso y embutidos del Cadí · mercado dominical de Puigcerdà (domingos) · restaurantes con productos de la comarca
+6. **Golf (marzo–diciembre)** — 3 campos a menos de 10 km · Real Club de Golf de la Cerdanya (1929, 27 hoyos) · green fee: 47–152€ según temporada
+7. **Rutas en BTT y a caballo** — más de 8 hípicas en la comarca · rutas MTB por el Parque Natural del Cadí-Moixeró · alquiler de bicicletas en Puigcerdà y Bellver
+
+---
+
 La Cerdanya es un valle pirenaico a dos horas de Barcelona con 300 días de sol al año, la mayor concentración de esquí nórdico de España y algunos de los mejores restaurantes de los Pirineos. No es el destino más famoso — y eso es exactamente lo que la hace especial.
 
 Esta guía está escrita desde dentro: cubrimos la comarca a fondo para que no pierdas tiempo con lugares que no valen la pena y no te pierdas los que sí.

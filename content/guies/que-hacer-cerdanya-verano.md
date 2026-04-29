@@ -1,3 +1,15 @@
+## Qué hacer en la Cerdanya en verano: datos clave
+
+1. **Temperatura** — 20–27°C de día · fresco de noche · altitud media 1.100m · sin agobio de calor costero · a 2h de Barcelona por la C-16
+2. **Lagos y baños** — Lago de Puigcerdà: piscina 5,60€ o paseo gratuito · Gorg Molí del Salt (natural, gratis) · piscinas municipales en casi todos los pueblos: 4–8,50€
+3. **Senderismo de verano** — todos los caminos accesibles de julio a octubre · Llac de Malniu (3h30) · Puigmal 2.911m · rutas familiares fáciles desde 1h
+4. **Baños termales de Dorres** — Cerdanya francesa, a 15 min · agua 35°C natural · al aire libre con vistas · ~15€ · abierto todo el año
+5. **Llívia** — enclave español en Francia · farmacia s.XVI · mercado · restaurante La Formatgeria · a 6 km de Puigcerdà por carretera neutral
+6. **BTT y actividades** — rutas BTT por el Parque Natural Cadí-Moixeró · piragüismo en el lago de Puigcerdà · equitación en más de 8 hípicas de la comarca
+7. **Agosto: lleno total** — lago masificado a partir de las 11h · restaurantes reservados desde el viernes · alojamiento: reservar con 3–4 meses de antelación · sal primero de agosto
+
+---
+
 El verano es la temporada favorita de la Cerdanya. El valle más ancho de los Pirineos se llena de luz, los prados reverdecen y la temperatura es exactamente lo que necesitas para escapar del calor de Barcelona: 25 grados de día, fresco de noche, sin el agobio de la costa. Aquí tienes los planes que realmente valen la pena, organizados para que no pierdas ni un día.
 
 → [Cómo llegar a la Cerdanya desde Barcelona](/guies/como-llegar-cerdanya)

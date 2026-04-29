@@ -1,3 +1,15 @@
+## Pueblos de la Cerdanya: datos clave
+
+1. **17 municipios en la parte española** — Puigcerdà (capital) · Bellver de Cerdanya · Alp · Bolvir · Llívia · Meranges · Das · Ger · entre otros · más 20+ municipios en la parte francesa
+2. **Puigcerdà** — 9.500 hab · capital · lago medieval (1260) · mercado dominical · conexión tren R3 desde Barcelona · a 170 km por C-16
+3. **Llívia** — 1.500 hab · enclave español dentro de Francia · farmacia del s.XVI (más antigua de Europa) · a 6 km de Puigcerdà por carretera neutral
+4. **Bellver de Cerdanya** — núcleo medieval s.XIII · la Baixa Cerdanya · 25–40% más económico que Puigcerdà · puerta de acceso al Parque Natural Cadí-Moixeró
+5. **Bolvir** — Torre del Remei (5★) · Real Club de Golf (1929) · a 4 km de Puigcerdà · urbanizaciones tranquilas con vistas al Puigmal
+6. **Meranges** — el pueblo más alto de la comarca (1.520 m) · casas de piedra negra · acceso directo al lago de Malniu · Can Borrell, alojamiento de referencia
+7. **Para una visita de fin de semana** — 2–3 pueblos bien visitados mejor que 5 de pasada · combinación recomendada: Puigcerdà + Llívia (medio día) · o Bellver + Talló + Martinet (Baixa Cerdanya)
+
+---
+
 La Cerdanya es una comarca pirenaica dividida entre Cataluña y Francia por el Tratado de los Pirineos de 1659. Sus pueblos son la mejor forma de entenderla: piedra negra, plazas porticadas medievales, iglesias románicas del siglo XI y un silencio de montaña difícil de encontrar en destinos tan accesibles desde Barcelona — dos horas por la C-16 cruzando el Túnel del Cadí.
 
 Lo que sorprende a la mayoría de visitantes es que la comarca guarda mucha más personalidad de la que se ve desde la carretera principal. Los núcleos que valen la pena están casi siempre a dos minutos en coche, pero con una escala y una autenticidad que resiste al turismo de paso.

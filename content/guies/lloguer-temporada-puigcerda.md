@@ -1,3 +1,15 @@
+## Lloguer de temporada a Puigcerdà: resum ràpid
+
+1. **El municipi més demandat** — capital de comarca · serveis complets · tren R3 des de Barcelona · llac · proximitat a les pistes · preus més alts de la comarca
+2. **Temporada hivern (nov–abr)** — apartament 2 hab: 5.000–8.000€/temporada · 1.000–1.600€/mes · casa gran (5+hab): 18.000–35.000€/temporada
+3. **Temporada estiu (jun–set)** — demanda punta a l'agost · setmanes d'agost reservades mesos abans · apartament 2 hab: 1.500–2.500€/mes
+4. **Quan buscar** — hivern: setembre–octubre · les millors propietats s'esgoten a finals d'octubre · novembre: oferta molt reduïda
+5. **Agost** — el més difícil de trobar · reserva amb 3–4 mesos d'antelació · qui vol agost a Puigcerdà ha de ser el primer en buscar
+6. **Perfil de llogaters** — famílies barcelonines amb fills · professionals en teletreball · jubilats que fugen de la humitat de Barcelona · esquiadors de temporada
+7. **On buscar** — Idealista, Habitaclia (filtra per "temporada") · agències locals: Activa Cerdanya, Finques Alpi, Habit Cerdanya · propietaris directes a grups de Facebook
+
+---
+
 Puigcerdà és, de bon tros, el municipi més demandat de tota la Cerdanya per a lloguers de temporada. La combinació de serveis complets, la connexió en tren des de Barcelona, el llac, la vida de carrer i la proximitat a les pistes d'esquí la converteix en la primera opció per a milers de famílies que busquen una base a la comarca per a l'hivern, l'estiu o les dos temporades.
 
 El problema: és precisament per tot això que l'oferta s'esgota més ràpidament i els preus son més alts que a qualsevol altre punt de la comarca. Saber com funciona el mercat de lloguer de temporada a Puigcerdà —quan buscar, on mirar, quant costa realment— és la clau per trobar el que necessites sense pagar de més ni arribar tard.

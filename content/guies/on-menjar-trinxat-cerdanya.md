@@ -1,3 +1,15 @@
+## On menjar trinxat a la Cerdanya: resum ràpid
+
+1. **Referència absoluta** — Hípica de Prats i Sansor · sense carta ni web ni xarxes socials · les germanes Beltran canten els plats · reserva amb 2–3 setmanes · Tel. 972 89 00 26
+2. **Temporada del trinxat** — novembre a febrer · la col tocada pel fred és imprescindible · a l'estiu la qualitat cau notablement · demana'l en temporada
+3. **Festa del Trinxat de Puigcerdà** — febrer · concurs entre restaurants de la comarca · 600 persones en sopar popular · 29 edicions el 2026 · preu entrada: ~25–30€
+4. **Restaurants de referència a Puigcerdà** — La Tieta, La Vinya · el posen tot l'hivern a la carta · més accessibles sense reserva que l'Hípica
+5. **Preu orientatiu** — primer plat de trinxat: 9–14€ · versió de qualitat als millors restaurants: fins a 18–22€ com a plat principal
+6. **El que el fa bo o dolent** — col d'hivern (no de supermercat, tocada pel fred) · trumfes farinosetes de la comarca · cansalada amb greix suficient · crosta daurada a la paella
+7. **Mercat de Puigcerdà (diumenges)** — productors locals venen col d'hivern i cansalada · si vols fer-lo a casa des de la Cerdanya, compra aquí el producte
+
+---
+
 El trinxat de la Cerdanya és el plat més icònic de la comarca. I com qualsevol plat icònic, n'hi ha versions molt bones i versions molt mediocres. La diferència entre un trinxat fet amb col d'hivern tocada pel fred i trumfes de la comarca, i un trinxat fet amb col de supermercat passada per la paella amb poc criteri, és abismal.
 
 Aquesta guia recull els restaurants on el trinxat val la pena. No és una llista de tots els que el posen a la carta — és una selecció dels que el fan bé, amb el context que necessites per triar.

@@ -1,3 +1,15 @@
+## Cap de setmana romàntic a la Cerdanya: dades clau
+
+1. **Torre del Remei (Bolvir)** — palauet modernista 1910 · 5★ · spa amb piscina coberta · jardins amb vistes al Puigmal · restaurant gastronòmic propi · torreremei.com
+2. **Mas Tapiol (Bolvir)** — masia s.XVII convertida en 4★ · spa · sauna · piscina coberta · restaurant de producte · a 5 min de Puigcerdà · mastapiol.com
+3. **Can Borrell (Meranges)** — casa rural pedra negra · 6 habitacions amb llar de foc · esmorzar casolà · sortida directa a llac de Malniu · reserva amb 4–6 setmanes d'antelació
+4. **Millor restaurant per a parelles** — Serendipia by La Calèche (Llívia) · el millor de la comarca per a ocasions especials · reserva amb 1 setmana d'antelació mínim
+5. **Ruta recomanada dissabte matí** — Llac de Malniu des de Meranges · 9,9 km · 550m · 3h30 · o passeig per Llívia sense rellotge
+6. **Spa i relax** — Torre del Remei i Mas Tapiol: spa d'ús intern · Banys de Dorres (Cerdanya francesa): termes naturals a l'aire lliure · ~15€
+7. **Pressupost 2 nits** — allotjament de qualitat: 300–600€ · sopar especial: 60–100€/persona · total cap de setmana: 600–1.000€ per parella
+
+---
+
 La Cerdanya és un dels destins de cap de setmana romàntic més ben guardats de Catalunya. No és un secret que molts coneixen però pocs expliquen bé: una comarca d'alta muntanya amb allotjaments amb molt de caràcter, cuina de mercat excel·lent, paisatge que descomprime i un ritme que convida a no fer res amb elegància. Si el que busques és una escapada de parella que combini natura, bona taula i moments per recordar, la Cerdanya ho té tot. Saber on anar marca la diferència.
 
 ## On dormir: allotjaments amb caràcter per a parelles

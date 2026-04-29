@@ -1,3 +1,15 @@
+## Pobles de la Cerdanya: resum ràpid
+
+1. **17 municipis a la Baixa Cerdanya** — Puigcerdà (capital) · Bellver de Cerdanya · Alp · Bolvir · Llívia (enclavament espanyol a França) · Meranges · Das · Ger · entre d'altres
+2. **Puigcerdà** — 9.500 habitants · capital de comarca · llac medieval (1260) · mercat dominical · a 170 km de Barcelona per C-16
+3. **Llívia** — 1.500 habitants · enclavament espanyol a l'interior de França · farmàcia del s.XVI (la més antiga d'Europa) · a 6 km de Puigcerdà per carretera neutral
+4. **Bellver de Cerdanya** — nucli medieval del s.XIII · Baixa Cerdanya · 25–40% més econòmic que Puigcerdà en allotjament i restauració
+5. **Bolvir** — Torre del Remei · Golf Real Club (1929) · a 4 km de Puigcerdà · pobles tranquils amb vistes al Puigmal
+6. **Meranges** — el poble més alt de la comarca (1.520 m) · cases de pedra negra · accés directe al llac de Malniu · Can Borrell, allotjament de referència
+7. **Ruta de pobles recomanada** — Puigcerdà + Llívia (mig dia) · o Bellver + Martinet + Talló (Baixa Cerdanya) · 2–3 pobles ben visitats millor que 5 de passada
+
+---
+
 Si vols descobrir els pobles de la Cerdanya, has de saber una cosa des del principi: la comarca guarda molta més personalitat de la que es veu passant de pressa per la carretera principal. Els nuclis que val la pena conèixer solen estar a dos minuts del cotxe, però a anys llum del turisme massificat.
 
 Aquesta guia no és una llista de setze noms seguits. És una selecció dels pobles que aporten una experiència real, amb el que trobaràs a cadascun, com combinar-los i quins errors evitar per no acabar el dia amb la sensació d'haver vist molt i gaudit poc.

@@ -1,3 +1,15 @@
+## Alojamiento con perro en la Cerdanya: datos clave
+
+1. **Suplemento habitual** — 5–15€ por noche por perro · casi universal · comproba siempre antes de reservar · la mayoría limita a máximo 2 perros
+2. **Casa rural de alquiler completo** — la mejor opción · jardín cerrado · perro libre sin molestar a otros huéspedes · precio 100–300€/noche para casas de 4–8 personas
+3. **Lo que siempre hay que verificar** — talla y raza aceptada · si el perro puede estar en las zonas comunes · si hay zona ajardinada · si hay que notificarlo en la reserva
+4. **Rutas pet friendly** — la mayoría de senderos de la comarca admiten perros con correa · acceso restringido a zonas de baño municipales · río Segre libre para baños
+5. **Lago de Puigcerdà** — perros no admitidos en el área de baño · sí en el paseo perimetral · zona verde exterior accesible sin restricciones
+6. **Parque Natural Cadí-Moixeró** — perros admitidos con correa en senderos · zonas de protección especial de aves: consultar restricciones estacionales
+7. **Veterinarios cerca** — clínica veterinaria en Puigcerdà y Bellver de Cerdanya · urgencias: Girona o Lleida · anota números de guardia antes de salir
+
+---
+
 Llevas semanas pensando en escaparte al Pirineo. El problema es el de siempre: ¿qué hago con el perro? La respuesta, en la Cerdanya, es más sencilla de lo que crees: te lo llevas.
 
 El valle más grande de los Pirineos catalanes es uno de los destinos más cómodos de Catalunya para viajar con perro. Rutas de montaña donde puede ir suelto, ríos donde bañarse, pueblos tranquilos sin tráfico y una oferta de alojamiento pet friendly que ha crecido mucho en los últimos años. El truco está en saber filtrar bien, porque "admitimos mascotas" puede significar cosas muy distintas según el alojamiento.

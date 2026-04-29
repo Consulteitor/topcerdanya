@@ -1,3 +1,15 @@
+## Restaurantes baratos en la Cerdanya: datos clave
+
+1. **Menú del día entre semana** — la clave: primer plato + segundo + postre + bebida · 13–20€ · los mismos restaurantes que en carta cobran 30–40€ · enorme diferencia
+2. **Fondas de pueblo** — menú completo por 13–16€ · Hípica de Prats i Sansor (trinxat, referencia) · sin web ni redes sociales · reserva imprescindible
+3. **Fines de semana de temporada alta** — agosto y fines de semana de nieve: precios más altos · menús del día pueden desaparecer o encarecerse · reservar días antes
+4. **Zona más económica** — Bellver de Cerdanya y la Baixa Cerdanya · 20–30% más barato que Puigcerdà en general · menos turismo de paso
+5. **Mercado dominical Puigcerdà** — domingos · productores locales · quesos, embutidos, frutas · comer del mercado es la opción más económica de la comarca
+6. **Dónde buscar** — restaurantes de pueblo (Martinet, Prullans, Bolvir) · evitar las terrazas de la plaza de Puigcerdà en agosto (máximo turismo = máximos precios)
+7. **Picnic con producto local** — alternativa imbatible · queso del Cadí + pan de Puigcerdà + embutidos locales del mercado · comer al aire libre con vistas al Puigmal: coste ~10–15€/persona
+
+---
+
 La Cerdanya tiene fama de cara. Y tiene razón en parte: en agosto, en fin de semana, rodeado de turistas con presupuesto de esquí, comer puede salir caro. Pero esa no es la única versión del lugar.
 
 La misma comarca que tiene restaurantes con menú degustación a 48 euros tiene también fondas de pueblo donde comes un menú completo por 13. Saber dónde mirar cambia completamente la ecuación.

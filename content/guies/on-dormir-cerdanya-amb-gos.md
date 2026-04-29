@@ -1,3 +1,15 @@
+## Allotjament amb gos a la Cerdanya: resum ràpid
+
+1. **Suplement habitual** — 5–15€ per nit per gos · gairebé universal · comprova sempre abans de reservar · molts limiten a màxim 2 gossos
+2. **Cases rurals de lloguer complet** — la millor opció · jardí tancat · gos lliure sense molestar altres hostes · preu 100–300€/nit per a cases de 4–8 persones
+3. **Rutes pet friendly** — la majoria de senders de la Cerdanya admeten gossos amb corretja · accés restringit a zones de bany municipals · riu Segre lliure per a banys
+4. **El que cal verificar sempre** — mida i raça acceptada · si el gos pot estar a les zones comunes · si hi ha zona enjardinada · si cal notificar en la reserva
+5. **Llac de Puigcerdà** — gossos no admesos a l'àrea de bany · però sí al passeig perimetral · zona verda exterior accessible
+6. **Parcs naturals** — Cadí-Moixeró: gossos admesos en corretja en senders · zones de protecció especial d'aus: consultar restriccions estacionals
+7. **Veterinaris a prop** — clínica veterinària a Puigcerdà i a Bellver de Cerdanya · urgències: Girona o Lleida · consulta números de guàrdia abans de sortir
+
+---
+
 Viatjar amb gos a la Cerdanya és més fàcil del que sembla. La comarca té una oferta pet friendly creixent —cases rurals de pedra, càmpings amb picanyes i apartaments amb jardí privat— i un entorn perfecte per a un gos: rutes de muntanya, rius on banyar-se i pobles tranquils on els animals es mouen amb llibertat.
 
 Aquesta guia recull els millors allotjaments on el gos hi és benvingut de veritat, no tolerat per educació. Des d'una rectoria romànica als peus del Cadí fins a un ecoresort amb parc d'agilitat, hi ha opció per a tots els estils i butxaques.

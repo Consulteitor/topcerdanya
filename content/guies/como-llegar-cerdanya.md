@@ -1,3 +1,15 @@
+## Cómo llegar a la Cerdanya: datos clave
+
+1. **Coche por la C-16 (Túnel del Cadí)** — ~170 km desde Barcelona · 1h40–2h sin tráfico · peaje túnel: 13€ ida / 26€ ida y vuelta · atascos los viernes tarde
+2. **Alternativa sin peaje: Collada de Toses** — por Ripoll y N-17 · 30–40 min adicionales · puede requerir cadenas en invierno · consultar transit.gencat.cat
+3. **Tren R3 Cercanías** — Barcelona Sants–Puigcerdà · ~2h · cortes parciales hasta enero 2027 · consultar horarios Rodalies Renfe · ideal si te alojas en Puigcerdà
+4. **Desde Lleida** — por la N-260 por el Pallars · ~2h30 · ruta alternativa menos congestionada que la C-16 en festivos
+5. **Desde Francia** — por la RN-116 desde Perpiñán · ~2h · pasando por Font-Romeu y Bourg-Madame · sin frontera real para residentes UE
+6. **Condiciones de invierno** — consulta transit.gencat.cat la noche anterior · C-16 generalmente abierta · Collada de Toses puede cerrarse o requerir cadenas
+7. **Una vez allí** — coche imprescindible para rutas y pueblos · taxis disponibles en Puigcerdà · bus interurbano entre capitales de comarca
+
+---
+
 > **Aviso de actualización — abril 2026:** La línea de tren R3 tiene cortes parciales activos por obras de modernización. Consulta la sección de tren antes de planificar tu viaje.
 
 Poca gente fuera de Cataluña sabe dónde está exactamente la Cerdanya. Es el valle más grande de los Pirineos catalanes, a caballo entre España y Francia, con Puigcerdà como capital. Desde Barcelona está a menos de dos horas. Desde Zaragoza, tres. Desde Madrid, unas cinco y media.

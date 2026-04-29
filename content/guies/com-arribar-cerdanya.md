@@ -1,3 +1,15 @@
+## Com arribar a la Cerdanya: resum ràpid
+
+1. **Cotxe per la C-16 (Túnel del Cadí)** — ~170 km des de Barcelona · 1h40–2h sense trànsit · peatge túnel: 13€ anada / 26€ anada i tornada · cues els divendres a la tarda
+2. **Alternativa sense peatge: Collada de Toses** — per Ripoll i N-17 · 30–40 min addicionals · pot requerir cadenes a l'hivern · consultar transit.gencat.cat
+3. **Tren R3 Rodalies** — Barcelona Sants–Puigcerdà · ~2h · talls parcials fins gener 2027 · consultar horaris Rodalies Renfe · ideal si t'allotges a Puigcerdà
+4. **Des de Lleida** — per la N-260 pel Pallars · 2h30 aproximadament · ruta alternativa menys congestionada
+5. **Des de França** — per la RN-116 des de Perpinyà · 2h · passant per Font-Romeu i Bourg-Madame · sense frontera real per a residents UE
+6. **Condicions d'hivern** — comprova transit.gencat.cat la nit anterior · C-16 generalment oberta però pot requerir cadenes per la Collada · l'hivern de 2025 va haver-hi 12 talls de la Collada
+7. **Un cop allà** — cotxe imprescindible per a rutes i pobles · taxis disponibles a Puigcerdà · bus interurbà entre capitals de comarca
+
+---
+
 > **Avís d'actualització — abril 2026:** La línia de tren R3 té talls parcials actius per obres de modernització. Consulta la secció de tren per entendre la situació actual abans de planificar el viatge.
 
 La Cerdanya queda a menys de dues hores de Barcelona en cotxe, però hi ha més maneres d'arribar-hi del que molta gent sap. Aquesta guia explica totes les opcions amb honestitat: temps reals, preus orientatius i els pros i contres de cada una.

@@ -1,3 +1,15 @@
+## Pont de maig 2026 a la Cerdanya: dades clau
+
+1. **Dates exactes** — 1 de maig (divendres, festiu) + dissabte 2 + diumenge 3 = 3 dies seguits · surt dijous 30 a primera hora per aprofitar la tarda del divendres
+2. **Temperatura i natura** — maig: la millor primavera de la comarca · 15–22°C de dia · prats verds · arbres florits · cap neu a la plana · camins d'alta muntanya en obertura
+3. **Activitats principals** — senderisme (tots els camins fins 1.500m accessibles) · BTT · golf (temporada mitjana, green fee 45–95€ a Fontanals o al Real Club) · escapada gastronòmica
+4. **Allotjament** — pont popular però menys que Setmana Santa · reserves amb 2–3 setmanes d'antelació · preus de temporada mitja (inferiors a esquí i agost)
+5. **Sense cues** — pont de maig: molt menys turisme que als ponts de Nadal, Setmana Santa o agost · restaurants amb taula disponible · senders tranquils
+6. **Gastronomia de temporada** — bolets de primavera (marçots, múrgoles) als millors restaurants · mercat de Puigcerdà el diumenge amb producte de temporada
+7. **Com arribar** — C-16 pel Túnel del Cadí (13€) · surts divendres 1 al matí per evitar cues · tornada diumenge: surt a les 14:30h o espera fins a les 20h
+
+---
+
 El pont de l'1 de maig 2026 cau en divendres, cosa que dona tres dies seguits de festa: divendres, dissabte i diumenge. Pocs ponts de primavera ofereixen un escenari millor que la Cerdanya: la neu de les pistes ha desaparegut, la vall és verda, les temperatures permeten fer vida a l'aire lliure i l'allotjament ja no té les tarifes de temporada d'esquí.
 
 Aquesta guia és per a qui vol aprofitar el pont de maig a la Cerdanya sense improvisar. Tres dies, plans concrets i tota la informació pràctica per arribar, dormir i menjar bé.

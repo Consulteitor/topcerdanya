@@ -1,3 +1,15 @@
+## Dónde bañarse en la Cerdanya: datos clave
+
+1. **Piscina de Puigcerdà** — piscina olímpica 25m + piscina infantil · 5,60€ adultos / 4,60€ hasta 12 años · abre ~21 junio · la mayor y mejor equipada de la comarca
+2. **Piscina de Bolvir** — 4€ adultos · vistas al Puigmal · menos masificada que Puigcerdà · zona de césped amplia
+3. **Das (Masella)** — entrada ~8€ + consumición incluida · ambiente más de resort · cerca de la estación de esquí Masella
+4. **La Molina** — piscina cubierta climatizada · única opción en invierno · abierta todo el año · precio según temporada
+5. **Gorg Molí del Salt (natural)** — gratuito · en el río Segre · acceso a pie desde varios puntos · popularísimo en julio-agosto · agua muy fría (12–16°C)
+6. **Bañarse en el río Segre** — posible en varios puntos de la plana · La Palanca del Segre (Puigcerdà) · gratuito · vigilar corriente · temperatura máxima 18–20°C en agosto
+7. **Baños termales de Dorres (Cerdanya francesa)** — a 15 min de Puigcerdà · agua caliente natural ~35°C · al aire libre con vistas a la montaña · ~15€
+
+---
+
 La Cerdanya tiene un verano distinto al de la costa. Las temperaturas suben con fuerza a mediodía —los días de julio pueden superar los 30°C en el llano— pero el agua está fría. Muy fría. Y eso, en el Pirineo, es exactamente lo que se busca.
 
 Esta guía recoge las opciones para bañarse en la Cerdanya en verano: las piscinas municipales de los pueblos, los rincones naturales en el río Segre y sus afluentes, y algunos apuntes sobre lo que está permitido y lo que no. Los baños termales de agua caliente son otra historia, y los tienes en nuestra guía específica.

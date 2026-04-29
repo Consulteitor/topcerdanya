@@ -1,3 +1,15 @@
+## Setmana Santa a la Cerdanya 2026: dades clau
+
+1. **Dates 2026** — vacances escolars del 28 de març al 6 d'abril · pont laboral Divendres Sant + Dilluns Pasqua: 4 dies seguits del 3 al 6 d'abril
+2. **Estat de les pistes** — La Molina i Masella generalment oberts fins a primers d'abril · Setmana Santa pot ser l'últim cap de setmana d'esquí · neu variable
+3. **Temperatura** — 0°C de nit / 14–16°C de dia a la plana · neu als cims per damunt de 2.000m · temps canviant: capa extra imprescindible
+4. **Senderisme accessible** — camins de bosc des de mitjan abril · camins per sobre de 1.500m: neu residual possible · consultar wikiloc per l'estat real
+5. **Allotjament** — s'omple setmanes abans · reserva amb 4–6 setmanes d'antelació mínim · Bellver de Cerdanya i Puigcerdà: zones més demandades
+6. **Activitats recomanades** — senderisme de primavera · esquí si la temporada aguanta · ruta de pobles (Llívia, Bellver, Talló) · no hi ha aglomeracions com a l'agost
+7. **Avantatge de Setmana Santa** — molt menys gent que a l'agost · restaurants amb taules disponibles · millors preus que la temporada alta d'esquí · llum de primavera pirinenca
+
+---
+
 ## Setmana Santa a la Cerdanya 2026: plans, rutes i consells pràctics
 
 Setmana Santa 2026 cau a principis d'abril: les vacances escolars van del **28 de març al 6 d'abril**, i el pont laboral —Divendres Sant i Dilluns de Pasqua— dona quatre dies seguits de festa del 3 al 6 d'abril. És una de les escapades més populars de l'any a la comarca, i amb raó: la Cerdanya a principis d'abril viu un moment de transició únic. L'esquí s'acaba, la natura desperta, els camins s'obren i hi ha molt menys gent que a l'agost.

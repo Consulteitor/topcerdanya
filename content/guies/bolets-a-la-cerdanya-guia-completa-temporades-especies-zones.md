@@ -1,3 +1,13 @@
+## Bolets a la Cerdanya: resum ràpid
+
+1. **Dues temporades** — primavera (març–juny): múrgoles, marçots, moixernons · tardor (setembre–novembre): rovellons, ceps, fredolics, pinetells · tardor és la temporada reina
+2. **Altitud allarga la temporada** — 1.000–1.800 m · el que a Prepirineus acaba al maig, aquí dura fins a juny en zones altes · tardor s'allarga fins a novembre
+3. **Millors zones** — Parque Natural Cadí-Moixeró · boscos de pi negre i pi roig als vessants nord · zones d'entre 1.400 i 1.800 m per a múrgoles i marçots
+4. **Espècies principals de tardor** — rovelló (Lactarius deliciosus) · cep (Boletus edulis) · fredolic (Tricholoma terreum) · pinetell · rossinyol (Cantharellus cibarius)
+5. **Normativa** — recol·lecció màxima 2 kg/persona/dia per ús propi · prohibit recollir en zones de reserva del Cadí-Moixeró · multes fins a 3.000€
+6. **Regla d'or** — si tens el mínim dubte sobre una espècie, no la colliu · consulta un micòleg o porta guia de camp actualitzada
+7. **Mercat i restauració** — bolets de temporada al mercat dominical de Puigcerdà (diumenges) · molts restaurants de la comarca incorporen bolets locals al menú de tardor
+
 ---
 
 La Cerdanya és un dels territoris boletaires més rics de Catalunya. La combinació de boscos de pi negre i pi roig als vessants del Cadí-Moixeró, els prats d'alta muntanya i l'altitud sostenida de la vall —al voltant dels 1.000 metres— crea les condicions ideals per a la fructificació de fongs durant gairebé tot l'any, amb dos pics molt marcats: la primavera i la tardor.

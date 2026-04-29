@@ -1,3 +1,15 @@
+## Cases rurals a la Cerdanya per a famílies: resum ràpid
+
+1. **Preu orientatiu** — 150–350€/nit per a cases de 6–10 places · depenent de temporada, ubicació i equipament · agost i caps de setmana de neu: preus màxims
+2. **5 coses imprescindibles** — jardí exterior tancat · cuina ben equipada · calefacció central (no elèctrica) · 1 bany per cada 2 habitacions · distància als plans principals (llac, pistes)
+3. **Millors zones per a famílies** — Puigcerdà i Bolvir: serveis i llac a prop · Alp: a peu de pistes d'esquí · Meranges: accés directe a rutes de muntanya sense cotxe
+4. **Quan reservar** — agost: 3–4 mesos d'antelació mínim · caps de setmana de neu (des.–mar.): 4–8 setmanes · Setmana Santa: 6–8 setmanes · temporada baixa: 1–2 setmanes
+5. **On buscar** — Booking.com (filtra per "casa sencera") · Rusticae · Airbnb · webs locals de turisme rural de la comarca · les millors es reserven per repetidors fidels
+6. **Càmping familiar alternatiu** — Càmping Stel a Guils de Cerdanya · piscina i parc infantil · 25–45€/nit per a parcel·la i 2 adults · obert juny–setembre
+7. **Consell clau** — confirma la calefacció disponible: una llar de foc decorativa no escalfa prou en nits de gener · pregunta explícitament per calefacció central
+
+---
+
 Si busques una casa rural a la Cerdanya per anar amb nens, la oferta és àmplia però triar-ne una de bona no és immediat. Molta fotografia retocada, descripcions que prometen molt i realitats que no sempre quadren. Aquesta guia t'ajuda a filtrar amb criteri, entendre quines característiques importen realment per a famílies i on es concentra la millor oferta de la comarca.
 
 Per a una visió general de tot l'allotjament rural de la comarca —parelles, grups, opcions de luxe— consulta la guia d'[allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir). Aquí ens centrem exclusivament en famílies amb nens.

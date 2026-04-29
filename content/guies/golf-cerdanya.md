@@ -1,3 +1,15 @@
+## Golf en la Cerdanya: datos clave
+
+1. **Real Club de Golf de la Cerdanya (Bolvir)** — el más histórico de Cataluña (1929) · 27 hoyos · green fee visitante 18h: 47–152€ según temporada · diseñado por Javier Arana
+2. **Golf de Fontanals (Fontanals de Cerdanya)** — 18 hoyos · campo abierto con vistas al Puigmal · más accesible para visitantes ocasionales · green fee: 45–95€ según temporada
+3. **Golf de Bolvir (Pitch & Putt)** — campo ejecutivo · ideal para principiantes o práctica rápida · precios inferiores a los campos de 18 hoyos
+4. **Temporada de juego** — de marzo a diciembre · mejores meses: mayo–octubre · posibles heladas matinales en abril y noviembre · nunca colas como en campos de la costa
+5. **Altitud y clima** — 1.100 m de altitud · verano fresco (20–25°C) · luz excepcional de montaña · los 300 días de sol al año alargan la temporada
+6. **Alquiler de material** — disponible en los tres campos · coche eléctrico en el Real Club: 30–50€ según recorrido · no es necesario traer equipo
+7. **Combinación golf + esquí** — posible en la misma semana en marzo-abril · La Molina a 20 min de Bolvir · Masella a 25 min · propuesta única en el Pirineo catalán
+
+---
+
 La Cerdanya tiene tres campos de golf a menos de 10 km entre sí, en uno de los valles más bonitos de los Pirineos. No es casualidad: la altitud de 1.000 metros garantiza un clima fresco y luminoso que alarga la temporada de golf más allá de lo habitual en Cataluña. Se puede jugar desde marzo hasta diciembre, con los mejores meses entre mayo y octubre.
 
 Este artículo te explica qué ofrece cada campo, para quién es cada uno, los precios actualizados de green fee y qué más puedes hacer en la comarca antes o después de jugar.

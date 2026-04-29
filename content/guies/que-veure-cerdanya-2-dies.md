@@ -1,3 +1,15 @@
+## Itinerari 2 dies a la Cerdanya: resum ràpid
+
+1. **Dia 1 matí** — Llívia: farmàcia del s.XVI + Museu Municipal + passeig pel nucli medieval · 1h30–2h de visita · a 6 km de Puigcerdà per carretera neutral
+2. **Dia 1 tarda** — Llac de Puigcerdà: passeig, barcas de lloguer o bany a la piscina (5,60€) · mercat dominical si és diumenge · sopar a Puigcerdà centre
+3. **Dia 2 matí** — Ruta de senderisme adaptada al nivell: Bollosa (fàcil, 2h) o Llac de Malniu (mitja, 3h30) · sortida a les 8:30–9h per arribar primer
+4. **Dia 2 migdia** — Bellver de Cerdanya: nucli medieval del s.XIII · dinar a la Baixa Cerdanya · 30 km de Puigcerdà per N-260
+5. **Allotjament recomanat** — Puigcerdà centre: per a serveis i tren · Bolvir: per a qualitat i tranquil·litat · Meranges: si el senderisme és el focus del viatge
+6. **Reserva els dinars** — caps de setmana de temporada alta: reserves imprescindibles · bons restaurants esgotats des del divendres al migdia
+7. **Transport** — cotxe imprescindible per a Llívia, Bellver i rutes · tren R3 si t'allotges a Puigcerdà i no surt de la capital · taxis disponibles a Puigcerdà
+
+---
+
 Dos dies a la Cerdanya donen per molt si saps com organitzar-los. Donen per veure els pobles més interessants, fer una ruta de muntanya, menjar bé, descobrir Llívia i entendre per què tanta gent hi torna cada any. No donen per fer-ho tot —la comarca té prou per a una setmana— però amb un bon itinerari surts amb la sensació d'haver vist el millor.
 
 Aquesta guia proposa un itinerari de dos dies que funciona en qualsevol estació: adaptat a famílies amb nens, a parelles i a grups d'amics. Amb alternatives per a cada situació.

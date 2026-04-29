@@ -1,3 +1,15 @@
+## El trinxat de la Cerdanya: resum ràpid
+
+1. **Ingredients principals** — col d'hivern (tocada pel fred), trumfes (patates), cansalada grassa · tres ingredients, cuina d'aprofitament pirinenca
+2. **Festa del Trinxat de Puigcerdà** — 29 edicions el 2026 · mes de febrer · 600 persones sopant juntes · concurs entre restaurants per al millor trinxat de l'any
+3. **On menjar el millor trinxat** — Hípica de Prats i Sansor: referència absoluta de la comarca · sense carta ni web · reserva imprescindible amb 2–3 setmanes · Tel. 972 89 00 26
+4. **Clau del producte** — la col ha d'estar tocada pel fred (novembre–febrer) per tenir el punt dolç característic · la col de temporada canvia completament el resultat
+5. **Recepta bàsica** — 1 kg col + 1 kg trumfes bullides i trinxades + cansalada fregida daurada a la paella fins a agafar crosta · oli verge extra al final
+6. **Distribució geogràfica** — típic de Cerdanya, Alt Urgell, Berguedà i Andorra · la Cerdanya n'és la referència reconeguda arreu de Catalunya
+7. **On comprar producte local** — mercat dominical de Puigcerdà · col d'hivern de productors locals de tardor–hivern · cansalada artesana als embotits de la comarca
+
+---
+
 Hi ha plats que expliquen un lloc millor que qualsevol guia turística. El trinxat és un d'ells. Tres ingredients que tots els pagesos de la Cerdanya tenien a l'hivern — col, trumfes i cansalada — transformats en una cosa que ha sobreviscut segles, ha omplert taules de gent amb poc i molt, i avui apareix en les cartes dels millors restaurants de la comarca i als fogons de qui vol cuinar de debò.
 
 Aquesta és la guia definitiva sobre el trinxat de la Cerdanya: d'on ve, com es fa bé, per què la col ha d'estar tocada pel fred, i on el pots menjar a la comarca sense decepcions.

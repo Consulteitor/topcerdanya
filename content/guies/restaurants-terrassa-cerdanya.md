@@ -1,3 +1,15 @@
+## Restaurants amb terrassa a la Cerdanya: resum ràpid
+
+1. **Clima favorable** — ~300 dies de sol a l'any · temperatura de terrassa de maig a octubre · inclús al novembre i abril molts migdies permeten menjar fora
+2. **Quatre tipus de terrassa** — plaça de poble (ambient i preu) · vistes al llac o la vall (paisatge) · jardí rural o hotel (silenci i intimitat) · après-activitat al peu de pista (informal i ràpid)
+3. **Millor terrassa amb vistes** — voltants del llac de Puigcerdà · restaurants de Bolvir i Ger amb vista al Puigmal · terrasses de Das amb vista a Masella
+4. **Terrassa de jardí rural** — Torre del Remei (Bolvir) · Mas Tapiol (Bolvir) · Can Borrell (Meranges) · reserva imprescindible per a dinars d'ocasió
+5. **Après-activitat (peu de pistes o sortida de ruta)** — zona Das, Alp i La Molina · informal i ràpid · sense reserva habitualment · cervesa i pa amb tomàquet als 1.700 m
+6. **Quan reservar** — caps de setmana de temporada alta: sempre · entre setmana: recomanable si sou >4 persones · les millors terrasses amb vistes s'esgoten ràpid a l'agost
+7. **Terrassa de plaça icònica** — plaça de Santa Maria de Puigcerdà · mercat de diumenges al costat · ambient animat tot l'any · preus raonables i sense reserva necessària
+
+---
+
 A la Cerdanya, dinar a la terrassa no és una opció de bon temps: és part de l'experiència. La comarca té uns 300 dies de sol a l'any, una llum de muntanya que no existeix a cap altra banda i un ritme d'àpat que convida a allargar la sobretaula sense motiu concret. Saber quin tipus de terrassa busques i on trobar-la canvia molt el pla del dia.
 
 Aquesta guia ordena l'oferta de restaurants amb terrassa per tipologia i per zona, amb recomanacions concretes per a cada perfil de pla.

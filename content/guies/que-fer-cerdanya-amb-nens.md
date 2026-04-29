@@ -1,3 +1,15 @@
+## Què fer a la Cerdanya amb nens: resum ràpid
+
+1. **Llac de Puigcerdà** — piscina 5,60€ adults / 4,60€ fins 12 anys · zona de gespa gratuïta · piragüisme i barcas de lloguer · ideal fins i tot per a nens de 0–3 anys
+2. **Escola d'esquí La Molina o Masella** — des dels 3 anys · classes en grup de matí 2–2,5h · molts nens aprenen en una sola jornada · forfet infantil <12 anys: ~25–35€
+3. **Llac de Malniu (Meranges)** — ruta familiar ideal per a 6–10 anys · 9,9 km, 550m, 3h30 · sortida Meranges · un dels paisatges més impressionants de la comarca
+4. **Senderisme fàcil** — Camí dels Pobles de la Cerdanya (pla, sense desnivell) · ruta Bollosa (2h, fàcil) · aptes des dels 4 anys · cap necessitat d'equipament especial
+5. **Arborètum de Queixans** — passeig botànic gratuït · apte per a cotxets · a 15 min de Puigcerdà · curiositats de la flora pirinenca per a nens a partir de 5 anys
+6. **Tren Groc (Cerdanya francesa)** — excursió en tren panoràmic · 63 km de paisatge · nens <4 anys gratis · sortida Latour-de-Carol a 10 min de Puigcerdà
+7. **Consell clau** — un sol pla fort per jornada · sortir a les 8:30h (el llac s'omple a les 11h a l'estiu) · base recomanada a Puigcerdà o Alp per a serveis i proximitat
+
+---
+
 Si busques què fer a la Cerdanya amb nens, la bona notícia és que la comarca és una de les destinacions familiars més consolidades del Pirineu català. Té de tot: natura accessible, activitats per a totes les edats, estacions d'esquí amb escola per als més petits, un llac a peu de poble i una xarxa de cases rurals amb jardí. La mala notícia és que a l'estiu i a l'hivern s'omple, i si no planifiques bé, el dia s'esgota en desplaçaments i cues.
 
 Aquesta guia t'ajuda a triar els millors plans per a famílies a la Cerdanya, ordenats per estació i per edat dels nens, amb consells concrets per no passar el dia al cotxe.

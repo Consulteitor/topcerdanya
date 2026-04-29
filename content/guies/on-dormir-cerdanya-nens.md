@@ -1,3 +1,15 @@
+## Allotjament a la Cerdanya amb nens: resum ràpid
+
+1. **Casa rural de lloguer complet** — la millor opció per a famílies · cuina pròpia · jardí tancat · 150–350€/nit per a cases 6–10 places · reserva amb mesos d'antelació per a agost i caps de setmana de neu
+2. **Zona recomanada** — Puigcerdà i Bolvir per a serveis i llac · Alp si l'objectiu és esquí · Meranges per a famílies que prioritzen senderisme
+3. **Imprescindibles a comprovar** — jardí exterior tancat · cuina ben equipada · calefacció central a totes les habitacions · 1 bany per cada 2 habitacions
+4. **Càmpings familiars** — Càmping Stel a Guils de Cerdanya · piscina, parc infantil · temporada juny–setembre · 25–45€/nit per a parcel·la i 2 adults
+5. **Apartaments turístics** — bona opció per a famílies amb nens petits · cuina i rentadora incloses · preus des de 80€/nit per a 4 persones en temporada baixa
+6. **Hotels amb activitats per a nens** — Torre del Remei i Mas Tapiol (Bolvir) disposen de parcs infantils · alguns organitzen activitats guiades en temporada alta
+7. **Quan reservar** — agost: amb 3–4 mesos d'antelació · caps de setmana de neu: amb 4–8 setmanes · temporada baixa: 1–2 setmanes generalment suficient
+
+---
+
 Trobar un bon allotjament a la Cerdanya amb nens no és difícil si saps on mirar. La comarca té una oferta rural àmplia, però no tots els allotjaments estan pensats per a famílies: alguns prioritzen parelles, d'altres no tenen cuina equipada, i uns quants tenen les habitacions tan repartides que la logística nocturna es complica. Aquesta guia t'ajuda a triar bé.
 
 La pregunta clau no és "quin és el millor allotjament" sinó "quin és el millor allotjament per a la nostra família". L'edat dels nens, el nombre de persones, el pressupost i el tipus de viatge (esquí, senderisme, relaxació) determinen la resposta.

@@ -1,3 +1,15 @@
+## Qué hacer en la Cerdanya en primavera: datos clave
+
+1. **Mejor temporada** — abril y mayo · caminos vacíos · prados verdes · nieve en cimas · sin colas en aparcamientos · precios inferiores a invierno y agosto
+2. **Senderismo primavera** — rutas de bosque desde mediados de abril · Llac de Malniu: consultar estado (nieve residual hasta mayo) · Puigmal (2.911m): desde junio
+3. **Bolets de primavera** — marçots, múrgoles, moixernons · temporada desconocida · la altitud alarga la temporada hasta junio en cotas altas
+4. **Golf** — temporada media (marzo–agosto): green fee 71–100€ fin de semana en el Real Club · los mejores meses para jugar sin calor excesivo
+5. **Clima** — abril imprevisible: mañana soleada y tormenta de tarde · mayo estable · temperatura ideal para caminar 12–20°C · siempre con capa impermeable
+6. **Festivals y mercados** — Festa del Trinxat (Puigcerdà, febrero) · mercado dominical de Puigcerdà todo el año (domingos) · pocos eventos específicos de primavera
+7. **Sin masificación** — la Cerdanya de abril-mayo es la misma comarca con un tercio de los turistas del agosto · restaurantes con mesa, senderos vacíos, precios de temporada media
+
+---
+
 Hay dos tipos de personas que visitan la Cerdanya: las que van en agosto y las que han descubierto la primavera. Las primeras vuelven a casa con fotos del lago lleno de gente. Las segundas reservan ya para el año siguiente.
 
 La primavera en la Cerdanya es lo que el verano promete y no siempre cumple: montaña accesible, pueblos tranquilos, restaurantes con mesa disponible y precios que recuerdan que esto no siempre fue un destino de moda.

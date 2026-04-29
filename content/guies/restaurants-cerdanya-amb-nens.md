@@ -1,3 +1,15 @@
+## Restaurants amb nens a la Cerdanya: resum ràpid
+
+1. **Consell clau** — dinar entre les 13:00 i les 13:30h · la cuina just obre, el restaurant mig buit · esperar a les 14:30h en cap de setmana = cua i cuina al límit
+2. **Reserva obligatòria** — en cap de setmana i temporada alta (esquí i llac) · fins i tot en dies laborables si sou grup gran · molts restaurants s'esgoten des del divendres al migdia
+3. **Prioriza terrassa** — la Cerdanya té ~300 dies de sol · nens amb espai exterior = dinar agradable · restaurants de Das i Alp: terrasses al peu de pista molt aptes per a famílies
+4. **Menú del dia** — disponible a la majoria de restaurants entre setmana · primer + segon + postres + beguda: 13–18€ · diferència brutal respecte als preus de carta (30–40€)
+5. **Zona Alp–Das** — restaurants de muntanya al peu de les pistes · l'après-ski és familiar i informal · Càmping Stel de Guils té bar-restaurant accessible per a famílies
+6. **Puigcerdà centre** — oferta molt àmplia · accessibilitat per a cotxets · ideal per a dinars de tardor-hivern quan el temps no convida a terrassa
+7. **Al·lèrgies i intoleràncies** — indica-ho sempre en la reserva · els restaurants de la comarca estan habituats · trinxat i embotits contenen gluten i/o lactosa: preguntar sempre
+
+---
+
 Menjar fora amb nens a la Cerdanya és molt més fàcil del que sembla. La comarca té una llarga tradició de turisme familiar i la majoria de restaurants estan acostumats a rebre famílies amb nens de totes les edats. Però triar bé —lloc correcte, hora adequada, zona convenient— marca la diferència entre un dinar agradable i un cap de setmana que s'espatlla per un error de planificació.
 
 Aquesta guia t'ajuda a triar on menjar a la Cerdanya quan viatges amb nens, ordenat per zona i amb consells pràctics per no improvisar. Per a una visió més àmplia de la gastronomia de la comarca, consulta la guia completa d'[on menjar a la Cerdanya](/guies/restaurants-cerdanya).

@@ -1,3 +1,15 @@
+## Puente de mayo 2026 en la Cerdanya: datos clave
+
+1. **Fechas exactas** — 1 de mayo (viernes festivo) + sábado 2 + domingo 3 · tres días seguidos sin pedir vacaciones · sal el jueves por la tarde para aprovechar el viernes entero
+2. **Temperatura y naturaleza** — mayo: la mejor primavera · 15–22°C de día · prados verdes · árboles en flor · sin nieve en el llano · caminos de montaña abriéndose
+3. **Actividades principales** — senderismo (todos los caminos hasta 1.500m accesibles) · BTT · golf (temporada media, green fee 45–95€) · escapada gastronómica sin masificación
+4. **Sin turismo masivo** — mucho menos gente que en Semana Santa o agosto · restaurantes con mesa disponible · senderos tranquilos · el Cadí recién salido del invierno
+5. **Alojamiento** — puente popular pero manejable · reservas con 2–3 semanas de antelación · precios de temporada media (inferiores a esquí y agosto)
+6. **Gastronomía de temporada** — setas de primavera (marçots, múrgoles) en los mejores restaurantes · mercado dominical de Puigcerdà el domingo con producto local
+7. **Cómo llegar** — C-16 por el Túnel del Cadí (13€) · sal el viernes por la mañana para evitar atascos · vuelta el domingo: sal a las 14:30h o espera hasta las 20h
+
+---
+
 El 1 de mayo de 2026 cae en viernes. Son tres días seguidos sin pedir ninguna vacación: viernes festivo, sábado y domingo. Es uno de los puentes más limpios del año, y la Cerdaña —la gran llanura pirenaica a menos de dos horas de Barcelona— es uno de los destinos más inteligentes para aprovecharlo.
 
 ¿Por qué en mayo y no en agosto? Porque en mayo la Cerdaña no tiene turistas de playa que se han desviado a la montaña. Los caminos están secos pero no llenos de gente. Los prados han florecido. Los restaurantes trabajan al límite pero todavía tienen espacio. Y la luz —esa luz de primavera pirenaica con el cielo limpio y el Cadí recién salido del invierno— es la que sale en todas las fotos que envidias en Instagram y que nunca sabes dónde están tomadas.

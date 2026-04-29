@@ -1,3 +1,15 @@
+## Hípicas en la Cerdanya: datos clave
+
+1. **Más de 8 centros ecuestres** — concentrados en menos de 30 km de valle · densidad inusual en el Pirineo catalán · todos ofrecen salidas para principiantes
+2. **La Cerdanya a 4 Potes (Prullans)** — junto al río Segre · rutas por el Parque Natural del Cadí-Moixeró · ganadería propia · Tel. 973 51 06 69
+3. **Ruta típica para principiantes** — 1h de iniciación + ruta guiada · sin experiencia previa necesaria · a partir de 6–7 años según el centro
+4. **Travesías de varios días** — ofrecidas por los centros principales · cruzando el Parque Natural · pernoctación en refugios o masías · reserva con semanas de antelación
+5. **Parque Natural Cadí-Moixeró** — escenario principal de las rutas ecuestres · 41.342 ha · desde el río Segre hasta los 2.648 m del Puig de la Canal Baridana
+6. **Mejor temporada** — primavera (abril-junio) y otoño (septiembre-octubre) · evitar agosto por el calor y la masificación de senderos · invierno posible pero fría
+7. **Precios orientativos** — paseo 1h: 25–35€ · media jornada: 50–70€ · día completo: 80–120€ · travesía varios días: consultar precio por programa
+
+---
+
 Montar a caballo en la Cerdanya es una de las actividades con más relación calidad-paisaje del Pirineo. El valle abierto, los prados alpinos, los senderos del Parque Natural del Cadí-Moixeró y el río Segre ofrecen un escenario que desde el lomo de un caballo se vive de forma completamente distinta que a pie. Y lo mejor: no hace falta tener experiencia previa. La mayoría de hípicas de la comarca tienen salidas adaptadas a todos los niveles, desde principiantes absolutos hasta jinetes experimentados que buscan rutas de varios días.
 
 La Cerdanya concentra más de ocho centros ecuestres a menos de 30 km entre sí — una densidad inusual incluso en el contexto del Pirineo catalán.

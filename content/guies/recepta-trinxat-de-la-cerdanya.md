@@ -1,3 +1,15 @@
+## Recepta del trinxat de la Cerdanya: resum ràpid
+
+1. **Ingredients per a 4 persones** — 1 kg col d'hivern · 1 kg trumfes (patates) farinosetes · 4 talls cansalada grassa · oli d'oliva verge extra · sal
+2. **Clau de la recepta** — col tocada pel fred (novembre–febrer) · sense fred, la col és amarga i no té el punt dolç característic del trinxat de qualitat
+3. **Temps total** — 45–60 minuts · bullida col i patates: 20–25 min · trinxat i integrar la cansalada: 10 min · daurar a la paella fins a crosta: 15 min
+4. **El secret de la crosta** — paella ben calenta · oli abundant · pressionar lleugerament amb l'espàtula · no remenar fins que la base tingui color daurat
+5. **Cansalada** — fregir a foc mig fins que estigui cruixent · reservar per posar a sobre en el moment de servir · el greix de la cansalada serveix per daurar el trinxat
+6. **Producte local** — col d'hivern i trumfes de la Cerdanya al mercat dominical de Puigcerdà · cansalada artesana als embotits de la comarca
+7. **Variants** — amb ou ferrat a sobre · amb botifarra negra · versió vegana sense cansalada (menys tradicional però possible) · servir amb pa amb tomàquet i vi negre
+
+---
+
 El trinxat de la Cerdanya és un dels plats més senzills de la cuina catalana de muntanya. Tres ingredients principals, una tècnica sense complicacions i un resultat que depèn gairebé tot de la qualitat del producte: una bona col d'hivern tocada pel fred, trumfes farinosetes i cansalada amb greix.
 
 Aquí trobaràs la recepta tradicional, tal com es fa a la comarca, amb tots els detalls que fan la diferència entre un trinxat mediocre i un de bo.

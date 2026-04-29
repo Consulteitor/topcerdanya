@@ -1,3 +1,15 @@
+## Senderisme de primavera a la Cerdanya: resum ràpid
+
+1. **Millor temporada** — abril i maig · camins buits · prats verds · neu als cims · cap cua als aparcaments · preus d'allotjament inferiors a l'hivern i l'agost
+2. **Per sota de 1.500m (accés des de mitjan abril)** — Camí de la Bollosa · Tossal de la Pleta · Camí dels Pobles de la Cerdanya · aptes per a famílies i totes les edats
+3. **Entre 1.500 i 1.900m (des de finals abril o principis maig)** — Llac de Malniu des de Meranges · 9,9 km · 550m · 3h30 · consultar estat del camí per neu residual
+4. **Per damunt de 2.000m (de maig en endavant)** — Puigmal (2.911m) · Pic de l'Àliga · Circs de Freser i Núria · neu residual fins a juny en alguns trams · material adequat obligatori
+5. **Ruta Bollosa** — ruta fàcil accessible des de principis d'abril · 2h aproximadament · paisatge de prats i alzines · sense tècnica · ideal per a inicis de temporada
+6. **Avís de temps** — imprevisibilitat total: matí assolellat i tempesta de tarda · consulta METEOCAT o Meteoblue 48h abans · porta capa impermeable sempre
+7. **Recursos** — Wikiloc i xarxes de Cerdanya Aventura per a l'estat dels camins en temps real · consulta 48h abans per rutes per damunt de 1.800m
+
+---
+
 La primavera és la gran desconeguda de la Cerdanya. Mentre tothom hi pensa per esquiar a l'hivern o per banyar-se al llac a l'estiu, l'abril i el maig ofereixen la comarca en el seu millor estat per caminar: camins secs i tranquils, neu als cims, prats verds a la vall, ocells que han tornat i cap cua a l'aparcament. Si fas senderisme i vols gaudir de la muntanya sense aglomeracions, la Cerdanya de primavera és el que estaves buscant.
 
 Aquesta guia proposa cinc rutes per a tots els nivells, des d'un passeig pla entre camps fins a l'ascensió al Puigmal. Amb tota la informació tècnica actualitzada per planificar sense improvitzar.

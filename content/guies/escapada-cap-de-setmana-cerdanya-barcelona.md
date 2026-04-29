@@ -1,3 +1,15 @@
+## Escapada cap de setmana Cerdanya des de Barcelona: dades clau
+
+1. **Distància i temps** — 170 km per C-16 · 1h40–2h sense trànsit · peatge Túnel del Cadí 13€ anada · cues importants divendres >17h i diumenge 15–19h
+2. **Quan sortir** — divendres: abans de les 9h o després de les 20h · diumenge: dinar a la comarca a les 13:30h i sortir cap a les 14:30h o esperar fins a les 20:30h
+3. **Tren R3** — Barcelona Sants–Puigcerdà ~2h · sense cues · talls parcials fins gener 2027 · ideal si t'allotges a Puigcerdà i no necessites cotxe
+4. **Allotjament parelles** — Torre del Remei (5★ Bolvir) · Mas Tapiol (4★ spa) · Can Borrell (Meranges, casa rural) · reserves amb 4–6 setmanes d'antelació a l'hivern i agost
+5. **Millor temporada** — tardor (set–oct): colors i bolets, menys gent · primavera (abr–maig): senderisme, llum, preus inferiors · hivern: esquí · agost: llac però molt ple
+6. **Gastronomia** — Serendipia by La Calèche (Llívia, reserva necessària) · La Formatgeria de Llívia · Hípica de Prats i Sansor (trinxat de referència)
+7. **Pressupost orientatiu** — allotjament rural 2 nits: 200–400€ · peatge anada i tornada: 26€ · gasolina: ~30–40€ · dinars i sopars: 60–100€/persona
+
+---
+
 La Cerdanya és un dels destins de cap de setmana més populars de Catalunya per als que viuen a Barcelona. Menys de dues hores de viatge, paisatge de muntanya, restaurants bons i una oferta d'activitats que funciona tot l'any. Però no totes les escapades son iguals: no té res a veure venir en parella buscant desconnexió que venir amb nens petits o amb un grup d'amics. Aquesta guia organitza l'escapada en funció del perfil i resol la primera pregunta pràctica: cotxe o tren.
 
 ---
