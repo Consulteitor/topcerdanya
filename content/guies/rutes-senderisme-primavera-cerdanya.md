@@ -124,7 +124,7 @@ Les rutes 1, 2 i 3 d'aquesta guia funcionen molt bé com a pla de matí per a pa
 - [Banys termals a la Cerdanya: guia completa](/guies/banys-termals-cerdanya)
 - [Allotjaments prop de rutes a la Cerdanya](/guies/allotjament-senderisme-cerdanya)
 - [Rutes fàcils a la Cerdanya amb nens](/guies/rutes-facils-cerdanya-nens)
-- [Què fer a la Cerdanya: guia general](/guies/que-fer-a-la-cerdanya-la-guia-practica-per-aprofitar-la-comarca-al-maxim)
+- [Què fer a la Cerdanya: guia general](/guies/que-fer-a-la-cerdanya)
 - [Restaurants amb terrassa a la Cerdanya](/guies/restaurants-terrassa-cerdanya)
 
 ---

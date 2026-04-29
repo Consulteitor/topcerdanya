@@ -6,10 +6,25 @@ Esta guía organiza las mejores excursiones de la Cerdanya por nivel y tipo de s
 
 ---
 
+## Las 10 mejores excursiones de la Cerdanya
+
+1. **Lago de Malniu desde Meranges** — 6 km, 2–3h, 300 m de desnivel. Lago glacial a 1.870 m, la excursión más valorada de la comarca. Apta para niños a partir de 5–6 años.
+2. **Estanys de la Pera desde les Pollineres** — 5,4 km, 1h 50 min, 300 m. Varios lagos de alta montaña por un antiguo camino de contrabandistas.
+3. **Puigpedrós (2.915 m) desde el refugio de Malniu** — la cima más accesible de la comarca sin material técnico. Requiere buena condición física.
+4. **Tossa Plana de Lles (2.916 m)** — cima más alta de la Cerdanya española. 11–17 km, 5–7h, 930–1.130 m de desnivel.
+5. **Prat de Cadí desde Estana** — 7,6 km, 2h 15 min, 360 m. Dentro del Parque Natural del Cadí-Moixeró; perfecta en invierno con raquetas.
+6. **Gorges de Carançà (Francia)** — 7 km, 3h, pasarelas colgantes y puentes sobre el río Carançà. A 45 min en coche desde Puigcerdà.
+7. **Tosa d'Alp (2.536 m) desde La Molina** — vistas de 360° sobre la Cerdanya, el Berguedà y el Ripollès.
+8. **Camino de la Nutria (Martinet)** — 2,8 km, 1h, desnivel nulo. Con cochecito. El más fácil de la comarca.
+9. **Camí dels Bons Homes (GR-107), etapa Bagà–Bellver** — 23 km, ruta histórica cátara. Paisaje excepcional en otoño.
+10. **Tren Groc** — no es senderismo, pero es la excursión más icónica: vía métrica eléctrica de 63 km, 40 puentes, estación de Bolquère-Eyne a 1.592 m (la más alta de Francia en servicio regular).
+
+---
+
 ## Excursiones fáciles: para familias, principiantes y cochecito
 
 ### Lago de Malniu desde Meranges
-La excursión estrella de la Cerdanya. Lago glaciar a 2.200 metros, rodeado de pinos negros, con el macizo del Carlit al fondo. La ruta sube desde Meranges — el pueblo más pequeño y tranquilo de la comarca — y dura aproximadamente una hora de subida. En verano es una de las rutas más frecuentadas; en invierno se hace con raquetas de nieve y es igual de impresionante.
+La excursión estrella de la Cerdanya. Lago glaciar a 1.870 metros, rodeado de pinos negros y prados alpinos, con el macizo del Carlit al fondo. La ruta sube desde Meranges — el pueblo más pequeño y tranquilo de la comarca — y dura aproximadamente una hora de subida. En verano es una de las rutas más frecuentadas; en invierno se hace con raquetas de nieve y es igual de impresionante.
 
 - **Distancia:** 6 km ida y vuelta
 - **Duración:** 2-3 horas
@@ -142,7 +157,7 @@ La Cerdanya es uno de los mejores destinos del Pirineo catalán para hacer raque
 
 **Lles y Aransa** — Más de 35 km de recorridos de esquí nórdico y raquetas. El mayor espacio de este tipo en España.
 
-→ [Qué hacer en la Cerdanya con niños: guía completa por edades](/guies/que-fer-a-la-cerdanya-amb-nens)
+→ [Qué hacer en la Cerdanya con niños: guía completa por edades](/guies/que-fer-cerdanya-amb-nens)
 → [Alojamiento cerca de las rutas de la Cerdanya: dónde dormir si vienes a caminar](/guies/allotjament-senderisme-cerdanya)
 
 ---
@@ -193,7 +208,7 @@ La mayoría de rutas permiten perros con correa. Dentro del Parque Natural del C
 → [Rutas fáciles en la Cerdanya con niños](/guies/rutes-facils-cerdanya-nens)
 → [Qué hacer en la Cerdanya en verano](/guies/que-hacer-cerdanya-verano)
 → [Dónde dormir en la Cerdanya si vienes a hacer senderismo](/guies/allotjament-senderisme-cerdanya)
-→ [Qué ver en la Cerdanya](/guies/que-ver-en-la-cerdanya)
+→ [Qué ver en la Cerdanya](/guies/que-hacer-en-la-cerdanya)
 → [Alojamiento en la Cerdanya con perro](/guies/alojamiento-cerdanya-con-perro)
 
 ---
