@@ -1,7 +1,3 @@
-La Cerdanya té una de les ofertes gastronòmiques més sòlides del Pirineu català. No és casualitat: una comarca amb dècades de turisme d'hivern i estiu ha generat una cultura de restaurant exigent, amb clientela que repeteix i compara. El resultat és una selecció de llocs que van des de la cuina de muntanya més honesta fins a restaurants reconeguts per la Guia Michelin i la Guia Repsol.
-
-Aquesta guia recull els millors restaurants de la Cerdanya per zona i per tipus de pla, amb tota la informació pràctica per triar bé i no acabar improvisant.
-
 ## Els millors restaurants de la Cerdanya: resum ràpid
 
 1. **Serendipia by La Calèche** (Llívia) — ★ 4,8 · 651 ressenyes · Guia Repsol · cuina d'autor amb producte local, canelons de confit de pato de referència. El millor de la comarca per nota i volum.
@@ -9,10 +5,14 @@ Aquesta guia recull els millors restaurants de la Cerdanya per zona i per tipus 
 3. **Trumfes** (Llívia) — únic restaurant de la Cerdanya a la Guia Michelin 2025 · menú degustació des de 55€ · cuina catalana contemporània amb producte de temporada.
 4. **Grau de l'Os** (Bellver de Cerdanya) — ★ 4,8 · 378 ressenyes · Guia Repsol · menú a 28€, una de les millors relacions qualitat-preu de la comarca.
 5. **La Borda del Ceretà** (Puigcerdà) — ★ 4,7 · 1.780 ressenyes · el més popular de la comarca · arròs a la llauna, canelons de pato, ambient de borda.
-6. **La Noga Taverna** (Bellver de Cerdanya) — ★ 4,9 · cuina de temporada amb producte del propi hort.
+6. **La Noga Taverna** (Bellver de Cerdanya) — ★ 4,9 · cuina de temporada amb producte del propi hort · trinxat de referència · menú des de 15,90€.
 7. **El Fogony de Fontanals** (Fontanals de Cerdanya, 8 min de Puigcerdà) — premi al millor restaurant de muntanya de Catalunya · menú degustació de temporada.
 
 ---
+
+La Cerdanya té una de les ofertes gastronòmiques més sòlides del Pirineu català. No és casualitat: una comarca amb dècades de turisme d'hivern i estiu ha generat una cultura de restaurant exigent, amb clientela que repeteix i compara. El resultat és una selecció de llocs que van des de la cuina de muntanya més honesta fins a restaurants reconeguts per la Guia Michelin i la Guia Repsol.
+
+Aquesta guia recull els millors restaurants de la Cerdanya per zona i per tipus de pla, amb tota la informació pràctica per triar bé i no acabar improvisant.
 
 ---
 
@@ -70,15 +70,17 @@ Llívia concentra, de manera sorprenent per a la seva mida, alguns dels restaura
 
 ### Bellver de Cerdanya i la Baixa Cerdanya
 
-Bellver és, sorprenentment, la zona amb més concentració de restaurants de qualitat fora de Puigcerdà.
+Bellver és, sorprenentment, la zona amb més concentració de restaurants de qualitat fora de Puigcerdà. L'avantatge addicional: els preus solen ser un 20-30% inferiors als de la capital, i les cues inexistents fora de temporada alta.
 
 **La Noga Taverna** és la joia del nucli antic de Bellver: cuina catalana de temporada, producte del propi hort, trinxat de referència i ànec amb naps. 4,9 estreles a Google. Menú des de 15,90€. → Pujada de Joan Alay, 2. Tel. 689 38 82 33. [Fitxa completa](/negocis/la-noga-taverna)
 
-**Grau de l'Os** — la referència gastronòmica de Bellver. Guia Repsol, cuina de mercat contemporània, estètica escandinava. 4,8 estreles amb 378 ressenyes. → C/ Jaume II de Mallorca, 5. Tel. 973 51 07 84.
+**Grau de l'Os** — la referència gastronòmica de Bellver. Guia Repsol, cuina de mercat contemporània, estètica escandinava. Menú a 28€, un dels millors en relació qualitat-preu de la comarca. 4,8 estreles amb 378 ressenyes. → C/ Jaume II de Mallorca, 5. Tel. 973 51 07 84.
 
-**Camins de Talló** (Talló) — cuina cerdana amb tocs d'autor a peu de Santa Maria de Talló. Ideal per combinar patrimoni romànic i gastronomia. 4,8 estreles amb 226 ressenyes.
+**Cal Benito** — la fonda de tota la vida de Bellver. Cuina casolana ceretana sense pretensions, trinxat i plats de temporada, menú del dia a 15,90€. La clientela habitual és de la comarca, cosa que sempre és bon senyal. Reserva recomanada el cap de setmana.
 
 **Ca la Núria** — Guia Repsol, vistes al Cadí, cuina de muntanya. Més de 1.000 ressenyes a Google. → Passatge Carlit, 17.
+
+**Camins de Talló** (Talló) — cuina cerdana amb tocs d'autor a peu de Santa Maria de Talló. Ideal per combinar patrimoni romànic i gastronomia. 4,8 estreles amb 226 ressenyes.
 
 → [Guia completa de restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 
@@ -106,19 +108,39 @@ Bellver és, sorprenentment, la zona amb més concentració de restaurants de qu
 
 ---
 
+### La Cerdanya francesa: Sallagosa, Bourg-Madame i Font-Romeu
+
+Molts visitants que creuen a la Cerdanya francesa se sorprenen de la qualitat dels restaurants. La frontera és administrativa, no gastronòmica: la mateixa cuina de muntanya, el mateix producte, però amb influència francesa i, en molts casos, preus lleugerament inferiors.
+
+**Sallagosa (Saillagouse)** és el nucli més gastronòmic de l'Alta Cerdanya. L'Atalaya i el Planes d'Hôtes són referències locals per a cuina catalana francesa amb producte de la comarca. A cinc minuts de Puigcerdà creuant la frontera.
+
+**Bourg-Madame** és el punt d'entrada immediat des d'Espanya. Té una oferta de bars i restaurants de poble —el *plat du jour* entre 13 i 16€— ideal per a una parada ràpida si vens des de Barcelona per la N-20.
+
+**Font-Romeu** (25 min de Puigcerdà) té una oferta més àmplia per volum: pizzeries, crêperies, braseries i un parell de restaurants de cuina regional. Menys interessant gastronòmicament que Sallagosa, però útil si visites l'estació d'esquí o el santuari de la Mare de Déu de Font-Romeu.
+
+**Consell pràctic:** si et planteges creuar a la part francesa per dinar, Sallagosa és la millor aposta. Bourg-Madame és pràctic però no gastronòmic. Font-Romeu val si ja ets a la zona.
+
+---
+
 ## Per tipus de pla
 
 ### Cuina d'autor i ocasió especial
 → **Trumfes** (Llívia, Michelin) · **539 Plats Forts** (Puigcerdà, Repsol) · **Serendipia by La Calèche** (Llívia, Repsol) · **Das 1219** (Das) · **El Fogony de Fontanals** (Fontanals)
 
+Tots requereixen reserva amb dies o setmanes d'antelació. Per a una data especial, reserva **Trumfes** o **El Fogony** el màxim d'aviat possible.
+
 ### Cuina de mercat, qualitat sostinguda
 → **Grau de l'Os** (Bellver, Repsol) · **[La Noga Taverna](/negocis/la-noga-taverna)** (Bellver) · **La Cava Taberna** (Puigcerdà) · **Can Ventura** (Llívia)
 
+La millor relació qualitat-preu constant de la comarca. El **Grau de l'Os** a 28€ de menú és la recomanació per defecte per a qui visita la comarca per primer cop.
+
 ### Autenticitat i cuina de tota la vida
-→ **Can Borrell** (Meranges) · **Fonda Domingo** (Urús) · **Ca l'Eudald** (Alp) · **Restaurant Arç** (Prullans)
+→ **Can Borrell** (Meranges) · **Fonda Domingo** (Urús) · **Ca l'Eudald** (Alp) · **Restaurant Arç** (Prullans) · **Cal Benito** (Bellver)
+
+Cap web actualitzada, sense instàgram, reserva per telèfon. Exactament el que busques si vols menjar com un local.
 
 ### Format informal o dinar econòmic
-→ **La Formatgeria de Llívia** (fondue/raclette) · **El Caliu de Ger** · **Cal Benito** (Bellver, menú 15,90€)
+→ **La Formatgeria de Llívia** (fondue/raclette) · **El Caliu de Ger** · **Cal Benito** (Bellver, menú 15,90€) · **Lo Vintage** (Llívia, entrepans i compartir)
 
 ### Famílies amb nens
 Consulta la [guia de restaurants de la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens) per a recomanacions específiques per edat i zona.
@@ -133,7 +155,9 @@ Consulta la [guia de restaurants de la Cerdanya per anar amb nens](/guies/restau
 
 **Dina aviat.** Entre les 13:00 i les 13:30h és el moment ideal: la cuina acaba d'obrir i l'espera es redueix al mínim. Arribar a les 14:30h en cap de setmana és arriscat.
 
-**El trinxat és millor a l'hivern i la primavera.** El plat icònic de la comarca és el millor quan la col ha passat el fred.
+**El trinxat és millor a l'hivern i la primavera.** El plat icònic de la comarca és el millor quan la col ha passat el fred. Consulta la [guia de trinxat](/guies/on-menjar-trinxat-cerdanya) per als restaurants que el fan millor.
+
+**Bellver per estalviar.** Per als mateixos estàndards de cuina que Puigcerdà, Bellver sol sortir un 20-30% més barat i amb menys espera.
 
 **Pressupost orientatiu:**
 - Menú del dia (entre setmana): 14–18€
@@ -154,7 +178,7 @@ El nucli antic concentra les millors opcions. Per alta cuina: **539 Plats Forts*
 
 ### On menjar a Bellver de Cerdanya?
 
-**Grau de l'Os** és la referència gastronòmica. **La Noga Taverna** per cuina de proximitat i producte propi. **Ca la Núria** per vistes al Cadí. → [Guia completa de restaurants a Bellver](/pobles/bellver-de-cerdanya/restaurants)
+**Grau de l'Os** és la referència gastronòmica. **La Noga Taverna** per cuina de proximitat i producte propi. **Ca la Núria** per vistes al Cadí. **Cal Benito** per menú econòmic de cuina casolana. → [Guia completa de restaurants a Bellver](/pobles/bellver-de-cerdanya/restaurants)
 
 ### On menjar a Llívia?
 
@@ -166,7 +190,7 @@ En cap de setmana i temporada alta, sí, sempre. Entre setmana i fora de tempora
 
 ### On menjar bé i barat a la Cerdanya?
 
-**Cal Benito** (Bellver, menú 15,90€), **La Noga** (Bellver, menú 15,90€) i **El Caliu de Ger** (informal, sense reserva) són les millors opcions per a bona experiència sense gastar de més.
+**Cal Benito** (Bellver, menú 15,90€), **La Noga** (Bellver, menú 15,90€) i **El Caliu de Ger** (informal, sense reserva) són les millors opcions per a bona experiència sense gastar de més. Consulta també la [guia de restaurants econòmics de la Cerdanya](/guies/restaurants-econòmics-cerdanya) si el pressupost és prioritat.
 
 ### Quins restaurants de la Cerdanya estan reconeguts per guies?
 
@@ -175,6 +199,10 @@ En cap de setmana i temporada alta, sí, sempre. Entre setmana i fora de tempora
 ### On menjar trinxat a la Cerdanya?
 
 El trinxat és el plat de referència de la comarca i es troba a gairebé tot restaurant local. → [Guia del millor trinxat de la Cerdanya](/guies/on-menjar-trinxat-cerdanya)
+
+### Hi ha bons restaurants a la Cerdanya francesa?
+
+Sí. Sallagosa (Saillagouse), a cinc minuts de Puigcerdà, és el nucli gastronòmic de l'Alta Cerdanya. El *plat du jour* entre 13 i 16€ és habitual. Font-Romeu té més volum d'oferta però menys qualitat per diners.
 
 ---
 
@@ -185,6 +213,7 @@ El trinxat és el plat de referència de la comarca i es troba a gairebé tot re
 - [Restaurants a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/restaurants)
 - [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
 - [El millor trinxat de la Cerdanya: on menjar-lo](/guies/on-menjar-trinxat-cerdanya)
+- [Restaurants econòmics a la Cerdanya](/guies/restaurants-econòmics-cerdanya)
 - [Què fer a la Cerdanya: guia pràctica tot l'any](/guies/que-fer-a-la-cerdanya)
 - [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
 - [La Noga Taverna](/negocis/la-noga-taverna)
