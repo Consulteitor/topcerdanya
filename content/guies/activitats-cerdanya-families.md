@@ -229,6 +229,7 @@ En temporada alta (agost i caps de setmana d'hivern), sí, i amb antelació. En 
 - [Restaurants a la Cerdanya per anar amb nens](/guies/restaurants-cerdanya-amb-nens)
 - [Cases rurals a la Cerdanya per a famílies](/guies/cases-rurals-cerdanya-families)
 - [Allotjament rural a la Cerdanya: guia general](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+- [Càmpings a la Cerdanya: guia completa](/guies/campings-cerdanya)
 - [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
 - [Què fer a la Cerdanya quan plou](/guies/que-fer-a-la-cerdanya-quan-plou)
 

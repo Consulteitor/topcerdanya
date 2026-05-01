@@ -262,6 +262,7 @@ El trinxat: col d'hivern i trumfes (patates) bullides i daurades a la paella amb
 → [Guia de pobles de la Cerdanya](/guies/pobles-de-la-cerdanya-guia-completa)
 → [On menjar a la Cerdanya](/guies/restaurants-cerdanya)
 → [On dormir: allotjament rural a la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
+→ [Càmpings a la Cerdanya: guia completa](/guies/campings-cerdanya)
 → [Activitats amb nens a la Cerdanya](/guies/que-fer-cerdanya-amb-nens)
 → [Cases rurals per a famílies](/guies/cases-rurals-cerdanya-families)
 → [La Cerdanya en 2 dies: itinerari pràctic](/guies/que-veure-cerdanya-2-dies)
