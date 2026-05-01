@@ -1,6 +1,6 @@
 import { revalidatePath } from 'next/cache';
 
-const SECRET = process.env.SHEETS_SECRET;
+const SECRET = process.env.SHEETS_SECRET || process.env.REVALIDATE_SECRET || 'tc_2026_sheets_write';
 
 export async function POST(request) {
   const { secret, paths } = await request.json().catch(() => ({}));
