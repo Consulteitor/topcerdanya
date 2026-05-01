@@ -93,7 +93,7 @@ La Cerdanya té una oferta creixent de glamping integrat en cases rurals i finqu
 Els tres estan situats a prop de rutes ciclistes i de senderisme d'alt nivell, amb accés al camí de cavalls de la Cerdanya i al circuit ciclista de l'Alta Cerdanya francesa.
 
 ### Acampada lliure i zones habilitades
-L'acampada lliure no és permesa a la majoria del territori de la Cerdanya. En zones del Parc Natural del Cadí-Moixeró existeixen àrees de bivac regulades on es pot pernoctar amb autorització prèvia. Consulta l'[oficina del Parc Natural del Cadí-Moixeró](https://parcsnaturals.gencat.cat/ca/cadi-moixero) per a la informació actualitzada sobre zones habilitades i permisos necessaris.
+L'acampada lliure no és permesa a la majoria del territori de la Cerdanya. En zones del Parc Natural del Cadí-Moixeró existeixen àrees de bivac regulades on es pot pernoctar amb condicions estrictes (una nit, grup petit, sense foc, impacte zero). Consulta la [guia completa d'acampada lliure i bivac a la Cerdanya](/guies/acampada-lliure-cerdanya) per a les zones concretes i les normes aplicables.
 
 ---
 
@@ -129,7 +129,7 @@ La majoria obren per Setmana Santa i tanquen a finals de setembre o primers d'oc
 
 ### Es pot acampar lliurement a la Cerdanya?
 
-No de manera general. L'acampada lliure no és permesa a la majoria del terme municipal de la Cerdanya. En zones concretes del Parc Natural del Cadí-Moixeró existeixen àrees de bivac regulades amb autorització prèvia. Per a informació actualitzada, consulta directament el Parc Natural.
+No de manera general. L'acampada lliure no és permesa a la majoria del terme municipal de la Cerdanya. En zones del Parc Natural del Cadí-Moixeró, el bivac d'alta muntanya (una nit, grup petit, sense foc, impacte zero) és tolerat per sobre dels 2.000 m amb condicions específiques. → [Guia completa d'acampada lliure i bivac a la Cerdanya](/guies/acampada-lliure-cerdanya)
 
 ### Hi ha càmpings amb piscina a la Cerdanya?
 
@@ -157,6 +157,7 @@ El **Càmping Stel** (Guils de Cerdanya) és la millor opció per a famílies am
 
 - [Què fer a la Cerdanya: guia pràctica tot l'any](/guies/que-fer-a-la-cerdanya)
 - [Activitats familiars a la Cerdanya](/guies/activitats-cerdanya-families)
+- [Acampada lliure i bivac a la Cerdanya](/guies/acampada-lliure-cerdanya)
 - [Allotjament rural a la Cerdanya: com triar i on dormir](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
 - [Banys termals a la Cerdanya](/guies/banys-termals-cerdanya)
 - [Pobles de la Cerdanya: guia completa](/guies/pobles-de-la-cerdanya-guia-completa)
