@@ -1,3 +1,13 @@
+1. **Ruta** — Villefranche-Vernet-les-Bains (427 m) → Latour-de-Carol (1.200 m) · 63 km · 21 estacions · 3h trajecte complet · via mètrica elèctrica
+2. **Preus 2026** — trajecte complet anada: ~22,50 € · trajectes parcials: des de 10,90 € · gos: 7 € per trajecte · abonament residents: 44 €/mes
+3. **Millor experiència** — vagons oberts (les gràcies) disponibles primavera-tardor · pas pels ponts sense vidres · reserva obligatòria juliol-agost
+4. **Ponts imprescindibles** — Pont de Gisclard: 234 m longitud · 80 m alçada · pont penjant ferroviari més antic de França en funcionament · Monument Històric 1997
+5. **Altitud màxima** — estació de Bolquère-Eyne a 1.592 m · la més alta de França en servei regular · a 15 min de Puigcerdà des de Latour-de-Carol
+6. **On comprar** — trainlio.sncf.com (millors tarifes) · taquilles de les estacions · no cal reservar fora de temporada alta
+7. **Des de la Cerdanya espanyola** — Latour-de-Carol a 10 min en cotxe de Puigcerdà per la N-20 via Bourg-Madame · aparcament gratuït a l'estació
+
+---
+
 El Tren Groc de la Cerdanya és una d'aquelles experiències que, un cop feta, no s'oblida. Seixanta-tres quilòmetres de via estreta pels Pirineus Catalans, viaductes espectaculars, paisatges que canvien d'altitud en altitud, i un tren groc —literalment groc— que fa més de cent anys que puja i baixa entre la plana del Conflent i l'altiplà de la Cerdanya. No és el transport més ràpid ni el més directe. És una experiència en si mateixa.
 
 Si estàs planificant una escapada a la Cerdanya i encara no has pujat al Tren Groc, aquesta guia és per a tu. Horaris, preus, estacions i tot el que cal saber per no improvisar.
@@ -76,9 +86,19 @@ Sortides principals des de Font-Romeu cap a Villefranche: **9:16 · 9:58 · 11:0
 
 ---
 
-## Preus i bitllets
+## Preus i bitllets 2026
 
-El Tren Groc és un tren de la xarxa TER Occitania, de manera que les tarifes segueixen l'estructura estàndard de la SNCF per a trens regionals.
+El Tren Groc és un tren de la xarxa TER Occitania. Les tarifes varien segons la distància i la disponibilitat, però aquí tens una referència actualitzada:
+
+| Trajecte | Preu orientatiu |
+|---|---|
+| Trajecte complet (Villefranche ↔ Latour-de-Carol) | ~22,50 € anada |
+| Trajectes curts / mitja línia | des de 10,90 € |
+| Latour-de-Carol → Font-Romeu | ~13–15 € |
+| Gos (qualsevol trajecte) | 7 € |
+| Abonament residents (31 dies, il·limitat) | 44 € |
+
+> Els preus exactes varien per temporada i disponibilitat. Confirma sempre a [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) abans de viatjar.
 
 **On comprar:**
 - Online a [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) — la manera més còmoda i on trobaràs les millors tarifes
@@ -87,11 +107,11 @@ El Tren Groc és un tren de la xarxa TER Occitania, de manera que les tarifes se
 
 **Abonament FrequenciO' per a residents:** Les persones que viuen a prop de la línia poden accedir a un abonament mensual de 31 dies per 44€, amb viatges il·limitats entre qualsevol estació del Tren Groc i l'autobús liO 566. Cal justificant de residència. No acumulable amb altres descomptes.
 
-**Gossos:** S'admeten gossos al Tren Groc per 7€ el trajecte, independentment de la distància. Cal que vagin amb corretja o en transportí. Una opció ideal si viatges a la Cerdanya amb el teu gos.
+**Gossos:** S'admeten gossos al Tren Groc per 7€ el trajecte, independentment de la distància. Cal que vagin amb corretja o en transportí.
 
 **Bicicletes:** S'admeten bicicletes en espais reservats, subjecte a disponibilitat. Consulta preus i condicions a trainlio.sncf.com.
 
-**Reserves:** Es pot reservar amb antelació, independentment de l'origen i la destinació. En temporada alta (juliol i agost) és molt recomanable, sobretot per als vagons oberts.
+**Reserves:** En temporada alta (juliol i agost) és molt recomanable reservar, sobretot per als vagons oberts. Fora de temporada es pot comprar a taquilla el mateix dia.
 
 ---
 
