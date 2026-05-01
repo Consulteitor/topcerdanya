@@ -1,22 +1,18 @@
-## Sant Joan a la Cerdanya 2026: fogueres, tradicions i la nit més curta de l'any
+1. **Nit de Sant Joan** — dimarts 23 de juny 2026 · 24 de juny festiu · solstici d'estiu · Flama del Canigó repartida a tots els pobles de la comarca
+2. **Puigcerdà** — foguera 22.30h Plaça de l'Estació · coca i cava gratuïts · espectacle de foc Dimonis · Revetlla Jove al Recinte Firal fins a la matinada
+3. **Riu de Cerdanya** — foguera 22.30h + coca i cava · Ball de les Rentadores 18:00h del 24 de juny · dansa tradicional única a Catalunya
+4. **Bellver de Cerdanya** — Flama del Canigó 13.00h Plaça del Portal · foguera al nucli medieval del s.XIII
+5. **Llívia** — Flama del Canigó 10.00h Plaça Major · sopar popular + ball 21.00h · enclavament català a França
+6. **Pobles petits** — Vilallobent (22.00h, Patrimoni Festiu Generalitat) · Urús (22.00h) · Age · coca i moscatell gratuïts a tots
+7. **Allotjament** — reserva amb antelació si vens el cap de setmana 20–22 de juny · cases rurals s'esgoten · cotxe recomanable per als pobles fora de Puigcerdà
+
+*Programes definitius: ajuntaments publiquen a finals de maig / principis de juny 2026.*
+
+---
 
 La nit de Sant Joan, del 23 al 24 de juny, és una de les festes més especials de l'any a la Cerdanya. No és un pont llarg ni una setmana de vacances: és una nit única, la del solstici d'estiu, en la qual la comarca s'omple de fogueres, coca, música i tradicions que arrelen fondo en la cultura popular pirinenca. A la Cerdanya, Sant Joan es viu diferent que a la costa: sense la massificació de les platges, amb pobles petits que encenen la seva foguera al mig de la plaça i conviuen tots junts fins que surt el sol.
 
 Si estàs pensant a venir a la Cerdanya per Sant Joan 2026, **reserva allotjament com aviat millor**. La nit del 23 de juny cau en dimarts, però molts visitants venen el cap de setmana anterior (20–22 de juny) i s'hi queden uns dies. Les cases rurals s'esgoten.
-
----
-
-## Sant Joan 2026 a la Cerdanya: resum ràpid
-
-1. **Puigcerdà** — foguera 22.30h Plaça de l'Estació · coca i cava gratuïts · espectacle de foc Dimonis · Revetlla Jove al Recinte Firal fins a la matinada
-2. **Riu de Cerdanya** — foguera 22.30h + coca i cava · Ball de les Rentadores 18:00h del 24 de juny · únic a Catalunya
-3. **Bellver de Cerdanya** — Flama del Canigó 13.00h Plaça del Portal · foguera al nucli medieval
-4. **Llívia** — Flama del Canigó 10.00h Plaça Major · sopar popular + ball 21.00h
-5. **Vilallobent** — foguera 22.00h local social · coca i moscatell gratis · ambient de poble petit · Patrimoni Festiu de la Generalitat
-6. **Age** — foguera + coca i moscatell · celebració de comunitat
-7. **Urús** — foguera 22.00h · fins les 23.30h aproximadament
-
-*23 de juny 2026 (dimarts) és la Nit de Sant Joan. 24 de juny és festiu. Programes definitius: ajuntaments publiquen a finals de maig / principis de juny.*
 
 ---
 
