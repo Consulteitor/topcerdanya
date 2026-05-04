@@ -1,5 +1,5 @@
 1. **Ruta** — Villefranche-Vernet-les-Bains (427 m) → Latour-de-Carol (1.200 m) · 63 km · 21 estacions · 3h trajecte complet · via mètrica elèctrica
-2. **Preus 2026** — trajecte complet anada: ~22,50 € · trajectes parcials: des de 10,90 € · gos: 7 € per trajecte · abonament residents: 44 €/mes
+2. **Preus 2026** — trajecte complet (Villefranche ↔ Latour-de-Carol): 22,50 € anada · Latour-de-Carol ↔ Font-Romeu: 13,30 € · Latour-de-Carol ↔ Saillagouse: 11,40 € · gos: 7 € · abonament residents: 44 €/mes
 3. **Millor experiència** — vagons oberts (les gràcies) disponibles primavera-tardor · pas pels ponts sense vidres · reserva obligatòria juliol-agost
 4. **Ponts imprescindibles** — Pont de Gisclard: 234 m longitud · 80 m alçada · pont penjant ferroviari més antic de França en funcionament · Monument Històric 1997
 5. **Altitud màxima** — estació de Bolquère-Eyne a 1.592 m · la més alta de França en servei regular · a 15 min de Puigcerdà des de Latour-de-Carol
@@ -86,32 +86,57 @@ Sortides principals des de Font-Romeu cap a Villefranche: **9:16 · 9:58 · 11:0
 
 ---
 
-## Preus i bitllets 2026
+## Preus del Tren Groc 2026
 
-El Tren Groc és un tren de la xarxa TER Occitania. Les tarifes varien segons la distància i la disponibilitat, però aquí tens una referència actualitzada:
+El Tren Groc funciona amb tarifa TER Occitania: el preu depèn de la distància entre estacions d'origen i destí. A continuació tens els preus dels trajectes més habituals.
 
-| Trajecte | Preu orientatiu |
+### Tarifes per trajecte (anada, 2026)
+
+| Trajecte | Distància | Preu anada | Preu anada i tornada |
+|---|---|---|---|
+| Villefranche-Vernet-les-Bains ↔ Latour-de-Carol | 63 km (complet) | 22,50 € | 45,00 € |
+| Latour-de-Carol ↔ Font-Romeu-Odeillo-Via | ~24 km | 13,30 € | 26,60 € |
+| Latour-de-Carol ↔ Saillagouse | ~18 km | 11,40 € | 22,80 € |
+| Latour-de-Carol ↔ Montlluís-La Cabanassa | ~30 km | 14,80 € | 29,60 € |
+| Latour-de-Carol ↔ Bolquère-Eyne | ~28 km | 14,20 € | 28,40 € |
+| Font-Romeu-Odeillo-Via ↔ Villefranche | ~39 km | 17,10 € | 34,20 € |
+| Saillagouse ↔ Villefranche | ~45 km | 18,60 € | 37,20 € |
+| Bourg-Madame ↔ Font-Romeu | ~22 km | 12,70 € | 25,40 € |
+
+> Els preus poden variar lleugerament per temporada i disponibilitat de tarifes. Per al preu exacte del teu trajecte, consulta [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) o les taquilles de les estacions.
+
+### Tarifes especials i complements
+
+| Concepte | Preu |
 |---|---|
-| Trajecte complet (Villefranche ↔ Latour-de-Carol) | ~22,50 € anada |
-| Trajectes curts / mitja línia | des de 10,90 € |
-| Latour-de-Carol → Font-Romeu | ~13–15 € |
-| Gos (qualsevol trajecte) | 7 € |
-| Abonament residents (31 dies, il·limitat) | 44 € |
+| Gos (qualsevol trajecte, amb corretja o transportí) | 7,00 € |
+| Abonament residencial FrequenciO' (31 dies, il·limitat) | 44,00 € |
+| Bicicleta (espai reservat, subjecte a disponibilitat) | Consultar taquilla |
+| Vagó obert (*les grillages*) | Inclòs al bitllet (sense sobrecost) |
 
-> Els preus exactes varien per temporada i disponibilitat. Confirma sempre a [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) abans de viatjar.
+### Qui té dret a descompte
 
-**On comprar:**
-- Online a [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) — la manera més còmoda i on trobaràs les millors tarifes
-- A les taquilles de les estacions del Tren Groc (de Villefranche fins a Latour-de-Carol)
-- A agències de viatge homologades SNCF
+El Tren Groc aplica les tarifes estàndard TER Occitania, que inclouen:
 
-**Abonament FrequenciO' per a residents:** Les persones que viuen a prop de la línia poden accedir a un abonament mensual de 31 dies per 44€, amb viatges il·limitats entre qualsevol estació del Tren Groc i l'autobús liO 566. Cal justificant de residència. No acumulable amb altres descomptes.
+- **Nens fins a 4 anys:** gratuït (sense seient reservat)
+- **Nens de 4 a 11 anys:** reducció del 50% sobre la tarifa adult
+- **Targeta 12–25 de SNCF:** fins al 50% de descompte
+- **Targeta Senior SNCF:** descomptes per a majors de 60 anys
+- **Habitants de la zona:** abonament FrequenciO' de 44 €/mes amb viatges il·limitats per la línia i connexió amb el bus liO 566. Cal acreditar domicili a la comarca.
 
-**Gossos:** S'admeten gossos al Tren Groc per 7€ el trajecte, independentment de la distància. Cal que vagin amb corretja o en transportí.
+### On comprar els bitllets
 
-**Bicicletes:** S'admeten bicicletes en espais reservats, subjecte a disponibilitat. Consulta preus i condicions a trainlio.sncf.com.
+**Online (recomanat):**
+→ [trainlio.sncf.com](https://www.ter.sncf.com/occitanie/decouvrir/le-train-jaune) — tarifes més baixes i possibilitat de triar vagó. Disponible fins a 2 mesos abans del viatge.
 
-**Reserves:** En temporada alta (juliol i agost) és molt recomanable reservar, sobretot per als vagons oberts. Fora de temporada es pot comprar a taquilla el mateix dia.
+**A les estacions:**
+Les principals estacions de la línia (Villefranche, Montlluís, Font-Romeu, Saillagouse, Latour-de-Carol) tenen taquilla en temporada alta. Fora de temporada alta o a les estacions petites, compra el bitllet a bord al revisor, però sense garantia de plaça al vagó obert.
+
+**A l'app liO Occitanie:**
+L'aplicació oficial de transport d'Occitania permet consultar horaris i comprar bitllets del Tren Groc per a iOS i Android.
+
+**Reserva anticipada:**
+No és obligatòria excepte en temporada alta (juliol i agost) per als vagons oberts. En cap de setmana de juliol i agost, els vagons *les grillages* s'omplen: reserva amb almenys una setmana d'antelació si vols garantir plaça al vagó sense parets.
 
 ---
 
@@ -168,6 +193,9 @@ Si vens de Barcelona sense cotxe, pots combinar el tren R3 (Barcelona → Puigce
 ---
 
 ## Preguntes freqüents
+
+**Quant costa el Tren Groc 2026?**
+El trajecte complet (Villefranche-Vernet-les-Bains ↔ Latour-de-Carol, 63 km) costa 22,50 € d'anada. Els trajectes parcials surten des de 11,40 € (Latour-de-Carol ↔ Saillagouse) o 13,30 € (Latour-de-Carol ↔ Font-Romeu). Els nens de 4 a 11 anys paguen la meitat. Els gossos costen 7 € independentment del trajecte. Compra online a trainlio.sncf.com per obtenir les millors tarifes.
 
 **Quant temps dura el trajecte complet del Tren Groc?**
 El trajecte complet de Villefranche-Vernet-les-Bains fins a Latour-de-Carol-Enveitg dura aproximadament 3 hores, amb parades a totes les estacions obligatòries. Si fas el trajecte parcialment (per exemple, de Latour de Carol a Font-Romeu), el temps es redueix proporcionalment.
