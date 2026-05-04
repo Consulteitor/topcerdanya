@@ -1,180 +1,197 @@
-## Pueblos de la Cerdanya: datos clave
+## Pueblos de la Cerdanya: resumen rápido
 
-1. **17 municipios en la parte española** — Puigcerdà (capital) · Bellver de Cerdanya · Alp · Bolvir · Llívia · Meranges · Das · Ger · entre otros · más 20+ municipios en la parte francesa
-2. **Puigcerdà** — 9.500 hab · capital · lago medieval (1260) · mercado dominical · conexión tren R3 desde Barcelona · a 170 km por C-16
-3. **Llívia** — 1.500 hab · enclave español dentro de Francia · farmacia del s.XVI (más antigua de Europa) · a 6 km de Puigcerdà por carretera neutral
-4. **Bellver de Cerdanya** — núcleo medieval s.XIII · la Baixa Cerdanya · 25–40% más económico que Puigcerdà · puerta de acceso al Parque Natural Cadí-Moixeró
-5. **Bolvir** — Torre del Remei (5★) · Real Club de Golf (1929) · a 4 km de Puigcerdà · urbanizaciones tranquilas con vistas al Puigmal
-6. **Meranges** — el pueblo más alto de la comarca (1.520 m) · casas de piedra negra · acceso directo al lago de Malniu · Can Borrell, alojamiento de referencia
-7. **Para una visita de fin de semana** — 2–3 pueblos bien visitados mejor que 5 de pasada · combinación recomendada: Puigcerdà + Llívia (medio día) · o Bellver + Talló + Martinet (Baixa Cerdanya)
-
----
-
-La Cerdanya es una comarca pirenaica dividida entre Cataluña y Francia por el Tratado de los Pirineos de 1659. Sus pueblos son la mejor forma de entenderla: piedra negra, plazas porticadas medievales, iglesias románicas del siglo XI y un silencio de montaña difícil de encontrar en destinos tan accesibles desde Barcelona — dos horas por la C-16 cruzando el Túnel del Cadí.
-
-Lo que sorprende a la mayoría de visitantes es que la comarca guarda mucha más personalidad de la que se ve desde la carretera principal. Los núcleos que valen la pena están casi siempre a dos minutos en coche, pero con una escala y una autenticidad que resiste al turismo de paso.
-
-→ [Cómo llegar a la Cerdanya desde Barcelona](/guies/como-llegar-cerdanya)
-→ [Qué hacer en la Cerdanya en verano: todos los planes](/guies/que-hacer-cerdanya-verano)
+1. **17 municipios en la parte española** — Puigcerdà (capital, 9.500 hab) · Bellver de Cerdanya (casco medieval, s.XIV) · Llívia (enclave español dentro de Francia) · Meranges (1.520 m, acceso al lago de Malniu) · Alp y Das (La Molina y Masella) · Bolvir · Ger · Prullans · entre otros
+2. **Cuál elegir según lo que buscas** — Bellver: el más bonito · Llívia: el más singular · Meranges: el más auténtico · Puigcerdà: el mejor como base con servicios · Bolvir: tranquilidad a 4 km de la capital
+3. **Bellver de Cerdanya** — plaza porticada del s.XIV · casco medieval en pie · Santa Maria de Talló (la "Catedral de la Cerdanya") · 25–40% más económico que Puigcerdà
+4. **Llívia** — enclave español rodeado de Francia por los cuatro lados desde 1659 · Farmacia Esteva (1415, más antigua de Europa) · gastronomía destacada · a 6 km de Puigcerdà por carretera neutral
+5. **Meranges** — el pueblo más alto de la comarca (1.520 m) · casas de piedra negra · punto de partida del lago de Malniu (2.200 m, 2h ida y vuelta)
+6. **La Cerdanya francesa** — Bourg-Madame a 5 min de Puigcerdà sin control fronterizo · Montlluís (fortaleza Vauban, UNESCO) a 30 min · Dorres (termas al aire libre, 6 €) a 18 min
+7. **Planificación** — fin de semana: Puigcerdà + Llívia (día 1) · Bellver + Talló + Meranges (día 2) · añade medio día en la Cerdanya francesa si tienes más tiempo
 
 ---
 
-## Cuántos pueblos hay en la Cerdanya
+La Cerdanya tiene más pueblos buenos de los que caben en un fin de semana. Todos comparten los mismos materiales — piedra negra del Pirineo, iglesias románicas del siglo XI, calles estrechas — pero cada uno tiene algo que los demás no tienen. Llívia es un país dentro de otro. Bellver es la plaza medieval que buscas. Meranges es el silencio que no sabías que necesitabas.
 
-La parte española (Baixa Cerdanya) tiene 17 municipios: Alp, Bellver de Cerdanya, Bolvir, Das, Fontanals de Cerdanya, Ger, Guils de Cerdanya, Isòvol, Lles de Cerdanya, Llívia, Meranges, Montellà i Martinet, Prullans, Prats i Sansor, Riu de Cerdanya, Urús y Alp. La parte francesa (Alta Cerdanya) incluye Font-Romeu, Mont-Louis, Saillagouse, Bourg-Madame, Err, Ur y otros núcleos. En total, más de 35 municipios entre los dos lados de la frontera.
-
-Para una visita de fin de semana, la selección óptima es dos o tres pueblos bien visitados — mucho mejor que cinco de pasada.
+Esta guía te dice cuál visitar, por qué y en qué orden, para que no acabes haciendo cinco pueblos de pasada y recordando ninguno.
 
 ---
 
-## Los pueblos más bonitos de la Cerdanya española
+## Comparativa rápida: qué tiene cada pueblo
 
-### Puigcerdà — la capital
-La capital de comarca y el punto de entrada natural. El núcleo antiguo sube hasta un cerro coronado por el campanario de Santa Maria — lo único que queda de la antigua iglesia destruida en 1936 — y desde arriba la vista sobre el valle y los Pirineos es una de las mejores de la comarca.
+| Pueblo | Altitud | Lo más destacado | Para quién |
+|---|---|---|---|
+| Puigcerdà | 1.202 m | Lago, mercado, servicios | Base perfecta, primera visita |
+| Llívia | 1.224 m | Enclave en Francia, farmacia s.XV | Historia y singularidad |
+| Bellver de Cerdanya | 1.010 m | Casco medieval, plaza porticada | El más bonito visualmente |
+| Meranges | 1.520 m | Pueblo auténtico, lago Malniu | Naturaleza, silencio, senderismo |
+| Bolvir | 1.145 m | Tranquilidad, vistas Puigmal | Escapada tranquila cerca de Puigcerdà |
+| Alp / Das | 1.158 m | La Molina, Masella, esquí | Invierno y senderismo de montaña |
+| Prullans | 1.050 m | Mirador del valle, cueva de Anes | Vistas panorámicas y rutas |
+| Ger | 1.110 m | Pueblo de piedra bien conservado | Autenticidad, sin turismo |
+| Martinet | 860 m | Río Segre, acceso al Cadí | Naturaleza, pesca, ciclismo |
 
-**Qué ver y hacer:** el mercado dominical en la Plaça de Santa Maria es uno de los más animados del Pirineo catalán, con producto local de toda la comarca. El lago artificial a los pies del núcleo urbano es el polo del verano: playas de césped, actividades náuticas y paseo perimetral gratuito. El Parc Schierbeck, justo junto al lago, combina jardines y zona de picnic.
+---
 
-**Para quién:** para todos, en cualquier estación. El mejor punto de base si quieres servicios y desplazamientos cortos. Puede ser muy concurrida en agosto y los fines de semana de invierno.
+## Los pueblos de la Cerdanya española, uno a uno
 
-### Llívia — el enclave español en Francia
-El pueblo más singular de toda la comarca. El Tratado de los Pirineos de 1659 cedió a Francia las aldeas de la Cerdanya, pero Llívia — que ya tenía rango de villa — quedó como territorio español, rodeada de Francia por los cuatro lados. Se accede por una carretera neutral de 2 km que sale de Puigcerdà.
+### Puigcerdà — la capital y el mejor punto de base
 
-**Qué ver:** la Farmàcia Esteva, fundada en 1415, es considerada la farmacia más antigua de Europa en funcionamiento ininterrumpido hasta 1926. El Museu Municipal conserva una colección excepcional de botes, morteros e instrumentos farmacéuticos de los siglos XV al XIX. El castillo medieval en lo alto del cerro da vistas panorámicas sobre todo el valle.
+Puigcerdà es la capital de comarca y el punto de entrada natural. El núcleo antiguo sube hasta un cerro coronado por el campanil de Santa Maria —lo único que queda de la iglesia destruida en 1936— y desde arriba las vistas sobre el valle y los Pirineos son de las mejores de la comarca.
 
-**Para quién:** para quien quiere una visita con contenido cultural y una curiosidad geográfica que no se explica fácilmente. Mucho menos masificada que Puigcerdà. Ideal como visita de mañana combinada con un buen almuerzo en el pueblo — la oferta gastronómica es destacada.
+**Qué ver y hacer:** el mercado dominical en la Plaça de Santa Maria es uno de los más animados del Pirineo catalán — producto local, formaje artesano, embotits de la comarca. El lago artificial a los pies del núcleo urbano es el polo social del verano: playas de césped, kayak, paddleboard y paseo perimetral de 2,5 km gratuito. El Parc Schierbeck combina jardines y zona de picnic junto al agua.
+
+**Cuándo ir:** cualquier estación. En agosto es la más concurrida — si buscas tranquilidad, alójate en Das o Bellver. El mercado dominical funciona todo el año; el lago, de junio a septiembre.
+
+**Lo que mucha gente no sabe:** el campanario de Santa Maria no es el de una iglesia románica medieval — es el único elemento que sobrevivió al bombardeo de 1936. La iglesia original fue destruida durante la Guerra Civil; el campanario, por su solidez, resistió solo.
+
+→ [Guía completa de Puigcerdà: qué ver, comer y hacer](/pobles/puigcerda)
+
+---
+
+### Llívia — el enclave español dentro de Francia
+
+El pueblo más singular de toda la comarca y uno de los más curiosos de Europa. El Tratado de los Pirineos de 1659 cedió a Francia los pueblos de la Cerdanya. Pero Llívia ya tenía rango de villa —no de pueblo— y quedó como territorio español, completamente rodeado de Francia. Se accede desde Puigcerdà por una carretera neutral de 2 km que cruza el término francés sin pertenecer a él.
+
+**Qué ver:** la **Farmàcia Esteva**, fundada en 1415, es considerada la farmacia en funcionamiento ininterrumpido más antigua de Europa hasta 1926. El Museu Municipal conserva una colección excepcional de botes, morteros e instrumentos farmacéuticos de los siglos XV al XIX. El castillo medieval en lo alto del cerro da vistas panorámicas sobre el valle. El núcleo medieval se recorre en 45 minutos sin prisas.
+
+**La gastronomía de Llívia:** el pueblo tiene, de manera sorprendente para su tamaño, algunos de los mejores restaurantes de toda la comarca. Trumfes (Michelin 2025), Serendipia by La Calèche (Guia Repsol) y Lo Vintage (5,0 en Google) están todos en Llívia.
+
+**Cuándo ir:** todo el año. Mucho menos masificada que Puigcerdà en agosto. El museo abre de martes a domingo.
+
+→ [Guía completa de Llívia: qué ver, historia y restaurantes](/pobles/llivia)
+
+---
 
 ### Bellver de Cerdanya — el más bonito
-Si tienes que elegir un solo pueblo de la Baixa Cerdanya por su estética, Bellver es la respuesta unánime. La Plaza Mayor porticada del siglo XIV, las casas de piedra, el castillo de Queixals visible al fondo y el río Segre a los pies del cerro componen una estampa que se resiste a los tópicos.
 
-**Qué ver:** la Plaza Mayor y el casco antiguo son el plan principal — callejones estrechos, pórticos medievales, restos de la muralla y una escalera de piedra que sube hasta la iglesia de Sant Jaume. La iglesia de Santa Maria de Talló, a las afueras, es la más grande de la comarca: se la conoce como "la Catedral de la Cerdanya". Para visitarla por dentro hay que pedir la llave en la oficina de turismo de enfrente.
+Si tienes que elegir un solo pueblo de la Baixa Cerdanya por su estética, Bellver es la respuesta. La plaza mayor porticada del siglo XIV, las casas de piedra, el castillo de Queixals visible al fondo y el río Segre a los pies del cerro componen una estampa que resiste los tópicos.
 
-Gustavo Adolfo Bécquer pasó el verano de 1860 en Bellver y se inspiró en el pueblo para escribir sus leyendas. El ayuntamiento le dedicó una plaza con una placa conmemorativa.
+**Qué ver:** la **Plaça Major** y el casco antiguo son el plan principal — callejones estrechos, pórticos medievales, restos de la muralla. **Santa Maria de Talló**, a 2 km al sur, es la iglesia más grande de la comarca: la "Catedral de la Cerdanya". Para visitarla por dentro, pide la llave en la oficina de turismo de enfrente. La iglesia de **Santa Eugènia de Nerellà**, con su campanario visiblemente inclinado, es conocida popularmente como "la Torre de Pisa de la Cerdanya".
 
-**Para quién:** para quien quiere un pueblo con personalidad propia, sin masificación. Buen punto de base para explorar la Baixa Cerdanya. Aparcamiento relativamente fácil fuera del casco antiguo.
+**Un detalle que pocos conocen:** Gustavo Adolfo Bécquer pasó el verano de 1860 en Bellver y se inspiró en el pueblo para escribir sus leyendas. El ayuntamiento le dedicó una plaza con placa conmemorativa.
+
+**Por qué es más económico:** Bellver está a 30 km de Puigcerdà. Los restaurantes cuestan un 25–40% menos que en la capital por el mismo nivel de cocina. Argumento definitivo para alojarse aquí y desplazarse.
+
+→ [Guía completa de Bellver de Cerdanya](/pobles/bellver-de-cerdanya)
+
+---
 
 ### Meranges — el más auténtico
-El pueblo más alto de la comarca, a 1.520 metros, al pie de la sierra del Moixeró. Casas de piedra negra bien conservadas, calles estrechas y un ambiente de silencio que cuesta encontrar en otros puntos de la comarca. Es el punto de partida de la excursión al lago de Malniu.
 
-**Qué ver y hacer:** el paseo por el núcleo, compacto y fotogénico, es el primer plan. Desde aquí sale la ruta al lago de Malniu, a 2.200 metros de altitud: una caminata de aproximadamente 2 horas ida y vuelta con desnivel moderado y paisaje excepcional en verano, otoño e invierno con raquetas de nieve.
+El pueblo más alto de la comarca, a 1.520 metros, al pie de la sierra del Moixeró. Casas de piedra negra bien conservadas, calles sin tiendas de souvenirs y un silencio difícil de encontrar en destinos accesibles en dos horas desde Barcelona.
 
-**Para quién:** para quien quiere un pueblo auténtico, poco turístico, y punto de partida para rutas de naturaleza. Combinado con Bellver hace una ruta de día muy completa.
+**Qué hacer:** el paseo por el núcleo, compacto y fotogénico, es el primer plan. Pero el motivo principal para ir a Meranges es la ruta al **lago de Malniu** (2.200 m): 2 horas de ida y vuelta con desnivel moderado, un lago glacial al final y, en otoño, uno de los mejores paisajes de colores del Pirineo catalán. En invierno, con raquetas de nieve.
 
-→ [Guía completa de Bellver de Cerdanya: que fer, restaurants i nucli medieval](/pobles/bellver-de-cerdanya)
+**Dónde comer:** Can Borrell es la referencia del pueblo — cocina ceretana de siempre, menú a precio razonable, sin pretensiones.
 
-### Bolvir — el más tranquilo cerca de Puigcerdà
-A 4 km de Puigcerdà, Bolvir ofrece una combinación poco habitual: la proximidad a la capital y la tranquilidad de pueblo pequeño. La Torre del Remei — palacete modernista de 1910 proyectado por un discípulo de Gaudí — es hoy uno de los hoteles y restaurantes de referencia de la comarca.
+**Cuándo ir:** junio-octubre para la ruta al lago. Noviembre-marzo para la versión con raquetas. Evita agosto los fines de semana — la ruta al lago se masifica.
 
-**Qué ver:** las vistas al Puigmal desde el pueblo y sus alrededores son de las mejores de la comarca. La iglesia románica de Sant Pere merece una visita corta. El camino que conecta Bolvir con Puigcerdà bordeando campos es uno de los paseos planos más agradables de la comarca.
+---
 
-**Para quién:** para quien quiere la calma de un pueblo pequeño con fácil acceso a Puigcerdà. Ideal como alojamiento base.
+### Bolvir — tranquilidad a 4 km de la capital
+
+A 4 km de Puigcerdà, Bolvir ofrece lo que la capital no puede: silencio, vistas despejadas al Puigmal y ritmo de pueblo pequeño. La **Torre del Remei**, palacete modernista de 1910 proyectado por un discípulo de Gaudí, es hoy uno de los hoteles y restaurantes de referencia de la comarca. El campo de golf de la Reial Societat de Golf de la Cerdanya (1929), uno de los más antiguos del Estado, también está aquí.
+
+**El paseo de Bolvir a Puigcerdà** por los campos es uno de los mejores paseos planos de la comarca — 4 km sin desnivel, entre prados alpinos con el Cadí al fondo.
+
+→ [Golf en la Cerdanya: los tres campos](/guies/golf-cerdanya)
+
+---
+
+### Alp y Das — la zona de las estaciones de esquí
+
+Alp y Das concentran los accesos a **La Molina** y **Masella**, el dominio Alp 2500 (141 km de pistas, el más grande de Cataluña). Fuera de temporada, ambiente tranquilo y precios notablemente más bajos. Das tiene casco antiguo con carácter propio y es el punto de partida para el Puigmal (2.913 m).
+
+→ [Guía de Alp: La Molina, Masella y Das](/pobles/alp)
+
+---
 
 ### Prullans — el mirador del valle
-Alzado en una pequeña cima con vistas espectaculares al valle del Segre y a la sierra del Cadí, Prullans es conocido como "el mirador de la Cerdanya". Está incluido en la Red de Pueblos con Encanto de Lleida. La iglesia románica de Sant Esteve, del siglo XI, y las siete fuentes del casco antiguo son sus principales atractivos.
 
-Muy cerca está la Cueva de Anes, gruta prehistórica de acceso libre y gratuito de 335 metros de longitud, fascinante para explorar con linterna.
-
-### Alp y Das — la zona de las estaciones
-Alp y Das concentran los accesos a La Molina y Masella, las dos estaciones de esquí más importantes de Cataluña. Fuera de temporada de invierno, el ambiente es mucho más tranquilo y los precios de alojamiento notablemente más bajos. Alp tiene un casco antiguo con carácter propio, con la iglesia románica de Sant Miquel y casas de piedra.
-
-### Ger, Talltendre e Isòvol — los pueblos pequeños de la Baixa Cerdanya
-Tres núcleos que se pueden combinar en una sola ruta de tarde:
-
-**Ger** (1.110 m) es uno de los pueblos mejor conservados de la comarca. Casas de piedra, callejones empedrados e iglesia románica del siglo XII. Muy poca afluencia turística.
-
-**Talltendre** (1.230 m) es pequeño y tranquilo, con buenas vistas al valle. Aquí se encuentra la Formatgeria La Closa, donde se produce queso artesano de leche cruda con visitas guiadas los sábados por la mañana.
-
-**Isòvol** tiene el castillo de la misma marca sobre un cerro — restos medievales con vistas excelentes sobre el valle — y es uno de los pueblos menos visitados de la comarca a pesar de su singularidad.
-
-### Pi, Bor y Riu de Cerdanya — los pueblos con nombres de una sola sílaba
-La Cerdanya tiene algunos de los nombres de pueblo más cortos del mundo: Pi, Ur, Alp, Ger, Bor, Das, Riu, All, Err. Pi es especialmente bonito: rural, tranquilo, rústico, perfecto para dejarse absorber por el paisaje y pasear por sus caminos rurales. Bor tiene una crepería legendaria con jardín. Riu ofrece vistas del valle desde una carretera secundaria muy frecuentada por ciclistas.
+En la lista de pueblos bonitos de Lleida, Prullans es uno de los menos conocidos fuera de la comarca y uno de los más recompensantes: vistas al Segre y al Cadí desde lo alto, iglesia románica de Sant Esteve (s.XI) y la **Cueva de Anes** justo debajo — 335 metros de gruta prehistórica de acceso libre y gratuito, uno de los planes más originales de toda la comarca.
 
 ---
 
-## Los pueblos más bonitos de la Cerdanya francesa
+### Ger, Talltendre e Isòvol — tres pueblos pequeños que valen la pena
 
-La mitad norte de la comarca pertenece a Francia desde 1659. La frontera pasa por Bourg-Madame, a pocos metros de Puigcerdà. Cruzarla es completamente transparente — sin controles, sin cambio de moneda (todos usan el euro) — pero el cambio de ambiente es inmediato: los carteles en francés, los croissants en las panaderías y los precios en los cafés son otra escala.
+Se combinan fácilmente en una tarde de ruta desde Bellver.
 
-### Mont-Louis — la ciudad fortificada más alta de Francia
-A 1.600 metros de altitud, Mont-Louis es la ciudad amurallada más alta de todo el país. Fue fundada por orden de Luis XIV tras el Tratado de los Pirineos para proteger el territorio recién adquirido. Las murallas son obra de Vauban y están declaradas Patrimonio de la Humanidad por la UNESCO.
+**Ger** (1.110 m): uno de los mejor conservados de la comarca. Casas de piedra, callejones empedrados, iglesia románica del s.XII y casi ningún turista. El tipo de pueblo que la gente pasa de largo y luego lamenta.
 
-Es una visita muy recomendable: compacta, bien conservada y con un interior de calles estrechas que contrasta con la imponencia de las murallas exteriores. Por Mont-Louis pasa el Tren Groc, que conecta con Villefranche-de-Conflent.
+**Talltendre** (1.230 m): aquí está la **Formatgeria La Closa**, quesería artesana de leche cruda con visitas guiadas los sábados por la mañana. Una de las pocas de la comarca donde se puede ver el proceso completo y comprar directamente.
 
-### Font-Romeu — el centro de la Alta Cerdanya francesa
-La capital de la Cerdanya francesa, a 1.800 metros de altitud, con una de las estaciones de esquí más importantes del Pirineo francés. En verano es un destino de naturaleza y senderismo con poca masificación. El santuario de Font-Romeu, con su ermita barroca, es el punto de referencia histórico de la zona.
-
-### Saillagouse — el pueblo más animado de la Alta Cerdanya
-El pueblo más comercial de la parte francesa, bien situado entre Mont-Louis y Bourg-Madame. Mercado los martes. Buena selección de restaurantes con cocina tradicional roussillonaise — más próxima al Mediterráneo que a la montaña, con mucho uso de anchoas, aceitunas y verduras.
-
-### Bourg-Madame — la frontera
-El pueblo francés que limita directamente con Puigcerdà. Se puede ir andando desde el centro de Puigcerdà. Mercado los viernes. Muy popular entre los residentes de la comarca española por sus precios en alimentación y gasolina.
-
-### Err y Ur — los pueblos tranquilos
-Err tiene los baños termales más famosos de la Cerdanya francesa (Bains de Dorres, al municipio de Dorres, que pertenece a este término). Ur es un pueblo pequeño y tranquilo desde el que sale una ruta fácil de 45 minutos hasta una cascada — ideal con niños. Los dos pueblos se pueden combinar en una tarde desde Puigcerdà.
-
-→ [Aguas termales en la Cerdanya: guía completa](/guies/aguas-termales-cerdanya)
-
-### Les Angles — la estación al pie del lago
-Estación de esquí francesa con un lago en el que en verano se hacen actividades náuticas. La telecabina funciona en verano para hacer senderismo y BTT. Menos conocida que Font-Romeu entre los visitantes españoles, pero con un paisaje muy bonito.
+**Isòvol**: restos de castillo medieval sobre un cerro con vistas excelentes. Uno de los puntos menos visitados a pesar de su singularidad histórica.
 
 ---
 
-## Cómo planificar una ruta de pueblos
+### Martinet y Montellà — la puerta al Cadí
 
-La Cerdanya es compacta. De Puigcerdà a Bellver de Cerdanya hay 30 km de carretera cómoda. De Puigcerdà a Meranges, unos 20 km. Puedes hacer base en un solo punto y tener toda la comarca accesible sin cambiar de alojamiento.
+Martinet, al suroeste de la comarca, es la puerta de entrada al Parque Natural del Cadí-Moixeró por el valle del Segre. El río tiene tramos aptos para el baño en verano. Varios campings de la comarca con orientación naturaleza y autocaravanas están en esta zona.
 
-**Fin de semana corto (2 días):**
-
-*Día 1 — Zona alta (Puigcerdà y Llívia):* mañana en Puigcerdà (mercado si es domingo, casco antiguo, lago). Mediodía: comida en el pueblo. Tarde: Llívia (farmacia, núcleo medieval, museo si hay tiempo).
-
-*Día 2 — Baixa Cerdanya (Bellver y alrededores):* mañana en Bellver (Plaza Mayor, casco antiguo, Santa Maria de Talló). Mediodía: comida en Bellver. Tarde: ruta corta hacia Meranges o Prullans, o paseo por Bolvir de vuelta a Puigcerdà.
-
-**Con más tiempo:** añade un día para cruzar a la Cerdanya francesa — Mont-Louis, Saillagouse y los baños termales de Dorres se combinan bien en una jornada.
+→ [Càmpings de la Cerdanya: guía completa](/guies/campings-cerdanya)
 
 ---
 
-## Cuál es el pueblo más bonito de la Cerdanya
+## La Cerdanya francesa: un apunte
 
-Depende de lo que busques. **Por estética medieval y casco antiguo**, Bellver de Cerdanya es la respuesta habitual. **Por singularidad geográfica y contenido cultural**, Llívia. **Por ambiente y servicios**, Puigcerdà. **Por autenticidad y silencio de montaña**, Meranges. **Por arquitectura histórica excepcional**, Mont-Louis en la parte francesa.
+La mitad norte de la comarca pertenece a Francia desde 1659. Cruzar desde Puigcerdà a Bourg-Madame tarda 5 minutos sin control de pasaporte. Los pueblos del lado francés — Montlluís (fortaleza Vauban, UNESCO), Saillagouse (gastronomía), Dorres (termas al aire libre a 6 €) y Llo (gorges medievales) — tienen una escala y un carácter propio que vale la pena medio día.
 
----
-
-## Errores habituales que conviene evitar
-
-**Intentar ver demasiados pueblos en un día.** Tres pueblos con prisas es peor experiencia que dos con calma. La Cerdanya funciona despacio.
-
-**No reservar restaurante.** En fin de semana, los mejores sitios de Puigcerdà y Bellver se agotan. Reserva la noche anterior como mínimo.
-
-**Llegar a Puigcerdà en coche sin saber dónde aparcar.** En verano y fines de semana de invierno el centro puede ser caótico. Aparca en las zonas azules o en los parkings de la periferia y entra andando.
-
-**No revisar el tiempo.** La meteorología de montaña cambia rápido. Lleva siempre una capa extra aunque haga sol.
+→ [Pueblos bonitos de la Cerdanya francesa: guía completa](/guies/pueblos-bonitos-cerdanya-francesa)
 
 ---
 
-## Preguntas frecuentes sobre los pueblos de la Cerdanya
+## Cómo planificar tu ruta de pueblos
 
-**¿Cuántos pueblos hay en la Cerdanya?**
-La parte española tiene 17 municipios y la parte francesa más de 20 núcleos habitados. En total, más de 35 municipios entre los dos lados de la frontera.
+**Fin de semana (2 días):**
+- *Día 1:* Puigcerdà (mañana — mercado si es domingo, lago) → Llívia (tarde — farmacia, casco medieval, cena)
+- *Día 2:* Bellver de Cerdanya (mañana — Plaza Mayor, Santa Maria de Talló) → Meranges (tarde — pueblo + inicio ruta Malniu)
 
-**¿Cuál es el pueblo más bonito de la Cerdanya?**
-Bellver de Cerdanya por estética medieval, Llívia por singularidad histórica y Meranges por autenticidad de montaña. Puigcerdà es la mejor base por sus servicios. En la parte francesa, Mont-Louis es excepcional.
+**Con un día extra:** la Cerdanya francesa — Montlluís + Saillagouse (almuerzo) + Dorres (termas). Vuelta a Puigcerdà en 15 minutos.
 
-**¿Qué pueblos franceses hay cerca de Puigcerdà?**
-Bourg-Madame está literalmente al lado — se puede ir andando. Mont-Louis, Saillagouse y Font-Romeu están a 20-30 minutos en coche. Los baños termales de Dorres y la cascada de Ur se pueden visitar en media jornada.
+**Con una semana:** añade Prullans, Ger, Talltendre, Das y una ruta de alta montaña hacia el Puigmal o el lago de Campcardós.
 
-**¿Se pueden visitar los pueblos de la Cerdanya sin coche?**
-Puigcerdà es accesible en tren desde Barcelona (Rodalies R3, consulta Renfe por los transbordos vigentes hasta enero de 2027). Desde Puigcerdà puedes ir andando o en bicicleta a Bolvir y los alrededores. Para el resto de pueblos, el coche es prácticamente imprescindible.
-
-**¿Cuál es la mejor época para visitar los pueblos?**
-Primavera y otoño para evitar aglomeraciones y tener precios más bajos. Verano para el ambiente del lago y las actividades al aire libre. Invierno para la nieve y el esquí, pero con más gente y precios más altos.
+**El consejo más importante:** dos o tres pueblos bien visitados dan mejor experiencia que cinco de pasada. La Cerdanya recompensa el ritmo lento.
 
 ---
 
-→ [Guía completa de excursiones en la Cerdanya](/guies/excursiones-cerdanya)
-→ [Qué ver en la Cerdanya](/guies/que-ver-en-la-cerdanya)
-→ [Restaurantes en la Cerdanya: guía por tipo y precio](/guies/restaurantes-cerdanya)
-→ [Alojamiento en la Cerdanya: dónde dormir según tu plan](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
-→ [Aguas termales en la Cerdanya](/guies/aguas-termales-cerdanya)
+## Preguntas frecuentes
+
+### ¿Cuál es el pueblo más bonito de la Cerdanya?
+
+Para estética medieval: **Bellver de Cerdanya**. Para singularidad histórica y geográfica: **Llívia**. Para autenticidad de montaña: **Meranges**. Para servicios como base: **Puigcerdà**. En la parte francesa: **Montlluís** (fortaleza Vauban UNESCO).
+
+### ¿Qué ver en la Cerdanya en un día?
+
+Con un solo día: Puigcerdà por la mañana (lago y mercado si es domingo) → Llívia después de comer (farmacia medieval y casco histórico) → Bellver de Cerdanya a última hora (Plaza Mayor). Tres pueblos, tres registros completamente distintos, sin más de 40 minutos de coche en total.
+
+### ¿Cuántos pueblos tiene la Cerdanya?
+
+La parte española tiene 17 municipios. La parte francesa, más de 20 núcleos habitados. En total, más de 35 municipios entre los dos lados de la frontera establecida por el Tratado de los Pirineos de 1659.
+
+### ¿Cuáles son los pueblos más tranquilos de la Cerdanya?
+
+Meranges, Ger, Talltendre e Isòvol son los menos turísticos. Bolvir es tranquilo con fácil acceso a Puigcerdà. En temporada baja (noviembre, enero-febrero fuera de fines de semana de esquí), incluso Bellver tiene una quietud casi total.
+
+### ¿Se puede visitar la Cerdanya sin coche?
+
+Puigcerdà es accesible en tren desde Barcelona (Rodalies R3, con transbordos hasta enero de 2027 — consulta Renfe antes de viajar). Desde Puigcerdà puedes ir andando a Bolvir (4 km) o al lago. Para Llívia, Bellver, Meranges y la mayoría de pueblos, el coche es imprescindible.
+
+### ¿Qué pueblos de la Cerdanya francesa vale la pena visitar?
+
+Saillagouse (gastronomía), Dorres (termas al aire libre a 1.680 m), Montlluís (fortaleza Vauban, UNESCO) y Llo (gorges medievales). Todos a menos de 30 minutos de Puigcerdà, sin control fronterizo. → [Guía completa de pueblos de la Cerdanya francesa](/guies/pueblos-bonitos-cerdanya-francesa)
+
+### ¿En qué época del año es mejor visitar los pueblos de la Cerdanya?
+
+Primavera (abril-junio) y otoño (septiembre-octubre) para menos aglomeraciones y precios más bajos. Verano para el ambiente del lago en Puigcerdà y las rutas de alta montaña. Invierno para la nieve y el esquí, con más concurrencia los fines de semana.
 
 ---
 
-*Guía editorial de Top Cerdanya*
+## Guías relacionadas
+
+- [Qué hacer en la Cerdanya: guía completa todo el año](/guies/que-fer-a-la-cerdanya)
+- [Los mejores restaurantes de la Cerdanya](/guies/restaurants-cerdanya)
+- [Pueblos bonitos de la Cerdanya francesa](/guies/pueblos-bonitos-cerdanya-francesa)
+- [Baños termales en la Cerdanya](/guies/banys-termals-cerdanya)
+- [Càmpings de la Cerdanya: guía completa](/guies/campings-cerdanya)
+- [Cómo llegar a la Cerdanya](/guies/com-arribar-cerdanya)
+- [Alojamiento rural en la Cerdanya](/guies/allotjament-rural-cerdanya-com-triar-i-on-dormir)
