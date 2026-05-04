@@ -1,18 +1,37 @@
-## Hípicas en la Cerdanya: datos clave
+## Hípicas en la Cerdanya: comparativa rápida
 
-1. **Más de 8 centros ecuestres** — concentrados en menos de 30 km de valle · densidad inusual en el Pirineo catalán · todos ofrecen salidas para principiantes
-2. **La Cerdanya a 4 Potes (Prullans)** — junto al río Segre · rutas por el Parque Natural del Cadí-Moixeró · ganadería propia · Tel. 973 51 06 69
-3. **Ruta típica para principiantes** — 1h de iniciación + ruta guiada · sin experiencia previa necesaria · a partir de 6–7 años según el centro
-4. **Travesías de varios días** — ofrecidas por los centros principales · cruzando el Parque Natural · pernoctación en refugios o masías · reserva con semanas de antelación
-5. **Parque Natural Cadí-Moixeró** — escenario principal de las rutas ecuestres · 41.342 ha · desde el río Segre hasta los 2.648 m del Puig de la Canal Baridana
-6. **Mejor temporada** — primavera (abril-junio) y otoño (septiembre-octubre) · evitar agosto por el calor y la masificación de senderos · invierno posible pero fría
-7. **Precios orientativos** — paseo 1h: 25–35€ · media jornada: 50–70€ · día completo: 80–120€ · travesía varios días: consultar precio por programa
+| Centro | Ubicación | Principiantes | Niños | Travesías | Precio 1h |
+|---|---|---|---|---|---|
+| La Cerdanya a 4 Potes | Prullans | ✓ | ✓ (6+ años) | ✓ | 25–30 € |
+| Hípica Els Torrents | Bellver de Cerdanya | ✓ | ✓ (colonias) | ✓ (2 días) | 25–35 € |
+| Hípica Prats | Prats i Sansor | ✓ | ✓ | ✓ (varios días) | 25–35 € |
+| Hípica de Llívia | Llívia | ✓ | ✓ | — | 25–30 € |
+| Cerdanya Equestre | Sansor | Solo privados | Adultos | ✓ | 60–80 € |
+| Hípica Sant Marc | Puigcerdà | ✓ | ✓ (poni) | — | 20–30 € |
+| Cerdanya Equestrian Center | Puigcerdà | Competición | Competición | — | — |
+| Cavalls de Cerdanya | Puigcerdà | Colonias verano | ✓ (10-16 años) | ✓ | 700 €/semana |
+
+**Elección rápida:**
+- **Primera vez / sin experiencia** → La Cerdanya a 4 Potes o Hípica Els Torrents
+- **Con niños pequeños** → Hípica Sant Marc (paseos en poni desde 3 años)
+- **Experiencia premium / pareja** → Cerdanya Equestre (grupos privados)
+- **Travesía de varios días** → Hípica Prats o Hípica Els Torrents
 
 ---
 
-Montar a caballo en la Cerdanya es una de las actividades con más relación calidad-paisaje del Pirineo. El valle abierto, los prados alpinos, los senderos del Parque Natural del Cadí-Moixeró y el río Segre ofrecen un escenario que desde el lomo de un caballo se vive de forma completamente distinta que a pie. Y lo mejor: no hace falta tener experiencia previa. La mayoría de hípicas de la comarca tienen salidas adaptadas a todos los niveles, desde principiantes absolutos hasta jinetes experimentados que buscan rutas de varios días.
+1. **8 centros ecuestres** — en menos de 30 km de valle · todos con salidas para principiantes · desde paseos de 1h hasta travesías de varios días por el Parque Natural del Cadí-Moixeró
+2. **Precios 2026** — paseo 1h: 20–35 € · media jornada: 40–60 € · día completo: 70–120 € · travesía varios días: desde 200 € (sin alojamiento)
+3. **Sin experiencia previa** — La Cerdanya a 4 Potes, Hípica Els Torrents e Hípica de Llívia tienen clase de iniciación incluida en la ruta · sin requisito de nivel mínimo
+4. **Niños** — paseos en poni desde 3 años (Hípica Sant Marc) · rutas a caballo a partir de 8 años · colonias ecuestres de verano en Cavalls de Cerdanya (10-16 años, 700 €/semana)
+5. **Parque Natural Cadí-Moixeró** — escenario principal de las rutas · 41.342 ha · acceso a pie de caballo desde Prullans, Bellver y Prats i Sansor
+6. **Mejor temporada** — mayo–junio y septiembre–octubre · evitar agosto por calor y masificación · rutas disponibles de marzo a diciembre en la mayoría de centros
+7. **Reserva** — imprescindible con 2-3 días de antelación en temporada alta · los fines de semana de julio y agosto se agotan rápido · contacto directo con cada hípica
 
-La Cerdanya concentra más de ocho centros ecuestres a menos de 30 km entre sí — una densidad inusual incluso en el contexto del Pirineo catalán.
+---
+
+Montar a caballo en la Cerdanya es una de las actividades con mejor relación calidad-paisaje del Pirineo. El valle abierto a 1.100 metros, los prados alpinos, los senderos del Cadí-Moixeró y el río Segre ofrecen un escenario que desde el lomo de un caballo se vive de forma completamente distinta que a pie. Y lo mejor: no hace falta experiencia previa. Todos los centros de la comarca tienen salidas para principiantes absolutos.
+
+La Cerdanya concentra más de ocho centros ecuestres a menos de 30 km entre sí — una densidad inusual en el Pirineo catalán. Esta guía los compara todos para que elijas el que encaja con tu situación.
 
 ---
 
