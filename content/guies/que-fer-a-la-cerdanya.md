@@ -166,6 +166,7 @@ Des de Llívia —sis quilòmetres de Puigcerdà— la Cerdanya francesa s'obre 
 **El Capcir** (35-40 minuts) és l'altiplà d'alta muntanya al nord de la Cerdanya francesa, amb llacs naturals, senders poc freqüentats i un paisatge de pi negre que contrasta amb la plana oberta de la Cerdanya.
 
 → [Rutes des de Llívia cap a la Cerdanya francesa](/pobles/llivia/rutes)
+→ [Pobles bonics de la Cerdanya francesa: guia en castellà](/guies/pueblos-bonitos-cerdanya-francesa)
 
 ---
 

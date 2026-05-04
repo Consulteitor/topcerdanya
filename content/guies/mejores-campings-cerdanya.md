@@ -183,3 +183,4 @@ Hay tren directo desde Barcelona Sants hasta Puigcerdà (línea R3 de Rodalies, 
 - [Cómo llegar a la Cerdanya](/guies/com-arribar-cerdanya)
 - [Baños termales en la Cerdanya](/guies/banys-termals-cerdanya)
 - [Los mejores restaurantes de la Cerdanya](/guies/restaurants-cerdanya)
+- [Pueblos bonitos de la Cerdanya francesa](/guies/pueblos-bonitos-cerdanya-francesa)
