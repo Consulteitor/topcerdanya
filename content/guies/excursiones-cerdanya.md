@@ -1,3 +1,15 @@
+## Excursiones en la Cerdanya: resumen rápido
+
+1. **La excursión más popular** — Lago de Malniu desde Meranges · 6 km · 300 m desnivel · lago glaciar a 1.870 m · apta para niños desde 5-6 años · aparcamiento en Meranges
+2. **Apta para cochecito** — Camino de la Nutria en Martinet · 2,8 km · desnivel nulo · 1 hora · parque infantil y mesas de picnic al inicio · junto al río Segre
+3. **Cima más accesible sin material técnico** — Puigpedrós (2.915 m) desde refugio de Malniu · la cima más popular de la comarca · buena condición física imprescindible
+4. **La excursión icónica** — Tren Groc · vía métrica eléctrica de 63 km · 40 puentes · estación Bolquère-Eyne a 1.593 m (la más alta de Francia) · billetes desde 20€ · salida desde La Tour de Carol (junto a Puigcerdà)
+5. **Con raquetas de nieve** — Lles y Aransa: +35 km de recorridos señalizados · el mayor espacio de esquí nórdico de España · alquiler de raquetas in situ
+6. **La mejor época para ir** — septiembre-octubre · menos afluencia que agosto · colores de otoño espectaculares · temperaturas 12–18°C en el valle · rutas de alta montaña aún abiertas
+7. **Sin coche desde Puigcerdà** — paseo del lago (2 km, plano) · senda de la sèquia a Llívia (7 km, sin desnivel) · circuito de campos de Bolvir · sin desplazamiento en coche
+
+---
+
 La Cerdanya tiene más de 180 kilómetros de senderos señalizados y es uno de los valles con mayor densidad de rutas accesibles de todo el Pirineo. La clave está en la geografía: el fondo del valle, a 1.000 metros de altitud, es plano y abierto, lo que permite salir a caminar desde el propio Puigcerdà sin necesidad de escalar desde cero. Las montañas que rodean el valle —la Sierra del Cadí, el Moixeró, el macizo del Carlit— ofrecen todo el desnivel y los paisajes de alta montaña que quieras, a pocos kilómetros del centro.
 
 Esta guía organiza las mejores excursiones de la Cerdanya por nivel y tipo de salida, para que encuentres exactamente lo que buscas: ya sea un paseo en familia con niños pequeños, una ascensión a más de 2.900 metros o una excursión invernal con raquetas de nieve.
@@ -57,6 +69,55 @@ Ruta de 3,6 km que conduce a una cascada espectacular en la Vall de la Llosa. El
 
 - **Distancia:** 3,6 km ida y vuelta
 - **Duración:** 1h 10 min
+
+### Paseo del lago de Puigcerdà
+El paseo más sencillo de toda la comarca y el que más gente hace sin darse cuenta de que está haciendo senderismo. El lago artificial de Puigcerdà —creado en el siglo XIII— tiene 2 km de perímetro con sendero señalizado. Plano, accesible, con vistas al lago y a los Pirineos. Hay zona de juegos infantiles, restaurante y acceso al agua en verano.
+
+- **Distancia:** 2 km circular
+- **Duración:** 30-40 min
+- **Desnivel:** nulo
+- **Con cochecito:** sí
+
+### Senda de la Sèquia — de Puigcerdà a Llívia
+La acequia medieval que abastece de agua a Llívia desde el río Segre es también uno de los paseos más singulares de la comarca. El camino discurre entre campos abiertos con vistas a todo el valle y a las montañas que lo rodean —un paisaje diferente al de los bosques de alta montaña. Se puede ir y volver o bien combinar con visita al pueblo de Llívia.
+
+- **Distancia:** 7 km ida y vuelta (o 3,5 km hasta Llívia)
+- **Duración:** 1h 45 min ida y vuelta
+- **Desnivel:** prácticamente nulo
+- **Con cochecito:** sí (camino de tierra compactada)
+- **Sin coche:** sí, sale desde Puigcerdà
+
+### Bolvir y los campos de la Cerdanya — circular
+Bolvir está a 2 km de Puigcerdà y tiene la Torre de Guaita más fotografiada del valle. La ruta circular desde Bolvir recorre el llano cerdano por caminos de tierra entre campos de centeno y prados alpinos, con vistas continuas al Cadí, al Moixeró y a los picos del Carlit. Sin desnivel apreciable, se puede hacer en zapatillas. Una de las mejores opciones para entender la geografía única del valle.
+
+- **Distancia:** 5–7 km según variante
+- **Duración:** 1h 30 min – 2h
+- **Desnivel:** mínimo (fondo del valle a ~1.100 m)
+- **Sin coche:** accesible en bici o caminando desde Puigcerdà
+
+### Santa Maria de Talló y el mirador de Bellver
+La iglesia románica de Talló (siglo X) es uno de los edificios medievales más importantes de la comarca. El camino sube suavemente desde Bellver de Cerdanya hasta la iglesia y continúa hasta un mirador con vistas sobre el río Segre y los pueblos del fondo del valle. Ruta cultural y panorámica al mismo tiempo.
+
+- **Distancia:** 4 km ida y vuelta
+- **Duración:** 1h 15 min
+- **Desnivel:** 120 m (suave y constante)
+- **Punto de inicio:** Bellver de Cerdanya (aparcamiento junto a la muralla medieval)
+
+### Circular de Guils de Cerdanya
+Guils de Cerdanya es un pueblo al norte de Puigcerdà, a 10 minutos en coche, con vistas directas al Carlit y a la llanura cerdana. La ruta circular por los alrededores del pueblo recorre bosques de pinos y prados con poca altitud ganada. Tranquila, poco frecuentada y con las mejores vistas de Puigcerdà desde arriba.
+
+- **Distancia:** 5 km circular
+- **Duración:** 1h 30 min
+- **Desnivel:** 150 m
+- **Recomendada para:** familias con niños mayores de 6 años, senderistas que buscan tranquilidad
+
+### Ruta del Segre: Martinet — Pont de la Palanca
+Extensión natural del Camino de la Nutria para quien quiera más kilómetros sin más desnivel. El sendero continúa río arriba siguiendo el Segre desde Martinet hacia el Pont de la Palanca, entre chopos, alisos y prados con vacas. Buen avistamiento de aves acuáticas. Completamente plano.
+
+- **Distancia:** 6 km ida y vuelta (combinado con la Nutria: 9 km)
+- **Duración:** 1h 45 min
+- **Desnivel:** nulo
+- **Con perro:** sí
 
 ---
 
