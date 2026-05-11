@@ -1,3 +1,15 @@
+## Restaurants a Puigcerdà: resum ràpid
+
+1. **Referència gastronòmica** — 539 Plats Forts · Guia Repsol · barra japonesa 12 comensals · menú degustació des de 60€ · reserva amb setmanes d'antelació · c/ Escoles Pies 41
+2. **Cuina d'autor informal** — La Cava Taberna · 4,6★ · 900+ ressenyes Google · churros de bacallà, tàrtar tonyina, ostres · terrassa sense reserva · c/ Miquel Bernades 14
+3. **Menú del dia entre setmana** — 13–16€ a El Caliu i El Graner · primer + segon + postres + beguda · desapareix o puja el cap de setmana
+4. **Millor restaurant de la comarca a 8 min** — El Fogony de Fontanals · premi millor restaurant de muntanya de Catalunya · menú degustació des de 75€ · reserva imprescindible
+5. **Cuina diferent a la vora del llac** — Miyagi izakaya japonesa · brotxetes, udon, ramen, okonomiyaki · preu popular · bo per famílies · caseta del llac de Puigcerdà
+6. **Reserva obligatòria en cap de setmana** — els millors restaurants s'esgoten des del divendres al matí · mínima 1 dia d'antelació · Fogony i 539 necessiten setmanes
+7. **Quan NO és car** — menú del dia entre setmana als locals de barri: 13–18€ · evitar terrasses plaça major en temporada alta · Puigcerdà té 85+ restaurants, la major densitat de la comarca
+
+---
+
 Puigcerdà té més restaurants dels que li correspondrien per grandària — i això és bo i dolent alhora. Bo perquè l'oferta és real i variada. Dolent perquè entre els bons hi ha molts llocs que viuen de la ubicació i no de la cuina.
 
 La manera d'orientar-se és senzilla: menja on mengen els qui viuen a la comarca tot l'any. Aquí tens la llista.

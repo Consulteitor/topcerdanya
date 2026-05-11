@@ -316,6 +316,17 @@ const nextConfig: NextConfig = {
         destination: "/",
         permanent: true,
       },
+      // Canibalització: /guies/pueblos-cerdanya → /pobles (winner page)
+      {
+        source: "/guies/pueblos-cerdanya",
+        destination: "/pobles",
+        permanent: true,
+      },
+      {
+        source: "/guies/pueblos-cerdanya/",
+        destination: "/pobles",
+        permanent: true,
+      },
     ];
   },
 };
