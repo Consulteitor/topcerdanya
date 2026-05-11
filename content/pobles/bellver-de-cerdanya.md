@@ -1,3 +1,15 @@
+## Bellver de Cerdanya: el que has de saber
+
+1. **Nucli medieval millor conservat de la comarca** — Plaça de la Vila amb porxos del s. XIV · cases de pedra · torre de l'homenatge amb mirador · entrada lliure · sense cues ni tiquets
+2. **La joia romànica** — Santa Maria de Talló (s. XI) · 2 km del centre · pica baptismal i relleus únics del romànic pirinenc · clau a la casa del costat · visita gratuïta
+3. **Millor restaurant** — Grau de l'Os · Guia Repsol · ★ 4,8 · 378 ressenyes · menú 28€ · un dels millors del Pirineu català · reserva imprescindible
+4. **Mercat local de referència** — cada dimecres 9–12h a la Plaça de la Vila · formatge, embotits, mel de la Baixa Cerdanya · el menys turístic de tota la comarca
+5. **Porta d'entrada al Cadí per la cara nord** — Ruta al Pedró dels Quatre Batlles · 12 km · 4h 30 min · accés al Parc Natural Cadí-Moixeró molt menys freqüentat que la cara sud
+6. **Preus molt per sota de Puigcerdà** — apartaments 130.000–220.000€ · cases unifamiliars 320.000–650.000€ · entre un 25 i un 45% més barat que Puigcerdà per tipologies equivalents
+7. **A 30 minuts de tot** — Puigcerdà a 25 km · La Molina i Masella a 35–40 min · Seu d'Urgell a 45 min · La Tour de Carol (Tren Groc) a 30 min
+
+---
+
 Bellver de Cerdanya és la capital de la Baixa Cerdanya i, probablement, el poble de la comarca que la gent que ve de fora coneix menys del que es mereix. Mentre Puigcerdà concentra tota l'atenció —el tren, el llac, els caps de setmana d'esquí—, Bellver continua sent un lloc de vida real: mercat de dimecres, nucli medieval, vistes sobre la confluència del Segre i el Llosa, i una plaça on la gent s'asseu sense que ningú els hagi de convèncer.
 
 Vint-i-cinc quilòmetres separen Bellver de Puigcerdà per la N-260. Mitja hora en cotxe. En termes de ritme de vida, podrien ser dues comarques diferents.
@@ -17,15 +29,19 @@ Vint-i-cinc quilòmetres separen Bellver de Puigcerdà per la N-260. Mitja hora 
 
 ## Què fer a Bellver de Cerdanya
 
-Bellver té una oferta d'activitats i visites que sorprèn per la seva densitat en un poble de dos mil habitants. El nucli medieval, les esglésies romàniques, el mercat local i l'accés al Parc del Cadí-Moixeró fan que una visita d'un dia o un cap de setmana sempre quedi curta.
+Bellver té una oferta d'activitats i visites que sorprèn per la seva densitat en un poble de dos mil habitants. La diferència amb Puigcerdà no és que hi hagi menys coses a fer: és que les que hi ha es fan sense cues, sense buscar aparcament i sense la sensació que tothom fa exactament el mateix pla.
+
+El nucli medieval és el punt de partida obligat. La Plaça de la Vila, amb els porxos del segle XIV, és un dels espais medievals millor conservats del Pirineu català — i és el lloc on la gent del poble s'asseu cada tarda. Des de la torre de l'homenatge del castell, les vistes sobre la confluència del Segre i el Llosa i la plana cerdana al fons són un dels panorames més complets de la comarca, molt menys visitat que qualsevol mirador de Puigcerdà.
+
+El segon pla imprescindible és Santa Maria de Talló, a dos quilòmetres. Arribar-hi a peu des del centre de Bellver és una excursió de 4 km plans i molt agradable — el camí passa per camps oberts amb vistes al Cadí. El tercer pla, si és dimecres, és el mercat: formatge de llet crua, embotit artesà i mel de la Baixa Cerdanya en un ambient completament local.
 
 **Plans principals:**
-- Nucli medieval i Plaça de la Vila (porxos del segle XIV, cases de pedra)
-- Castell de Queixals (torre de l'homenatge, vistes sobre la plana)
-- Santa Maria de Talló (església romànica del segle XI, a 2 km)
-- Mercat de dimecres (producte local, cada dimecres al matí)
-- Rutes al Parc Natural del Cadí-Moixeró (accés per la cara nord)
-- Mirador del turó (panoràmica de la plana cerdana i el riu Segre)
+- Nucli medieval i Plaça de la Vila (porxos del s. XIV, torre de l'homenatge, mirador)
+- Santa Maria de Talló (romànic s. XI, a 2 km, entrada gratuïta)
+- Mercat de dimecres (9–12h, producte local, sense turistes)
+- Rutes al Parc Natural del Cadí-Moixeró per la cara nord
+- Camí dels Enamorats (passeig circular de bosc als voltants del poble)
+- Senderisme al Pedró dels Quatre Batlles (la millor ruta de muntanya de la zona)
 
 → [Guia completa de què fer a Bellver de Cerdanya](/pobles/bellver-de-cerdanya/que-fer)
 
